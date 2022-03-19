@@ -2124,12 +2124,6 @@
         "longitude": "7.49508000"
     },
     {
-        "name": "Abuko",
-        "stateId": 4704,
-        "latitude": "13.40417000",
-        "longitude": "-16.65583000"
-    },
-    {
         "name": "Abulug",
         "stateId": 672,
         "latitude": "18.44528000",
@@ -56544,12 +56538,6 @@
         "longitude": "124.26416667"
     },
     {
-        "name": "Bakadagy",
-        "stateId": 4526,
-        "latitude": "13.30000000",
-        "longitude": "-14.38333000"
-    },
-    {
         "name": "Bakaiku",
         "stateId": 2864,
         "latitude": "42.89244000",
@@ -56596,12 +56584,6 @@
         "stateId": 3392,
         "latitude": "45.30861000",
         "longitude": "14.53028000"
-    },
-    {
-        "name": "Bakau",
-        "stateId": 357,
-        "latitude": "13.47806000",
-        "longitude": "-16.68194000"
     },
     {
         "name": "Bakchar",
@@ -60048,12 +60030,6 @@
         "longitude": "44.01947000"
     },
     {
-        "name": "Bambali",
-        "stateId": 2974,
-        "latitude": "13.48333000",
-        "longitude": "-15.33333000"
-    },
-    {
         "name": "Bambamarca",
         "stateId": 675,
         "latitude": "-6.68333000",
@@ -61914,12 +61890,6 @@
         "longitude": "14.78333000"
     },
     {
-        "name": "Banjul",
-        "stateId": 357,
-        "latitude": "13.45274000",
-        "longitude": "-16.57803000"
-    },
-    {
         "name": "Banjup",
         "stateId": 4723,
         "latitude": "-32.14179000",
@@ -62272,12 +62242,6 @@
         "stateId": 1025,
         "latitude": "6.78611000",
         "longitude": "125.21333000"
-    },
-    {
-        "name": "Bansang",
-        "stateId": 786,
-        "latitude": "13.43333000",
-        "longitude": "-14.65000000"
     },
     {
         "name": "Bansberia",
@@ -65166,12 +65130,6 @@
         "longitude": "120.67350000"
     },
     {
-        "name": "Baro Kunda",
-        "stateId": 2372,
-        "latitude": "13.48333000",
-        "longitude": "-15.26667000"
-    },
-    {
         "name": "Barobo",
         "stateId": 611,
         "latitude": "8.55000000",
@@ -65338,12 +65296,6 @@
         "stateId": 319,
         "latitude": "-11.08944000",
         "longitude": "-43.14167000"
-    },
-    {
-        "name": "Barra",
-        "stateId": 2974,
-        "latitude": "13.48278000",
-        "longitude": "-16.54556000"
     },
     {
         "name": "Barra",
@@ -66376,12 +66328,6 @@
         "stateId": 2652,
         "latitude": "-21.17886000",
         "longitude": "-43.95708000"
-    },
-    {
-        "name": "Barrouallie",
-        "stateId": 3778,
-        "latitude": "13.23676000",
-        "longitude": "-61.27275000"
     },
     {
         "name": "Barrow",
@@ -68020,12 +67966,6 @@
         "stateId": 4683,
         "latitude": "50.69503000",
         "longitude": "4.49218000"
-    },
-    {
-        "name": "Basse Santa Su",
-        "stateId": 4526,
-        "latitude": "13.30995000",
-        "longitude": "-14.21373000"
     },
     {
         "name": "Basse-Goulaine",
@@ -84010,12 +83950,6 @@
         "stateId": 390,
         "latitude": "9.80000000",
         "longitude": "124.46667000"
-    },
-    {
-        "name": "Biabou",
-        "stateId": 826,
-        "latitude": "13.19430000",
-        "longitude": "-61.13904000"
     },
     {
         "name": "Biache-Saint-Vaast",
@@ -105840,12 +105774,6 @@
         "longitude": "5.93975000"
     },
     {
-        "name": "Brifu",
-        "stateId": 4526,
-        "latitude": "13.50000000",
-        "longitude": "-13.93333000"
-    },
-    {
         "name": "Brig",
         "stateId": 4558,
         "latitude": "46.31667000",
@@ -106096,18 +106024,6 @@
         "stateId": 3158,
         "latitude": "45.52056000",
         "longitude": "18.67194000"
-    },
-    {
-        "name": "Brikama",
-        "stateId": 4704,
-        "latitude": "13.27136000",
-        "longitude": "-16.64944000"
-    },
-    {
-        "name": "Brikama Nding",
-        "stateId": 786,
-        "latitude": "13.53333000",
-        "longitude": "-14.93333000"
     },
     {
         "name": "Brikcha",
@@ -114696,12 +114612,6 @@
         "longitude": "-7.40000000"
     },
     {
-        "name": "Bureng",
-        "stateId": 2372,
-        "latitude": "13.41667000",
-        "longitude": "-15.28333000"
-    },
-    {
         "name": "Bures Saint Mary",
         "stateId": 1218,
         "latitude": "51.97240000",
@@ -117814,12 +117724,6 @@
         "stateId": 571,
         "latitude": "52.47310000",
         "longitude": "25.17840000"
-    },
-    {
-        "name": "Byera Village",
-        "stateId": 826,
-        "latitude": "13.25636000",
-        "longitude": "-61.11954000"
     },
     {
         "name": "Byerazino",
@@ -146616,12 +146520,6 @@
         "longitude": "-66.22611000"
     },
     {
-        "name": "Central Baddibu",
-        "stateId": 2974,
-        "latitude": "13.53333000",
-        "longitude": "-15.91667000"
-    },
-    {
         "name": "Central Bedfordshire",
         "stateId": 1218,
         "latitude": "51.99755000",
@@ -153192,24 +153090,6 @@
         "longitude": "-61.05350000"
     },
     {
-        "name": "Chateaubelair",
-        "stateId": 3742,
-        "latitude": "13.29069000",
-        "longitude": "-61.24043000"
-    },
-    {
-        "name": "Chateaubelair",
-        "stateId": 3743,
-        "latitude": "13.29069000",
-        "longitude": "-61.24043000"
-    },
-    {
-        "name": "Chateaubelair",
-        "stateId": 3744,
-        "latitude": "13.29069000",
-        "longitude": "-61.24043000"
-    },
-    {
         "name": "Chatfield",
         "stateId": 2654,
         "latitude": "43.84552000",
@@ -157978,12 +157858,6 @@
         "stateId": 1585,
         "latitude": "21.13444000",
         "longitude": "-98.43556000"
-    },
-    {
-        "name": "Chilla",
-        "stateId": 2974,
-        "latitude": "13.55000000",
-        "longitude": "-16.28333000"
     },
     {
         "name": "Chillarón de Cuenca",
@@ -208932,12 +208806,6 @@
         "longitude": "124.01462000"
     },
     {
-        "name": "Daba Kunda",
-        "stateId": 4526,
-        "latitude": "13.31667000",
-        "longitude": "-14.30000000"
-    },
-    {
         "name": "Dabachang",
         "stateId": 1479,
         "latitude": "27.74250000",
@@ -211542,12 +211410,6 @@
         "longitude": "39.16667000"
     },
     {
-        "name": "Dankunku",
-        "stateId": 786,
-        "latitude": "13.56667000",
-        "longitude": "-15.31667000"
-    },
-    {
         "name": "Danlugan",
         "stateId": 4823,
         "latitude": "7.89139000",
@@ -212602,12 +212464,6 @@
         "stateId": 1181,
         "latitude": "7.98976000",
         "longitude": "-10.84223000"
-    },
-    {
-        "name": "Daru Rilwan",
-        "stateId": 2974,
-        "latitude": "13.55000000",
-        "longitude": "-15.98333000"
     },
     {
         "name": "Daruvar",
@@ -216564,12 +216420,6 @@
         "longitude": "-73.96347000"
     },
     {
-        "name": "Demba Kunda",
-        "stateId": 4526,
-        "latitude": "13.25000000",
-        "longitude": "-14.26667000"
-    },
-    {
         "name": "Dembéni",
         "stateId": 1442,
         "latitude": "-11.87361000",
@@ -217186,12 +217036,6 @@
         "stateId": 403,
         "latitude": "49.14772000",
         "longitude": "10.42309000"
-    },
-    {
-        "name": "Denton",
-        "stateId": 786,
-        "latitude": "13.50000000",
-        "longitude": "-14.93333000"
     },
     {
         "name": "Denton",
@@ -220930,18 +220774,6 @@
         "stateId": 681,
         "latitude": "37.83493000",
         "longitude": "-121.95801000"
-    },
-    {
-        "name": "Diabugu",
-        "stateId": 4526,
-        "latitude": "13.38333000",
-        "longitude": "-14.40000000"
-    },
-    {
-        "name": "Diabugu Basilla",
-        "stateId": 4526,
-        "latitude": "13.33333000",
-        "longitude": "-13.95000000"
     },
     {
         "name": "Diadema",
@@ -256206,12 +256038,6 @@
         "longitude": "2.66620000"
     },
     {
-        "name": "Essau",
-        "stateId": 2974,
-        "latitude": "13.48389000",
-        "longitude": "-16.53472000"
-    },
-    {
         "name": "Essel",
         "stateId": 2373,
         "latitude": "52.69131000",
@@ -260962,12 +260788,6 @@
         "stateId": 2231,
         "latitude": "42.20807000",
         "longitude": "12.72960000"
-    },
-    {
-        "name": "Farafenni",
-        "stateId": 2974,
-        "latitude": "13.56667000",
-        "longitude": "-15.60000000"
     },
     {
         "name": "Farah",
@@ -268618,30 +268438,6 @@
         "stateId": 2414,
         "latitude": "41.63493000",
         "longitude": "-6.14081000"
-    },
-    {
-        "name": "Foni Bondali",
-        "stateId": 4704,
-        "latitude": "13.21667000",
-        "longitude": "-15.93333000"
-    },
-    {
-        "name": "Foni Brefet",
-        "stateId": 4704,
-        "latitude": "13.21667000",
-        "longitude": "-16.33333000"
-    },
-    {
-        "name": "Foni Jarrol",
-        "stateId": 4704,
-        "latitude": "13.23333000",
-        "longitude": "-15.83333000"
-    },
-    {
-        "name": "Foni Kansala",
-        "stateId": 4704,
-        "latitude": "13.21667000",
-        "longitude": "-16.05000000"
     },
     {
         "name": "Fonni",
@@ -277416,18 +277212,6 @@
         "longitude": "-0.86758000"
     },
     {
-        "name": "Fulladu East",
-        "stateId": 4526,
-        "latitude": "13.33333000",
-        "longitude": "-14.25000000"
-    },
-    {
-        "name": "Fulladu West",
-        "stateId": 786,
-        "latitude": "13.50000000",
-        "longitude": "-14.75000000"
-    },
-    {
         "name": "Fullarton",
         "stateId": 4101,
         "latitude": "-34.95100000",
@@ -280714,12 +280498,6 @@
         "stateId": 2414,
         "latitude": "41.73497000",
         "longitude": "-6.17435000"
-    },
-    {
-        "name": "Galleh Manda",
-        "stateId": 786,
-        "latitude": "13.43333000",
-        "longitude": "-14.78333000"
     },
     {
         "name": "Gallese",
@@ -288649,21 +288427,9 @@
     },
     {
         "name": "Georgetown",
-        "stateId": 786,
-        "latitude": "13.54039000",
-        "longitude": "-14.76374000"
-    },
-    {
-        "name": "Georgetown",
         "stateId": 1041,
         "latitude": "6.80448000",
         "longitude": "-58.15527000"
-    },
-    {
-        "name": "Georgetown",
-        "stateId": 826,
-        "latitude": "13.28054000",
-        "longitude": "-61.11850000"
     },
     {
         "name": "Georgetown",
@@ -311554,24 +311320,6 @@
         "stateId": 4659,
         "latitude": "44.88000000",
         "longitude": "18.85333000"
-    },
-    {
-        "name": "Gunjur",
-        "stateId": 2974,
-        "latitude": "13.52278000",
-        "longitude": "-16.02778000"
-    },
-    {
-        "name": "Gunjur",
-        "stateId": 4704,
-        "latitude": "13.20194000",
-        "longitude": "-16.73389000"
-    },
-    {
-        "name": "Gunjur Kuta",
-        "stateId": 4526,
-        "latitude": "13.53333000",
-        "longitude": "-14.11667000"
     },
     {
         "name": "Gunn",
@@ -358656,12 +358404,6 @@
         "longitude": "75.82392000"
     },
     {
-        "name": "Jakhaly",
-        "stateId": 786,
-        "latitude": "13.55000000",
-        "longitude": "-14.96667000"
-    },
-    {
         "name": "Jakhangaon",
         "stateId": 2451,
         "latitude": "17.64639000",
@@ -358954,12 +358696,6 @@
         "stateId": 4683,
         "latitude": "50.55876000",
         "longitude": "5.96764000"
-    },
-    {
-        "name": "Jali",
-        "stateId": 2372,
-        "latitude": "13.35000000",
-        "longitude": "-15.96667000"
     },
     {
         "name": "Jalia",
@@ -359904,12 +359640,6 @@
         "longitude": "19.24691000"
     },
     {
-        "name": "Janjanbureh",
-        "stateId": 786,
-        "latitude": "13.53564000",
-        "longitude": "-14.76515000"
-    },
-    {
         "name": "Janjgir",
         "stateId": 838,
         "latitude": "22.00922000",
@@ -360672,24 +360402,6 @@
         "longitude": "-0.80083000"
     },
     {
-        "name": "Jarra Central",
-        "stateId": 2372,
-        "latitude": "13.41667000",
-        "longitude": "-15.41667000"
-    },
-    {
-        "name": "Jarra East",
-        "stateId": 2372,
-        "latitude": "13.41667000",
-        "longitude": "-15.25000000"
-    },
-    {
-        "name": "Jarra West",
-        "stateId": 2372,
-        "latitude": "13.41667000",
-        "longitude": "-15.53333000"
-    },
-    {
         "name": "Jarrahdale",
         "stateId": 4723,
         "latitude": "-32.33580000",
@@ -360700,12 +360412,6 @@
         "stateId": 4363,
         "latitude": "30.82491000",
         "longitude": "-97.60445000"
-    },
-    {
-        "name": "Jarreng",
-        "stateId": 786,
-        "latitude": "13.61667000",
-        "longitude": "-15.18333000"
     },
     {
         "name": "Jarrettsville",
@@ -362520,12 +362226,6 @@
         "longitude": "-122.61259000"
     },
     {
-        "name": "Jenoi",
-        "stateId": 2372,
-        "latitude": "13.48333000",
-        "longitude": "-15.56667000"
-    },
-    {
         "name": "Jensen",
         "stateId": 3538,
         "latitude": "-19.24570000",
@@ -363946,12 +363646,6 @@
         "stateId": 1911,
         "latitude": "54.59937000",
         "longitude": "24.17593000"
-    },
-    {
-        "name": "Jifarong",
-        "stateId": 2372,
-        "latitude": "13.30000000",
-        "longitude": "-15.86667000"
     },
     {
         "name": "Jighi",
@@ -365620,12 +365314,6 @@
         "stateId": 2722,
         "latitude": "18.61472000",
         "longitude": "-99.18028000"
-    },
-    {
-        "name": "Jokadu",
-        "stateId": 2974,
-        "latitude": "13.53333000",
-        "longitude": "-16.18333000"
     },
     {
         "name": "Jokioinen",
@@ -372684,12 +372372,6 @@
         "longitude": "138.51871000"
     },
     {
-        "name": "Kaiaf",
-        "stateId": 2372,
-        "latitude": "13.40000000",
-        "longitude": "-15.61667000"
-    },
-    {
         "name": "Kaiama",
         "stateId": 2131,
         "latitude": "9.60530000",
@@ -376830,12 +376512,6 @@
         "longitude": "18.24222000"
     },
     {
-        "name": "Kantora",
-        "stateId": 4526,
-        "latitude": "13.41667000",
-        "longitude": "-13.91667000"
-    },
-    {
         "name": "Kantunil",
         "stateId": 4796,
         "latitude": "20.79645000",
@@ -377830,18 +377506,6 @@
         "stateId": 3568,
         "latitude": "29.84042000",
         "longitude": "73.45519000"
-    },
-    {
-        "name": "Karantaba",
-        "stateId": 786,
-        "latitude": "13.66667000",
-        "longitude": "-15.03333000"
-    },
-    {
-        "name": "Karantaba",
-        "stateId": 2372,
-        "latitude": "13.43333000",
-        "longitude": "-15.51667000"
     },
     {
         "name": "Karanyowka",
@@ -379530,12 +379194,6 @@
         "longitude": "75.61101000"
     },
     {
-        "name": "Kass Wollof",
-        "stateId": 786,
-        "latitude": "13.78333000",
-        "longitude": "-14.93333000"
-    },
-    {
         "name": "Kassab",
         "stateId": 2226,
         "latitude": "35.92639000",
@@ -379870,12 +379528,6 @@
         "stateId": 2118,
         "latitude": "56.28900000",
         "longitude": "62.58410000"
-    },
-    {
-        "name": "Katchang",
-        "stateId": 2974,
-        "latitude": "13.50000000",
-        "longitude": "-15.75000000"
     },
     {
         "name": "Katendrecht",
@@ -382776,12 +382428,6 @@
         "longitude": "-68.93170000"
     },
     {
-        "name": "Keneba",
-        "stateId": 2372,
-        "latitude": "13.32889000",
-        "longitude": "-16.01500000"
-    },
-    {
         "name": "Kenedy",
         "stateId": 4363,
         "latitude": "28.81915000",
@@ -383572,12 +383218,6 @@
         "stateId": 4812,
         "latitude": "45.77010000",
         "longitude": "15.80864000"
-    },
-    {
-        "name": "Kerewan",
-        "stateId": 2974,
-        "latitude": "13.48980000",
-        "longitude": "-16.08879000"
     },
     {
         "name": "Kerh",
@@ -386574,24 +386214,6 @@
         "longitude": "36.83556000"
     },
     {
-        "name": "Kiang Central",
-        "stateId": 2372,
-        "latitude": "13.40000000",
-        "longitude": "-15.75000000"
-    },
-    {
-        "name": "Kiang East",
-        "stateId": 2372,
-        "latitude": "13.41667000",
-        "longitude": "-15.63333000"
-    },
-    {
-        "name": "Kiang West District",
-        "stateId": 2372,
-        "latitude": "13.33333000",
-        "longitude": "-16.00000000"
-    },
-    {
         "name": "Kiangan",
         "stateId": 685,
         "latitude": "16.78333333",
@@ -388897,57 +388519,9 @@
     },
     {
         "name": "Kingstown",
-        "stateId": 3748,
-        "latitude": "13.15527000",
-        "longitude": "-61.22742000"
-    },
-    {
-        "name": "Kingstown",
-        "stateId": 3749,
-        "latitude": "13.15527000",
-        "longitude": "-61.22742000"
-    },
-    {
-        "name": "Kingstown",
-        "stateId": 3750,
-        "latitude": "13.15527000",
-        "longitude": "-61.22742000"
-    },
-    {
-        "name": "Kingstown",
-        "stateId": 3751,
-        "latitude": "13.15527000",
-        "longitude": "-61.22742000"
-    },
-    {
-        "name": "Kingstown",
         "stateId": 2540,
         "latitude": "39.20483000",
         "longitude": "-76.05133000"
-    },
-    {
-        "name": "Kingstown Park",
-        "stateId": 3748,
-        "latitude": "13.15924000",
-        "longitude": "-61.23161000"
-    },
-    {
-        "name": "Kingstown Park",
-        "stateId": 3749,
-        "latitude": "13.15924000",
-        "longitude": "-61.23161000"
-    },
-    {
-        "name": "Kingstown Park",
-        "stateId": 3750,
-        "latitude": "13.15924000",
-        "longitude": "-61.23161000"
-    },
-    {
-        "name": "Kingstown Park",
-        "stateId": 3751,
-        "latitude": "13.15924000",
-        "longitude": "-61.23161000"
     },
     {
         "name": "Kingstree",
@@ -393858,12 +393432,6 @@
         "longitude": "23.12553000"
     },
     {
-        "name": "Koina",
-        "stateId": 4526,
-        "latitude": "13.48333000",
-        "longitude": "-13.86667000"
-    },
-    {
         "name": "Koinadugu District",
         "stateId": 3029,
         "latitude": "9.50991000",
@@ -394804,36 +394372,6 @@
         "stateId": 797,
         "latitude": "12.06884000",
         "longitude": "-1.33644000"
-    },
-    {
-        "name": "Kombo Central District",
-        "stateId": 4704,
-        "latitude": "13.25000000",
-        "longitude": "-16.66667000"
-    },
-    {
-        "name": "Kombo East District",
-        "stateId": 4704,
-        "latitude": "13.21667000",
-        "longitude": "-16.51667000"
-    },
-    {
-        "name": "Kombo North District",
-        "stateId": 4704,
-        "latitude": "13.36667000",
-        "longitude": "-16.66667000"
-    },
-    {
-        "name": "Kombo Saint Mary District",
-        "stateId": 357,
-        "latitude": "13.44389000",
-        "longitude": "-16.64583000"
-    },
-    {
-        "name": "Kombo South District",
-        "stateId": 4704,
-        "latitude": "13.25000000",
-        "longitude": "-16.75000000"
     },
     {
         "name": "Kombolcha",
@@ -403350,12 +402888,6 @@
         "longitude": "77.04841000"
     },
     {
-        "name": "Kumbija",
-        "stateId": 4526,
-        "latitude": "13.26667000",
-        "longitude": "-14.18333000"
-    },
-    {
         "name": "Kumbo",
         "stateId": 3040,
         "latitude": "6.20000000",
@@ -403798,18 +403330,6 @@
         "stateId": 1796,
         "latitude": "46.87698000",
         "longitude": "20.25179000"
-    },
-    {
-        "name": "Kuntaur",
-        "stateId": 786,
-        "latitude": "13.67085000",
-        "longitude": "-14.88977000"
-    },
-    {
-        "name": "Kunting",
-        "stateId": 786,
-        "latitude": "13.53333000",
-        "longitude": "-14.66667000"
     },
     {
         "name": "Kuntzig",
@@ -420660,12 +420180,6 @@
         "longitude": "-43.48487000"
     },
     {
-        "name": "Lamin",
-        "stateId": 2974,
-        "latitude": "13.35222000",
-        "longitude": "-16.43389000"
-    },
-    {
         "name": "Lamington",
         "stateId": 4723,
         "latitude": "-30.73425000",
@@ -427630,24 +427144,6 @@
         "stateId": 741,
         "latitude": "39.77703000",
         "longitude": "-4.06448000"
-    },
-    {
-        "name": "Layou",
-        "stateId": 3736,
-        "latitude": "13.20175000",
-        "longitude": "-61.27014000"
-    },
-    {
-        "name": "Layou",
-        "stateId": 3737,
-        "latitude": "13.20175000",
-        "longitude": "-61.27014000"
-    },
-    {
-        "name": "Layou",
-        "stateId": 3738,
-        "latitude": "13.20175000",
-        "longitude": "-61.27014000"
     },
     {
         "name": "Layrac",
@@ -448980,12 +448476,6 @@
         "longitude": "-76.90053000"
     },
     {
-        "name": "Lower Baddibu District",
-        "stateId": 2974,
-        "latitude": "13.50000000",
-        "longitude": "-16.05000000"
-    },
-    {
         "name": "Lower Bavaria",
         "stateId": 403,
         "latitude": "48.75000000",
@@ -449082,12 +448572,6 @@
         "longitude": "138.60493000"
     },
     {
-        "name": "Lower Niumi District",
-        "stateId": 2974,
-        "latitude": "13.53333000",
-        "longitude": "-16.41667000"
-    },
-    {
         "name": "Lower Plenty",
         "stateId": 4609,
         "latitude": "-37.73333000",
@@ -449098,12 +448582,6 @@
         "stateId": 3052,
         "latitude": "44.77599000",
         "longitude": "-63.67865000"
-    },
-    {
-        "name": "Lower Saloum",
-        "stateId": 786,
-        "latitude": "13.71667000",
-        "longitude": "-15.36667000"
     },
     {
         "name": "Lower Subansiri",
@@ -467884,12 +467362,6 @@
         "stateId": 2384,
         "latitude": "-11.19976000",
         "longitude": "28.89431000"
-    },
-    {
-        "name": "Mansa Konko",
-        "stateId": 2372,
-        "latitude": "13.44325000",
-        "longitude": "-15.53570000"
     },
     {
         "name": "Mansac",
@@ -535686,34 +535158,10 @@
         "longitude": "151.34860000"
     },
     {
-        "name": "Niamina East District",
-        "stateId": 786,
-        "latitude": "13.63333000",
-        "longitude": "-15.08333000"
-    },
-    {
-        "name": "Niamina West District",
-        "stateId": 786,
-        "latitude": "13.58333000",
-        "longitude": "-15.25000000"
-    },
-    {
         "name": "Niamtougou",
         "stateId": 1876,
         "latitude": "9.76806000",
         "longitude": "1.10528000"
-    },
-    {
-        "name": "Niani",
-        "stateId": 786,
-        "latitude": "13.66667000",
-        "longitude": "-14.91667000"
-    },
-    {
-        "name": "Nianija District",
-        "stateId": 786,
-        "latitude": "13.72900000",
-        "longitude": "-15.09100000"
     },
     {
         "name": "Niantic",
@@ -538068,12 +537516,6 @@
         "longitude": "17.69001000"
     },
     {
-        "name": "Nioro",
-        "stateId": 2372,
-        "latitude": "13.35000000",
-        "longitude": "-15.75000000"
-    },
-    {
         "name": "Nioro du Rip",
         "stateId": 1872,
         "latitude": "13.75000000",
@@ -539158,12 +538600,6 @@
         "stateId": 166,
         "latitude": "6.01962000",
         "longitude": "6.91729000"
-    },
-    {
-        "name": "No Kunda",
-        "stateId": 2974,
-        "latitude": "13.56667000",
-        "longitude": "-15.83333000"
     },
     {
         "name": "Noaillan",
@@ -549400,12 +548836,6 @@
         "stateId": 4022,
         "latitude": "-3.18333000",
         "longitude": "33.78333000"
-    },
-    {
-        "name": "Nyamanari",
-        "stateId": 4526,
-        "latitude": "13.33333000",
-        "longitude": "-13.86667000"
     },
     {
         "name": "Nyamira",
@@ -583212,12 +582642,6 @@
         "longitude": "174.48333000"
     },
     {
-        "name": "Pateh Sam",
-        "stateId": 786,
-        "latitude": "13.61667000",
-        "longitude": "-15.06667000"
-    },
-    {
         "name": "Pateley Bridge",
         "stateId": 1218,
         "latitude": "54.08616000",
@@ -588442,12 +587866,6 @@
         "stateId": 3361,
         "latitude": "41.18252000",
         "longitude": "-8.25450000"
-    },
-    {
-        "name": "Perai",
-        "stateId": 4526,
-        "latitude": "13.38333000",
-        "longitude": "-14.03333000"
     },
     {
         "name": "Perai",
@@ -609526,12 +608944,6 @@
         "stateId": 4749,
         "latitude": "44.35080000",
         "longitude": "-89.86540000"
-    },
-    {
-        "name": "Port Elizabeth",
-        "stateId": 1449,
-        "latitude": "13.01102000",
-        "longitude": "-61.23548000"
     },
     {
         "name": "Port Elizabeth",
@@ -663072,12 +662484,6 @@
         "longitude": "123.37158000"
     },
     {
-        "name": "Saba",
-        "stateId": 2974,
-        "latitude": "13.51639000",
-        "longitude": "-16.04917000"
-    },
-    {
         "name": "Sabadell",
         "stateId": 745,
         "latitude": "41.54329000",
@@ -663454,12 +662860,6 @@
         "stateId": 3724,
         "latitude": "27.03766000",
         "longitude": "14.42832000"
-    },
-    {
-        "name": "Sabi",
-        "stateId": 4526,
-        "latitude": "13.23333000",
-        "longitude": "-14.20000000"
     },
     {
         "name": "Sabidos",
@@ -676906,18 +676306,6 @@
         "stateId": 4117,
         "latitude": "39.94750000",
         "longitude": "127.87111000"
-    },
-    {
-        "name": "Sami",
-        "stateId": 786,
-        "latitude": "13.58333000",
-        "longitude": "-15.20000000"
-    },
-    {
-        "name": "Sami District",
-        "stateId": 786,
-        "latitude": "13.58333000",
-        "longitude": "-14.58333000"
     },
     {
         "name": "Samil",
@@ -695412,12 +694800,6 @@
         "longitude": "153.13235000"
     },
     {
-        "name": "Sandu",
-        "stateId": 4526,
-        "latitude": "13.41667000",
-        "longitude": "-14.36667000"
-    },
-    {
         "name": "Sandur",
         "stateId": 1892,
         "latitude": "15.08613000",
@@ -696976,12 +696358,6 @@
         "stateId": 4522,
         "latitude": "47.73932000",
         "longitude": "13.44666000"
-    },
-    {
-        "name": "Sankwia",
-        "stateId": 2372,
-        "latitude": "13.46667000",
-        "longitude": "-15.51667000"
     },
     {
         "name": "Sanlibo",
@@ -707832,12 +707208,6 @@
         "longitude": "123.01380000"
     },
     {
-        "name": "Sara Kunda",
-        "stateId": 2974,
-        "latitude": "13.53333000",
-        "longitude": "-15.41667000"
-    },
-    {
         "name": "Sarab-e Tajar",
         "stateId": 1524,
         "latitude": "34.23222222",
@@ -709156,12 +708526,6 @@
         "stateId": 2499,
         "latitude": "38.76778000",
         "longitude": "27.64714000"
-    },
-    {
-        "name": "Saruja",
-        "stateId": 786,
-        "latitude": "13.55000000",
-        "longitude": "-14.91667000"
     },
     {
         "name": "Sarukhan",
@@ -719718,12 +719082,6 @@
         "longitude": "18.56500000"
     },
     {
-        "name": "Serekunda",
-        "stateId": 357,
-        "latitude": "13.43833000",
-        "longitude": "-16.67806000"
-    },
-    {
         "name": "Seremban",
         "stateId": 2877,
         "latitude": "2.72970000",
@@ -729406,12 +728764,6 @@
         "stateId": 2951,
         "latitude": "17.95639000",
         "longitude": "102.58667000"
-    },
-    {
-        "name": "Si Kunda",
-        "stateId": 2372,
-        "latitude": "13.43333000",
-        "longitude": "-15.56667000"
     },
     {
         "name": "Si Racha",
@@ -740137,12 +739489,6 @@
     },
     {
         "name": "Soma",
-        "stateId": 2372,
-        "latitude": "13.43333000",
-        "longitude": "-15.53333000"
-    },
-    {
-        "name": "Soma",
         "stateId": 2499,
         "latitude": "39.18554000",
         "longitude": "27.60945000"
@@ -740452,12 +739798,6 @@
         "stateId": 2513,
         "latitude": "47.45918200",
         "longitude": "23.22755400"
-    },
-    {
-        "name": "Somita",
-        "stateId": 4704,
-        "latitude": "13.20583000",
-        "longitude": "-16.30556000"
     },
     {
         "name": "Somié",
@@ -756306,12 +755646,6 @@
         "longitude": "38.64175000"
     },
     {
-        "name": "Sudowol",
-        "stateId": 4526,
-        "latitude": "13.36667000",
-        "longitude": "-13.96667000"
-    },
-    {
         "name": "Sudwalde",
         "stateId": 2373,
         "latitude": "52.79337000",
@@ -756874,18 +756208,6 @@
         "stateId": 2158,
         "latitude": "32.93888889",
         "longitude": "132.72611111"
-    },
-    {
-        "name": "Sukuta",
-        "stateId": 786,
-        "latitude": "13.61667000",
-        "longitude": "-14.91667000"
-    },
-    {
-        "name": "Sukuta",
-        "stateId": 4704,
-        "latitude": "13.41033000",
-        "longitude": "-16.70815000"
     },
     {
         "name": "Sul Brasil",
@@ -758128,12 +757450,6 @@
         "stateId": 235,
         "latitude": "33.66198000",
         "longitude": "-112.34127000"
-    },
-    {
-        "name": "Sun Kunda",
-        "stateId": 4526,
-        "latitude": "13.38333000",
-        "longitude": "-13.85000000"
     },
     {
         "name": "Sun Lakes",
@@ -760084,18 +759400,6 @@
         "stateId": 116,
         "latitude": "61.77789000",
         "longitude": "-148.76450000"
-    },
-    {
-        "name": "Sutukoba",
-        "stateId": 4526,
-        "latitude": "13.50000000",
-        "longitude": "-14.01667000"
-    },
-    {
-        "name": "Sutukung",
-        "stateId": 2372,
-        "latitude": "13.46667000",
-        "longitude": "-15.26667000"
     },
     {
         "name": "Sutysky",
@@ -791316,12 +790620,6 @@
         "longitude": "116.66183000"
     },
     {
-        "name": "Toniataba",
-        "stateId": 2372,
-        "latitude": "13.43333000",
-        "longitude": "-15.58333000"
-    },
-    {
         "name": "Tonila",
         "stateId": 1735,
         "latitude": "19.42611111",
@@ -810816,12 +810114,6 @@
         "longitude": "-83.06241000"
     },
     {
-        "name": "Upper Baddibu",
-        "stateId": 2974,
-        "latitude": "13.55000000",
-        "longitude": "-15.66667000"
-    },
-    {
         "name": "Upper Basildon",
         "stateId": 1218,
         "latitude": "51.48165000",
@@ -810966,12 +810258,6 @@
         "longitude": "153.08453000"
     },
     {
-        "name": "Upper Niumi District",
-        "stateId": 2974,
-        "latitude": "13.40000000",
-        "longitude": "-16.33333000"
-    },
-    {
         "name": "Upper Nyack",
         "stateId": 2900,
         "latitude": "41.10704000",
@@ -811006,12 +810292,6 @@
         "stateId": 3265,
         "latitude": "40.33590000",
         "longitude": "-80.08339000"
-    },
-    {
-        "name": "Upper Saloum",
-        "stateId": 786,
-        "latitude": "13.75000000",
-        "longitude": "-15.20000000"
     },
     {
         "name": "Upper San Mateo",
@@ -847248,12 +846528,6 @@
         "longitude": "3.59988000"
     },
     {
-        "name": "Wassu",
-        "stateId": 786,
-        "latitude": "13.69094000",
-        "longitude": "-14.87884000"
-    },
-    {
         "name": "Wassy",
         "stateId": 1441,
         "latitude": "48.49811000",
@@ -850186,12 +849460,6 @@
         "stateId": 1218,
         "latitude": "51.46246000",
         "longitude": "0.10759000"
-    },
-    {
-        "name": "Wellingara Ba",
-        "stateId": 2372,
-        "latitude": "13.41667000",
-        "longitude": "-15.40000000"
     },
     {
         "name": "Wellingborough",
@@ -862756,12 +862024,6 @@
         "stateId": 3538,
         "latitude": "-19.32850000",
         "longitude": "146.81842000"
-    },
-    {
-        "name": "Wuli",
-        "stateId": 4526,
-        "latitude": "13.50000000",
-        "longitude": "-14.08333000"
     },
     {
         "name": "Wulingyuan",
