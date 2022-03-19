@@ -11252,13 +11252,6 @@
 	{
 		"name": "Hsinchu",
 		"countryId": 218,
-		"stateCode": "HSQ",
-		"latitude": "24.83872260",
-		"longitude": "121.01772460"
-	},
-	{
-		"name": "Hsinchu",
-		"countryId": 218,
 		"stateCode": "HSZ",
 		"latitude": "24.81382870",
 		"longitude": "120.96747980"

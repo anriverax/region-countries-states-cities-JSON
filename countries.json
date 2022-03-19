@@ -2002,45 +2002,6 @@
     }
   },
   {
-    "subRegionId": 11,
-    "name": "Democratic Republic of the Congo",
-    "iso2": "CD",
-    "iso3": "COD",
-    "numericCode": "180",
-    "phoneCode": "+243",
-    "capital": "Kinshasa",
-    "tld": ".cd",
-    "timezones": {
-      "zoneName": "Africa/Kinshasa",
-      "gmtOffset": 3600,
-      "gmtOffsetName": "UTC+01:00",
-      "abbreviation": "WAT",
-      "tzName": "West Africa Time"
-    },
-    "latlng": ["0.00000000", "25.00000000"],
-    "emoji": ["🇨🇩", "U+1F1E8 U+1F1E9"],
-    "languages": {
-      "fra": "French",
-      "kon": "Kikongo",
-      "lin": "Lingala",
-      "lua": "Tshiluba",
-      "swa": "Swahili"
-    },
-    "flag": "🇨🇩",
-    "flags": {
-      "png": "https://flagcdn.com/w320/cd.png",
-      "svg": "https://flagcdn.com/cd.svg"
-    },
-    "maps": {
-      "googleMaps": "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
-      "openStreetMaps": "https://www.openstreetmap.org/relation/192795"
-    },
-    "coatOfArms": {
-      "png": "https://mainfacts.com/media/images/coats_of_arms/cd.png",
-      "svg": "https://mainfacts.com/media/images/coats_of_arms/cd.svg"
-    }
-  },
-  {
     "subRegionId": 14,
     "name": "Denmark",
     "iso2": "DK",
@@ -6280,7 +6241,7 @@
   },
   {
     "subRegionId": 11,
-    "name": "Republic of the Congo",
+    "name": "Congo",
     "iso2": "CG",
     "iso3": "COG",
     "numericCode": "178",
