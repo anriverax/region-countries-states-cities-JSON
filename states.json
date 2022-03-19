@@ -1059,9 +1059,7 @@
     {
         "name": "Amazonas",
         "country": "Peru",
-        "stateCode": "AMA",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "AMA"
     },
     {
         "name": "Amazonas",
@@ -1605,9 +1603,9 @@
     {
         "name": "Argolis Regional Unit",
         "country": "Greece",
-        "stateCode": "11",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "11"
+
+
     },
     {
         "name": "Argyll and Bute",
@@ -5007,9 +5005,9 @@
     {
         "name": "Capital Governorate",
         "country": "Bahrain",
-        "stateCode": "13",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "13"
+
+
     },
     {
         "name": "Capital Governorate",
@@ -5364,9 +5362,9 @@
     {
         "name": "Central District",
         "country": "Botswana",
-        "stateCode": "CE",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "CE"
+
+
     },
     {
         "name": "Central District",
@@ -5441,30 +5439,30 @@
     {
         "name": "Central Province",
         "country": "Maldives",
-        "stateCode": "CE",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "CE"
+
+
     },
     {
         "name": "Central Province",
         "country": "Papua new Guinea",
-        "stateCode": "CPM",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "CPM"
+
+
     },
     {
         "name": "Central Province",
         "country": "Solomon Islands",
-        "stateCode": "CE",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "CE"
+
+
     },
     {
         "name": "Central Province",
         "country": "Sri Lanka",
-        "stateCode": "2",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "2"
+
+
     },
     {
         "name": "Central Province",
@@ -5476,16 +5474,16 @@
     {
         "name": "Central Region",
         "country": "Malawi",
-        "stateCode": "C",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "C"
+
+
     },
     {
         "name": "Central Region",
         "country": "Nepal",
-        "stateCode": "1",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "1"
+
+
     },
     {
         "name": "Central Region",
@@ -5532,16 +5530,16 @@
     {
         "name": "Centre",
         "country": "Burkina Faso",
-        "stateCode": "03",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "03"
+
+
     },
     {
         "name": "Centre",
         "country": "Cameroon",
-        "stateCode": "CE",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "CE"
+
+
     },
     {
         "name": "Centre",
@@ -6624,9 +6622,9 @@
     {
         "name": "Corinthia Regional Unit",
         "country": "Greece",
-        "stateCode": "15",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "15"
+
+
     },
     {
         "name": "Cork",
@@ -8248,9 +8246,9 @@
     {
         "name": "Eastern Province",
         "country": "Rwanda",
-        "stateCode": "02",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "02"
+
+
     },
     {
         "name": "Eastern Province",
@@ -8262,16 +8260,16 @@
     {
         "name": "Eastern Province",
         "country": "Sierra Leone",
-        "stateCode": "E",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "E"
+
+
     },
     {
         "name": "Eastern Province",
         "country": "Sri Lanka",
-        "stateCode": "5",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "5"
+
+
     },
     {
         "name": "Eastern Province",
@@ -8283,9 +8281,9 @@
     {
         "name": "Eastern Region",
         "country": "Iceland",
-        "stateCode": "7",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "7"
+
+
     },
     {
         "name": "Eastern Region",
@@ -15192,16 +15190,16 @@
     {
         "name": "La Paz Department",
         "country": "Bolivia",
-        "stateCode": "L",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "L"
+
+
     },
     {
         "name": "La Paz Department",
         "country": "El Salvador",
-        "stateCode": "PA",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "PA"
+
+
     },
     {
         "name": "La Paz Department",
@@ -15738,9 +15736,9 @@
     {
         "name": "Leste Province",
         "country": "Guinea-Bissau",
-        "stateCode": "L",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "L"
+
+
     },
     {
         "name": "Leyte",
@@ -15955,9 +15953,9 @@
     {
         "name": "Limburg",
         "country": "Belgium",
-        "stateCode": "VLI",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "VLI"
+
+
     },
     {
         "name": "Limburg",
@@ -20848,9 +20846,9 @@
     {
         "name": "North Central Province",
         "country": "Maldives",
-        "stateCode": "NC",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "NC"
+
+
     },
     {
         "name": "North Central Province",
@@ -21191,23 +21189,23 @@
     {
         "name": "Northern Province",
         "country": "Rwanda",
-        "stateCode": "03",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "03"
+
+
     },
     {
         "name": "Northern Province",
         "country": "Sierra Leone",
-        "stateCode": "N",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "N"
+
+
     },
     {
         "name": "Northern Province",
         "country": "Sri Lanka",
-        "stateCode": "4",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "4"
+
+
     },
     {
         "name": "Northern Province",
@@ -21226,9 +21224,9 @@
     {
         "name": "Northern Region",
         "country": "Malawi",
-        "stateCode": "N",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "N"
+
+
     },
     {
         "name": "Northern Region",
@@ -26133,9 +26131,9 @@
     {
         "name": "Saint Andrew",
         "country": "Barbados",
-        "stateCode": "02",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "02"
+
+
     },
     {
         "name": "Saint Andrew",
@@ -26147,16 +26145,16 @@
     {
         "name": "Saint Andrew Parish",
         "country": "Dominica",
-        "stateCode": "02",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "02"
+
+
     },
     {
         "name": "Saint Andrew Parish",
         "country": "Grenada",
-        "stateCode": "01",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "01"
+
+
     },
     {
         "name": "Saint Andrew Parish",
@@ -26189,16 +26187,16 @@
     {
         "name": "Saint David Parish",
         "country": "Dominica",
-        "stateCode": "03",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "03"
+
+
     },
     {
         "name": "Saint David Parish",
         "country": "Grenada",
-        "stateCode": "02",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "02"
+
+
     },
     {
         "name": "Saint David Parish",
@@ -26231,23 +26229,23 @@
     {
         "name": "Saint George Parish",
         "country": "Antigua And Barbuda",
-        "stateCode": "03",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "03"
+
+
     },
     {
         "name": "Saint George Parish",
         "country": "Dominica",
-        "stateCode": "04",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "04"
+
+
     },
     {
         "name": "Saint George Parish",
         "country": "Grenada",
-        "stateCode": "03",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "03"
+
+
     },
     {
         "name": "Saint George Parish",
@@ -26315,16 +26313,16 @@
     {
         "name": "Saint John Parish",
         "country": "Antigua And Barbuda",
-        "stateCode": "04",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "04"
+
+
     },
     {
         "name": "Saint John Parish",
         "country": "Dominica",
-        "stateCode": "05",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "05"
+
+
     },
     {
         "name": "Saint John Parish",
@@ -26385,9 +26383,9 @@
     {
         "name": "Saint Mark Parish",
         "country": "Dominica",
-        "stateCode": "08",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "08"
+
+
     },
     {
         "name": "Saint Mark Parish",
@@ -26406,9 +26404,9 @@
     {
         "name": "Saint Mary Parish",
         "country": "Antigua And Barbuda",
-        "stateCode": "05",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "05"
+
+
     },
     {
         "name": "Saint Mary Parish",
@@ -26427,16 +26425,16 @@
     {
         "name": "Saint Patrick Parish",
         "country": "Dominica",
-        "stateCode": "09",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "09"
+
+
     },
     {
         "name": "Saint Patrick Parish",
         "country": "Grenada",
-        "stateCode": "06",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "06"
+
+
     },
     {
         "name": "Saint Patrick Parish",
@@ -26462,9 +26460,9 @@
     {
         "name": "Saint Paul Parish",
         "country": "Antigua And Barbuda",
-        "stateCode": "06",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "06"
+
+
     },
     {
         "name": "Saint Paul Parish",
@@ -26490,9 +26488,9 @@
     {
         "name": "Saint Peter Parish",
         "country": "Antigua And Barbuda",
-        "stateCode": "07",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "07"
+
+
     },
     {
         "name": "Saint Peter Parish",
@@ -27393,9 +27391,9 @@
     {
         "name": "Savanes Region",
         "country": "Cote D'Ivoire (Ivory Coast)",
-        "stateCode": "03",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "03"
+
+
     },
     {
         "name": "Savanes Region",
@@ -28940,9 +28938,9 @@
     {
         "name": "Southern District",
         "country": "Botswana",
-        "stateCode": "SO",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "SO"
+
+
     },
     {
         "name": "Southern District",
@@ -28996,23 +28994,23 @@
     {
         "name": "Southern Province",
         "country": "Rwanda",
-        "stateCode": "05",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "05"
+
+
     },
     {
         "name": "Southern Province",
         "country": "Sierra Leone",
-        "stateCode": "S",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "S"
+
+
     },
     {
         "name": "Southern Province",
         "country": "Sri Lanka",
-        "stateCode": "3",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "3"
+
+
     },
     {
         "name": "Southern Province",
@@ -29031,9 +29029,9 @@
     {
         "name": "Southern Region",
         "country": "Iceland",
-        "stateCode": "8",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "8"
+
+
     },
     {
         "name": "Southern Region",
@@ -33105,30 +33103,30 @@
     {
         "name": "Western Province",
         "country": "Papua new Guinea",
-        "stateCode": "WPD",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "WPD"
+
+
     },
     {
         "name": "Western Province",
         "country": "Rwanda",
-        "stateCode": "04",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "04"
+
+
     },
     {
         "name": "Western Province",
         "country": "Solomon Islands",
-        "stateCode": "WE",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "WE"
+
+
     },
     {
         "name": "Western Province",
         "country": "Sri Lanka",
-        "stateCode": "1",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "1"
+
+
     },
     {
         "name": "Western Province",
@@ -33140,16 +33138,16 @@
     {
         "name": "Western Region",
         "country": "Iceland",
-        "stateCode": "3",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "3"
+
+
     },
     {
         "name": "Western Region",
         "country": "Nepal",
-        "stateCode": "3",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "3"
+
+
     },
     {
         "name": "Western Region",
@@ -33308,9 +33306,9 @@
     {
         "name": "Xaisomboun",
         "country": "Laos",
-        "stateCode": "XN",
-        "latitude": null,
-        "longitude": null
+        "stateCode": "XN"
+
+
     },
     {
         "name": "Xaisomboun Province",
