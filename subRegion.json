@@ -1,0 +1,110 @@
+[
+  {
+    "regionId": 6,
+    "name": "Australia and New Zealand"
+  },
+  {
+    "regionId": 2,
+    "name": "Caribbean"
+  },
+  {
+    "regionId": 2,
+    "name": "Central America"
+  },
+  {
+    "regionId": 4,
+    "name": "Central Asia"
+  },
+  {
+    "regionId": 5,
+    "name": "Central Europe"
+  },
+  {
+    "regionId": 1,
+    "name": "Eastern Africa"
+  },
+  {
+    "regionId": 4,
+    "name": "Eastern Asia"
+  },
+  {
+    "regionId": 5,
+    "name": "Eastern Europe"
+  },
+  {
+    "regionId": 6,
+    "name": "Melanesia"
+  },
+  {
+    "regionId": 6,
+    "name": "Micronesia"
+  },
+  {
+    "regionId": 1,
+    "name": "Middle Africa"
+  },
+  {
+    "regionId": 1,
+    "name": "Northern Africa"
+  },
+  {
+    "regionId": 2,
+    "name": "Northern America"
+  },
+  {
+    "regionId": 5,
+    "name": "Northern Europe"
+  },
+  {
+    "regionId": 6,
+    "name": "Polynesia"
+  },
+  {
+    "regionId": 2,
+    "name": "South America"
+  },
+  {
+    "regionId": 4,
+    "name": "South-Eastern Asia"
+  },
+  {
+    "regionId": 5,
+    "name": "Southeast Europe"
+  },
+  {
+    "regionId": 1,
+    "name": "Southern Africa"
+  },
+  {
+    "regionId": 4,
+    "name": "Southern Asia"
+  },
+  {
+    "regionId": 5,
+    "name": "Southern Europe"
+  },
+  {
+    "regionId": 8,
+    "name": "Unknown"
+  },
+  {
+    "regionId": 3,
+    "name": "Unknown"
+  },
+  {
+    "regionId": 7,
+    "name": "Unknown"
+  },
+  {
+    "regionId": 1,
+    "name": "Western Africa"
+  },
+  {
+    "regionId": 4,
+    "name": "Western Asia"
+  },
+  {
+    "regionId": 5,
+    "name": "Western Europe"
+  }
+]
