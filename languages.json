@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Arabic",
+    "iso": "ar"
+  },
+  {
+    "name": "Czech",
+    "iso": "cs"
+  },
+  {
+    "name": "Welch",
+    "iso": "cy"
+  },
+  {
+    "name": "German",
+    "iso": "de"
+  },
+  {
+    "name": "Estonian",
+    "iso": "et"
+  },
+  {
+    "name": "Finnish",
+    "iso": "fi"
+  },
+  {
+    "name": "French",
+    "iso": "fr"
+  },
+  {
+    "name": "Croatian",
+    "iso": "hr"
+  },
+  {
+    "name": "Hungarian",
+    "iso": "hu"
+  },
+  {
+    "name": "Italian",
+    "iso": "it"
+  },
+  {
+    "name": "Japanese",
+    "iso": "ja"
+  },
+  {
+    "name": "Korean",
+    "iso": "ko"
+  },
+  {
+    "name": "Dutch",
+    "iso": "nl"
+  },
+  {
+    "name": "Persian",
+    "iso": "fa"
+  },
+  {
+    "name": "Polish",
+    "iso": "pl"
+  },
+  {
+    "name": "Portuguese",
+    "iso": "pt"
+  },
+  {
+    "name": "Russian",
+    "iso": "ru"
+  },
+  {
+    "name": "Slovak",
+    "iso": "sk"
+  },
+  {
+    "name": "Spanish",
+    "iso": "es"
+  },
+  {
+    "name": "Swedish",
+    "iso": "sv"
+  },
+  {
+    "name": "Urdu",
+    "iso": "ur"
+  },
+  {
+    "name": "Chinese",
+    "iso": "zh"
+  }
+]
