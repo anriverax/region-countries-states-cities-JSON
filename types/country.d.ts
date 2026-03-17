@@ -6,13 +6,13 @@ export interface Timezone {
   tzName: string;
 }
 
-export interface Flags {
+export interface ImageAsset {
   png: string;
   svg: string;
 }
 
 export interface Country {
-  id: number;
+id: number;
   subRegionId: number;
   name: string;
   iso2: string;
@@ -21,11 +21,12 @@ export interface Country {
   phoneCode: string;
   capital: string;
   tld: string;
+  flag: string;
+  emoji: [string, string];
   timezones: Timezone;
   latlng: [string, string];
-  emoji: [string, string];
   languages: Record<string, string>;
-  flag: string;
-  flags: Flags;
+  flags: ImageAsset;
   maps?: Record<string, string>;
+  coatOfArms?: ImageAsset;
 }
