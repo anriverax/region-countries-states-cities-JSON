@@ -1,6 +1,14 @@
-# countries-states-cities-database
+# 🌍 Countries States Cities Database
 
-A comprehensive, open-source JSON database of countries, states/provinces, and cities — enriched with regions, sub-regions, languages, timezones, coordinates, flags, and more.
+An open-source dataset containing countries, states, and cities in JSON format.
+
+**Includes:**
+- ✔ 250+ countries
+- ✔ 5000+ states
+- ✔ 150k+ cities
+- ✔ ISO codes
+- ✔ Latitude and longitude
+- ✔ Regions and subregions
 
 ---
 
