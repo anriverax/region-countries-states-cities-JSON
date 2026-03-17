@@ -1,0 +1,877 @@
+[
+  {
+    "id": 998,
+    "name": "Aglona",
+    "stateId": 46,
+    "latitude": "56.13274000",
+    "longitude": "27.00682000"
+  },
+  {
+    "id": 1363,
+    "name": "Ainaži",
+    "stateId": 3806,
+    "latitude": "57.86348000",
+    "longitude": "24.35853000"
+  },
+  {
+    "id": 1431,
+    "name": "Aizkraukle",
+    "stateId": 66,
+    "latitude": "56.60477000",
+    "longitude": "25.25534000"
+  },
+  {
+    "id": 1432,
+    "name": "Aizpute",
+    "stateId": 67,
+    "latitude": "56.72108000",
+    "longitude": "21.60156000"
+  },
+  {
+    "id": 1559,
+    "name": "Aknīste",
+    "stateId": 77,
+    "latitude": "56.16152000",
+    "longitude": "25.74783000"
+  },
+  {
+    "id": 3257,
+    "name": "Aloja",
+    "stateId": 132,
+    "latitude": "57.76723000",
+    "longitude": "24.87743000"
+  },
+  {
+    "id": 3350,
+    "name": "Alsunga",
+    "stateId": 136,
+    "latitude": "56.98194000",
+    "longitude": "21.55938000"
+  },
+  {
+    "id": 3700,
+    "name": "Alūksne",
+    "stateId": 145,
+    "latitude": "57.42162000",
+    "longitude": "27.04662000"
+  },
+  {
+    "id": 5779,
+    "name": "Ape",
+    "stateId": 206,
+    "latitude": "57.53928000",
+    "longitude": "26.69291000"
+  },
+  {
+    "id": 7912,
+    "name": "Auce",
+    "stateId": 278,
+    "latitude": "56.45981000",
+    "longitude": "22.90169000"
+  },
+  {
+    "id": 9657,
+    "name": "Baldone",
+    "stateId": 333,
+    "latitude": "56.74451000",
+    "longitude": "24.40078000"
+  },
+  {
+    "id": 9901,
+    "name": "Baloži",
+    "stateId": 4910,
+    "latitude": "56.87643000",
+    "longitude": "24.11825000"
+  },
+  {
+    "id": 9940,
+    "name": "Baltinava",
+    "stateId": 342,
+    "latitude": "56.94394000",
+    "longitude": "27.64401000"
+  },
+  {
+    "id": 9974,
+    "name": "Balvi",
+    "stateId": 343,
+    "latitude": "57.13130000",
+    "longitude": "27.26583000"
+  },
+  {
+    "id": 11613,
+    "name": "Bauska",
+    "stateId": 402,
+    "latitude": "56.40794000",
+    "longitude": "24.19443000"
+  },
+  {
+    "id": 15704,
+    "name": "Bolderaja",
+    "stateId": 3643,
+    "latitude": "57.03132000",
+    "longitude": "24.05571000"
+  },
+  {
+    "id": 17838,
+    "name": "Brocēni",
+    "stateId": 581,
+    "latitude": "56.67890000",
+    "longitude": "22.56945000"
+  },
+  {
+    "id": 22621,
+    "name": "Carnikava",
+    "stateId": 731,
+    "latitude": "57.12935000",
+    "longitude": "24.28423000"
+  },
+  {
+    "id": 24833,
+    "name": "Cesvaine",
+    "stateId": 807,
+    "latitude": "56.96754000",
+    "longitude": "26.30764000"
+  },
+  {
+    "id": 27153,
+    "name": "Cibla",
+    "stateId": 884,
+    "latitude": "56.54980000",
+    "longitude": "27.88370000"
+  },
+  {
+    "id": 34811,
+    "name": "Cēsis",
+    "stateId": 994,
+    "latitude": "57.31188000",
+    "longitude": "25.27456000"
+  },
+  {
+    "id": 34901,
+    "name": "Dagda",
+    "stateId": 1003,
+    "latitude": "56.09512000",
+    "longitude": "27.53723000"
+  },
+  {
+    "id": 35515,
+    "name": "Daugavgrīva",
+    "stateId": 3643,
+    "latitude": "57.04315000",
+    "longitude": "24.03613000"
+  },
+  {
+    "id": 35516,
+    "name": "Daugavpils",
+    "stateId": 1021,
+    "latitude": "55.88333000",
+    "longitude": "26.53333000"
+  },
+  {
+    "id": 37447,
+    "name": "Dobele",
+    "stateId": 1091,
+    "latitude": "56.62372000",
+    "longitude": "23.27510000"
+  },
+  {
+    "id": 38942,
+    "name": "Dundaga",
+    "stateId": 1142,
+    "latitude": "57.50498000",
+    "longitude": "22.35041000"
+  },
+  {
+    "id": 42059,
+    "name": "Engure",
+    "stateId": 4261,
+    "latitude": "57.16061000",
+    "longitude": "23.22527000"
+  },
+  {
+    "id": 47201,
+    "name": "Garkalne",
+    "stateId": 1354,
+    "latitude": "57.04486000",
+    "longitude": "24.41951000"
+  },
+  {
+    "id": 50901,
+    "name": "Grobiņa",
+    "stateId": 1452,
+    "latitude": "56.53521000",
+    "longitude": "21.16782000"
+  },
+  {
+    "id": 51850,
+    "name": "Gulbene",
+    "stateId": 1481,
+    "latitude": "57.17767000",
+    "longitude": "26.75291000"
+  },
+  {
+    "id": 57652,
+    "name": "Iecava",
+    "stateId": 1650,
+    "latitude": "56.59766000",
+    "longitude": "24.20763000"
+  },
+  {
+    "id": 57872,
+    "name": "Ikšķile",
+    "stateId": 1658,
+    "latitude": "56.83399000",
+    "longitude": "24.49679000"
+  },
+  {
+    "id": 58030,
+    "name": "Ilūkste",
+    "stateId": 1669,
+    "latitude": "55.97754000",
+    "longitude": "26.29655000"
+  },
+  {
+    "id": 58490,
+    "name": "Inčukalns",
+    "stateId": 1690,
+    "latitude": "57.09867000",
+    "longitude": "24.68630000"
+  },
+  {
+    "id": 60222,
+    "name": "Jaunaglona",
+    "stateId": 3382,
+    "latitude": "56.16066000",
+    "longitude": "27.00714000"
+  },
+  {
+    "id": 60224,
+    "name": "Jaunciems",
+    "stateId": 3643,
+    "latitude": "57.03910000",
+    "longitude": "24.17413000"
+  },
+  {
+    "id": 60225,
+    "name": "Jaunjelgava",
+    "stateId": 1743,
+    "latitude": "56.61319000",
+    "longitude": "25.08316000"
+  },
+  {
+    "id": 60226,
+    "name": "Jaunpils",
+    "stateId": 1745,
+    "latitude": "56.73137000",
+    "longitude": "23.01247000"
+  },
+  {
+    "id": 60389,
+    "name": "Jelgava",
+    "stateId": 1751,
+    "latitude": "56.65000000",
+    "longitude": "23.71278000"
+  },
+  {
+    "id": 61305,
+    "name": "Jumprava",
+    "stateId": 3107,
+    "latitude": "56.67613000",
+    "longitude": "24.97210000"
+  },
+  {
+    "id": 61528,
+    "name": "Jēkabpils",
+    "stateId": 1801,
+    "latitude": "56.49903000",
+    "longitude": "25.85735000"
+  },
+  {
+    "id": 61536,
+    "name": "Jūrmala",
+    "stateId": 1802,
+    "latitude": "56.96800000",
+    "longitude": "23.77038000"
+  },
+  {
+    "id": 62682,
+    "name": "Kandava",
+    "stateId": 1861,
+    "latitude": "57.04087000",
+    "longitude": "22.77466000"
+  },
+  {
+    "id": 63134,
+    "name": "Karosta",
+    "stateId": 2269,
+    "latitude": "56.55128000",
+    "longitude": "21.01287000"
+  },
+  {
+    "id": 65581,
+    "name": "Kocēni",
+    "stateId": 2030,
+    "latitude": "57.52057000",
+    "longitude": "25.33821000"
+  },
+  {
+    "id": 65662,
+    "name": "Koknese",
+    "stateId": 2034,
+    "latitude": "56.65163000",
+    "longitude": "25.43637000"
+  },
+  {
+    "id": 66938,
+    "name": "Krustpils",
+    "stateId": 1801,
+    "latitude": "56.51068000",
+    "longitude": "25.86117000"
+  },
+  {
+    "id": 67020,
+    "name": "Krāslava",
+    "stateId": 2101,
+    "latitude": "55.89514000",
+    "longitude": "27.16799000"
+  },
+  {
+    "id": 67169,
+    "name": "Kuldīga",
+    "stateId": 2106,
+    "latitude": "56.97399000",
+    "longitude": "21.95721000"
+  },
+  {
+    "id": 67837,
+    "name": "Kārsava",
+    "stateId": 2153,
+    "latitude": "56.78405000",
+    "longitude": "27.68829000"
+  },
+  {
+    "id": 72779,
+    "name": "Lielvārde",
+    "stateId": 2267,
+    "latitude": "56.72066000",
+    "longitude": "24.80743000"
+  },
+  {
+    "id": 72785,
+    "name": "Liepāja",
+    "stateId": 2269,
+    "latitude": "56.50474000",
+    "longitude": "21.01085000"
+  },
+  {
+    "id": 72809,
+    "name": "Lieģi",
+    "stateId": 1149,
+    "latitude": "56.58173000",
+    "longitude": "21.33399000"
+  },
+  {
+    "id": 72933,
+    "name": "Limbaži",
+    "stateId": 2279,
+    "latitude": "57.51287000",
+    "longitude": "24.71941000"
+  },
+  {
+    "id": 74979,
+    "name": "Lubāna",
+    "stateId": 2388,
+    "latitude": "56.90425000",
+    "longitude": "26.71606000"
+  },
+  {
+    "id": 75111,
+    "name": "Ludza",
+    "stateId": 2390,
+    "latitude": "56.53958000",
+    "longitude": "27.71891000"
+  },
+  {
+    "id": 75956,
+    "name": "Līgatne",
+    "stateId": 2416,
+    "latitude": "57.23429000",
+    "longitude": "25.04059000"
+  },
+  {
+    "id": 75957,
+    "name": "Līvāni",
+    "stateId": 2417,
+    "latitude": "56.35431000",
+    "longitude": "26.17579000"
+  },
+  {
+    "id": 76406,
+    "name": "Madona",
+    "stateId": 2433,
+    "latitude": "56.85329000",
+    "longitude": "26.21698000"
+  },
+  {
+    "id": 80158,
+    "name": "Mazsalaca",
+    "stateId": 2580,
+    "latitude": "57.86329000",
+    "longitude": "25.05475000"
+  },
+  {
+    "id": 81556,
+    "name": "Mežaparks",
+    "stateId": 3643,
+    "latitude": "57.00008000",
+    "longitude": "24.15997000"
+  },
+  {
+    "id": 86927,
+    "name": "Mālpils",
+    "stateId": 2798,
+    "latitude": "57.01010000",
+    "longitude": "24.95783000"
+  },
+  {
+    "id": 86928,
+    "name": "Mārupe",
+    "stateId": 2799,
+    "latitude": "56.90544000",
+    "longitude": "24.05113000"
+  },
+  {
+    "id": 87040,
+    "name": "Mūrmuiža",
+    "stateId": 454,
+    "latitude": "57.47312000",
+    "longitude": "25.49174000"
+  },
+  {
+    "id": 87914,
+    "name": "Naukšēni",
+    "stateId": 2863,
+    "latitude": "57.88349000",
+    "longitude": "25.45609000"
+  },
+  {
+    "id": 88439,
+    "name": "Nereta",
+    "stateId": 2883,
+    "latitude": "56.20279000",
+    "longitude": "25.30752000"
+  },
+  {
+    "id": 91815,
+    "name": "Nīca",
+    "stateId": 3090,
+    "latitude": "56.34601000",
+    "longitude": "21.06401000"
+  },
+  {
+    "id": 92803,
+    "name": "Ogre",
+    "stateId": 3107,
+    "latitude": "56.81620000",
+    "longitude": "24.61401000"
+  },
+  {
+    "id": 93152,
+    "name": "Olaine",
+    "stateId": 3117,
+    "latitude": "56.79472000",
+    "longitude": "23.93580000"
+  },
+  {
+    "id": 95291,
+    "name": "Ozolnieki",
+    "stateId": 3192,
+    "latitude": "56.68986000",
+    "longitude": "23.77610000"
+  },
+  {
+    "id": 99414,
+    "name": "Pilsrundāle",
+    "stateId": 3698,
+    "latitude": "56.41812000",
+    "longitude": "24.01625000"
+  },
+  {
+    "id": 99416,
+    "name": "Piltene",
+    "stateId": 4597,
+    "latitude": "57.22426000",
+    "longitude": "21.67439000"
+  },
+  {
+    "id": 100017,
+    "name": "Piņķi",
+    "stateId": 305,
+    "latitude": "56.94189000",
+    "longitude": "23.91365000"
+  },
+  {
+    "id": 102816,
+    "name": "Preiļi",
+    "stateId": 3382,
+    "latitude": "56.29444000",
+    "longitude": "26.72459000"
+  },
+  {
+    "id": 102985,
+    "name": "Priekule",
+    "stateId": 3388,
+    "latitude": "56.44679000",
+    "longitude": "21.58968000"
+  },
+  {
+    "id": 102987,
+    "name": "Priekuļi",
+    "stateId": 3389,
+    "latitude": "57.31500000",
+    "longitude": "25.36147000"
+  },
+  {
+    "id": 104932,
+    "name": "Pāvilosta",
+    "stateId": 3516,
+    "latitude": "56.88791000",
+    "longitude": "21.18593000"
+  },
+  {
+    "id": 104986,
+    "name": "Pļaviņas",
+    "stateId": 3518,
+    "latitude": "56.61780000",
+    "longitude": "25.72552000"
+  },
+  {
+    "id": 106485,
+    "name": "Rauna",
+    "stateId": 3591,
+    "latitude": "57.33173000",
+    "longitude": "25.60947000"
+  },
+  {
+    "id": 107738,
+    "name": "Riebiņi",
+    "stateId": 3640,
+    "latitude": "56.34280000",
+    "longitude": "26.79995000"
+  },
+  {
+    "id": 107808,
+    "name": "Riga",
+    "stateId": 3643,
+    "latitude": "56.94600000",
+    "longitude": "24.10589000"
+  },
+  {
+    "id": 108826,
+    "name": "Roja",
+    "stateId": 3671,
+    "latitude": "57.50146000",
+    "longitude": "22.80881000"
+  },
+  {
+    "id": 109075,
+    "name": "Ropaži",
+    "stateId": 3676,
+    "latitude": "56.97470000",
+    "longitude": "24.63295000"
+  },
+  {
+    "id": 109724,
+    "name": "Rucava",
+    "stateId": 3689,
+    "latitude": "56.16314000",
+    "longitude": "21.16156000"
+  },
+  {
+    "id": 109824,
+    "name": "Rugāji",
+    "stateId": 3691,
+    "latitude": "57.00325000",
+    "longitude": "27.13371000"
+  },
+  {
+    "id": 110482,
+    "name": "Rēzekne",
+    "stateId": 3713,
+    "latitude": "56.51028000",
+    "longitude": "27.34000000"
+  },
+  {
+    "id": 110491,
+    "name": "Rūjiena",
+    "stateId": 3715,
+    "latitude": "57.89752000",
+    "longitude": "25.33155000"
+  },
+  {
+    "id": 110591,
+    "name": "Sabile",
+    "stateId": 4290,
+    "latitude": "57.04577000",
+    "longitude": "22.57261000"
+  },
+  {
+    "id": 112301,
+    "name": "Salacgrīva",
+    "stateId": 3806,
+    "latitude": "57.75312000",
+    "longitude": "24.35895000"
+  },
+  {
+    "id": 112346,
+    "name": "Salaspils",
+    "stateId": 3810,
+    "latitude": "56.86014000",
+    "longitude": "24.36544000"
+  },
+  {
+    "id": 112397,
+    "name": "Saldus",
+    "stateId": 3812,
+    "latitude": "56.66363000",
+    "longitude": "22.48807000"
+  },
+  {
+    "id": 118410,
+    "name": "Saulkrasti",
+    "stateId": 3913,
+    "latitude": "57.26224000",
+    "longitude": "24.41471000"
+  },
+  {
+    "id": 119403,
+    "name": "Seda",
+    "stateId": 4175,
+    "latitude": "57.65042000",
+    "longitude": "25.75089000"
+  },
+  {
+    "id": 121877,
+    "name": "Sigulda",
+    "stateId": 4013,
+    "latitude": "57.15375000",
+    "longitude": "24.85953000"
+  },
+  {
+    "id": 122658,
+    "name": "Skrunda",
+    "stateId": 4045,
+    "latitude": "56.67749000",
+    "longitude": "22.01649000"
+  },
+  {
+    "id": 122663,
+    "name": "Skrīveri",
+    "stateId": 4046,
+    "latitude": "56.64500000",
+    "longitude": "25.12058000"
+  },
+  {
+    "id": 122870,
+    "name": "Smiltene",
+    "stateId": 4056,
+    "latitude": "57.42444000",
+    "longitude": "25.90164000"
+  },
+  {
+    "id": 122949,
+    "name": "Smārde",
+    "stateId": 1219,
+    "latitude": "56.95420000",
+    "longitude": "23.33736000"
+  },
+  {
+    "id": 124775,
+    "name": "Staicele",
+    "stateId": 132,
+    "latitude": "57.83579000",
+    "longitude": "24.74706000"
+  },
+  {
+    "id": 124789,
+    "name": "Stalbe",
+    "stateId": 3515,
+    "latitude": "57.37065000",
+    "longitude": "25.03106000"
+  },
+  {
+    "id": 125259,
+    "name": "Stende",
+    "stateId": 4290,
+    "latitude": "57.14497000",
+    "longitude": "22.53482000"
+  },
+  {
+    "id": 125733,
+    "name": "Strenči",
+    "stateId": 4175,
+    "latitude": "57.62574000",
+    "longitude": "25.68535000"
+  },
+  {
+    "id": 128518,
+    "name": "Talsi",
+    "stateId": 4290,
+    "latitude": "57.24562000",
+    "longitude": "22.58137000"
+  },
+  {
+    "id": 133602,
+    "name": "Tukums",
+    "stateId": 4261,
+    "latitude": "56.96764000",
+    "longitude": "23.15554000"
+  },
+  {
+    "id": 134362,
+    "name": "Tērvete",
+    "stateId": 4498,
+    "latitude": "56.47989000",
+    "longitude": "23.38895000"
+  },
+  {
+    "id": 134366,
+    "name": "Tīreļi",
+    "stateId": 1752,
+    "latitude": "56.83991000",
+    "longitude": "23.58902000"
+  },
+  {
+    "id": 134676,
+    "name": "Ulbroka",
+    "stateId": 4171,
+    "latitude": "56.93630000",
+    "longitude": "24.30387000"
+  },
+  {
+    "id": 135829,
+    "name": "Vaiņode",
+    "stateId": 4554,
+    "latitude": "56.41848000",
+    "longitude": "21.85405000"
+  },
+  {
+    "id": 135950,
+    "name": "Valdemārpils",
+    "stateId": 4290,
+    "latitude": "57.37068000",
+    "longitude": "22.59188000"
+  },
+  {
+    "id": 136207,
+    "name": "Valka",
+    "stateId": 4563,
+    "latitude": "57.77520000",
+    "longitude": "26.01013000"
+  },
+  {
+    "id": 136408,
+    "name": "Valmiera",
+    "stateId": 4570,
+    "latitude": "57.54108000",
+    "longitude": "25.42751000"
+  },
+  {
+    "id": 136564,
+    "name": "Vangaži",
+    "stateId": 1690,
+    "latitude": "57.09358000",
+    "longitude": "24.54468000"
+  },
+  {
+    "id": 136598,
+    "name": "Varakļāni",
+    "stateId": 4575,
+    "latitude": "56.60826000",
+    "longitude": "26.75377000"
+  },
+  {
+    "id": 136849,
+    "name": "Vecpiebalga",
+    "stateId": 4588,
+    "latitude": "57.06090000",
+    "longitude": "25.81624000"
+  },
+  {
+    "id": 136852,
+    "name": "Vecumnieki",
+    "stateId": 4589,
+    "latitude": "56.60608000",
+    "longitude": "24.52232000"
+  },
+  {
+    "id": 136853,
+    "name": "Vecvārkava",
+    "stateId": 4669,
+    "latitude": "56.19838000",
+    "longitude": "26.50811000"
+  },
+  {
+    "id": 137219,
+    "name": "Ventspils",
+    "stateId": 4596,
+    "latitude": "57.38988000",
+    "longitude": "21.57288000"
+  },
+  {
+    "id": 137904,
+    "name": "Viesīte",
+    "stateId": 4617,
+    "latitude": "56.34751000",
+    "longitude": "25.55514000"
+  },
+  {
+    "id": 139579,
+    "name": "Viļaka",
+    "stateId": 4637,
+    "latitude": "57.18458000",
+    "longitude": "27.67220000"
+  },
+  {
+    "id": 139580,
+    "name": "Viļāni",
+    "stateId": 4638,
+    "latitude": "56.55253000",
+    "longitude": "26.92449000"
+  },
+  {
+    "id": 145822,
+    "name": "Zelmeņi",
+    "stateId": 4498,
+    "latitude": "56.45167000",
+    "longitude": "23.35194000"
+  },
+  {
+    "id": 146118,
+    "name": "Zilupe",
+    "stateId": 4850,
+    "latitude": "56.38616000",
+    "longitude": "28.12165000"
+  },
+  {
+    "id": 147332,
+    "name": "Ērgļi",
+    "stateId": 4906,
+    "latitude": "56.89752000",
+    "longitude": "25.63668000"
+  },
+  {
+    "id": 147369,
+    "name": "Ķegums",
+    "stateId": 4909,
+    "latitude": "56.74510000",
+    "longitude": "24.72439000"
+  },
+  {
+    "id": 147370,
+    "name": "Ķekava",
+    "stateId": 4910,
+    "latitude": "56.82662000",
+    "longitude": "24.23000000"
+  }
+]

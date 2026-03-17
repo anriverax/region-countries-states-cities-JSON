@@ -1,0 +1,100 @@
+[
+  {
+    "id": 9072,
+    "name": "Bafatá",
+    "stateId": 311,
+    "latitude": "12.16583000",
+    "longitude": "-14.66167000"
+  },
+  {
+    "id": 14717,
+    "name": "Bissorã",
+    "stateId": 3112,
+    "latitude": "12.22306000",
+    "longitude": "-15.44750000"
+  },
+  {
+    "id": 15687,
+    "name": "Bolama",
+    "stateId": 515,
+    "latitude": "11.57694000",
+    "longitude": "-15.47611000"
+  },
+  {
+    "id": 18357,
+    "name": "Buba",
+    "stateId": 3543,
+    "latitude": "11.58889000",
+    "longitude": "-14.99583000"
+  },
+  {
+    "id": 18360,
+    "name": "Bubaque",
+    "stateId": 515,
+    "latitude": "11.28333000",
+    "longitude": "-15.83333000"
+  },
+  {
+    "id": 20351,
+    "name": "Cacheu",
+    "stateId": 669,
+    "latitude": "12.27444000",
+    "longitude": "-16.16528000"
+  },
+  {
+    "id": 21647,
+    "name": "Canchungo",
+    "stateId": 669,
+    "latitude": "12.06722000",
+    "longitude": "-16.03333000"
+  },
+  {
+    "id": 23858,
+    "name": "Catió",
+    "stateId": 4415,
+    "latitude": "11.28250000",
+    "longitude": "-15.25472000"
+  },
+  {
+    "id": 32322,
+    "name": "Contuboel Sector",
+    "stateId": 311,
+    "latitude": "12.55500000",
+    "longitude": "-14.64100000"
+  },
+  {
+    "id": 43536,
+    "name": "Farim",
+    "stateId": 3112,
+    "latitude": "12.48389000",
+    "longitude": "-15.22167000"
+  },
+  {
+    "id": 46554,
+    "name": "Gabú",
+    "stateId": 1330,
+    "latitude": "12.28000000",
+    "longitude": "-14.22222000"
+  },
+  {
+    "id": 78022,
+    "name": "Mansôa",
+    "stateId": 3112,
+    "latitude": "12.07333000",
+    "longitude": "-15.31889000"
+  },
+  {
+    "id": 105251,
+    "name": "Quebo",
+    "stateId": 4415,
+    "latitude": "11.33333000",
+    "longitude": "-14.93333000"
+  },
+  {
+    "id": 105464,
+    "name": "Quinhámel",
+    "stateId": 471,
+    "latitude": "11.88694000",
+    "longitude": "-15.85556000"
+  }
+]

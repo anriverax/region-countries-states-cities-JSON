@@ -1,0 +1,709 @@
+[
+  {
+    "id": 113,
+    "name": "Abau",
+    "stateId": 779,
+    "latitude": "-10.08333000",
+    "longitude": "148.91667000"
+  },
+  {
+    "id": 1408,
+    "name": "Aitape",
+    "stateId": 3860,
+    "latitude": "-3.13697000",
+    "longitude": "142.34913000"
+  },
+  {
+    "id": 1409,
+    "name": "Aitape Lumi",
+    "stateId": 3860,
+    "latitude": "-3.25000000",
+    "longitude": "142.08333000"
+  },
+  {
+    "id": 3270,
+    "name": "Alotau",
+    "stateId": 2649,
+    "latitude": "-10.25000000",
+    "longitude": "150.08333000"
+  },
+  {
+    "id": 5233,
+    "name": "Angalimp South Wahgi",
+    "stateId": 1776,
+    "latitude": "-6.05000000",
+    "longitude": "144.56667000"
+  },
+  {
+    "id": 6147,
+    "name": "Arawa",
+    "stateId": 544,
+    "latitude": "-6.22977000",
+    "longitude": "155.56598000"
+  },
+  {
+    "id": 9396,
+    "name": "Baiyer Mul",
+    "stateId": 4728,
+    "latitude": "-5.53333000",
+    "longitude": "144.15000000"
+  },
+  {
+    "id": 15514,
+    "name": "Bogia",
+    "stateId": 2428,
+    "latitude": "-4.50000000",
+    "longitude": "145.00000000"
+  },
+  {
+    "id": 18961,
+    "name": "Bulolo",
+    "stateId": 2723,
+    "latitude": "-7.41667000",
+    "longitude": "146.75000000"
+  },
+  {
+    "id": 24443,
+    "name": "Central Bougainville",
+    "stateId": 544,
+    "latitude": "-6.22806000",
+    "longitude": "155.56583000"
+  },
+  {
+    "id": 26867,
+    "name": "Chuave",
+    "stateId": 851,
+    "latitude": "-6.16667000",
+    "longitude": "145.08333000"
+  },
+  {
+    "id": 35435,
+    "name": "Daru",
+    "stateId": 4730,
+    "latitude": "-9.07786000",
+    "longitude": "143.20893000"
+  },
+  {
+    "id": 35524,
+    "name": "Daulo",
+    "stateId": 1178,
+    "latitude": "-5.98333000",
+    "longitude": "145.23333000"
+  },
+  {
+    "id": 35922,
+    "name": "Dei",
+    "stateId": 4728,
+    "latitude": "-5.68333000",
+    "longitude": "144.36667000"
+  },
+  {
+    "id": 42458,
+    "name": "Esa’ala",
+    "stateId": 2649,
+    "latitude": "-9.58333000",
+    "longitude": "150.75000000"
+  },
+  {
+    "id": 44263,
+    "name": "Finschhafen",
+    "stateId": 2723,
+    "latitude": "-6.41667000",
+    "longitude": "147.50000000"
+  },
+  {
+    "id": 47444,
+    "name": "Gazelle",
+    "stateId": 1167,
+    "latitude": "-4.48333000",
+    "longitude": "151.86667000"
+  },
+  {
+    "id": 49223,
+    "name": "Goilala",
+    "stateId": 779,
+    "latitude": "-8.33333000",
+    "longitude": "147.00000000"
+  },
+  {
+    "id": 49686,
+    "name": "Goroka",
+    "stateId": 1178,
+    "latitude": "-6.05000000",
+    "longitude": "145.38333000"
+  },
+  {
+    "id": 51902,
+    "name": "Gumine",
+    "stateId": 851,
+    "latitude": "-6.25000000",
+    "longitude": "144.88333000"
+  },
+  {
+    "id": 52663,
+    "name": "Hagen",
+    "stateId": 4728,
+    "latitude": "-5.83333000",
+    "longitude": "144.28333000"
+  },
+  {
+    "id": 54317,
+    "name": "Henganofi",
+    "stateId": 1178,
+    "latitude": "-6.21667000",
+    "longitude": "145.66667000"
+  },
+  {
+    "id": 56691,
+    "name": "Huon Gulf",
+    "stateId": 2723,
+    "latitude": "-7.18333000",
+    "longitude": "146.95000000"
+  },
+  {
+    "id": 57439,
+    "name": "Ialibu",
+    "stateId": 4138,
+    "latitude": "-6.28208000",
+    "longitude": "143.99354000"
+  },
+  {
+    "id": 57440,
+    "name": "Ialibu Pangia",
+    "stateId": 4138,
+    "latitude": "-6.16667000",
+    "longitude": "144.00000000"
+  },
+  {
+    "id": 57832,
+    "name": "Ijivitari",
+    "stateId": 3150,
+    "latitude": "-9.33333000",
+    "longitude": "148.58333000"
+  },
+  {
+    "id": 58060,
+    "name": "Imbonggu",
+    "stateId": 4138,
+    "latitude": "-6.16667000",
+    "longitude": "144.00000000"
+  },
+  {
+    "id": 60708,
+    "name": "Jimi",
+    "stateId": 1776,
+    "latitude": "-5.53333000",
+    "longitude": "144.56667000"
+  },
+  {
+    "id": 61989,
+    "name": "Kabwum",
+    "stateId": 2723,
+    "latitude": "-6.08333000",
+    "longitude": "147.00000000"
+  },
+  {
+    "id": 62095,
+    "name": "Kagua Erave",
+    "stateId": 4138,
+    "latitude": "-6.66667000",
+    "longitude": "144.00000000"
+  },
+  {
+    "id": 62143,
+    "name": "Kainantu",
+    "stateId": 1178,
+    "latitude": "-6.41667000",
+    "longitude": "145.91667000"
+  },
+  {
+    "id": 62154,
+    "name": "Kairuku-Hiri",
+    "stateId": 779,
+    "latitude": "-9.13648000",
+    "longitude": "147.27905000"
+  },
+  {
+    "id": 62684,
+    "name": "Kandep",
+    "stateId": 1217,
+    "latitude": "-5.83333000",
+    "longitude": "143.55000000"
+  },
+  {
+    "id": 62701,
+    "name": "Kandrian",
+    "stateId": 4716,
+    "latitude": "-6.20655000",
+    "longitude": "149.54744000"
+  },
+  {
+    "id": 62702,
+    "name": "Kandrian Gloucester",
+    "stateId": 4716,
+    "latitude": "-6.08333000",
+    "longitude": "149.91667000"
+  },
+  {
+    "id": 63065,
+    "name": "Karimui Nomane",
+    "stateId": 851,
+    "latitude": "-6.58333000",
+    "longitude": "144.83333000"
+  },
+  {
+    "id": 63456,
+    "name": "Kavieng",
+    "stateId": 2893,
+    "latitude": "-3.00000000",
+    "longitude": "151.41667000"
+  },
+  {
+    "id": 63930,
+    "name": "Kerema",
+    "stateId": 1482,
+    "latitude": "-7.79600000",
+    "longitude": "146.09300000"
+  },
+  {
+    "id": 63961,
+    "name": "Kerowagi",
+    "stateId": 851,
+    "latitude": "-5.93333000",
+    "longitude": "144.88333000"
+  },
+  {
+    "id": 64501,
+    "name": "Kieta",
+    "stateId": 544,
+    "latitude": "-6.21462000",
+    "longitude": "155.63251000"
+  },
+  {
+    "id": 64535,
+    "name": "Kikori",
+    "stateId": 1482,
+    "latitude": "-7.25000000",
+    "longitude": "144.33333000"
+  },
+  {
+    "id": 64645,
+    "name": "Kimbe",
+    "stateId": 4716,
+    "latitude": "-5.55085000",
+    "longitude": "150.13766000"
+  },
+  {
+    "id": 64993,
+    "name": "Kiriwina Goodenough",
+    "stateId": 2649,
+    "latitude": "-8.48333000",
+    "longitude": "151.06667000"
+  },
+  {
+    "id": 65220,
+    "name": "Kiunga",
+    "stateId": 4730,
+    "latitude": "-6.12193000",
+    "longitude": "141.29061000"
+  },
+  {
+    "id": 65663,
+    "name": "Kokoda",
+    "stateId": 3150,
+    "latitude": "-8.87778000",
+    "longitude": "147.73642000"
+  },
+  {
+    "id": 65667,
+    "name": "Kokopo",
+    "stateId": 1167,
+    "latitude": "-4.40000000",
+    "longitude": "152.28333000"
+  },
+  {
+    "id": 65826,
+    "name": "Komo Margarima",
+    "stateId": 1572,
+    "latitude": "-6.11667000",
+    "longitude": "143.00000000"
+  },
+  {
+    "id": 65837,
+    "name": "Kompiam Ambum",
+    "stateId": 1217,
+    "latitude": "-5.25000000",
+    "longitude": "144.00000000"
+  },
+  {
+    "id": 66061,
+    "name": "Koroba-Lake Kopiago",
+    "stateId": 1572,
+    "latitude": "-5.41667000",
+    "longitude": "142.50000000"
+  },
+  {
+    "id": 67264,
+    "name": "Kundiawa",
+    "stateId": 851,
+    "latitude": "-5.91667000",
+    "longitude": "145.05000000"
+  },
+  {
+    "id": 69444,
+    "name": "Lae",
+    "stateId": 2723,
+    "latitude": "-6.50000000",
+    "longitude": "146.83333000"
+  },
+  {
+    "id": 69472,
+    "name": "Lagaip Porgera",
+    "stateId": 1217,
+    "latitude": "-5.38333000",
+    "longitude": "143.16667000"
+  },
+  {
+    "id": 74371,
+    "name": "Lorengau",
+    "stateId": 2504,
+    "latitude": "-2.03410000",
+    "longitude": "147.27173000"
+  },
+  {
+    "id": 75119,
+    "name": "Lufa",
+    "stateId": 1178,
+    "latitude": "-6.45000000",
+    "longitude": "145.25000000"
+  },
+  {
+    "id": 76301,
+    "name": "Madang",
+    "stateId": 2428,
+    "latitude": "-5.22152000",
+    "longitude": "145.78695000"
+  },
+  {
+    "id": 78096,
+    "name": "Manus",
+    "stateId": 2504,
+    "latitude": "-2.09626000",
+    "longitude": "146.96612000"
+  },
+  {
+    "id": 78839,
+    "name": "Markham",
+    "stateId": 2723,
+    "latitude": "-6.64153000",
+    "longitude": "146.86043000"
+  },
+  {
+    "id": 80924,
+    "name": "Mendi",
+    "stateId": 4138,
+    "latitude": "-6.14755000",
+    "longitude": "143.65633000"
+  },
+  {
+    "id": 81004,
+    "name": "Menyamya",
+    "stateId": 2723,
+    "latitude": "-7.25000000",
+    "longitude": "146.16667000"
+  },
+  {
+    "id": 81691,
+    "name": "Middle Fly",
+    "stateId": 4730,
+    "latitude": "-7.16667000",
+    "longitude": "142.03333000"
+  },
+  {
+    "id": 81697,
+    "name": "Middle Ramu",
+    "stateId": 2428,
+    "latitude": "-4.91667000",
+    "longitude": "144.75000000"
+  },
+  {
+    "id": 84683,
+    "name": "Morehead",
+    "stateId": 4730,
+    "latitude": "-8.71065000",
+    "longitude": "141.63668000"
+  },
+  {
+    "id": 85270,
+    "name": "Mount Hagen",
+    "stateId": 4728,
+    "latitude": "-5.85746000",
+    "longitude": "144.23058000"
+  },
+  {
+    "id": 87418,
+    "name": "Namatanai",
+    "stateId": 2893,
+    "latitude": "-4.33333000",
+    "longitude": "152.83333000"
+  },
+  {
+    "id": 87864,
+    "name": "National Capital District",
+    "stateId": 3356,
+    "latitude": "-9.42257000",
+    "longitude": "147.16641000"
+  },
+  {
+    "id": 88066,
+    "name": "Nawae",
+    "stateId": 2723,
+    "latitude": "-6.46667000",
+    "longitude": "146.96667000"
+  },
+  {
+    "id": 89694,
+    "name": "Nipa Kutubu",
+    "stateId": 4138,
+    "latitude": "-6.33333000",
+    "longitude": "143.33333000"
+  },
+  {
+    "id": 90275,
+    "name": "North Bougainville",
+    "stateId": 544,
+    "latitude": "-5.42194000",
+    "longitude": "154.67278000"
+  },
+  {
+    "id": 90329,
+    "name": "North Fly",
+    "stateId": 4730,
+    "latitude": "-5.72896000",
+    "longitude": "141.37482000"
+  },
+  {
+    "id": 90490,
+    "name": "North Wahgi",
+    "stateId": 1776,
+    "latitude": "-5.80000000",
+    "longitude": "144.68333000"
+  },
+  {
+    "id": 91464,
+    "name": "Nuku",
+    "stateId": 3860,
+    "latitude": "-3.66667000",
+    "longitude": "142.41667000"
+  },
+  {
+    "id": 92479,
+    "name": "Obura Wonenara",
+    "stateId": 1178,
+    "latitude": "-6.55434000",
+    "longitude": "145.97328000"
+  },
+  {
+    "id": 92914,
+    "name": "Okapa",
+    "stateId": 1178,
+    "latitude": "-6.63333000",
+    "longitude": "145.50000000"
+  },
+  {
+    "id": 96342,
+    "name": "Panguna",
+    "stateId": 544,
+    "latitude": "-6.31639000",
+    "longitude": "155.48483000"
+  },
+  {
+    "id": 101134,
+    "name": "Pomio",
+    "stateId": 1167,
+    "latitude": "-5.50000000",
+    "longitude": "151.33333000"
+  },
+  {
+    "id": 101473,
+    "name": "Popondetta",
+    "stateId": 3150,
+    "latitude": "-8.76536000",
+    "longitude": "148.23252000"
+  },
+  {
+    "id": 101530,
+    "name": "Porgera",
+    "stateId": 1217,
+    "latitude": "-5.46300000",
+    "longitude": "143.14800000"
+  },
+  {
+    "id": 101639,
+    "name": "Port Moresby",
+    "stateId": 3356,
+    "latitude": "-9.47723000",
+    "longitude": "147.15089000"
+  },
+  {
+    "id": 105652,
+    "name": "Rabaul",
+    "stateId": 1167,
+    "latitude": "-4.18333000",
+    "longitude": "152.16667000"
+  },
+  {
+    "id": 105909,
+    "name": "Rai Coast",
+    "stateId": 2428,
+    "latitude": "-5.72303000",
+    "longitude": "146.46149000"
+  },
+  {
+    "id": 107817,
+    "name": "Rigo",
+    "stateId": 779,
+    "latitude": "-9.75000000",
+    "longitude": "147.83333000"
+  },
+  {
+    "id": 112775,
+    "name": "Samarai",
+    "stateId": 2649,
+    "latitude": "-10.61038000",
+    "longitude": "150.66207000"
+  },
+  {
+    "id": 112776,
+    "name": "Samarai Murua",
+    "stateId": 2649,
+    "latitude": "-10.49636000",
+    "longitude": "150.54703000"
+  },
+  {
+    "id": 122172,
+    "name": "Sinasina Yonggamugl",
+    "stateId": 851,
+    "latitude": "-6.08333000",
+    "longitude": "145.01667000"
+  },
+  {
+    "id": 123121,
+    "name": "Sohe",
+    "stateId": 3150,
+    "latitude": "-9.00000000",
+    "longitude": "147.91667000"
+  },
+  {
+    "id": 123818,
+    "name": "South Bougainville",
+    "stateId": 544,
+    "latitude": "-6.74593000",
+    "longitude": "155.69640000"
+  },
+  {
+    "id": 123865,
+    "name": "South Fly",
+    "stateId": 4730,
+    "latitude": "-8.61667000",
+    "longitude": "142.11667000"
+  },
+  {
+    "id": 126313,
+    "name": "Sumkar",
+    "stateId": 2428,
+    "latitude": "-4.80000000",
+    "longitude": "145.55000000"
+  },
+  {
+    "id": 128380,
+    "name": "Talasea",
+    "stateId": 4716,
+    "latitude": "-5.66667000",
+    "longitude": "149.58333000"
+  },
+  {
+    "id": 128635,
+    "name": "Tambul Nebilyer",
+    "stateId": 4728,
+    "latitude": "-5.98333000",
+    "longitude": "144.15000000"
+  },
+  {
+    "id": 129055,
+    "name": "Tari",
+    "stateId": 1572,
+    "latitude": "-5.84500000",
+    "longitude": "142.94667000"
+  },
+  {
+    "id": 129056,
+    "name": "Tari Pori",
+    "stateId": 1572,
+    "latitude": "-6.28333000",
+    "longitude": "142.83333000"
+  },
+  {
+    "id": 129664,
+    "name": "Telefomin",
+    "stateId": 3860,
+    "latitude": "-4.91667000",
+    "longitude": "141.66667000"
+  },
+  {
+    "id": 130310,
+    "name": "Tewai Siassi",
+    "stateId": 2723,
+    "latitude": "-6.15000000",
+    "longitude": "147.53333000"
+  },
+  {
+    "id": 134880,
+    "name": "Unggai Bena",
+    "stateId": 1178,
+    "latitude": "-6.11667000",
+    "longitude": "145.51667000"
+  },
+  {
+    "id": 135446,
+    "name": "Usino Bundi",
+    "stateId": 2428,
+    "latitude": "-5.53333000",
+    "longitude": "145.16667000"
+  },
+  {
+    "id": 136568,
+    "name": "Vanimo",
+    "stateId": 3860,
+    "latitude": "-2.68372000",
+    "longitude": "141.30195000"
+  },
+  {
+    "id": 136569,
+    "name": "Vanimo Green",
+    "stateId": 3860,
+    "latitude": "-3.36667000",
+    "longitude": "141.35000000"
+  },
+  {
+    "id": 140387,
+    "name": "Wabag",
+    "stateId": 1217,
+    "latitude": "-5.33333000",
+    "longitude": "143.65000000"
+  },
+  {
+    "id": 140934,
+    "name": "Wapenamanda",
+    "stateId": 1217,
+    "latitude": "-5.66667000",
+    "longitude": "143.91667000"
+  },
+  {
+    "id": 141355,
+    "name": "Wau",
+    "stateId": 2723,
+    "latitude": "-7.33778000",
+    "longitude": "146.71649000"
+  }
+]

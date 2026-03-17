@@ -1,0 +1,282 @@
+[
+  {
+    "id": 10373,
+    "name": "Banqiao",
+    "stateId": 4281,
+    "latitude": "25.01427000",
+    "longitude": "121.46719000"
+  },
+  {
+    "id": 25216,
+    "name": "Changhua",
+    "stateId": 820,
+    "latitude": "23.95361000",
+    "longitude": "120.49083000"
+  },
+  {
+    "id": 26144,
+    "name": "Chiayi",
+    "stateId": 842,
+    "latitude": "23.47722000",
+    "longitude": "120.44527000"
+  },
+  {
+    "id": 26145,
+    "name": "Chiayi County",
+    "stateId": 843,
+    "latitude": "23.46333000",
+    "longitude": "120.58166000"
+  },
+  {
+    "id": 35627,
+    "name": "Daxi",
+    "stateId": 4309,
+    "latitude": "24.88373000",
+    "longitude": "121.29043000"
+  },
+  {
+    "id": 37946,
+    "name": "Donggang",
+    "stateId": 3304,
+    "latitude": "22.46515000",
+    "longitude": "120.44927000"
+  },
+  {
+    "id": 38245,
+    "name": "Douliu",
+    "stateId": 4800,
+    "latitude": "23.70944000",
+    "longitude": "120.54333000"
+  },
+  {
+    "id": 54319,
+    "name": "Hengchun",
+    "stateId": 3304,
+    "latitude": "22.00417000",
+    "longitude": "120.74389000"
+  },
+  {
+    "id": 56240,
+    "name": "Hsinchu",
+    "stateId": 1613,
+    "latitude": "24.80361000",
+    "longitude": "120.96861000"
+  },
+  {
+    "id": 56241,
+    "name": "Hsinchu County",
+    "stateId": 1614,
+    "latitude": "24.67416000",
+    "longitude": "121.16111000"
+  },
+  {
+    "id": 56279,
+    "name": "Hualien",
+    "stateId": 1615,
+    "latitude": "23.78166000",
+    "longitude": "121.39333000"
+  },
+  {
+    "id": 56280,
+    "name": "Hualien City",
+    "stateId": 1615,
+    "latitude": "23.97694000",
+    "longitude": "121.60444000"
+  },
+  {
+    "id": 60727,
+    "name": "Jincheng",
+    "stateId": 1998,
+    "latitude": "24.43415000",
+    "longitude": "118.31712000"
+  },
+  {
+    "id": 60800,
+    "name": "Jiufen",
+    "stateId": 4281,
+    "latitude": "25.10957000",
+    "longitude": "121.84424000"
+  },
+  {
+    "id": 62831,
+    "name": "Kaohsiung",
+    "stateId": 1871,
+    "latitude": "22.61626000",
+    "longitude": "120.31333000"
+  },
+  {
+    "id": 64847,
+    "name": "Kinmen County",
+    "stateId": 1998,
+    "latitude": "24.45333000",
+    "longitude": "118.38861000"
+  },
+  {
+    "id": 72781,
+    "name": "Lienchiang",
+    "stateId": 2268,
+    "latitude": "26.37004000",
+    "longitude": "120.49545000"
+  },
+  {
+    "id": 75155,
+    "name": "Lugu",
+    "stateId": 2847,
+    "latitude": "23.74639000",
+    "longitude": "120.75250000"
+  },
+  {
+    "id": 76644,
+    "name": "Magong",
+    "stateId": 3264,
+    "latitude": "23.56540000",
+    "longitude": "119.58627000"
+  },
+  {
+    "id": 81609,
+    "name": "Miaoli",
+    "stateId": 2631,
+    "latitude": "24.48972000",
+    "longitude": "120.90638000"
+  },
+  {
+    "id": 87529,
+    "name": "Nangan",
+    "stateId": 2268,
+    "latitude": "26.15039000",
+    "longitude": "119.93284000"
+  },
+  {
+    "id": 87581,
+    "name": "Nantou",
+    "stateId": 2847,
+    "latitude": "23.83419000",
+    "longitude": "120.92704000"
+  },
+  {
+    "id": 97959,
+    "name": "Penghu County",
+    "stateId": 3264,
+    "latitude": "23.57111000",
+    "longitude": "119.61138000"
+  },
+  {
+    "id": 99588,
+    "name": "Pingtung",
+    "stateId": 3304,
+    "latitude": "22.49555000",
+    "longitude": "120.61444000"
+  },
+  {
+    "id": 99984,
+    "name": "Pizitou",
+    "stateId": 842,
+    "latitude": "23.48556000",
+    "longitude": "120.44472000"
+  },
+  {
+    "id": 104348,
+    "name": "Puli",
+    "stateId": 2847,
+    "latitude": "23.96639000",
+    "longitude": "120.96952000"
+  },
+  {
+    "id": 128203,
+    "name": "Taichung",
+    "stateId": 4278,
+    "latitude": "24.14690000",
+    "longitude": "120.68390000"
+  },
+  {
+    "id": 128204,
+    "name": "Taichung City",
+    "stateId": 4278,
+    "latitude": "24.15472000",
+    "longitude": "120.67297000"
+  },
+  {
+    "id": 128220,
+    "name": "Tainan",
+    "stateId": 4280,
+    "latitude": "22.99083000",
+    "longitude": "120.21333000"
+  },
+  {
+    "id": 128230,
+    "name": "Taipei",
+    "stateId": 4281,
+    "latitude": "25.04776000",
+    "longitude": "121.53185000"
+  },
+  {
+    "id": 128231,
+    "name": "Taipei City",
+    "stateId": 4281,
+    "latitude": "25.08300000",
+    "longitude": "121.55331000"
+  },
+  {
+    "id": 128241,
+    "name": "Taitung",
+    "stateId": 4283,
+    "latitude": "22.88361000",
+    "longitude": "121.04833000"
+  },
+  {
+    "id": 128242,
+    "name": "Taitung City",
+    "stateId": 4283,
+    "latitude": "22.75830000",
+    "longitude": "121.14440000"
+  },
+  {
+    "id": 128894,
+    "name": "Taoyuan",
+    "stateId": 4309,
+    "latitude": "24.89500000",
+    "longitude": "121.24611000"
+  },
+  {
+    "id": 128895,
+    "name": "Taoyuan City",
+    "stateId": 4309,
+    "latitude": "24.99368000",
+    "longitude": "121.29696000"
+  },
+  {
+    "id": 144890,
+    "name": "Yilan",
+    "stateId": 4789,
+    "latitude": "24.54250000",
+    "longitude": "121.63361000"
+  },
+  {
+    "id": 145070,
+    "name": "Yuanlin",
+    "stateId": 820,
+    "latitude": "23.95671000",
+    "longitude": "120.57608000"
+  },
+  {
+    "id": 145096,
+    "name": "Yujing",
+    "stateId": 4280,
+    "latitude": "23.12493000",
+    "longitude": "120.46138000"
+  },
+  {
+    "id": 145135,
+    "name": "Yunlin",
+    "stateId": 4800,
+    "latitude": "23.70701000",
+    "longitude": "120.38481000"
+  },
+  {
+    "id": 146033,
+    "name": "Zhongxing New Village",
+    "stateId": 2847,
+    "latitude": "23.95908000",
+    "longitude": "120.68516000"
+  }
+]

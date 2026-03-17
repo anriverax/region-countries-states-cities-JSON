@@ -1,0 +1,240 @@
+[
+  {
+    "id": 5194,
+    "name": "Andrijevica",
+    "stateId": 172,
+    "latitude": "42.73389000",
+    "longitude": "19.79194000"
+  },
+  {
+    "id": 10467,
+    "name": "Bar",
+    "stateId": 363,
+    "latitude": "42.09306000",
+    "longitude": "19.10028000"
+  },
+  {
+    "id": 13100,
+    "name": "Berane",
+    "stateId": 443,
+    "latitude": "42.84250000",
+    "longitude": "19.87333000"
+  },
+  {
+    "id": 14274,
+    "name": "Bijelo Polje",
+    "stateId": 462,
+    "latitude": "43.03834000",
+    "longitude": "19.74758000"
+  },
+  {
+    "id": 18590,
+    "name": "Budva",
+    "stateId": 598,
+    "latitude": "42.28639000",
+    "longitude": "18.84000000"
+  },
+  {
+    "id": 24841,
+    "name": "Cetinje",
+    "stateId": 3119,
+    "latitude": "42.39063000",
+    "longitude": "18.91417000"
+  },
+  {
+    "id": 35246,
+    "name": "Danilovgrad",
+    "stateId": 1013,
+    "latitude": "42.55384000",
+    "longitude": "19.14608000"
+  },
+  {
+    "id": 37506,
+    "name": "Dobrota",
+    "stateId": 2065,
+    "latitude": "42.45417000",
+    "longitude": "18.76833000"
+  },
+  {
+    "id": 49349,
+    "name": "Golubovci",
+    "stateId": 3331,
+    "latitude": "42.33500000",
+    "longitude": "19.23111000"
+  },
+  {
+    "id": 49589,
+    "name": "Goričani",
+    "stateId": 3331,
+    "latitude": "42.33222000",
+    "longitude": "19.21194000"
+  },
+  {
+    "id": 52048,
+    "name": "Gusinje",
+    "stateId": 1487,
+    "latitude": "42.56194000",
+    "longitude": "19.83389000"
+  },
+  {
+    "id": 65699,
+    "name": "Kolašin",
+    "stateId": 2035,
+    "latitude": "42.82229000",
+    "longitude": "19.51653000"
+  },
+  {
+    "id": 66362,
+    "name": "Kotor",
+    "stateId": 2065,
+    "latitude": "42.42067000",
+    "longitude": "18.76825000"
+  },
+  {
+    "id": 79604,
+    "name": "Mataguži",
+    "stateId": 3331,
+    "latitude": "42.32361000",
+    "longitude": "19.27278000"
+  },
+  {
+    "id": 83179,
+    "name": "Mojanovići",
+    "stateId": 3331,
+    "latitude": "42.34167000",
+    "longitude": "19.22139000"
+  },
+  {
+    "id": 83183,
+    "name": "Mojkovac",
+    "stateId": 2683,
+    "latitude": "42.96044000",
+    "longitude": "19.58330000"
+  },
+  {
+    "id": 89624,
+    "name": "Nikšić",
+    "stateId": 2929,
+    "latitude": "42.77310000",
+    "longitude": "18.94446000"
+  },
+  {
+    "id": 98609,
+    "name": "Petrovac na Moru",
+    "stateId": 598,
+    "latitude": "42.20556000",
+    "longitude": "18.94250000"
+  },
+  {
+    "id": 100200,
+    "name": "Plav",
+    "stateId": 3321,
+    "latitude": "42.59694000",
+    "longitude": "19.94556000"
+  },
+  {
+    "id": 100321,
+    "name": "Pljevlja",
+    "stateId": 3323,
+    "latitude": "43.35670000",
+    "longitude": "19.35843000"
+  },
+  {
+    "id": 100460,
+    "name": "Plužine",
+    "stateId": 3326,
+    "latitude": "43.15278000",
+    "longitude": "18.83944000"
+  },
+  {
+    "id": 100619,
+    "name": "Podgorica",
+    "stateId": 3331,
+    "latitude": "42.44111000",
+    "longitude": "19.26361000"
+  },
+  {
+    "id": 103951,
+    "name": "Prčanj",
+    "stateId": 2065,
+    "latitude": "42.45750000",
+    "longitude": "18.74222000"
+  },
+  {
+    "id": 108103,
+    "name": "Risan",
+    "stateId": 2065,
+    "latitude": "42.51500000",
+    "longitude": "18.69556000"
+  },
+  {
+    "id": 109646,
+    "name": "Rožaje",
+    "stateId": 3686,
+    "latitude": "42.83299000",
+    "longitude": "20.16652000"
+  },
+  {
+    "id": 124517,
+    "name": "Spuž",
+    "stateId": 1013,
+    "latitude": "42.51500000",
+    "longitude": "19.19500000"
+  },
+  {
+    "id": 124954,
+    "name": "Stari Bar",
+    "stateId": 363,
+    "latitude": "42.09700000",
+    "longitude": "19.13600000"
+  },
+  {
+    "id": 126672,
+    "name": "Sutomore",
+    "stateId": 363,
+    "latitude": "42.14278000",
+    "longitude": "19.04667000"
+  },
+  {
+    "id": 131350,
+    "name": "Tivat",
+    "stateId": 4396,
+    "latitude": "42.43639000",
+    "longitude": "18.69611000"
+  },
+  {
+    "id": 134005,
+    "name": "Tuzi",
+    "stateId": 3331,
+    "latitude": "42.36556000",
+    "longitude": "19.33139000"
+  },
+  {
+    "id": 134678,
+    "name": "Ulcinj",
+    "stateId": 4509,
+    "latitude": "41.92936000",
+    "longitude": "19.22436000"
+  },
+  {
+    "id": 147698,
+    "name": "Šavnik",
+    "stateId": 4920,
+    "latitude": "42.95639000",
+    "longitude": "19.09667000"
+  },
+  {
+    "id": 147774,
+    "name": "Šušanj",
+    "stateId": 363,
+    "latitude": "42.11556000",
+    "longitude": "19.08833000"
+  },
+  {
+    "id": 147844,
+    "name": "Žabljak",
+    "stateId": 4952,
+    "latitude": "43.15423000",
+    "longitude": "19.12325000"
+  }
+]
