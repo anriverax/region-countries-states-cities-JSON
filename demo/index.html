@@ -35,17 +35,24 @@
     th { background: #f0f2f4; font-weight: 600; }
     tr:last-child td { border-bottom: none; }
     #status { margin-top: .75rem; font-size: .85rem; color: #555; }
+    .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
   </style>
 </head>
 <body>
   <h1>🌍 Countries · States · Cities</h1>
 
   <div class="controls">
+    <label for="countrySelect" class="sr-only">Country</label>
     <select id="countrySelect">
       <option value="">— Select a country —</option>
     </select>
+    <label for="stateSelect" class="sr-only">State</label>
     <select id="stateSelect" disabled>
       <option value="">— Select a state —</option>
+    </select>
+    <label for="citySelect" class="sr-only">City</label>
+    <select id="citySelect" disabled>
+      <option value="">— Select a city —</option>
     </select>
   </div>
 
@@ -82,21 +89,22 @@
 
     document.getElementById('countrySelect').addEventListener('change', function () {
       const stateSel = document.getElementById('stateSelect');
+      const citySel = document.getElementById('citySelect');
       stateSel.innerHTML = '<option value="">— Select a state —</option>';
       stateSel.disabled = true;
+      citySel.innerHTML = '<option value="">— Select a city —</option>';
+      citySel.disabled = true;
       document.getElementById('results').innerHTML = '<p style="color:#888">Select a state to see its cities.</p>';
       document.getElementById('status').textContent = '';
 
       if (this.value === '') return;
 
       const country = countries[+this.value];
-      // countryId in states is 1-based (array index + 1)
-      const countryStates = states.filter((s) => s.countryId === (+this.value + 1));
+      const countryStates = states.filter((s) => s.countryId === country.id);
 
-      countryStates.forEach((s, i) => {
+      countryStates.forEach((s) => {
         const opt = document.createElement('option');
-        opt.value = i;
-        opt.dataset.stateIndex = states.indexOf(s);
+        opt.value = s.id;
         opt.textContent = s.name;
         stateSel.appendChild(opt);
       });
@@ -109,16 +117,40 @@
     });
 
     document.getElementById('stateSelect').addEventListener('change', function () {
-      if (this.value === '') return;
-      const selectedOpt = this.options[this.selectedIndex];
-      // stateId is 1-based (array index + 1)
-      const stateIdx = +selectedOpt.dataset.stateIndex;
-      const state = states[stateIdx];
+      const citySel = document.getElementById('citySelect');
+      citySel.innerHTML = '<option value="">— Select a city —</option>';
+      citySel.disabled = true;
+      document.getElementById('results').innerHTML = '<p style="color:#888">Select a city to see its details.</p>';
+      document.getElementById('status').textContent = '';
 
-      const stateCities = cities.filter(c => c.stateId === stateIdx + 1);
-      showCities(state, stateCities);
+      if (this.value === '') return;
+
+      const stateId = +this.value;
+      const state = states.find((s) => s.id === stateId);
+      if (!state) return;
+      const stateCities = cities.filter((c) => c.stateId === stateId);
+
+      stateCities.forEach((c) => {
+        const opt = document.createElement('option');
+        opt.value = c.id;
+        opt.textContent = c.name;
+        citySel.appendChild(opt);
+      });
+
+      citySel.disabled = stateCities.length === 0;
       document.getElementById('status').textContent =
         `${state.name} — ${stateCities.length} city(ies) found`;
+
+      showStateInfo(state, stateCities.length);
+    });
+
+    document.getElementById('citySelect').addEventListener('change', function () {
+      if (this.value === '') return;
+      const cityId = +this.value;
+      const city = cities.find((c) => c.id === cityId);
+      if (!city) return;
+      showCityInfo(city);
+      document.getElementById('status').textContent = `${city.name} selected`;
     });
 
     function showCountryInfo(country) {
@@ -136,18 +168,29 @@
         </table>`;
     }
 
-    function showCities(state, citiesList) {
-      if (citiesList.length === 0) {
-        document.getElementById('results').innerHTML = '<p style="color:#888">No cities found for this state.</p>';
-        return;
-      }
-      const rows = citiesList.map(c =>
-        `<tr><td>${c.name}</td><td>${c.latitude}</td><td>${c.longitude}</td></tr>`
-      ).join('');
+    function showStateInfo(state, cityCount) {
       document.getElementById('results').innerHTML = `
         <table>
-          <thead><tr><th>City</th><th>Latitude</th><th>Longitude</th></tr></thead>
-          <tbody>${rows}</tbody>
+          <thead><tr><th>Field</th><th>Value</th></tr></thead>
+          <tbody>
+            <tr><td>Name</td><td>${state.name}</td></tr>
+            <tr><td>State Code</td><td>${state.stateCode}</td></tr>
+            <tr><td>Latitude</td><td>${state.latitude}</td></tr>
+            <tr><td>Longitude</td><td>${state.longitude}</td></tr>
+            <tr><td>Cities</td><td>${cityCount}</td></tr>
+          </tbody>
+        </table>`;
+    }
+
+    function showCityInfo(city) {
+      document.getElementById('results').innerHTML = `
+        <table>
+          <thead><tr><th>Field</th><th>Value</th></tr></thead>
+          <tbody>
+            <tr><td>Name</td><td>${city.name}</td></tr>
+            <tr><td>Latitude</td><td>${city.latitude}</td></tr>
+            <tr><td>Longitude</td><td>${city.longitude}</td></tr>
+          </tbody>
         </table>`;
     }
 

@@ -3,5 +3,27 @@
   "version": "1.0.0",
   "description": "Open dataset of countries, states and cities in JSON",
   "main": "data/countries.json",
-  "license": "MIT"
+  "types": "types/country.ts",
+  "license": "MIT",
+  "keywords": [
+    "countries",
+    "states",
+    "cities",
+    "regions",
+    "subregions",
+    "json",
+    "database",
+    "geography"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anriverax/region-countries-states-cities-JSON.git"
+  },
+  "files": [
+    "data/",
+    "types/"
+  ],
+  "scripts": {
+    "validate": "node scripts/validate-data.js"
+  }
 }
