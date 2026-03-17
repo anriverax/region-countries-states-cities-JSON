@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Open dataset of countries, states and cities in JSON",
   "main": "index.js",
-  "types": "types/country.ts",
+  "types": "types/index.d.ts",
   "license": "MIT",
   "keywords": [
     "countries",
