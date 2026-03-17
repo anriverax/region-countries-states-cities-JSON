@@ -15,6 +15,7 @@ const FILES = [
 ];
 
 let hasErrors = false;
+const loaded = {};
 
 FILES.forEach((file) => {
   const filePath = path.join(DATA_DIR, file);
@@ -41,8 +42,49 @@ FILES.forEach((file) => {
     return;
   }
 
+  loaded[file] = data;
   console.log(`✅  data/${file} — ${data.length} records`);
 });
+
+if (hasErrors) {
+  console.error('\nValidation failed.');
+  process.exit(1);
+}
+
+// Build id sets for relational checks
+console.log('\n— Checking relational integrity —');
+
+function buildIdSet(file) {
+  return new Set((loaded[file] || []).map((r) => r.id));
+}
+
+function checkRelation(childFile, foreignKey, parentFile) {
+  const children = loaded[childFile] || [];
+  const parentIds = buildIdSet(parentFile);
+  const broken = [];
+
+  children.forEach((record, index) => {
+    if (record[foreignKey] === undefined || record[foreignKey] === null) {
+      broken.push(`index ${index}: missing ${foreignKey}`);
+    } else if (!parentIds.has(record[foreignKey])) {
+      broken.push(`index ${index} (${record.name}): ${foreignKey}=${record[foreignKey]} not found in ${parentFile}`);
+    }
+  });
+
+  if (broken.length > 0) {
+    console.error(`❌  data/${childFile} → data/${parentFile} (${foreignKey}): ${broken.length} broken reference(s)`);
+    broken.slice(0, 5).forEach((msg) => console.error(`     • ${msg}`));
+    if (broken.length > 5) console.error(`     … and ${broken.length - 5} more`);
+    hasErrors = true;
+  } else {
+    console.log(`✅  data/${childFile} → data/${parentFile} (${foreignKey}): all references valid`);
+  }
+}
+
+checkRelation('subregions.json', 'regionId', 'regions.json');
+checkRelation('countries.json', 'subRegionId', 'subregions.json');
+checkRelation('states.json', 'countryId', 'countries.json');
+checkRelation('cities.json', 'stateId', 'states.json');
 
 if (hasErrors) {
   console.error('\nValidation failed.');
