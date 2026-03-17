@@ -82,6 +82,83 @@ node scripts/validate-data.js
 
 ---
 
+## 🧪 Testing Locally (without publishing)
+
+You can test this package in another local project **without** publishing it to npm by using either `npm link` or `npm pack`.
+
+### Option 1 — `npm link` (live symlink)
+
+1. In this repository's root, register the package globally:
+
+   ```bash
+   npm link
+   ```
+
+2. In the project where you want to consume it, link to the registered package:
+
+   ```bash
+   cd /path/to/your-project
+   npm link countries-states-cities-database
+   ```
+
+3. Now you can import the data just as you would from a published package:
+
+   ```js
+   const countries = require('countries-states-cities-database/data/countries.json');
+   ```
+
+4. When you're done, unlink from both sides:
+
+   ```bash
+   # inside your-project
+   npm unlink countries-states-cities-database
+
+   # inside this repository
+   npm unlink
+   ```
+
+### Option 2 — `npm pack` (install a local tarball)
+
+1. From this repository's root, create a tarball:
+
+   ```bash
+   npm pack
+   # produces countries-states-cities-database-1.0.0.tgz
+   ```
+
+2. In the project where you want to test it, install the tarball:
+
+   ```bash
+   cd /path/to/your-project
+   npm install /path/to/countries-states-cities-database-1.0.0.tgz
+   ```
+
+3. Use it exactly as you would the published version:
+
+   ```js
+   const countries = require('countries-states-cities-database/data/countries.json');
+   ```
+
+### Option 3 — `file:` dependency (install from local path)
+
+Add the package directly from the filesystem in your project's `package.json`:
+
+```json
+{
+  "dependencies": {
+    "countries-states-cities-database": "file:/path/to/countries-states-cities-database"
+  }
+}
+```
+
+Then run:
+
+```bash
+npm install
+```
+
+---
+
 ## 🤝 Contributing
 
 Pull requests are welcome! Please open an issue first for major changes.
