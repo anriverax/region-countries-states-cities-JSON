@@ -1,0 +1,380 @@
+[
+  {
+    "id": 13772,
+    "name": "Beyla",
+    "stateId": 3087,
+    "latitude": "8.69011000",
+    "longitude": "-8.64869000"
+  },
+  {
+    "id": 13773,
+    "name": "Beyla Prefecture",
+    "stateId": 3087,
+    "latitude": "8.91667000",
+    "longitude": "-8.41667000"
+  },
+  {
+    "id": 15462,
+    "name": "Boffa",
+    "stateId": 514,
+    "latitude": "10.33333000",
+    "longitude": "-14.16667000"
+  },
+  {
+    "id": 15666,
+    "name": "Boke Prefecture",
+    "stateId": 514,
+    "latitude": "11.08333000",
+    "longitude": "-14.41667000"
+  },
+  {
+    "id": 15682,
+    "name": "Boké",
+    "stateId": 514,
+    "latitude": "10.93217000",
+    "longitude": "-14.29055000"
+  },
+  {
+    "id": 21117,
+    "name": "Camayenne",
+    "stateId": 933,
+    "latitude": "9.53500000",
+    "longitude": "-13.68778000"
+  },
+  {
+    "id": 31983,
+    "name": "Conakry",
+    "stateId": 933,
+    "latitude": "9.53795000",
+    "longitude": "-13.67729000"
+  },
+  {
+    "id": 33350,
+    "name": "Coyah",
+    "stateId": 1995,
+    "latitude": "9.75000000",
+    "longitude": "-13.41667000"
+  },
+  {
+    "id": 34993,
+    "name": "Dalaba",
+    "stateId": 2479,
+    "latitude": "10.75000000",
+    "longitude": "-12.30000000"
+  },
+  {
+    "id": 38707,
+    "name": "Dubréka",
+    "stateId": 1995,
+    "latitude": "9.79111000",
+    "longitude": "-13.52333000"
+  },
+  {
+    "id": 45203,
+    "name": "Forécariah",
+    "stateId": 1995,
+    "latitude": "9.43056000",
+    "longitude": "-13.08806000"
+  },
+  {
+    "id": 45856,
+    "name": "Fria",
+    "stateId": 514,
+    "latitude": "10.41667000",
+    "longitude": "-13.58333000"
+  },
+  {
+    "id": 47044,
+    "name": "Gaoual",
+    "stateId": 514,
+    "latitude": "11.75000000",
+    "longitude": "-13.20000000"
+  },
+  {
+    "id": 47045,
+    "name": "Gaoual Prefecture",
+    "stateId": 514,
+    "latitude": "11.75000000",
+    "longitude": "-13.20000000"
+  },
+  {
+    "id": 51662,
+    "name": "Gueckedou",
+    "stateId": 3087,
+    "latitude": "8.56744000",
+    "longitude": "-10.13360000"
+  },
+  {
+    "id": 62761,
+    "name": "Kankan",
+    "stateId": 1867,
+    "latitude": "10.38542000",
+    "longitude": "-9.30568000"
+  },
+  {
+    "id": 62762,
+    "name": "Kankan Prefecture",
+    "stateId": 1867,
+    "latitude": "10.27100000",
+    "longitude": "-9.17800000"
+  },
+  {
+    "id": 63960,
+    "name": "Kerouane Prefecture",
+    "stateId": 1867,
+    "latitude": "9.16667000",
+    "longitude": "-9.08333000"
+  },
+  {
+    "id": 64655,
+    "name": "Kimbo",
+    "stateId": 514,
+    "latitude": "10.40000000",
+    "longitude": "-13.55000000"
+  },
+  {
+    "id": 64700,
+    "name": "Kindia",
+    "stateId": 1995,
+    "latitude": "10.08333000",
+    "longitude": "-12.80000000"
+  },
+  {
+    "id": 66386,
+    "name": "Koubia",
+    "stateId": 2186,
+    "latitude": "11.58333000",
+    "longitude": "-11.83333000"
+  },
+  {
+    "id": 66396,
+    "name": "Koundara",
+    "stateId": 514,
+    "latitude": "12.48333000",
+    "longitude": "-13.30000000"
+  },
+  {
+    "id": 66397,
+    "name": "Koundara Prefecture",
+    "stateId": 514,
+    "latitude": "12.41667000",
+    "longitude": "-13.16667000"
+  },
+  {
+    "id": 66403,
+    "name": "Kouroussa",
+    "stateId": 1867,
+    "latitude": "10.66667000",
+    "longitude": "-9.91667000"
+  },
+  {
+    "id": 67708,
+    "name": "Kérouané",
+    "stateId": 1867,
+    "latitude": "9.26667000",
+    "longitude": "-9.01667000"
+  },
+  {
+    "id": 69278,
+    "name": "Labe Prefecture",
+    "stateId": 2186,
+    "latitude": "11.36600000",
+    "longitude": "-12.30000000"
+  },
+  {
+    "id": 69328,
+    "name": "Labé",
+    "stateId": 2186,
+    "latitude": "11.31823000",
+    "longitude": "-12.28332000"
+  },
+  {
+    "id": 71875,
+    "name": "Lelouma Prefecture",
+    "stateId": 2186,
+    "latitude": "11.41667000",
+    "longitude": "-12.66667000"
+  },
+  {
+    "id": 73992,
+    "name": "Lola",
+    "stateId": 3087,
+    "latitude": "7.83333000",
+    "longitude": "-8.33333000"
+  },
+  {
+    "id": 75824,
+    "name": "Lélouma",
+    "stateId": 2186,
+    "latitude": "11.42383000",
+    "longitude": "-12.68183000"
+  },
+  {
+    "id": 76153,
+    "name": "Macenta",
+    "stateId": 3087,
+    "latitude": "8.50000000",
+    "longitude": "-9.41667000"
+  },
+  {
+    "id": 77247,
+    "name": "Mali",
+    "stateId": 2186,
+    "latitude": "12.07900000",
+    "longitude": "-12.29820000"
+  },
+  {
+    "id": 77249,
+    "name": "Mali Prefecture",
+    "stateId": 2186,
+    "latitude": "12.08333000",
+    "longitude": "-12.08333000"
+  },
+  {
+    "id": 77546,
+    "name": "Mamou",
+    "stateId": 2479,
+    "latitude": "10.37546000",
+    "longitude": "-12.09148000"
+  },
+  {
+    "id": 77548,
+    "name": "Mamou Prefecture",
+    "stateId": 2479,
+    "latitude": "10.45900000",
+    "longitude": "-11.81500000"
+  },
+  {
+    "id": 77727,
+    "name": "Mandiana",
+    "stateId": 1867,
+    "latitude": "10.62577000",
+    "longitude": "-8.69413000"
+  },
+  {
+    "id": 77728,
+    "name": "Mandiana Prefecture",
+    "stateId": 1867,
+    "latitude": "10.65800000",
+    "longitude": "-8.61500000"
+  },
+  {
+    "id": 91664,
+    "name": "Nzerekore Prefecture",
+    "stateId": 3087,
+    "latitude": "7.94500000",
+    "longitude": "-8.78300000"
+  },
+  {
+    "id": 91665,
+    "name": "Nzérékoré",
+    "stateId": 3087,
+    "latitude": "7.75624000",
+    "longitude": "-8.81790000"
+  },
+  {
+    "id": 99877,
+    "name": "Pita",
+    "stateId": 2479,
+    "latitude": "10.83333000",
+    "longitude": "-12.58333000"
+  },
+  {
+    "id": 103929,
+    "name": "Préfecture de Dubréka",
+    "stateId": 1995,
+    "latitude": "10.25000000",
+    "longitude": "-13.41667000"
+  },
+  {
+    "id": 103930,
+    "name": "Préfecture de Forécariah",
+    "stateId": 1995,
+    "latitude": "9.43333000",
+    "longitude": "-13.10000000"
+  },
+  {
+    "id": 103931,
+    "name": "Préfecture de Guékédou",
+    "stateId": 3087,
+    "latitude": "8.66667000",
+    "longitude": "-10.25000000"
+  },
+  {
+    "id": 116004,
+    "name": "Sanguéya",
+    "stateId": 514,
+    "latitude": "10.70000000",
+    "longitude": "-14.36667000"
+  },
+  {
+    "id": 121875,
+    "name": "Siguiri",
+    "stateId": 1867,
+    "latitude": "11.42282000",
+    "longitude": "-9.16852000"
+  },
+  {
+    "id": 121876,
+    "name": "Siguiri Prefecture",
+    "stateId": 1867,
+    "latitude": "11.66667000",
+    "longitude": "-9.50000000"
+  },
+  {
+    "id": 129684,
+    "name": "Telimele Prefecture",
+    "stateId": 1995,
+    "latitude": "10.91667000",
+    "longitude": "-13.33333000"
+  },
+  {
+    "id": 131668,
+    "name": "Tokonou",
+    "stateId": 1867,
+    "latitude": "9.65000000",
+    "longitude": "-9.78333000"
+  },
+  {
+    "id": 131879,
+    "name": "Tondon",
+    "stateId": 1995,
+    "latitude": "10.36667000",
+    "longitude": "-13.35000000"
+  },
+  {
+    "id": 132434,
+    "name": "Tougue Prefecture",
+    "stateId": 2186,
+    "latitude": "11.46667000",
+    "longitude": "-11.60000000"
+  },
+  {
+    "id": 132435,
+    "name": "Tougué",
+    "stateId": 2186,
+    "latitude": "11.44503000",
+    "longitude": "-11.66422000"
+  },
+  {
+    "id": 134240,
+    "name": "Télimélé",
+    "stateId": 1995,
+    "latitude": "10.90000000",
+    "longitude": "-13.03333000"
+  },
+  {
+    "id": 144947,
+    "name": "Yomou",
+    "stateId": 3087,
+    "latitude": "7.50000000",
+    "longitude": "-9.16667000"
+  },
+  {
+    "id": 145029,
+    "name": "Youkounkoun",
+    "stateId": 514,
+    "latitude": "12.53110000",
+    "longitude": "-13.12240000"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": 5400,
+    "name": "Anna Regina",
+    "stateId": 3348,
+    "latitude": "7.26439000",
+    "longitude": "-58.50769000"
+  },
+  {
+    "id": 11098,
+    "name": "Bartica",
+    "stateId": 985,
+    "latitude": "6.40799000",
+    "longitude": "-58.62192000"
+  },
+  {
+    "id": 48118,
+    "name": "Georgetown",
+    "stateId": 1041,
+    "latitude": "6.80448000",
+    "longitude": "-58.15527000"
+  },
+  {
+    "id": 72334,
+    "name": "Lethem",
+    "stateId": 4528,
+    "latitude": "3.38333000",
+    "longitude": "-59.80000000"
+  },
+  {
+    "id": 73124,
+    "name": "Linden",
+    "stateId": 4523,
+    "latitude": "6.00809000",
+    "longitude": "-58.30714000"
+  },
+  {
+    "id": 76026,
+    "name": "Mabaruma",
+    "stateId": 370,
+    "latitude": "8.20000000",
+    "longitude": "-59.78333000"
+  },
+  {
+    "id": 76704,
+    "name": "Mahaica Village",
+    "stateId": 1041,
+    "latitude": "6.68405000",
+    "longitude": "-57.92181000"
+  },
+  {
+    "id": 76705,
+    "name": "Mahaicony Village",
+    "stateId": 2448,
+    "latitude": "6.57633000",
+    "longitude": "-57.80486000"
+  },
+  {
+    "id": 76748,
+    "name": "Mahdia",
+    "stateId": 3366,
+    "latitude": "5.26667000",
+    "longitude": "-59.15000000"
+  },
+  {
+    "id": 88794,
+    "name": "New Amsterdam",
+    "stateId": 1159,
+    "latitude": "6.24793000",
+    "longitude": "-57.51710000"
+  },
+  {
+    "id": 96767,
+    "name": "Parika",
+    "stateId": 1241,
+    "latitude": "6.83712000",
+    "longitude": "-58.42941000"
+  },
+  {
+    "id": 109270,
+    "name": "Rosignol",
+    "stateId": 2448,
+    "latitude": "6.27095000",
+    "longitude": "-57.53697000"
+  },
+  {
+    "id": 122576,
+    "name": "Skeldon",
+    "stateId": 1159,
+    "latitude": "5.88333000",
+    "longitude": "-57.13333000"
+  },
+  {
+    "id": 140020,
+    "name": "Vreed-en-Hoop",
+    "stateId": 1241,
+    "latitude": "6.80927000",
+    "longitude": "-58.19798000"
+  }
+]

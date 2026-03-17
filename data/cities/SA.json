@@ -1,0 +1,3943 @@
+[
+  {
+    "id": 225,
+    "name": "Abha",
+    "stateId": 3,
+    "latitude": "18.21639000",
+    "longitude": "42.50528000"
+  },
+  {
+    "id": 226,
+    "name": "Abha",
+    "stateId": 2462,
+    "latitude": "18.21666667",
+    "longitude": "42.50000000"
+  },
+  {
+    "id": 280,
+    "name": "Abqaiq",
+    "stateId": 1180,
+    "latitude": "25.93402000",
+    "longitude": "49.66880000"
+  },
+  {
+    "id": 335,
+    "name": "Abu Dhiba",
+    "stateId": 99,
+    "latitude": "23.19890000",
+    "longitude": "39.55780000"
+  },
+  {
+    "id": 338,
+    "name": "Abu Hisani",
+    "stateId": 83,
+    "latitude": "21.73060000",
+    "longitude": "39.78330000"
+  },
+  {
+    "id": 339,
+    "name": "Abu Hisani",
+    "stateId": 2462,
+    "latitude": "21.73060000",
+    "longitude": "39.78330000"
+  },
+  {
+    "id": 341,
+    "name": "Abu Qirfah",
+    "stateId": 83,
+    "latitude": "21.76670000",
+    "longitude": "39.68330000"
+  },
+  {
+    "id": 342,
+    "name": "Abu Qirfah",
+    "stateId": 2462,
+    "latitude": "21.76670000",
+    "longitude": "39.68330000"
+  },
+  {
+    "id": 343,
+    "name": "Abu Radif",
+    "stateId": 1777,
+    "latitude": "16.61860000",
+    "longitude": "43.13110000"
+  },
+  {
+    "id": 345,
+    "name": "Abu Shu`ayb",
+    "stateId": 83,
+    "latitude": "21.58330000",
+    "longitude": "39.70000000"
+  },
+  {
+    "id": 346,
+    "name": "Abu Shu`ayb",
+    "stateId": 2462,
+    "latitude": "21.58330000",
+    "longitude": "39.70000000"
+  },
+  {
+    "id": 348,
+    "name": "Abu `Urwah",
+    "stateId": 83,
+    "latitude": "21.65000000",
+    "longitude": "39.70000000"
+  },
+  {
+    "id": 349,
+    "name": "Abu `Urwah",
+    "stateId": 2462,
+    "latitude": "21.65000000",
+    "longitude": "39.70000000"
+  },
+  {
+    "id": 367,
+    "name": "Abyar 'Ali",
+    "stateId": 99,
+    "latitude": "24.41666667",
+    "longitude": "39.55000000"
+  },
+  {
+    "id": 379,
+    "name": "Abū Shayţānah",
+    "stateId": 99,
+    "latitude": "23.86670000",
+    "longitude": "38.36670000"
+  },
+  {
+    "id": 383,
+    "name": "Abū ‘Arīsh",
+    "stateId": 1777,
+    "latitude": "16.96887000",
+    "longitude": "42.83251000"
+  },
+  {
+    "id": 601,
+    "name": "Ad Dabbah",
+    "stateId": 83,
+    "latitude": "21.71670000",
+    "longitude": "39.83330000"
+  },
+  {
+    "id": 602,
+    "name": "Ad Dabbah",
+    "stateId": 2462,
+    "latitude": "21.71670000",
+    "longitude": "39.83330000"
+  },
+  {
+    "id": 605,
+    "name": "Ad Darb",
+    "stateId": 1777,
+    "latitude": "17.72285000",
+    "longitude": "42.25261000"
+  },
+  {
+    "id": 608,
+    "name": "Ad Dawh",
+    "stateId": 83,
+    "latitude": "21.77220000",
+    "longitude": "39.70140000"
+  },
+  {
+    "id": 609,
+    "name": "Ad Dawh",
+    "stateId": 2462,
+    "latitude": "21.77220000",
+    "longitude": "39.70140000"
+  },
+  {
+    "id": 610,
+    "name": "Ad Dawādimī",
+    "stateId": 3658,
+    "latitude": "24.50772000",
+    "longitude": "44.39237000"
+  },
+  {
+    "id": 611,
+    "name": "Ad Dilam",
+    "stateId": 3658,
+    "latitude": "23.99104000",
+    "longitude": "47.16181000"
+  },
+  {
+    "id": 617,
+    "name": "Ad Dulu`",
+    "stateId": 99,
+    "latitude": "24.76670000",
+    "longitude": "39.53330000"
+  },
+  {
+    "id": 618,
+    "name": "Ad Dur",
+    "stateId": 83,
+    "latitude": "21.81670000",
+    "longitude": "39.76670000"
+  },
+  {
+    "id": 619,
+    "name": "Ad Dur",
+    "stateId": 2462,
+    "latitude": "21.81670000",
+    "longitude": "39.76670000"
+  },
+  {
+    "id": 620,
+    "name": "Ad Dur`iyah",
+    "stateId": 1777,
+    "latitude": "16.58420000",
+    "longitude": "42.84310000"
+  },
+  {
+    "id": 734,
+    "name": "Adh Dhagharir",
+    "stateId": 1777,
+    "latitude": "16.67780000",
+    "longitude": "42.95920000"
+  },
+  {
+    "id": 736,
+    "name": "Adh Dhibiyah",
+    "stateId": 109,
+    "latitude": "26.02700000",
+    "longitude": "43.15700000"
+  },
+  {
+    "id": 874,
+    "name": "Afif",
+    "stateId": 3658,
+    "latitude": "23.90650000",
+    "longitude": "42.91724000"
+  },
+  {
+    "id": 1357,
+    "name": "Ain AlBaraha",
+    "stateId": 3658,
+    "latitude": "24.75806000",
+    "longitude": "43.77389000"
+  },
+  {
+    "id": 1650,
+    "name": "Al Adl",
+    "stateId": 83,
+    "latitude": "21.44361000",
+    "longitude": "39.85611000"
+  },
+  {
+    "id": 1651,
+    "name": "Al Adl",
+    "stateId": 2462,
+    "latitude": "21.44361000",
+    "longitude": "39.85611000"
+  },
+  {
+    "id": 1655,
+    "name": "Al Akhal",
+    "stateId": 99,
+    "latitude": "23.31560000",
+    "longitude": "39.85940000"
+  },
+  {
+    "id": 1656,
+    "name": "Al Arţāwīyah",
+    "stateId": 3658,
+    "latitude": "26.50387000",
+    "longitude": "45.34813000"
+  },
+  {
+    "id": 1658,
+    "name": "Al Ashraf",
+    "stateId": 83,
+    "latitude": "21.52360000",
+    "longitude": "39.61670000"
+  },
+  {
+    "id": 1659,
+    "name": "Al Ashraf",
+    "stateId": 2462,
+    "latitude": "21.52360000",
+    "longitude": "39.61670000"
+  },
+  {
+    "id": 1661,
+    "name": "Al Awjām",
+    "stateId": 1180,
+    "latitude": "26.56324000",
+    "longitude": "49.94331000"
+  },
+  {
+    "id": 1664,
+    "name": "Al Badawi",
+    "stateId": 1777,
+    "latitude": "16.63330000",
+    "longitude": "42.86500000"
+  },
+  {
+    "id": 1666,
+    "name": "Al Bahah",
+    "stateId": 3,
+    "latitude": "20.01288000",
+    "longitude": "41.46767000"
+  },
+  {
+    "id": 1667,
+    "name": "Al Bahah",
+    "stateId": 83,
+    "latitude": "20.01288000",
+    "longitude": "41.46767000"
+  },
+  {
+    "id": 1668,
+    "name": "Al Balad",
+    "stateId": 83,
+    "latitude": "21.48780000",
+    "longitude": "39.19360000"
+  },
+  {
+    "id": 1669,
+    "name": "Al Balad",
+    "stateId": 2462,
+    "latitude": "21.48780000",
+    "longitude": "39.19360000"
+  },
+  {
+    "id": 1671,
+    "name": "Al Barabir",
+    "stateId": 83,
+    "latitude": "21.52030000",
+    "longitude": "39.63250000"
+  },
+  {
+    "id": 1672,
+    "name": "Al Barabir",
+    "stateId": 2462,
+    "latitude": "21.52030000",
+    "longitude": "39.63250000"
+  },
+  {
+    "id": 1673,
+    "name": "Al Bardiyah",
+    "stateId": 99,
+    "latitude": "24.04390000",
+    "longitude": "39.60610000"
+  },
+  {
+    "id": 1681,
+    "name": "Al Baţţālīyah",
+    "stateId": 1180,
+    "latitude": "25.43333000",
+    "longitude": "49.63333000"
+  },
+  {
+    "id": 1682,
+    "name": "Al Bi'ar",
+    "stateId": 83,
+    "latitude": "22.64972222",
+    "longitude": "39.67027778"
+  },
+  {
+    "id": 1683,
+    "name": "Al Bi'ar",
+    "stateId": 2462,
+    "latitude": "22.64972222",
+    "longitude": "39.67027778"
+  },
+  {
+    "id": 1684,
+    "name": "Al Biqa'",
+    "stateId": 99,
+    "latitude": "24.38861111",
+    "longitude": "38.59888889"
+  },
+  {
+    "id": 1685,
+    "name": "Al Bir",
+    "stateId": 3658,
+    "latitude": "25.30000000",
+    "longitude": "45.96670000"
+  },
+  {
+    "id": 1686,
+    "name": "Al Birk",
+    "stateId": 83,
+    "latitude": "18.21631000",
+    "longitude": "41.53593000"
+  },
+  {
+    "id": 1687,
+    "name": "Al Birk",
+    "stateId": 2462,
+    "latitude": "18.21631000",
+    "longitude": "41.53593000"
+  },
+  {
+    "id": 1688,
+    "name": "Al Bukayrīyah",
+    "stateId": 109,
+    "latitude": "26.13915000",
+    "longitude": "43.65782000"
+  },
+  {
+    "id": 1690,
+    "name": "Al Buraykah",
+    "stateId": 83,
+    "latitude": "21.78610000",
+    "longitude": "39.71670000"
+  },
+  {
+    "id": 1691,
+    "name": "Al Buraykah",
+    "stateId": 2462,
+    "latitude": "21.78610000",
+    "longitude": "39.71670000"
+  },
+  {
+    "id": 1694,
+    "name": "Al Bustan",
+    "stateId": 99,
+    "latitude": "23.27830000",
+    "longitude": "39.24280000"
+  },
+  {
+    "id": 1701,
+    "name": "Al Faqirah",
+    "stateId": 99,
+    "latitude": "23.42170000",
+    "longitude": "39.70970000"
+  },
+  {
+    "id": 1704,
+    "name": "Al Fawwarah",
+    "stateId": 83,
+    "latitude": "21.83280000",
+    "longitude": "40.16110000"
+  },
+  {
+    "id": 1705,
+    "name": "Al Fawwarah",
+    "stateId": 2462,
+    "latitude": "21.83280000",
+    "longitude": "40.16110000"
+  },
+  {
+    "id": 1706,
+    "name": "Al Faydah",
+    "stateId": 83,
+    "latitude": "21.98440000",
+    "longitude": "39.38470000"
+  },
+  {
+    "id": 1707,
+    "name": "Al Faydah",
+    "stateId": 2462,
+    "latitude": "21.98440000",
+    "longitude": "39.38470000"
+  },
+  {
+    "id": 1709,
+    "name": "Al Fazz",
+    "stateId": 83,
+    "latitude": "21.98330000",
+    "longitude": "39.52220000"
+  },
+  {
+    "id": 1710,
+    "name": "Al Fazz",
+    "stateId": 2462,
+    "latitude": "21.98330000",
+    "longitude": "39.52220000"
+  },
+  {
+    "id": 1717,
+    "name": "Al Furaysh",
+    "stateId": 99,
+    "latitude": "24.22000000",
+    "longitude": "39.28140000"
+  },
+  {
+    "id": 1718,
+    "name": "Al Fuwayliq",
+    "stateId": 99,
+    "latitude": "26.44360000",
+    "longitude": "43.25164000"
+  },
+  {
+    "id": 1719,
+    "name": "Al Fuwayliq",
+    "stateId": 109,
+    "latitude": "26.44360000",
+    "longitude": "43.25164000"
+  },
+  {
+    "id": 1724,
+    "name": "Al Gharith",
+    "stateId": 83,
+    "latitude": "21.60000000",
+    "longitude": "41.88330000"
+  },
+  {
+    "id": 1725,
+    "name": "Al Gharith",
+    "stateId": 2462,
+    "latitude": "21.60000000",
+    "longitude": "41.88330000"
+  },
+  {
+    "id": 1726,
+    "name": "Al Ghassalah",
+    "stateId": 83,
+    "latitude": "21.45000000",
+    "longitude": "39.86670000"
+  },
+  {
+    "id": 1727,
+    "name": "Al Ghassalah",
+    "stateId": 2462,
+    "latitude": "21.45000000",
+    "longitude": "39.86670000"
+  },
+  {
+    "id": 1731,
+    "name": "Al Ghulah",
+    "stateId": 83,
+    "latitude": "21.95000000",
+    "longitude": "39.31670000"
+  },
+  {
+    "id": 1732,
+    "name": "Al Ghulah",
+    "stateId": 2462,
+    "latitude": "21.95000000",
+    "longitude": "39.31670000"
+  },
+  {
+    "id": 1735,
+    "name": "Al Hada",
+    "stateId": 83,
+    "latitude": "21.36860000",
+    "longitude": "40.28470000"
+  },
+  {
+    "id": 1737,
+    "name": "Al Hadrur",
+    "stateId": 1777,
+    "latitude": "16.54360000",
+    "longitude": "42.86720000"
+  },
+  {
+    "id": 1738,
+    "name": "Al Hadā",
+    "stateId": 2462,
+    "latitude": "21.36753000",
+    "longitude": "40.28694000"
+  },
+  {
+    "id": 1739,
+    "name": "Al Hair",
+    "stateId": 3658,
+    "latitude": "24.39072000",
+    "longitude": "46.98677000"
+  },
+  {
+    "id": 1741,
+    "name": "Al Halaqah",
+    "stateId": 83,
+    "latitude": "21.35000000",
+    "longitude": "40.45000000"
+  },
+  {
+    "id": 1742,
+    "name": "Al Halaqah",
+    "stateId": 2462,
+    "latitude": "21.35000000",
+    "longitude": "40.45000000"
+  },
+  {
+    "id": 1744,
+    "name": "Al Hamimah",
+    "stateId": 83,
+    "latitude": "21.51670000",
+    "longitude": "39.63330000"
+  },
+  {
+    "id": 1745,
+    "name": "Al Hamimah",
+    "stateId": 2462,
+    "latitude": "21.51670000",
+    "longitude": "39.63330000"
+  },
+  {
+    "id": 1747,
+    "name": "Al Hanashah",
+    "stateId": 1777,
+    "latitude": "16.55810000",
+    "longitude": "42.76530000"
+  },
+  {
+    "id": 1748,
+    "name": "Al Harani",
+    "stateId": 1777,
+    "latitude": "16.77500000",
+    "longitude": "42.90970000"
+  },
+  {
+    "id": 1749,
+    "name": "Al Harra', Makkah",
+    "stateId": 83,
+    "latitude": "21.95000000",
+    "longitude": "39.48333333"
+  },
+  {
+    "id": 1750,
+    "name": "Al Harra', Makkah",
+    "stateId": 2462,
+    "latitude": "21.95000000",
+    "longitude": "39.48333333"
+  },
+  {
+    "id": 1752,
+    "name": "Al Hasamah",
+    "stateId": 1777,
+    "latitude": "16.68333333",
+    "longitude": "42.92694444"
+  },
+  {
+    "id": 1755,
+    "name": "Al Hawiyah",
+    "stateId": 83,
+    "latitude": "21.42415000",
+    "longitude": "40.49303000"
+  },
+  {
+    "id": 1756,
+    "name": "Al Hawiyah",
+    "stateId": 2462,
+    "latitude": "21.42415000",
+    "longitude": "40.49303000"
+  },
+  {
+    "id": 1760,
+    "name": "Al Hijfar",
+    "stateId": 1777,
+    "latitude": "16.54440000",
+    "longitude": "42.84720000"
+  },
+  {
+    "id": 1764,
+    "name": "Al Hufūf",
+    "stateId": 1180,
+    "latitude": "25.36467000",
+    "longitude": "49.58764000"
+  },
+  {
+    "id": 1768,
+    "name": "Al Isawiyah",
+    "stateId": 95,
+    "latitude": "30.71681000",
+    "longitude": "37.97767000"
+  },
+  {
+    "id": 1769,
+    "name": "Al Iskan",
+    "stateId": 83,
+    "latitude": "21.40000000",
+    "longitude": "39.78330000"
+  },
+  {
+    "id": 1770,
+    "name": "Al Iskan",
+    "stateId": 2462,
+    "latitude": "21.40000000",
+    "longitude": "39.78330000"
+  },
+  {
+    "id": 1772,
+    "name": "Al Jabriyah",
+    "stateId": 99,
+    "latitude": "24.25000000",
+    "longitude": "38.51670000"
+  },
+  {
+    "id": 1773,
+    "name": "Al Jadi",
+    "stateId": 1777,
+    "latitude": "16.64500000",
+    "longitude": "42.99470000"
+  },
+  {
+    "id": 1774,
+    "name": "Al Jadidah",
+    "stateId": 83,
+    "latitude": "21.67030000",
+    "longitude": "40.12640000"
+  },
+  {
+    "id": 1775,
+    "name": "Al Jadidah",
+    "stateId": 2462,
+    "latitude": "21.67030000",
+    "longitude": "40.12640000"
+  },
+  {
+    "id": 1779,
+    "name": "Al Jafr",
+    "stateId": 1180,
+    "latitude": "25.37736000",
+    "longitude": "49.72154000"
+  },
+  {
+    "id": 1781,
+    "name": "Al Jami`ah",
+    "stateId": 83,
+    "latitude": "21.46670000",
+    "longitude": "39.25000000"
+  },
+  {
+    "id": 1782,
+    "name": "Al Jami`ah",
+    "stateId": 2462,
+    "latitude": "21.46670000",
+    "longitude": "39.25000000"
+  },
+  {
+    "id": 1785,
+    "name": "Al Jarādīyah",
+    "stateId": 1777,
+    "latitude": "16.57946000",
+    "longitude": "42.91240000"
+  },
+  {
+    "id": 1786,
+    "name": "Al Jawah",
+    "stateId": 1777,
+    "latitude": "16.95670000",
+    "longitude": "43.02970000"
+  },
+  {
+    "id": 1788,
+    "name": "Al Jid`",
+    "stateId": 83,
+    "latitude": "21.93330000",
+    "longitude": "39.58330000"
+  },
+  {
+    "id": 1789,
+    "name": "Al Jid`",
+    "stateId": 2462,
+    "latitude": "21.93330000",
+    "longitude": "39.58330000"
+  },
+  {
+    "id": 1790,
+    "name": "Al Jirbah",
+    "stateId": 1777,
+    "latitude": "16.92640000",
+    "longitude": "42.88610000"
+  },
+  {
+    "id": 1791,
+    "name": "Al Jissah",
+    "stateId": 99,
+    "latitude": "23.33330000",
+    "longitude": "40.30000000"
+  },
+  {
+    "id": 1792,
+    "name": "Al Ju`ranah",
+    "stateId": 83,
+    "latitude": "21.56670000",
+    "longitude": "39.95000000"
+  },
+  {
+    "id": 1793,
+    "name": "Al Ju`ranah",
+    "stateId": 2462,
+    "latitude": "21.56670000",
+    "longitude": "39.95000000"
+  },
+  {
+    "id": 1796,
+    "name": "Al Jubayl",
+    "stateId": 1180,
+    "latitude": "27.01740000",
+    "longitude": "49.62251000"
+  },
+  {
+    "id": 1798,
+    "name": "Al Jumūm",
+    "stateId": 2462,
+    "latitude": "21.61694000",
+    "longitude": "39.69806000"
+  },
+  {
+    "id": 1799,
+    "name": "Al Jurayfah",
+    "stateId": 3658,
+    "latitude": "25.52932000",
+    "longitude": "45.25644000"
+  },
+  {
+    "id": 1801,
+    "name": "Al Karbus",
+    "stateId": 1777,
+    "latitude": "16.87330000",
+    "longitude": "42.63170000"
+  },
+  {
+    "id": 1804,
+    "name": "Al Kawahilah",
+    "stateId": 1777,
+    "latitude": "16.96140000",
+    "longitude": "42.67250000"
+  },
+  {
+    "id": 1806,
+    "name": "Al Khadra', Jizan",
+    "stateId": 1777,
+    "latitude": "16.58583333",
+    "longitude": "42.96333333"
+  },
+  {
+    "id": 1807,
+    "name": "Al Khadra', Makkah",
+    "stateId": 83,
+    "latitude": "21.46777778",
+    "longitude": "39.90472222"
+  },
+  {
+    "id": 1808,
+    "name": "Al Khadra', Makkah",
+    "stateId": 2462,
+    "latitude": "21.46777778",
+    "longitude": "39.90472222"
+  },
+  {
+    "id": 1809,
+    "name": "Al Khafjī",
+    "stateId": 1180,
+    "latitude": "28.43905000",
+    "longitude": "48.49132000"
+  },
+  {
+    "id": 1810,
+    "name": "Al Khalas",
+    "stateId": 83,
+    "latitude": "21.70000000",
+    "longitude": "39.80000000"
+  },
+  {
+    "id": 1811,
+    "name": "Al Khalas",
+    "stateId": 2462,
+    "latitude": "21.70000000",
+    "longitude": "39.80000000"
+  },
+  {
+    "id": 1813,
+    "name": "Al Khamrah",
+    "stateId": 83,
+    "latitude": "22.43330000",
+    "longitude": "39.46670000"
+  },
+  {
+    "id": 1814,
+    "name": "Al Khamrah",
+    "stateId": 2462,
+    "latitude": "22.43330000",
+    "longitude": "39.46670000"
+  },
+  {
+    "id": 1815,
+    "name": "Al Kharabah, Jizan",
+    "stateId": 1777,
+    "latitude": "16.75580000",
+    "longitude": "42.95470000"
+  },
+  {
+    "id": 1816,
+    "name": "Al Kharadilah",
+    "stateId": 1777,
+    "latitude": "16.92720000",
+    "longitude": "42.62640000"
+  },
+  {
+    "id": 1817,
+    "name": "Al Kharj",
+    "stateId": 3658,
+    "latitude": "24.15541000",
+    "longitude": "47.33457000"
+  },
+  {
+    "id": 1818,
+    "name": "Al Kharma'",
+    "stateId": 99,
+    "latitude": "23.90000000",
+    "longitude": "38.90000000"
+  },
+  {
+    "id": 1819,
+    "name": "Al Khashabiyah",
+    "stateId": 1777,
+    "latitude": "16.94030000",
+    "longitude": "42.64310000"
+  },
+  {
+    "id": 1821,
+    "name": "Al Khaydar",
+    "stateId": 83,
+    "latitude": "21.46940000",
+    "longitude": "40.63060000"
+  },
+  {
+    "id": 1822,
+    "name": "Al Khaydar",
+    "stateId": 2462,
+    "latitude": "21.46940000",
+    "longitude": "40.63060000"
+  },
+  {
+    "id": 1823,
+    "name": "Al Khayf",
+    "stateId": 83,
+    "latitude": "21.68330000",
+    "longitude": "39.73330000"
+  },
+  {
+    "id": 1824,
+    "name": "Al Khayf",
+    "stateId": 2462,
+    "latitude": "21.68330000",
+    "longitude": "39.73330000"
+  },
+  {
+    "id": 1826,
+    "name": "Al Khubah",
+    "stateId": 1777,
+    "latitude": "16.78860000",
+    "longitude": "43.22190000"
+  },
+  {
+    "id": 1827,
+    "name": "Al Khulasah",
+    "stateId": 83,
+    "latitude": "21.68330000",
+    "longitude": "39.91670000"
+  },
+  {
+    "id": 1828,
+    "name": "Al Khulasah",
+    "stateId": 2462,
+    "latitude": "21.68330000",
+    "longitude": "39.91670000"
+  },
+  {
+    "id": 1834,
+    "name": "Al Kidwah",
+    "stateId": 83,
+    "latitude": "21.78330000",
+    "longitude": "39.68330000"
+  },
+  {
+    "id": 1835,
+    "name": "Al Kidwah",
+    "stateId": 2462,
+    "latitude": "21.78330000",
+    "longitude": "39.68330000"
+  },
+  {
+    "id": 1837,
+    "name": "Al Kirs",
+    "stateId": 1777,
+    "latitude": "16.57720000",
+    "longitude": "42.94750000"
+  },
+  {
+    "id": 1840,
+    "name": "Al Kura`",
+    "stateId": 83,
+    "latitude": "21.80000000",
+    "longitude": "39.13330000"
+  },
+  {
+    "id": 1841,
+    "name": "Al Kura`",
+    "stateId": 2462,
+    "latitude": "21.80000000",
+    "longitude": "39.13330000"
+  },
+  {
+    "id": 1844,
+    "name": "Al Luqiyah",
+    "stateId": 1777,
+    "latitude": "16.66060000",
+    "longitude": "43.04000000"
+  },
+  {
+    "id": 1846,
+    "name": "Al Ma`ayin",
+    "stateId": 1777,
+    "latitude": "16.61080000",
+    "longitude": "43.14720000"
+  },
+  {
+    "id": 1847,
+    "name": "Al Ma`rash",
+    "stateId": 83,
+    "latitude": "21.13330000",
+    "longitude": "40.60000000"
+  },
+  {
+    "id": 1848,
+    "name": "Al Ma`rash",
+    "stateId": 2462,
+    "latitude": "21.13330000",
+    "longitude": "40.60000000"
+  },
+  {
+    "id": 1852,
+    "name": "Al Madaya",
+    "stateId": 1777,
+    "latitude": "16.76970000",
+    "longitude": "42.73110000"
+  },
+  {
+    "id": 1853,
+    "name": "Al Madiq, Al Madinah",
+    "stateId": 99,
+    "latitude": "23.32220000",
+    "longitude": "39.62030000"
+  },
+  {
+    "id": 1854,
+    "name": "Al Madiq, Makkah",
+    "stateId": 83,
+    "latitude": "21.67580000",
+    "longitude": "40.13080000"
+  },
+  {
+    "id": 1855,
+    "name": "Al Madiq, Makkah",
+    "stateId": 2462,
+    "latitude": "21.67580000",
+    "longitude": "40.13080000"
+  },
+  {
+    "id": 1857,
+    "name": "Al Maghal",
+    "stateId": 83,
+    "latitude": "21.96670000",
+    "longitude": "39.55000000"
+  },
+  {
+    "id": 1858,
+    "name": "Al Maghal",
+    "stateId": 2462,
+    "latitude": "21.96670000",
+    "longitude": "39.55000000"
+  },
+  {
+    "id": 1863,
+    "name": "Al Mahjar",
+    "stateId": 83,
+    "latitude": "21.43330000",
+    "longitude": "39.20000000"
+  },
+  {
+    "id": 1864,
+    "name": "Al Mahjar",
+    "stateId": 2462,
+    "latitude": "21.43330000",
+    "longitude": "39.20000000"
+  },
+  {
+    "id": 1866,
+    "name": "Al Majāridah",
+    "stateId": 3,
+    "latitude": "19.12361000",
+    "longitude": "41.91111000"
+  },
+  {
+    "id": 1867,
+    "name": "Al Majāridah",
+    "stateId": 2462,
+    "latitude": "19.12361111",
+    "longitude": "41.91111111"
+  },
+  {
+    "id": 1870,
+    "name": "Al Malbanah",
+    "stateId": 99,
+    "latitude": "23.18330000",
+    "longitude": "39.51670000"
+  },
+  {
+    "id": 1871,
+    "name": "Al Mali",
+    "stateId": 1777,
+    "latitude": "16.79530000",
+    "longitude": "42.95360000"
+  },
+  {
+    "id": 1881,
+    "name": "Al Maqrah",
+    "stateId": 83,
+    "latitude": "21.26670000",
+    "longitude": "39.95000000"
+  },
+  {
+    "id": 1882,
+    "name": "Al Maqrah",
+    "stateId": 2462,
+    "latitude": "21.26670000",
+    "longitude": "39.95000000"
+  },
+  {
+    "id": 1885,
+    "name": "Al Markaz",
+    "stateId": 1180,
+    "latitude": "25.40000000",
+    "longitude": "49.73333000"
+  },
+  {
+    "id": 1888,
+    "name": "Al Masarrah",
+    "stateId": 83,
+    "latitude": "21.36670000",
+    "longitude": "40.46670000"
+  },
+  {
+    "id": 1889,
+    "name": "Al Masarrah",
+    "stateId": 2462,
+    "latitude": "21.36670000",
+    "longitude": "40.46670000"
+  },
+  {
+    "id": 1890,
+    "name": "Al Masfalah",
+    "stateId": 83,
+    "latitude": "21.41670000",
+    "longitude": "39.81670000"
+  },
+  {
+    "id": 1891,
+    "name": "Al Masfalah",
+    "stateId": 2462,
+    "latitude": "21.41670000",
+    "longitude": "39.81670000"
+  },
+  {
+    "id": 1893,
+    "name": "Al Mashayikh",
+    "stateId": 83,
+    "latitude": "21.35000000",
+    "longitude": "40.33330000"
+  },
+  {
+    "id": 1894,
+    "name": "Al Mashayikh",
+    "stateId": 2462,
+    "latitude": "21.35000000",
+    "longitude": "40.33330000"
+  },
+  {
+    "id": 1898,
+    "name": "Al Mathnah",
+    "stateId": 83,
+    "latitude": "21.26666667",
+    "longitude": "40.38333333"
+  },
+  {
+    "id": 1899,
+    "name": "Al Mathnah",
+    "stateId": 2462,
+    "latitude": "21.26666667",
+    "longitude": "40.38333333"
+  },
+  {
+    "id": 1904,
+    "name": "Al Mayasam",
+    "stateId": 1777,
+    "latitude": "16.94780000",
+    "longitude": "42.72110000"
+  },
+  {
+    "id": 1915,
+    "name": "Al Mindak",
+    "stateId": 3,
+    "latitude": "20.15888889",
+    "longitude": "41.28333333"
+  },
+  {
+    "id": 1916,
+    "name": "Al Mindak",
+    "stateId": 83,
+    "latitude": "20.15880000",
+    "longitude": "41.28337000"
+  },
+  {
+    "id": 1921,
+    "name": "Al Mithnab",
+    "stateId": 109,
+    "latitude": "25.86012000",
+    "longitude": "44.22228000"
+  },
+  {
+    "id": 1923,
+    "name": "Al Mubarak",
+    "stateId": 83,
+    "latitude": "21.70000000",
+    "longitude": "39.90000000"
+  },
+  {
+    "id": 1924,
+    "name": "Al Mubarak",
+    "stateId": 2462,
+    "latitude": "21.70000000",
+    "longitude": "39.90000000"
+  },
+  {
+    "id": 1925,
+    "name": "Al Mubarraz",
+    "stateId": 1180,
+    "latitude": "25.40768000",
+    "longitude": "49.59028000"
+  },
+  {
+    "id": 1926,
+    "name": "Al Mudawwarah",
+    "stateId": 83,
+    "latitude": "21.26670000",
+    "longitude": "39.96670000"
+  },
+  {
+    "id": 1927,
+    "name": "Al Mudawwarah",
+    "stateId": 2462,
+    "latitude": "21.26670000",
+    "longitude": "39.96670000"
+  },
+  {
+    "id": 1929,
+    "name": "Al Mufrihat",
+    "stateId": 99,
+    "latitude": "24.35000000",
+    "longitude": "39.41670000"
+  },
+  {
+    "id": 1934,
+    "name": "Al Mulayha'",
+    "stateId": 83,
+    "latitude": "21.80000000",
+    "longitude": "40.35000000"
+  },
+  {
+    "id": 1935,
+    "name": "Al Mulayha'",
+    "stateId": 2462,
+    "latitude": "21.80000000",
+    "longitude": "40.35000000"
+  },
+  {
+    "id": 1936,
+    "name": "Al Multasa",
+    "stateId": 99,
+    "latitude": "24.08330000",
+    "longitude": "38.15000000"
+  },
+  {
+    "id": 1937,
+    "name": "Al Munayzilah",
+    "stateId": 1180,
+    "latitude": "25.38333000",
+    "longitude": "49.66667000"
+  },
+  {
+    "id": 1938,
+    "name": "Al Mundassah",
+    "stateId": 83,
+    "latitude": "21.63330000",
+    "longitude": "39.74860000"
+  },
+  {
+    "id": 1939,
+    "name": "Al Mundassah",
+    "stateId": 2462,
+    "latitude": "21.63330000",
+    "longitude": "39.74860000"
+  },
+  {
+    "id": 1941,
+    "name": "Al Muqayti`",
+    "stateId": 83,
+    "latitude": "21.54860000",
+    "longitude": "39.78610000"
+  },
+  {
+    "id": 1942,
+    "name": "Al Muqayti`",
+    "stateId": 2462,
+    "latitude": "21.54860000",
+    "longitude": "39.78610000"
+  },
+  {
+    "id": 1943,
+    "name": "Al Muqr",
+    "stateId": 83,
+    "latitude": "22.00000000",
+    "longitude": "39.38330000"
+  },
+  {
+    "id": 1944,
+    "name": "Al Muqr",
+    "stateId": 2462,
+    "latitude": "22.00000000",
+    "longitude": "39.38330000"
+  },
+  {
+    "id": 1945,
+    "name": "Al Musayjid",
+    "stateId": 99,
+    "latitude": "24.08330000",
+    "longitude": "39.10000000"
+  },
+  {
+    "id": 1948,
+    "name": "Al Muwayh",
+    "stateId": 83,
+    "latitude": "22.43333000",
+    "longitude": "41.75829000"
+  },
+  {
+    "id": 1949,
+    "name": "Al Muwayh",
+    "stateId": 2462,
+    "latitude": "22.43333000",
+    "longitude": "41.75829000"
+  },
+  {
+    "id": 1951,
+    "name": "Al Muţayrifī",
+    "stateId": 1180,
+    "latitude": "25.47878000",
+    "longitude": "49.55824000"
+  },
+  {
+    "id": 1953,
+    "name": "Al Qa'im",
+    "stateId": 1777,
+    "latitude": "16.71944444",
+    "longitude": "42.97666667"
+  },
+  {
+    "id": 1956,
+    "name": "Al Qadimah",
+    "stateId": 83,
+    "latitude": "22.35000000",
+    "longitude": "39.15000000"
+  },
+  {
+    "id": 1957,
+    "name": "Al Qadimah",
+    "stateId": 2462,
+    "latitude": "22.35000000",
+    "longitude": "39.15000000"
+  },
+  {
+    "id": 1961,
+    "name": "Al Qahab",
+    "stateId": 3,
+    "latitude": "18.92560000",
+    "longitude": "41.95500000"
+  },
+  {
+    "id": 1962,
+    "name": "Al Qahab",
+    "stateId": 2462,
+    "latitude": "18.92560000",
+    "longitude": "41.95500000"
+  },
+  {
+    "id": 1966,
+    "name": "Al Qararah",
+    "stateId": 83,
+    "latitude": "21.42890000",
+    "longitude": "39.82810000"
+  },
+  {
+    "id": 1967,
+    "name": "Al Qararah",
+    "stateId": 2462,
+    "latitude": "21.42890000",
+    "longitude": "39.82810000"
+  },
+  {
+    "id": 1968,
+    "name": "Al Qaryat",
+    "stateId": 83,
+    "latitude": "21.46670000",
+    "longitude": "39.20000000"
+  },
+  {
+    "id": 1969,
+    "name": "Al Qaryat",
+    "stateId": 2462,
+    "latitude": "21.46670000",
+    "longitude": "39.20000000"
+  },
+  {
+    "id": 1972,
+    "name": "Al Qawba`iyah",
+    "stateId": 83,
+    "latitude": "21.66670000",
+    "longitude": "39.98330000"
+  },
+  {
+    "id": 1973,
+    "name": "Al Qawba`iyah",
+    "stateId": 2462,
+    "latitude": "21.66670000",
+    "longitude": "39.98330000"
+  },
+  {
+    "id": 1976,
+    "name": "Al Qaţīf",
+    "stateId": 1180,
+    "latitude": "26.56542000",
+    "longitude": "50.00890000"
+  },
+  {
+    "id": 1977,
+    "name": "Al Qirshan",
+    "stateId": 83,
+    "latitude": "21.56670000",
+    "longitude": "39.70000000"
+  },
+  {
+    "id": 1978,
+    "name": "Al Qirshan",
+    "stateId": 2462,
+    "latitude": "21.56670000",
+    "longitude": "39.70000000"
+  },
+  {
+    "id": 1980,
+    "name": "Al Qu`tubah",
+    "stateId": 83,
+    "latitude": "21.93330000",
+    "longitude": "40.36670000"
+  },
+  {
+    "id": 1981,
+    "name": "Al Qu`tubah",
+    "stateId": 2462,
+    "latitude": "21.93330000",
+    "longitude": "40.36670000"
+  },
+  {
+    "id": 1983,
+    "name": "Al Qufayf",
+    "stateId": 83,
+    "latitude": "21.83330000",
+    "longitude": "40.45000000"
+  },
+  {
+    "id": 1984,
+    "name": "Al Qufayf",
+    "stateId": 2462,
+    "latitude": "21.83330000",
+    "longitude": "40.45000000"
+  },
+  {
+    "id": 1985,
+    "name": "Al Quful",
+    "stateId": 1777,
+    "latitude": "16.67330000",
+    "longitude": "43.07890000"
+  },
+  {
+    "id": 1988,
+    "name": "Al Qurayb",
+    "stateId": 1777,
+    "latitude": "16.97500000",
+    "longitude": "42.72530000"
+  },
+  {
+    "id": 1989,
+    "name": "Al Qurayn",
+    "stateId": 1180,
+    "latitude": "25.48333000",
+    "longitude": "49.60000000"
+  },
+  {
+    "id": 1991,
+    "name": "Al Qushashiyah",
+    "stateId": 83,
+    "latitude": "21.43330000",
+    "longitude": "39.83330000"
+  },
+  {
+    "id": 1992,
+    "name": "Al Qushashiyah",
+    "stateId": 2462,
+    "latitude": "21.43330000",
+    "longitude": "39.83330000"
+  },
+  {
+    "id": 1993,
+    "name": "Al Quwah",
+    "stateId": 1777,
+    "latitude": "16.79940000",
+    "longitude": "43.22500000"
+  },
+  {
+    "id": 1999,
+    "name": "Al Qārah",
+    "stateId": 1180,
+    "latitude": "25.41667000",
+    "longitude": "49.66667000"
+  },
+  {
+    "id": 2003,
+    "name": "Al Thybiyah",
+    "stateId": 99,
+    "latitude": "26.02700000",
+    "longitude": "43.15700000"
+  },
+  {
+    "id": 2004,
+    "name": "Al Thybiyah",
+    "stateId": 109,
+    "latitude": "26.02700000",
+    "longitude": "43.15700000"
+  },
+  {
+    "id": 2005,
+    "name": "Al Ubaylah",
+    "stateId": 1180,
+    "latitude": "21.98417000",
+    "longitude": "50.93966000"
+  },
+  {
+    "id": 2006,
+    "name": "Al Ukhaydir",
+    "stateId": 83,
+    "latitude": "21.93330000",
+    "longitude": "40.01670000"
+  },
+  {
+    "id": 2007,
+    "name": "Al Ukhaydir",
+    "stateId": 2462,
+    "latitude": "21.93330000",
+    "longitude": "40.01670000"
+  },
+  {
+    "id": 2010,
+    "name": "Al Waht",
+    "stateId": 83,
+    "latitude": "21.23330000",
+    "longitude": "40.35000000"
+  },
+  {
+    "id": 2011,
+    "name": "Al Waht",
+    "stateId": 2462,
+    "latitude": "21.23330000",
+    "longitude": "40.35000000"
+  },
+  {
+    "id": 2012,
+    "name": "Al Wajh",
+    "stateId": 4268,
+    "latitude": "26.24551000",
+    "longitude": "36.45249000"
+  },
+  {
+    "id": 2014,
+    "name": "Al Wasili",
+    "stateId": 1777,
+    "latitude": "16.94690000",
+    "longitude": "42.69030000"
+  },
+  {
+    "id": 2016,
+    "name": "Al Wuday",
+    "stateId": 99,
+    "latitude": "24.17890000",
+    "longitude": "39.54810000"
+  },
+  {
+    "id": 2019,
+    "name": "Al `Awali",
+    "stateId": 99,
+    "latitude": "24.45000000",
+    "longitude": "39.61670000"
+  },
+  {
+    "id": 2020,
+    "name": "Al `Ulayin",
+    "stateId": 1777,
+    "latitude": "17.15000000",
+    "longitude": "43.17080000"
+  },
+  {
+    "id": 2021,
+    "name": "Al `Uqul",
+    "stateId": 99,
+    "latitude": "24.50000000",
+    "longitude": "39.81670000"
+  },
+  {
+    "id": 2022,
+    "name": "Al `Usaylah",
+    "stateId": 1777,
+    "latitude": "16.92030000",
+    "longitude": "42.73530000"
+  },
+  {
+    "id": 2023,
+    "name": "Al Ābār",
+    "stateId": 83,
+    "latitude": "21.09810000",
+    "longitude": "39.91030000"
+  },
+  {
+    "id": 2024,
+    "name": "Al Ābār",
+    "stateId": 2462,
+    "latitude": "21.09810000",
+    "longitude": "39.91030000"
+  },
+  {
+    "id": 2046,
+    "name": "Al-Awamiyah",
+    "stateId": 1180,
+    "latitude": "26.58333300",
+    "longitude": "49.98333300"
+  },
+  {
+    "id": 2047,
+    "name": "Al-Awjam",
+    "stateId": 1180,
+    "latitude": "26.55830000",
+    "longitude": "49.95030000"
+  },
+  {
+    "id": 2049,
+    "name": "Al-Haditha",
+    "stateId": 95,
+    "latitude": "31.45601100",
+    "longitude": "37.14814000"
+  },
+  {
+    "id": 2054,
+    "name": "Al-Jafr",
+    "stateId": 99,
+    "latitude": "25.41666667",
+    "longitude": "49.61666667"
+  },
+  {
+    "id": 2059,
+    "name": "Al-Mubarraz",
+    "stateId": 1180,
+    "latitude": "25.44160000",
+    "longitude": "49.66420000"
+  },
+  {
+    "id": 2064,
+    "name": "Al-Ula",
+    "stateId": 99,
+    "latitude": "26.60853000",
+    "longitude": "37.92316000"
+  },
+  {
+    "id": 4958,
+    "name": "An Najamiyah",
+    "stateId": 1777,
+    "latitude": "16.56470000",
+    "longitude": "42.94390000"
+  },
+  {
+    "id": 4959,
+    "name": "An Nimāş",
+    "stateId": 3,
+    "latitude": "19.14547000",
+    "longitude": "42.12009000"
+  },
+  {
+    "id": 5940,
+    "name": "Ar Rabwah as Sufla",
+    "stateId": 83,
+    "latitude": "21.95530000",
+    "longitude": "39.43670000"
+  },
+  {
+    "id": 5941,
+    "name": "Ar Rabwah as Sufla",
+    "stateId": 2462,
+    "latitude": "21.95530000",
+    "longitude": "39.43670000"
+  },
+  {
+    "id": 5943,
+    "name": "Ar Rafah",
+    "stateId": 83,
+    "latitude": "21.51670000",
+    "longitude": "40.20000000"
+  },
+  {
+    "id": 5944,
+    "name": "Ar Rafah",
+    "stateId": 2462,
+    "latitude": "21.51670000",
+    "longitude": "40.20000000"
+  },
+  {
+    "id": 5948,
+    "name": "Ar Rass",
+    "stateId": 99,
+    "latitude": "25.86666667",
+    "longitude": "43.50000000"
+  },
+  {
+    "id": 5949,
+    "name": "Ar Rass",
+    "stateId": 109,
+    "latitude": "25.86944000",
+    "longitude": "43.49730000"
+  },
+  {
+    "id": 5952,
+    "name": "Ar Rawdah ash Shamaliyah",
+    "stateId": 83,
+    "latitude": "21.73330000",
+    "longitude": "39.96670000"
+  },
+  {
+    "id": 5953,
+    "name": "Ar Rawdah ash Shamaliyah",
+    "stateId": 2462,
+    "latitude": "21.73330000",
+    "longitude": "39.96670000"
+  },
+  {
+    "id": 5955,
+    "name": "Ar Rayn",
+    "stateId": 3658,
+    "latitude": "23.54995000",
+    "longitude": "45.50463000"
+  },
+  {
+    "id": 5959,
+    "name": "Ar Rudaymah",
+    "stateId": 83,
+    "latitude": "21.76670000",
+    "longitude": "39.68330000"
+  },
+  {
+    "id": 5960,
+    "name": "Ar Rudaymah",
+    "stateId": 2462,
+    "latitude": "21.76670000",
+    "longitude": "39.68330000"
+  },
+  {
+    "id": 5963,
+    "name": "Ar Rukubah",
+    "stateId": 1777,
+    "latitude": "16.62220000",
+    "longitude": "42.96750000"
+  },
+  {
+    "id": 6105,
+    "name": "Arar",
+    "stateId": 109,
+    "latitude": "30.98333333",
+    "longitude": "41.01666667"
+  },
+  {
+    "id": 6106,
+    "name": "Arar",
+    "stateId": 3019,
+    "latitude": "30.97531000",
+    "longitude": "41.03808000"
+  },
+  {
+    "id": 7030,
+    "name": "Arya`",
+    "stateId": 83,
+    "latitude": "21.08560000",
+    "longitude": "40.62390000"
+  },
+  {
+    "id": 7031,
+    "name": "Arya`",
+    "stateId": 2462,
+    "latitude": "21.08560000",
+    "longitude": "40.62390000"
+  },
+  {
+    "id": 7081,
+    "name": "As Sadayir",
+    "stateId": 99,
+    "latitude": "24.25000000",
+    "longitude": "39.18330000"
+  },
+  {
+    "id": 7083,
+    "name": "As Sadr",
+    "stateId": 83,
+    "latitude": "21.51890000",
+    "longitude": "40.19750000"
+  },
+  {
+    "id": 7084,
+    "name": "As Sadr",
+    "stateId": 2462,
+    "latitude": "21.51890000",
+    "longitude": "40.19750000"
+  },
+  {
+    "id": 7085,
+    "name": "As Saffānīyah",
+    "stateId": 1180,
+    "latitude": "27.97083000",
+    "longitude": "48.73000000"
+  },
+  {
+    "id": 7087,
+    "name": "As Safra'",
+    "stateId": 99,
+    "latitude": "24.01277778",
+    "longitude": "38.92277778"
+  },
+  {
+    "id": 7091,
+    "name": "As Salamiyah",
+    "stateId": 3658,
+    "latitude": "24.20154000",
+    "longitude": "47.28872000"
+  },
+  {
+    "id": 7096,
+    "name": "As Samd ash Shamali",
+    "stateId": 83,
+    "latitude": "21.67500000",
+    "longitude": "39.75000000"
+  },
+  {
+    "id": 7097,
+    "name": "As Samd ash Shamali",
+    "stateId": 2462,
+    "latitude": "21.67500000",
+    "longitude": "39.75000000"
+  },
+  {
+    "id": 7104,
+    "name": "As Sayl al Kabir",
+    "stateId": 83,
+    "latitude": "21.62640000",
+    "longitude": "40.41530000"
+  },
+  {
+    "id": 7105,
+    "name": "As Sayl al Kabir",
+    "stateId": 2462,
+    "latitude": "21.62640000",
+    "longitude": "40.41530000"
+  },
+  {
+    "id": 7106,
+    "name": "As Sayl as Saghir",
+    "stateId": 83,
+    "latitude": "21.50640000",
+    "longitude": "40.48220000"
+  },
+  {
+    "id": 7107,
+    "name": "As Sayl as Saghir",
+    "stateId": 2462,
+    "latitude": "21.50640000",
+    "longitude": "40.48220000"
+  },
+  {
+    "id": 7109,
+    "name": "As Sifyani",
+    "stateId": 83,
+    "latitude": "21.47560000",
+    "longitude": "39.84310000"
+  },
+  {
+    "id": 7110,
+    "name": "As Sifyani",
+    "stateId": 2462,
+    "latitude": "21.47560000",
+    "longitude": "39.84310000"
+  },
+  {
+    "id": 7113,
+    "name": "As Sudayrah, Makkah",
+    "stateId": 83,
+    "latitude": "21.36190000",
+    "longitude": "40.85470000"
+  },
+  {
+    "id": 7114,
+    "name": "As Sudayrah, Makkah",
+    "stateId": 2462,
+    "latitude": "21.36190000",
+    "longitude": "40.85470000"
+  },
+  {
+    "id": 7117,
+    "name": "As Sulayyil",
+    "stateId": 3658,
+    "latitude": "20.46067000",
+    "longitude": "45.57792000"
+  },
+  {
+    "id": 7118,
+    "name": "As Sumariyah",
+    "stateId": 99,
+    "latitude": "24.92140000",
+    "longitude": "39.61780000"
+  },
+  {
+    "id": 7120,
+    "name": "As Suwadah",
+    "stateId": 83,
+    "latitude": "21.13390000",
+    "longitude": "40.51170000"
+  },
+  {
+    "id": 7121,
+    "name": "As Suwadah",
+    "stateId": 2462,
+    "latitude": "21.13390000",
+    "longitude": "40.51170000"
+  },
+  {
+    "id": 7123,
+    "name": "As Suwayriqiyah",
+    "stateId": 99,
+    "latitude": "23.35000000",
+    "longitude": "40.31670000"
+  },
+  {
+    "id": 7209,
+    "name": "Ash Shafā",
+    "stateId": 2462,
+    "latitude": "21.07210000",
+    "longitude": "40.31185000"
+  },
+  {
+    "id": 7214,
+    "name": "Ash Shajwah",
+    "stateId": 83,
+    "latitude": "21.66440000",
+    "longitude": "40.01140000"
+  },
+  {
+    "id": 7215,
+    "name": "Ash Shajwah",
+    "stateId": 2462,
+    "latitude": "21.66440000",
+    "longitude": "40.01140000"
+  },
+  {
+    "id": 7217,
+    "name": "Ash Shamiyah",
+    "stateId": 83,
+    "latitude": "21.84110000",
+    "longitude": "39.52440000"
+  },
+  {
+    "id": 7218,
+    "name": "Ash Shamiyah",
+    "stateId": 2462,
+    "latitude": "21.84110000",
+    "longitude": "39.52440000"
+  },
+  {
+    "id": 7219,
+    "name": "Ash Shara'i`",
+    "stateId": 83,
+    "latitude": "21.46305556",
+    "longitude": "39.94611111"
+  },
+  {
+    "id": 7220,
+    "name": "Ash Shara'i`",
+    "stateId": 2462,
+    "latitude": "21.46305556",
+    "longitude": "39.94611111"
+  },
+  {
+    "id": 7224,
+    "name": "Ash Shaybi",
+    "stateId": 83,
+    "latitude": "21.69580000",
+    "longitude": "39.94170000"
+  },
+  {
+    "id": 7225,
+    "name": "Ash Shaybi",
+    "stateId": 2462,
+    "latitude": "21.69580000",
+    "longitude": "39.94170000"
+  },
+  {
+    "id": 7229,
+    "name": "Ash Shi`b",
+    "stateId": 83,
+    "latitude": "21.96890000",
+    "longitude": "39.48610000"
+  },
+  {
+    "id": 7230,
+    "name": "Ash Shi`b",
+    "stateId": 2462,
+    "latitude": "21.96890000",
+    "longitude": "39.48610000"
+  },
+  {
+    "id": 7232,
+    "name": "Ash Shishah",
+    "stateId": 83,
+    "latitude": "21.35030000",
+    "longitude": "39.89190000"
+  },
+  {
+    "id": 7233,
+    "name": "Ash Shishah",
+    "stateId": 2462,
+    "latitude": "21.35030000",
+    "longitude": "39.89190000"
+  },
+  {
+    "id": 7234,
+    "name": "Ash Shufayyah",
+    "stateId": 99,
+    "latitude": "23.81670000",
+    "longitude": "39.15000000"
+  },
+  {
+    "id": 7236,
+    "name": "Ash Shumaysi",
+    "stateId": 83,
+    "latitude": "21.58330000",
+    "longitude": "39.68330000"
+  },
+  {
+    "id": 7237,
+    "name": "Ash Shumaysi",
+    "stateId": 2462,
+    "latitude": "21.58330000",
+    "longitude": "39.68330000"
+  },
+  {
+    "id": 7238,
+    "name": "Ash Shuqayq",
+    "stateId": 1777,
+    "latitude": "17.70305556",
+    "longitude": "42.02944444"
+  },
+  {
+    "id": 7239,
+    "name": "Ash Shuwaybit",
+    "stateId": 83,
+    "latitude": "21.37970000",
+    "longitude": "40.51940000"
+  },
+  {
+    "id": 7240,
+    "name": "Ash Shuwaybit",
+    "stateId": 2462,
+    "latitude": "21.37970000",
+    "longitude": "40.51940000"
+  },
+  {
+    "id": 7364,
+    "name": "Asira",
+    "stateId": 99,
+    "latitude": "24.33330000",
+    "longitude": "38.63330000"
+  },
+  {
+    "id": 7541,
+    "name": "At Tan`im",
+    "stateId": 83,
+    "latitude": "21.48250000",
+    "longitude": "39.80500000"
+  },
+  {
+    "id": 7542,
+    "name": "At Tan`im",
+    "stateId": 2462,
+    "latitude": "21.48250000",
+    "longitude": "39.80500000"
+  },
+  {
+    "id": 7543,
+    "name": "At Tarfa'",
+    "stateId": 83,
+    "latitude": "21.70638889",
+    "longitude": "39.87138889"
+  },
+  {
+    "id": 7544,
+    "name": "At Tarfa'",
+    "stateId": 2462,
+    "latitude": "21.70638889",
+    "longitude": "39.87138889"
+  },
+  {
+    "id": 7548,
+    "name": "At Turqi",
+    "stateId": 83,
+    "latitude": "21.94920000",
+    "longitude": "39.41310000"
+  },
+  {
+    "id": 7549,
+    "name": "At Turqi",
+    "stateId": 2462,
+    "latitude": "21.94920000",
+    "longitude": "39.41310000"
+  },
+  {
+    "id": 7551,
+    "name": "At Tūbī",
+    "stateId": 1180,
+    "latitude": "26.55778000",
+    "longitude": "49.99167000"
+  },
+  {
+    "id": 8469,
+    "name": "Az Zaymah",
+    "stateId": 83,
+    "latitude": "21.61860000",
+    "longitude": "40.11330000"
+  },
+  {
+    "id": 8470,
+    "name": "Az Zaymah",
+    "stateId": 2462,
+    "latitude": "21.61860000",
+    "longitude": "40.11330000"
+  },
+  {
+    "id": 8471,
+    "name": "Az Zilal",
+    "stateId": 83,
+    "latitude": "21.48890000",
+    "longitude": "39.59420000"
+  },
+  {
+    "id": 8472,
+    "name": "Az Zilal",
+    "stateId": 2462,
+    "latitude": "21.48890000",
+    "longitude": "39.59420000"
+  },
+  {
+    "id": 8474,
+    "name": "Az Zughbah",
+    "stateId": 83,
+    "latitude": "21.71670000",
+    "longitude": "39.94580000"
+  },
+  {
+    "id": 8475,
+    "name": "Az Zughbah",
+    "stateId": 2462,
+    "latitude": "21.71670000",
+    "longitude": "39.94580000"
+  },
+  {
+    "id": 8477,
+    "name": "Az Zulfī",
+    "stateId": 3658,
+    "latitude": "26.29945000",
+    "longitude": "44.81542000"
+  },
+  {
+    "id": 8478,
+    "name": "Az Zurra`",
+    "stateId": 83,
+    "latitude": "21.91060000",
+    "longitude": "39.40000000"
+  },
+  {
+    "id": 8479,
+    "name": "Az Zurra`",
+    "stateId": 2462,
+    "latitude": "21.91060000",
+    "longitude": "39.40000000"
+  },
+  {
+    "id": 8480,
+    "name": "Az Zuwayb",
+    "stateId": 83,
+    "latitude": "21.91670000",
+    "longitude": "39.96940000"
+  },
+  {
+    "id": 8481,
+    "name": "Az Zuwayb",
+    "stateId": 2462,
+    "latitude": "21.91670000",
+    "longitude": "39.96940000"
+  },
+  {
+    "id": 8625,
+    "name": "Aţ Ţaraf",
+    "stateId": 1180,
+    "latitude": "25.36232000",
+    "longitude": "49.72757000"
+  },
+  {
+    "id": 9053,
+    "name": "Badr Ḩunayn",
+    "stateId": 99,
+    "latitude": "23.78292000",
+    "longitude": "38.79047000"
+  },
+  {
+    "id": 9263,
+    "name": "Bahrat al Qadimah",
+    "stateId": 83,
+    "latitude": "21.41330000",
+    "longitude": "39.49390000"
+  },
+  {
+    "id": 9264,
+    "name": "Bahrat al Qadimah",
+    "stateId": 2462,
+    "latitude": "21.41330000",
+    "longitude": "39.49390000"
+  },
+  {
+    "id": 9273,
+    "name": "Bahwil",
+    "stateId": 83,
+    "latitude": "22.42940000",
+    "longitude": "39.42940000"
+  },
+  {
+    "id": 9274,
+    "name": "Bahwil",
+    "stateId": 2462,
+    "latitude": "22.42940000",
+    "longitude": "39.42940000"
+  },
+  {
+    "id": 9461,
+    "name": "Bakhshat Yamani",
+    "stateId": 1777,
+    "latitude": "16.89860000",
+    "longitude": "42.59890000"
+  },
+  {
+    "id": 10461,
+    "name": "Baq`a'",
+    "stateId": 99,
+    "latitude": "24.21666667",
+    "longitude": "38.71666667"
+  },
+  {
+    "id": 10521,
+    "name": "Baranah",
+    "stateId": 83,
+    "latitude": "21.55420000",
+    "longitude": "39.82220000"
+  },
+  {
+    "id": 10522,
+    "name": "Baranah",
+    "stateId": 2462,
+    "latitude": "21.55420000",
+    "longitude": "39.82220000"
+  },
+  {
+    "id": 11100,
+    "name": "Bartiyah",
+    "stateId": 99,
+    "latitude": "24.28330000",
+    "longitude": "38.58330000"
+  },
+  {
+    "id": 11176,
+    "name": "Barzah",
+    "stateId": 83,
+    "latitude": "21.98000000",
+    "longitude": "39.67560000"
+  },
+  {
+    "id": 11177,
+    "name": "Barzah",
+    "stateId": 2462,
+    "latitude": "21.98000000",
+    "longitude": "39.67560000"
+  },
+  {
+    "id": 11282,
+    "name": "Bashm",
+    "stateId": 83,
+    "latitude": "21.48220000",
+    "longitude": "39.82080000"
+  },
+  {
+    "id": 11283,
+    "name": "Bashm",
+    "stateId": 2462,
+    "latitude": "21.48220000",
+    "longitude": "39.82080000"
+  },
+  {
+    "id": 13999,
+    "name": "Bi'r al Mashi",
+    "stateId": 99,
+    "latitude": "24.21666667",
+    "longitude": "39.55000000"
+  },
+  {
+    "id": 14572,
+    "name": "Birkah",
+    "stateId": 99,
+    "latitude": "23.82030000",
+    "longitude": "38.85970000"
+  },
+  {
+    "id": 19084,
+    "name": "Buraidah",
+    "stateId": 99,
+    "latitude": "26.33333333",
+    "longitude": "43.96666667"
+  },
+  {
+    "id": 19085,
+    "name": "Buraidah",
+    "stateId": 109,
+    "latitude": "26.33333333",
+    "longitude": "43.96666667"
+  },
+  {
+    "id": 19094,
+    "name": "Buraydah",
+    "stateId": 109,
+    "latitude": "26.32599000",
+    "longitude": "43.97497000"
+  },
+  {
+    "id": 19096,
+    "name": "Buraykah",
+    "stateId": 83,
+    "latitude": "22.34440000",
+    "longitude": "39.32000000"
+  },
+  {
+    "id": 19097,
+    "name": "Buraykah",
+    "stateId": 2462,
+    "latitude": "22.34440000",
+    "longitude": "39.32000000"
+  },
+  {
+    "id": 19098,
+    "name": "Burayman",
+    "stateId": 83,
+    "latitude": "21.63750000",
+    "longitude": "39.22640000"
+  },
+  {
+    "id": 19099,
+    "name": "Burayman",
+    "stateId": 2462,
+    "latitude": "21.63750000",
+    "longitude": "39.22640000"
+  },
+  {
+    "id": 20094,
+    "name": "CITY GHRAN",
+    "stateId": 83,
+    "latitude": "21.97380000",
+    "longitude": "39.36820000"
+  },
+  {
+    "id": 20095,
+    "name": "CITY GHRAN",
+    "stateId": 2462,
+    "latitude": "21.97380000",
+    "longitude": "39.36820000"
+  },
+  {
+    "id": 34845,
+    "name": "Dabyah",
+    "stateId": 83,
+    "latitude": "22.42470000",
+    "longitude": "39.44610000"
+  },
+  {
+    "id": 34846,
+    "name": "Dabyah",
+    "stateId": 2462,
+    "latitude": "22.42470000",
+    "longitude": "39.44610000"
+  },
+  {
+    "id": 34927,
+    "name": "Dahaban",
+    "stateId": 83,
+    "latitude": "21.93333333",
+    "longitude": "39.11666667"
+  },
+  {
+    "id": 34928,
+    "name": "Dahaban",
+    "stateId": 2462,
+    "latitude": "21.93333333",
+    "longitude": "39.11666667"
+  },
+  {
+    "id": 35165,
+    "name": "Dammam",
+    "stateId": 1180,
+    "latitude": "26.43442000",
+    "longitude": "50.10326000"
+  },
+  {
+    "id": 35606,
+    "name": "Dawadmi",
+    "stateId": 3658,
+    "latitude": "24.50772000",
+    "longitude": "44.39237000"
+  },
+  {
+    "id": 36738,
+    "name": "Dhahran",
+    "stateId": 1180,
+    "latitude": "26.28864000",
+    "longitude": "50.11396000"
+  },
+  {
+    "id": 37216,
+    "name": "Diriyah",
+    "stateId": 3658,
+    "latitude": "24.75187000",
+    "longitude": "46.53874000"
+  },
+  {
+    "id": 38649,
+    "name": "Duba",
+    "stateId": 4268,
+    "latitude": "27.35134000",
+    "longitude": "35.69014000"
+  },
+  {
+    "id": 38766,
+    "name": "Dughaybjah",
+    "stateId": 83,
+    "latitude": "22.59030000",
+    "longitude": "41.35970000"
+  },
+  {
+    "id": 38767,
+    "name": "Dughaybjah",
+    "stateId": 2462,
+    "latitude": "22.59030000",
+    "longitude": "41.35970000"
+  },
+  {
+    "id": 38792,
+    "name": "Dukhnah",
+    "stateId": 99,
+    "latitude": "25.35621000",
+    "longitude": "43.62268000"
+  },
+  {
+    "id": 38793,
+    "name": "Dukhnah",
+    "stateId": 109,
+    "latitude": "25.35621000",
+    "longitude": "43.62268000"
+  },
+  {
+    "id": 43493,
+    "name": "Far`",
+    "stateId": 99,
+    "latitude": "23.81670000",
+    "longitude": "38.86670000"
+  },
+  {
+    "id": 43512,
+    "name": "Farasān",
+    "stateId": 1777,
+    "latitude": "16.70222000",
+    "longitude": "42.11833000"
+  },
+  {
+    "id": 43703,
+    "name": "Fayd",
+    "stateId": 83,
+    "latitude": "21.91720000",
+    "longitude": "39.38830000"
+  },
+  {
+    "id": 43704,
+    "name": "Fayd",
+    "stateId": 2462,
+    "latitude": "21.91720000",
+    "longitude": "39.38830000"
+  },
+  {
+    "id": 44158,
+    "name": "Fiji",
+    "stateId": 99,
+    "latitude": "24.26666667",
+    "longitude": "38.56666667"
+  },
+  {
+    "id": 48343,
+    "name": "Ghawiyah",
+    "stateId": 1777,
+    "latitude": "16.56500000",
+    "longitude": "43.11080000"
+  },
+  {
+    "id": 48425,
+    "name": "Ghran",
+    "stateId": 83,
+    "latitude": "21.98027000",
+    "longitude": "39.36521000"
+  },
+  {
+    "id": 48426,
+    "name": "Ghran",
+    "stateId": 2462,
+    "latitude": "21.98027000",
+    "longitude": "39.36521000"
+  },
+  {
+    "id": 52490,
+    "name": "Ha'il",
+    "stateId": 1506,
+    "latitude": "27.52188000",
+    "longitude": "41.69073000"
+  },
+  {
+    "id": 52491,
+    "name": "Ha'il ",
+    "stateId": 1180,
+    "latitude": "27.51666667",
+    "longitude": "41.68333333"
+  },
+  {
+    "id": 52596,
+    "name": "Hadda'",
+    "stateId": 83,
+    "latitude": "21.45027778",
+    "longitude": "39.55444444"
+  },
+  {
+    "id": 52597,
+    "name": "Hadda'",
+    "stateId": 2462,
+    "latitude": "21.45027778",
+    "longitude": "39.55444444"
+  },
+  {
+    "id": 52598,
+    "name": "Haddat ash Sham",
+    "stateId": 83,
+    "latitude": "21.79670000",
+    "longitude": "39.68330000"
+  },
+  {
+    "id": 52599,
+    "name": "Haddat ash Sham",
+    "stateId": 2462,
+    "latitude": "21.79670000",
+    "longitude": "39.68330000"
+  },
+  {
+    "id": 52614,
+    "name": "Hadhah",
+    "stateId": 83,
+    "latitude": "21.65250000",
+    "longitude": "40.01420000"
+  },
+  {
+    "id": 52615,
+    "name": "Hadhah",
+    "stateId": 2462,
+    "latitude": "21.65250000",
+    "longitude": "40.01420000"
+  },
+  {
+    "id": 52646,
+    "name": "Hafar Al-Batin",
+    "stateId": 1180,
+    "latitude": "28.43279000",
+    "longitude": "45.97077000"
+  },
+  {
+    "id": 52778,
+    "name": "Hajrah",
+    "stateId": 3,
+    "latitude": "20.23333333",
+    "longitude": "41.05000000"
+  },
+  {
+    "id": 52779,
+    "name": "Hajrah",
+    "stateId": 83,
+    "latitude": "20.23333333",
+    "longitude": "41.05000000"
+  },
+  {
+    "id": 52780,
+    "name": "Hajur",
+    "stateId": 83,
+    "latitude": "23.01780000",
+    "longitude": "39.73030000"
+  },
+  {
+    "id": 52781,
+    "name": "Hajur",
+    "stateId": 2462,
+    "latitude": "23.01780000",
+    "longitude": "39.73030000"
+  },
+  {
+    "id": 52798,
+    "name": "Halamah",
+    "stateId": 83,
+    "latitude": "21.95420000",
+    "longitude": "39.70280000"
+  },
+  {
+    "id": 52799,
+    "name": "Halamah",
+    "stateId": 2462,
+    "latitude": "21.95420000",
+    "longitude": "39.70280000"
+  },
+  {
+    "id": 52801,
+    "name": "Halat Ammar",
+    "stateId": 95,
+    "latitude": "29.15944444",
+    "longitude": "36.07500000"
+  },
+  {
+    "id": 52952,
+    "name": "Hamayyah",
+    "stateId": 1777,
+    "latitude": "16.98940000",
+    "longitude": "43.16030000"
+  },
+  {
+    "id": 52974,
+    "name": "Hamdah",
+    "stateId": 1777,
+    "latitude": "16.76190000",
+    "longitude": "42.92220000"
+  },
+  {
+    "id": 53252,
+    "name": "Haradh",
+    "stateId": 1180,
+    "latitude": "24.14555556",
+    "longitude": "49.06527778"
+  },
+  {
+    "id": 53381,
+    "name": "Harmah",
+    "stateId": 3658,
+    "latitude": "25.91666667",
+    "longitude": "45.33333333"
+  },
+  {
+    "id": 53520,
+    "name": "Harthiyah",
+    "stateId": 99,
+    "latitude": "24.25000000",
+    "longitude": "38.55000000"
+  },
+  {
+    "id": 53569,
+    "name": "Hasa, Al Madinah",
+    "stateId": 99,
+    "latitude": "24.28333333",
+    "longitude": "38.60000000"
+  },
+  {
+    "id": 53895,
+    "name": "Haylat Radi al Baham",
+    "stateId": 99,
+    "latitude": "24.08390000",
+    "longitude": "39.72500000"
+  },
+  {
+    "id": 56740,
+    "name": "Husayniyah",
+    "stateId": 99,
+    "latitude": "23.86666667",
+    "longitude": "38.90000000"
+  },
+  {
+    "id": 56749,
+    "name": "Husnah",
+    "stateId": 83,
+    "latitude": "21.80000000",
+    "longitude": "39.59166667"
+  },
+  {
+    "id": 56750,
+    "name": "Husnah",
+    "stateId": 2462,
+    "latitude": "21.80000000",
+    "longitude": "39.59166667"
+  },
+  {
+    "id": 59695,
+    "name": "Jadidah",
+    "stateId": 99,
+    "latitude": "23.81670000",
+    "longitude": "38.83330000"
+  },
+  {
+    "id": 59799,
+    "name": "Jalajil",
+    "stateId": 3658,
+    "latitude": "25.66666667",
+    "longitude": "45.45000000"
+  },
+  {
+    "id": 60135,
+    "name": "Jarwal",
+    "stateId": 83,
+    "latitude": "21.43330000",
+    "longitude": "39.81670000"
+  },
+  {
+    "id": 60136,
+    "name": "Jarwal",
+    "stateId": 2462,
+    "latitude": "21.43330000",
+    "longitude": "39.81670000"
+  },
+  {
+    "id": 60306,
+    "name": "Jeddah",
+    "stateId": 83,
+    "latitude": "21.54277778",
+    "longitude": "39.17277778"
+  },
+  {
+    "id": 60307,
+    "name": "Jeddah",
+    "stateId": 2462,
+    "latitude": "21.54238000",
+    "longitude": "39.19797000"
+  },
+  {
+    "id": 60810,
+    "name": "Jizan",
+    "stateId": 1777,
+    "latitude": "16.88917000",
+    "longitude": "42.55111000"
+  },
+  {
+    "id": 61226,
+    "name": "Jubbah",
+    "stateId": 1180,
+    "latitude": "28.00620000",
+    "longitude": "40.94160000"
+  },
+  {
+    "id": 61227,
+    "name": "Jubbah",
+    "stateId": 1506,
+    "latitude": "28.00620000",
+    "longitude": "40.94160000"
+  },
+  {
+    "id": 61263,
+    "name": "Juha, Saudi Arabia",
+    "stateId": 1777,
+    "latitude": "16.66940000",
+    "longitude": "42.89220000"
+  },
+  {
+    "id": 61279,
+    "name": "Julayjilah",
+    "stateId": 1180,
+    "latitude": "25.50000000",
+    "longitude": "49.60000000"
+  },
+  {
+    "id": 61280,
+    "name": "Julayyil",
+    "stateId": 83,
+    "latitude": "21.95830000",
+    "longitude": "39.75830000"
+  },
+  {
+    "id": 61281,
+    "name": "Julayyil",
+    "stateId": 2462,
+    "latitude": "21.95830000",
+    "longitude": "39.75830000"
+  },
+  {
+    "id": 61540,
+    "name": "Ka`lul",
+    "stateId": 1777,
+    "latitude": "16.89750000",
+    "longitude": "42.84670000"
+  },
+  {
+    "id": 64086,
+    "name": "Khabath Sa`id",
+    "stateId": 1777,
+    "latitude": "16.99780000",
+    "longitude": "42.73220000"
+  },
+  {
+    "id": 64115,
+    "name": "Khalfah",
+    "stateId": 1777,
+    "latitude": "16.55470000",
+    "longitude": "43.08940000"
+  },
+  {
+    "id": 64135,
+    "name": "Khamis Mushait",
+    "stateId": 3,
+    "latitude": "18.30000000",
+    "longitude": "42.73333000"
+  },
+  {
+    "id": 64136,
+    "name": "Khamis Mushait",
+    "stateId": 2462,
+    "latitude": "18.30000000",
+    "longitude": "42.73333333"
+  },
+  {
+    "id": 64229,
+    "name": "Khatib, Saudi Arabia",
+    "stateId": 1777,
+    "latitude": "16.89610000",
+    "longitude": "41.85750000"
+  },
+  {
+    "id": 64240,
+    "name": "Khayf Fadil",
+    "stateId": 99,
+    "latitude": "24.26670000",
+    "longitude": "38.56670000"
+  },
+  {
+    "id": 64295,
+    "name": "Khobar",
+    "stateId": 1180,
+    "latitude": "26.27944000",
+    "longitude": "50.20833000"
+  },
+  {
+    "id": 64382,
+    "name": "Khumrah",
+    "stateId": 83,
+    "latitude": "21.37280000",
+    "longitude": "39.22610000"
+  },
+  {
+    "id": 64383,
+    "name": "Khumrah",
+    "stateId": 2462,
+    "latitude": "21.37280000",
+    "longitude": "39.22610000"
+  },
+  {
+    "id": 64384,
+    "name": "Khumsiyah",
+    "stateId": 1777,
+    "latitude": "16.77140000",
+    "longitude": "42.80190000"
+  },
+  {
+    "id": 64394,
+    "name": "Khushaym",
+    "stateId": 1777,
+    "latitude": "16.88000000",
+    "longitude": "43.13720000"
+  },
+  {
+    "id": 67158,
+    "name": "Kulakh",
+    "stateId": 83,
+    "latitude": "21.29640000",
+    "longitude": "40.79690000"
+  },
+  {
+    "id": 67159,
+    "name": "Kulakh",
+    "stateId": 2462,
+    "latitude": "21.29640000",
+    "longitude": "40.79690000"
+  },
+  {
+    "id": 71269,
+    "name": "Layla",
+    "stateId": 3658,
+    "latitude": "22.28330000",
+    "longitude": "46.73330000"
+  },
+  {
+    "id": 75979,
+    "name": "Ma`riyah",
+    "stateId": 3,
+    "latitude": "18.85000000",
+    "longitude": "41.96670000"
+  },
+  {
+    "id": 75980,
+    "name": "Ma`riyah",
+    "stateId": 2462,
+    "latitude": "18.85000000",
+    "longitude": "41.96670000"
+  },
+  {
+    "id": 76412,
+    "name": "Madrakah",
+    "stateId": 83,
+    "latitude": "21.97970000",
+    "longitude": "39.98750000"
+  },
+  {
+    "id": 76413,
+    "name": "Madrakah",
+    "stateId": 2462,
+    "latitude": "21.97970000",
+    "longitude": "39.98750000"
+  },
+  {
+    "id": 76438,
+    "name": "Madsus",
+    "stateId": 99,
+    "latitude": "24.35000000",
+    "longitude": "38.55000000"
+  },
+  {
+    "id": 76482,
+    "name": "Mafruq",
+    "stateId": 83,
+    "latitude": "21.52220000",
+    "longitude": "40.17940000"
+  },
+  {
+    "id": 76483,
+    "name": "Mafruq",
+    "stateId": 2462,
+    "latitude": "21.52220000",
+    "longitude": "40.17940000"
+  },
+  {
+    "id": 76730,
+    "name": "Mahatah",
+    "stateId": 1777,
+    "latitude": "16.83330000",
+    "longitude": "43.16670000"
+  },
+  {
+    "id": 76734,
+    "name": "Mahattat al Hafah",
+    "stateId": 99,
+    "latitude": "23.75000000",
+    "longitude": "39.30000000"
+  },
+  {
+    "id": 77104,
+    "name": "Malakan",
+    "stateId": 83,
+    "latitude": "21.21580000",
+    "longitude": "39.95030000"
+  },
+  {
+    "id": 77105,
+    "name": "Malakan",
+    "stateId": 2462,
+    "latitude": "21.21580000",
+    "longitude": "39.95030000"
+  },
+  {
+    "id": 77233,
+    "name": "Malgocta",
+    "stateId": 1777,
+    "latitude": "16.99777778",
+    "longitude": "42.67388889"
+  },
+  {
+    "id": 77766,
+    "name": "Manfuha",
+    "stateId": 3658,
+    "latitude": "24.59611111",
+    "longitude": "46.72722222"
+  },
+  {
+    "id": 78204,
+    "name": "Maqrah",
+    "stateId": 99,
+    "latitude": "24.41670000",
+    "longitude": "38.70000000"
+  },
+  {
+    "id": 78205,
+    "name": "Maqshush",
+    "stateId": 99,
+    "latitude": "23.58330000",
+    "longitude": "38.60000000"
+  },
+  {
+    "id": 79334,
+    "name": "Marāt",
+    "stateId": 3658,
+    "latitude": "25.07064000",
+    "longitude": "45.45775000"
+  },
+  {
+    "id": 79349,
+    "name": "Masahili",
+    "stateId": 99,
+    "latitude": "24.03330000",
+    "longitude": "38.23330000"
+  },
+  {
+    "id": 79407,
+    "name": "Mashajji",
+    "stateId": 83,
+    "latitude": "21.73890000",
+    "longitude": "39.96670000"
+  },
+  {
+    "id": 79408,
+    "name": "Mashajji",
+    "stateId": 2462,
+    "latitude": "21.73890000",
+    "longitude": "39.96670000"
+  },
+  {
+    "id": 79422,
+    "name": "Masihat Mahd al Hayl",
+    "stateId": 83,
+    "latitude": "21.94170000",
+    "longitude": "39.88610000"
+  },
+  {
+    "id": 79423,
+    "name": "Masihat Mahd al Hayl",
+    "stateId": 2462,
+    "latitude": "21.94170000",
+    "longitude": "39.88610000"
+  },
+  {
+    "id": 79440,
+    "name": "Maskar",
+    "stateId": 83,
+    "latitude": "21.75000000",
+    "longitude": "40.31640000"
+  },
+  {
+    "id": 79441,
+    "name": "Maskar",
+    "stateId": 2462,
+    "latitude": "21.75000000",
+    "longitude": "40.31640000"
+  },
+  {
+    "id": 79547,
+    "name": "Mastoorah",
+    "stateId": 99,
+    "latitude": "23.11090000",
+    "longitude": "38.85068889"
+  },
+  {
+    "id": 79736,
+    "name": "Matiyah",
+    "stateId": 83,
+    "latitude": "21.54170000",
+    "longitude": "39.81940000"
+  },
+  {
+    "id": 79737,
+    "name": "Matiyah",
+    "stateId": 2462,
+    "latitude": "21.54170000",
+    "longitude": "39.81940000"
+  },
+  {
+    "id": 79953,
+    "name": "Mawarah",
+    "stateId": 99,
+    "latitude": "24.20000000",
+    "longitude": "38.43330000"
+  },
+  {
+    "id": 79957,
+    "name": "Mawqaq",
+    "stateId": 1180,
+    "latitude": "27.38398000",
+    "longitude": "41.17635000"
+  },
+  {
+    "id": 79958,
+    "name": "Mawqaq",
+    "stateId": 1506,
+    "latitude": "27.38398000",
+    "longitude": "41.17635000"
+  },
+  {
+    "id": 80415,
+    "name": "Mecca",
+    "stateId": 83,
+    "latitude": "21.42250000",
+    "longitude": "39.82611111"
+  },
+  {
+    "id": 80416,
+    "name": "Mecca",
+    "stateId": 2462,
+    "latitude": "21.42664000",
+    "longitude": "39.82563000"
+  },
+  {
+    "id": 80506,
+    "name": "Medina",
+    "stateId": 99,
+    "latitude": "24.46861000",
+    "longitude": "39.61417000"
+  },
+  {
+    "id": 81840,
+    "name": "Mifa",
+    "stateId": 3,
+    "latitude": "18.89170000",
+    "longitude": "41.96330000"
+  },
+  {
+    "id": 81841,
+    "name": "Mifa",
+    "stateId": 2462,
+    "latitude": "18.89170000",
+    "longitude": "41.96330000"
+  },
+  {
+    "id": 82062,
+    "name": "Milhah",
+    "stateId": 99,
+    "latitude": "24.05000000",
+    "longitude": "38.30000000"
+  },
+  {
+    "id": 82250,
+    "name": "Mina",
+    "stateId": 83,
+    "latitude": "21.41333333",
+    "longitude": "39.89333333"
+  },
+  {
+    "id": 82251,
+    "name": "Mina",
+    "stateId": 2462,
+    "latitude": "21.41333333",
+    "longitude": "39.89333333"
+  },
+  {
+    "id": 82677,
+    "name": "Mislīyah",
+    "stateId": 1777,
+    "latitude": "17.45988000",
+    "longitude": "42.55720000"
+  },
+  {
+    "id": 82852,
+    "name": "Mizhirah",
+    "stateId": 1777,
+    "latitude": "16.82611000",
+    "longitude": "42.73333000"
+  },
+  {
+    "id": 85776,
+    "name": "Mukambal",
+    "stateId": 1777,
+    "latitude": "16.59360000",
+    "longitude": "43.03280000"
+  },
+  {
+    "id": 85804,
+    "name": "Mulayjah",
+    "stateId": 1180,
+    "latitude": "27.27103000",
+    "longitude": "48.42419000"
+  },
+  {
+    "id": 85871,
+    "name": "Munayzir",
+    "stateId": 3,
+    "latitude": "18.94640000",
+    "longitude": "41.91640000"
+  },
+  {
+    "id": 85872,
+    "name": "Munayzir",
+    "stateId": 2462,
+    "latitude": "18.94640000",
+    "longitude": "41.91640000"
+  },
+  {
+    "id": 85879,
+    "name": "Mundaraq",
+    "stateId": 1777,
+    "latitude": "16.75420000",
+    "longitude": "43.14890000"
+  },
+  {
+    "id": 86360,
+    "name": "Murshidiyah",
+    "stateId": 83,
+    "latitude": "21.48890000",
+    "longitude": "39.79440000"
+  },
+  {
+    "id": 86361,
+    "name": "Murshidiyah",
+    "stateId": 2462,
+    "latitude": "21.48890000",
+    "longitude": "39.79440000"
+  },
+  {
+    "id": 86422,
+    "name": "Mushrif",
+    "stateId": 83,
+    "latitude": "22.62920000",
+    "longitude": "41.35670000"
+  },
+  {
+    "id": 86423,
+    "name": "Mushrif",
+    "stateId": 2462,
+    "latitude": "22.62920000",
+    "longitude": "41.35670000"
+  },
+  {
+    "id": 86495,
+    "name": "Muwassam",
+    "stateId": 1777,
+    "latitude": "16.41670000",
+    "longitude": "42.82580000"
+  },
+  {
+    "id": 87320,
+    "name": "Najan",
+    "stateId": 3658,
+    "latitude": "24.07746000",
+    "longitude": "47.16590000"
+  },
+  {
+    "id": 87323,
+    "name": "Najran",
+    "stateId": 3658,
+    "latitude": "17.49170000",
+    "longitude": "44.13220000"
+  },
+  {
+    "id": 87324,
+    "name": "Najrān",
+    "stateId": 2819,
+    "latitude": "17.49326000",
+    "longitude": "44.12766000"
+  },
+  {
+    "id": 87715,
+    "name": "Nariyah",
+    "stateId": 1180,
+    "latitude": "27.46990000",
+    "longitude": "48.48440000"
+  },
+  {
+    "id": 89715,
+    "name": "Nisab",
+    "stateId": 109,
+    "latitude": "29.19274000",
+    "longitude": "44.71598000"
+  },
+  {
+    "id": 89716,
+    "name": "Nisab",
+    "stateId": 3019,
+    "latitude": "29.19274000",
+    "longitude": "44.71598000"
+  },
+  {
+    "id": 91451,
+    "name": "Nughayshiyah",
+    "stateId": 83,
+    "latitude": "21.21670000",
+    "longitude": "40.75000000"
+  },
+  {
+    "id": 91452,
+    "name": "Nughayshiyah",
+    "stateId": 2462,
+    "latitude": "21.21670000",
+    "longitude": "40.75000000"
+  },
+  {
+    "id": 91462,
+    "name": "Nujayl",
+    "stateId": 99,
+    "latitude": "24.26670000",
+    "longitude": "38.65000000"
+  },
+  {
+    "id": 91556,
+    "name": "Nuzlat al Faqin",
+    "stateId": 83,
+    "latitude": "22.00000000",
+    "longitude": "39.41670000"
+  },
+  {
+    "id": 91557,
+    "name": "Nuzlat al Faqin",
+    "stateId": 2462,
+    "latitude": "22.00000000",
+    "longitude": "39.41670000"
+  },
+  {
+    "id": 105014,
+    "name": "Qaba'",
+    "stateId": 99,
+    "latitude": "24.40000000",
+    "longitude": "39.65000000"
+  },
+  {
+    "id": 105027,
+    "name": "Qaisumah",
+    "stateId": 1180,
+    "latitude": "28.31117000",
+    "longitude": "46.12729000"
+  },
+  {
+    "id": 105037,
+    "name": "Qal‘at Bīshah",
+    "stateId": 3,
+    "latitude": "20.00054000",
+    "longitude": "42.60520000"
+  },
+  {
+    "id": 105108,
+    "name": "Qiba",
+    "stateId": 99,
+    "latitude": "27.40285000",
+    "longitude": "44.32770000"
+  },
+  {
+    "id": 105109,
+    "name": "Qiba",
+    "stateId": 109,
+    "latitude": "27.40285000",
+    "longitude": "44.32770000"
+  },
+  {
+    "id": 105147,
+    "name": "Qitabir",
+    "stateId": 1777,
+    "latitude": "17.33330000",
+    "longitude": "43.25000000"
+  },
+  {
+    "id": 105148,
+    "name": "Qiya",
+    "stateId": 83,
+    "latitude": "21.06670000",
+    "longitude": "41.01670000"
+  },
+  {
+    "id": 105149,
+    "name": "Qiya",
+    "stateId": 2462,
+    "latitude": "21.06670000",
+    "longitude": "41.01670000"
+  },
+  {
+    "id": 105388,
+    "name": "Qufar",
+    "stateId": 1180,
+    "latitude": "27.41534000",
+    "longitude": "41.61903000"
+  },
+  {
+    "id": 105389,
+    "name": "Qufar",
+    "stateId": 1506,
+    "latitude": "27.41534000",
+    "longitude": "41.61903000"
+  },
+  {
+    "id": 105582,
+    "name": "Qurayyat",
+    "stateId": 95,
+    "latitude": "31.33176000",
+    "longitude": "37.34282000"
+  },
+  {
+    "id": 105592,
+    "name": "Quwayda'",
+    "stateId": 1777,
+    "latitude": "16.73333333",
+    "longitude": "42.89027778"
+  },
+  {
+    "id": 105594,
+    "name": "Quwayzah",
+    "stateId": 83,
+    "latitude": "21.49030000",
+    "longitude": "39.27670000"
+  },
+  {
+    "id": 105595,
+    "name": "Quwayzah",
+    "stateId": 2462,
+    "latitude": "21.49030000",
+    "longitude": "39.27670000"
+  },
+  {
+    "id": 105672,
+    "name": "Rabwah Ghran",
+    "stateId": 83,
+    "latitude": "21.98330000",
+    "longitude": "39.41670000"
+  },
+  {
+    "id": 105673,
+    "name": "Rabwah Ghran",
+    "stateId": 2462,
+    "latitude": "21.98330000",
+    "longitude": "39.41670000"
+  },
+  {
+    "id": 105906,
+    "name": "Rahwan",
+    "stateId": 1777,
+    "latitude": "16.83330000",
+    "longitude": "43.21670000"
+  },
+  {
+    "id": 106362,
+    "name": "Raqiyah",
+    "stateId": 83,
+    "latitude": "21.76670000",
+    "longitude": "40.35000000"
+  },
+  {
+    "id": 106363,
+    "name": "Raqiyah",
+    "stateId": 2462,
+    "latitude": "21.76670000",
+    "longitude": "40.35000000"
+  },
+  {
+    "id": 106553,
+    "name": "Rawkhah",
+    "stateId": 1777,
+    "latitude": "16.94780000",
+    "longitude": "42.79330000"
+  },
+  {
+    "id": 106598,
+    "name": "Rayyis",
+    "stateId": 99,
+    "latitude": "23.56670000",
+    "longitude": "38.60000000"
+  },
+  {
+    "id": 106631,
+    "name": "Raḩīmah",
+    "stateId": 1180,
+    "latitude": "26.70791000",
+    "longitude": "50.06194000"
+  },
+  {
+    "id": 108277,
+    "name": "Riyadh",
+    "stateId": 3658,
+    "latitude": "24.68773000",
+    "longitude": "46.72185000"
+  },
+  {
+    "id": 110428,
+    "name": "Rābigh",
+    "stateId": 2462,
+    "latitude": "22.79856000",
+    "longitude": "39.03493000"
+  },
+  {
+    "id": 110625,
+    "name": "Sabt Al Alayah",
+    "stateId": 3,
+    "latitude": "19.70000000",
+    "longitude": "41.91667000"
+  },
+  {
+    "id": 110630,
+    "name": "Sabuhah",
+    "stateId": 83,
+    "latitude": "21.58330000",
+    "longitude": "40.11670000"
+  },
+  {
+    "id": 110631,
+    "name": "Sabuhah",
+    "stateId": 2462,
+    "latitude": "21.58330000",
+    "longitude": "40.11670000"
+  },
+  {
+    "id": 110703,
+    "name": "Sadiliyah",
+    "stateId": 1777,
+    "latitude": "16.92640000",
+    "longitude": "42.83000000"
+  },
+  {
+    "id": 112242,
+    "name": "Sakakah",
+    "stateId": 95,
+    "latitude": "29.96974000",
+    "longitude": "40.20641000"
+  },
+  {
+    "id": 112315,
+    "name": "Salamah",
+    "stateId": 1777,
+    "latitude": "16.97530000",
+    "longitude": "42.75640000"
+  },
+  {
+    "id": 118591,
+    "name": "Sayhāt",
+    "stateId": 1180,
+    "latitude": "26.47500000",
+    "longitude": "50.04166667"
+  },
+  {
+    "id": 120402,
+    "name": "Sha`tha'",
+    "stateId": 99,
+    "latitude": "24.23333333",
+    "longitude": "38.53333333"
+  },
+  {
+    "id": 121218,
+    "name": "Shi`b `amir",
+    "stateId": 83,
+    "latitude": "21.43330000",
+    "longitude": "39.83330000"
+  },
+  {
+    "id": 121219,
+    "name": "Shi`b `amir",
+    "stateId": 2462,
+    "latitude": "21.43330000",
+    "longitude": "39.83330000"
+  },
+  {
+    "id": 121360,
+    "name": "Shira`ayn",
+    "stateId": 83,
+    "latitude": "21.28330000",
+    "longitude": "40.78330000"
+  },
+  {
+    "id": 121361,
+    "name": "Shira`ayn",
+    "stateId": 2462,
+    "latitude": "21.28330000",
+    "longitude": "40.78330000"
+  },
+  {
+    "id": 121703,
+    "name": "Sidi Hamzah",
+    "stateId": 99,
+    "latitude": "24.50000000",
+    "longitude": "39.61670000"
+  },
+  {
+    "id": 122097,
+    "name": "Simira",
+    "stateId": 1180,
+    "latitude": "26.49418000",
+    "longitude": "42.12494000"
+  },
+  {
+    "id": 122098,
+    "name": "Simira",
+    "stateId": 1506,
+    "latitude": "26.49418000",
+    "longitude": "42.12494000"
+  },
+  {
+    "id": 126180,
+    "name": "Sulaym",
+    "stateId": 83,
+    "latitude": "22.58330000",
+    "longitude": "39.63330000"
+  },
+  {
+    "id": 126181,
+    "name": "Sulaym",
+    "stateId": 2462,
+    "latitude": "22.58330000",
+    "longitude": "39.63330000"
+  },
+  {
+    "id": 126276,
+    "name": "Sulţānah",
+    "stateId": 99,
+    "latitude": "24.49258000",
+    "longitude": "39.58572000"
+  },
+  {
+    "id": 126288,
+    "name": "Sumaymah",
+    "stateId": 83,
+    "latitude": "21.25000000",
+    "longitude": "39.16670000"
+  },
+  {
+    "id": 126289,
+    "name": "Sumaymah",
+    "stateId": 2462,
+    "latitude": "21.25000000",
+    "longitude": "39.16670000"
+  },
+  {
+    "id": 126518,
+    "name": "Suq Suwayq",
+    "stateId": 99,
+    "latitude": "24.36670000",
+    "longitude": "38.45000000"
+  },
+  {
+    "id": 126520,
+    "name": "Suqubiya",
+    "stateId": 99,
+    "latitude": "24.23330000",
+    "longitude": "38.50000000"
+  },
+  {
+    "id": 126714,
+    "name": "Suwadah",
+    "stateId": 99,
+    "latitude": "24.03330000",
+    "longitude": "38.20000000"
+  },
+  {
+    "id": 126719,
+    "name": "Suways",
+    "stateId": 83,
+    "latitude": "21.95000000",
+    "longitude": "39.96670000"
+  },
+  {
+    "id": 126720,
+    "name": "Suways",
+    "stateId": 2462,
+    "latitude": "21.95000000",
+    "longitude": "39.96670000"
+  },
+  {
+    "id": 127785,
+    "name": "Sājir",
+    "stateId": 3658,
+    "latitude": "25.18251000",
+    "longitude": "44.59964000"
+  },
+  {
+    "id": 127917,
+    "name": "Ta'if",
+    "stateId": 83,
+    "latitude": "21.26666667",
+    "longitude": "40.41666667"
+  },
+  {
+    "id": 127918,
+    "name": "Ta'if",
+    "stateId": 2462,
+    "latitude": "21.27028000",
+    "longitude": "40.41583000"
+  },
+  {
+    "id": 127942,
+    "name": "Tabarjal",
+    "stateId": 95,
+    "latitude": "30.50000000",
+    "longitude": "38.21670000"
+  },
+  {
+    "id": 128015,
+    "name": "Tabuk",
+    "stateId": 4268,
+    "latitude": "28.39980000",
+    "longitude": "36.57151000"
+  },
+  {
+    "id": 128022,
+    "name": "Tabālah",
+    "stateId": 3,
+    "latitude": "19.95000000",
+    "longitude": "42.40000000"
+  },
+  {
+    "id": 128023,
+    "name": "Tabālah",
+    "stateId": 2462,
+    "latitude": "19.95000000",
+    "longitude": "42.40000000"
+  },
+  {
+    "id": 128883,
+    "name": "Tanūmah",
+    "stateId": 99,
+    "latitude": "27.10000000",
+    "longitude": "44.13333333"
+  },
+  {
+    "id": 128884,
+    "name": "Tanūmah",
+    "stateId": 109,
+    "latitude": "27.10000000",
+    "longitude": "44.13333000"
+  },
+  {
+    "id": 130446,
+    "name": "Tharwah",
+    "stateId": 83,
+    "latitude": "21.51670000",
+    "longitude": "39.61670000"
+  },
+  {
+    "id": 130447,
+    "name": "Tharwah",
+    "stateId": 2462,
+    "latitude": "21.51670000",
+    "longitude": "39.61670000"
+  },
+  {
+    "id": 130755,
+    "name": "Thuwal",
+    "stateId": 83,
+    "latitude": "22.28333333",
+    "longitude": "39.10000000"
+  },
+  {
+    "id": 130756,
+    "name": "Thuwal",
+    "stateId": 2462,
+    "latitude": "22.28333333",
+    "longitude": "39.10000000"
+  },
+  {
+    "id": 133689,
+    "name": "Tumayr",
+    "stateId": 3658,
+    "latitude": "25.70347000",
+    "longitude": "45.86835000"
+  },
+  {
+    "id": 133791,
+    "name": "Turabah",
+    "stateId": 2462,
+    "latitude": "21.21406000",
+    "longitude": "41.63310000"
+  },
+  {
+    "id": 133792,
+    "name": "Turaif",
+    "stateId": 3019,
+    "latitude": "31.67252000",
+    "longitude": "38.66374000"
+  },
+  {
+    "id": 134322,
+    "name": "Tārūt",
+    "stateId": 1180,
+    "latitude": "26.57330000",
+    "longitude": "50.04028000"
+  },
+  {
+    "id": 134505,
+    "name": "Udhailiyah",
+    "stateId": 1180,
+    "latitude": "25.13330000",
+    "longitude": "49.30000000"
+  },
+  {
+    "id": 134823,
+    "name": "Umm Lajj",
+    "stateId": 4268,
+    "latitude": "25.02126000",
+    "longitude": "37.26850000"
+  },
+  {
+    "id": 134826,
+    "name": "Umm Radamah",
+    "stateId": 109,
+    "latitude": "28.67985000",
+    "longitude": "44.69549000"
+  },
+  {
+    "id": 134827,
+    "name": "Umm Radamah",
+    "stateId": 3019,
+    "latitude": "28.67985000",
+    "longitude": "44.69549000"
+  },
+  {
+    "id": 134831,
+    "name": "Umm as Sāhik",
+    "stateId": 1180,
+    "latitude": "26.65361000",
+    "longitude": "49.91639000"
+  },
+  {
+    "id": 135212,
+    "name": "Uqair",
+    "stateId": 1180,
+    "latitude": "25.64310000",
+    "longitude": "50.21440000"
+  },
+  {
+    "id": 135428,
+    "name": "Usfan",
+    "stateId": 83,
+    "latitude": "21.92306000",
+    "longitude": "39.35594000"
+  },
+  {
+    "id": 135429,
+    "name": "Usfan",
+    "stateId": 2462,
+    "latitude": "21.92306000",
+    "longitude": "39.35594000"
+  },
+  {
+    "id": 140441,
+    "name": "Wadi al Jalil",
+    "stateId": 83,
+    "latitude": "21.46670000",
+    "longitude": "39.85000000"
+  },
+  {
+    "id": 140442,
+    "name": "Wadi al Jalil",
+    "stateId": 2462,
+    "latitude": "21.46670000",
+    "longitude": "39.85000000"
+  },
+  {
+    "id": 141209,
+    "name": "Wasitah",
+    "stateId": 99,
+    "latitude": "23.88330000",
+    "longitude": "38.90000000"
+  },
+  {
+    "id": 141497,
+    "name": "Wed Alnkil",
+    "stateId": 109,
+    "latitude": "25.42670000",
+    "longitude": "42.83430000"
+  },
+  {
+    "id": 144419,
+    "name": "Yanbu",
+    "stateId": 99,
+    "latitude": "24.08954000",
+    "longitude": "38.06180000"
+  },
+  {
+    "id": 146617,
+    "name": "`Ajmiyah",
+    "stateId": 99,
+    "latitude": "24.21670000",
+    "longitude": "38.50000000"
+  },
+  {
+    "id": 146618,
+    "name": "`Alya'",
+    "stateId": 99,
+    "latitude": "23.82360000",
+    "longitude": "38.88330000"
+  },
+  {
+    "id": 146619,
+    "name": "`Ushash",
+    "stateId": 99,
+    "latitude": "23.50000000",
+    "longitude": "38.91670000"
+  },
+  {
+    "id": 146620,
+    "name": "`Ushayrah",
+    "stateId": 99,
+    "latitude": "24.01860000",
+    "longitude": "39.67310000"
+  },
+  {
+    "id": 146698,
+    "name": "shokhaibٍ",
+    "stateId": 3658,
+    "latitude": "24.49023000",
+    "longitude": "46.26871000"
+  },
+  {
+    "id": 147565,
+    "name": "Şabyā",
+    "stateId": 1777,
+    "latitude": "17.14950000",
+    "longitude": "42.62537000"
+  },
+  {
+    "id": 147569,
+    "name": "Şafwá",
+    "stateId": 1180,
+    "latitude": "26.64970000",
+    "longitude": "49.95522000"
+  },
+  {
+    "id": 147679,
+    "name": "Şuwayr",
+    "stateId": 95,
+    "latitude": "30.11713000",
+    "longitude": "40.38925000"
+  },
+  {
+    "id": 147682,
+    "name": "Şāmitah",
+    "stateId": 1777,
+    "latitude": "16.59601000",
+    "longitude": "42.94435000"
+  },
+  {
+    "id": 147793,
+    "name": "Ţubarjal",
+    "stateId": 95,
+    "latitude": "30.49987000",
+    "longitude": "38.21603000"
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "id": 223,
+    "name": "Abeïbara",
+    "stateId": 1983,
+    "latitude": "19.11667000",
+    "longitude": "1.75000000"
+  },
+  {
+    "id": 5518,
+    "name": "Ansongo",
+    "stateId": 1350,
+    "latitude": "15.65970000",
+    "longitude": "0.50220000"
+  },
+  {
+    "id": 6087,
+    "name": "Araouane",
+    "stateId": 4416,
+    "latitude": "18.90476000",
+    "longitude": "-3.52649000"
+  },
+  {
+    "id": 9078,
+    "name": "Bafoulabé",
+    "stateId": 1921,
+    "latitude": "13.80650000",
+    "longitude": "-10.83210000"
+  },
+  {
+    "id": 10004,
+    "name": "Bamako",
+    "stateId": 349,
+    "latitude": "12.65000000",
+    "longitude": "-8.00000000"
+  },
+  {
+    "id": 10095,
+    "name": "Banamba",
+    "stateId": 2069,
+    "latitude": "13.54773000",
+    "longitude": "-7.44808000"
+  },
+  {
+    "id": 10173,
+    "name": "Bandiagara",
+    "stateId": 2713,
+    "latitude": "14.35005000",
+    "longitude": "-3.61038000"
+  },
+  {
+    "id": 10880,
+    "name": "Baroueli",
+    "stateId": 4252,
+    "latitude": "13.07489000",
+    "longitude": "-6.57171000"
+  },
+  {
+    "id": 16669,
+    "name": "Bougouni",
+    "stateId": 4016,
+    "latitude": "11.41769000",
+    "longitude": "-7.48323000"
+  },
+  {
+    "id": 24557,
+    "name": "Cercle de Bourem",
+    "stateId": 1350,
+    "latitude": "17.71192000",
+    "longitude": "-0.34284000"
+  },
+  {
+    "id": 24558,
+    "name": "Cercle de Goundam",
+    "stateId": 4416,
+    "latitude": "18.60035000",
+    "longitude": "-4.99306000"
+  },
+  {
+    "id": 24559,
+    "name": "Cercle de San",
+    "stateId": 4252,
+    "latitude": "13.17895000",
+    "longitude": "-5.01617000"
+  },
+  {
+    "id": 24560,
+    "name": "Cercle d’Abeïbara",
+    "stateId": 1983,
+    "latitude": "19.48878000",
+    "longitude": "2.20025000"
+  },
+  {
+    "id": 37211,
+    "name": "Dire",
+    "stateId": 4416,
+    "latitude": "16.28017000",
+    "longitude": "-3.31302000"
+  },
+  {
+    "id": 37406,
+    "name": "Djénné",
+    "stateId": 2713,
+    "latitude": "13.90608000",
+    "longitude": "-4.55332000"
+  },
+  {
+    "id": 38214,
+    "name": "Douentza",
+    "stateId": 2713,
+    "latitude": "15.00155000",
+    "longitude": "-2.94978000"
+  },
+  {
+    "id": 38215,
+    "name": "Douentza Cercle",
+    "stateId": 2713,
+    "latitude": "15.06947000",
+    "longitude": "-2.40875000"
+  },
+  {
+    "id": 47036,
+    "name": "Gao",
+    "stateId": 1350,
+    "latitude": "16.27167000",
+    "longitude": "-0.04472000"
+  },
+  {
+    "id": 47037,
+    "name": "Gao Cercle",
+    "stateId": 1350,
+    "latitude": "16.72237000",
+    "longitude": "0.43984000"
+  },
+  {
+    "id": 49830,
+    "name": "Goundam",
+    "stateId": 4416,
+    "latitude": "16.41453000",
+    "longitude": "-3.67075000"
+  },
+  {
+    "id": 49837,
+    "name": "Gourma-Rharous Cercle",
+    "stateId": 4416,
+    "latitude": "16.07979000",
+    "longitude": "-1.76981000"
+  },
+  {
+    "id": 58486,
+    "name": "Inékar",
+    "stateId": 1350,
+    "latitude": "15.95944000",
+    "longitude": "3.14111000"
+  },
+  {
+    "id": 62724,
+    "name": "Kangaba",
+    "stateId": 2069,
+    "latitude": "11.93333000",
+    "longitude": "-8.41667000"
+  },
+  {
+    "id": 63337,
+    "name": "Kati",
+    "stateId": 2069,
+    "latitude": "12.74409000",
+    "longitude": "-8.07257000"
+  },
+  {
+    "id": 63518,
+    "name": "Kayes",
+    "stateId": 1921,
+    "latitude": "14.44693000",
+    "longitude": "-11.44448000"
+  },
+  {
+    "id": 64474,
+    "name": "Kidal",
+    "stateId": 1983,
+    "latitude": "18.44111000",
+    "longitude": "1.40778000"
+  },
+  {
+    "id": 64848,
+    "name": "Kinmparana",
+    "stateId": 4252,
+    "latitude": "12.84217000",
+    "longitude": "-4.92450000"
+  },
+  {
+    "id": 65154,
+    "name": "Kita",
+    "stateId": 1921,
+    "latitude": "13.03490000",
+    "longitude": "-9.48950000"
+  },
+  {
+    "id": 65664,
+    "name": "Kokofata",
+    "stateId": 1921,
+    "latitude": "12.88333000",
+    "longitude": "-9.95000000"
+  },
+  {
+    "id": 65738,
+    "name": "Kolokani",
+    "stateId": 2069,
+    "latitude": "13.57280000",
+    "longitude": "-8.03390000"
+  },
+  {
+    "id": 65746,
+    "name": "Kolondiéba",
+    "stateId": 4016,
+    "latitude": "11.08943000",
+    "longitude": "-6.89290000"
+  },
+  {
+    "id": 66393,
+    "name": "Koulikoro",
+    "stateId": 2069,
+    "latitude": "12.86273000",
+    "longitude": "-7.55985000"
+  },
+  {
+    "id": 66407,
+    "name": "Koutiala",
+    "stateId": 4016,
+    "latitude": "12.39173000",
+    "longitude": "-5.46421000"
+  },
+  {
+    "id": 66408,
+    "name": "Koutiala Cercle",
+    "stateId": 4016,
+    "latitude": "12.35311000",
+    "longitude": "-5.58390000"
+  },
+  {
+    "id": 67702,
+    "name": "Ké-Macina",
+    "stateId": 4252,
+    "latitude": "13.96410000",
+    "longitude": "-5.35791000"
+  },
+  {
+    "id": 78804,
+    "name": "Markala",
+    "stateId": 4252,
+    "latitude": "13.70210000",
+    "longitude": "-6.06590000"
+  },
+  {
+    "id": 84559,
+    "name": "Mopti",
+    "stateId": 2713,
+    "latitude": "14.48430000",
+    "longitude": "-4.18296000"
+  },
+  {
+    "id": 89284,
+    "name": "Niafunké",
+    "stateId": 4416,
+    "latitude": "15.93220000",
+    "longitude": "-3.99060000"
+  },
+  {
+    "id": 91298,
+    "name": "Ntossoni",
+    "stateId": 4016,
+    "latitude": "12.53040000",
+    "longitude": "-5.77003000"
+  },
+  {
+    "id": 110774,
+    "name": "Sagalo",
+    "stateId": 1921,
+    "latitude": "12.20000000",
+    "longitude": "-10.70000000"
+  },
+  {
+    "id": 112919,
+    "name": "San",
+    "stateId": 4252,
+    "latitude": "13.30335000",
+    "longitude": "-4.89562000"
+  },
+  {
+    "id": 121901,
+    "name": "Sikasso",
+    "stateId": 4016,
+    "latitude": "11.31755000",
+    "longitude": "-5.66654000"
+  },
+  {
+    "id": 123164,
+    "name": "Sokolo",
+    "stateId": 4252,
+    "latitude": "14.73280000",
+    "longitude": "-6.12190000"
+  },
+  {
+    "id": 127665,
+    "name": "Ségou",
+    "stateId": 4252,
+    "latitude": "13.43170000",
+    "longitude": "-6.21570000"
+  },
+  {
+    "id": 131065,
+    "name": "Timbuktu",
+    "stateId": 4416,
+    "latitude": "16.77348000",
+    "longitude": "-3.00742000"
+  },
+  {
+    "id": 134244,
+    "name": "Ténenkou",
+    "stateId": 2713,
+    "latitude": "14.45722000",
+    "longitude": "-4.91690000"
+  },
+  {
+    "id": 145008,
+    "name": "Yorosso",
+    "stateId": 4016,
+    "latitude": "12.35811000",
+    "longitude": "-4.77688000"
+  }
+]

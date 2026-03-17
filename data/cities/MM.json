@@ -1,0 +1,520 @@
+[
+  {
+    "id": 9184,
+    "name": "Bago",
+    "stateId": 317,
+    "latitude": "17.33521000",
+    "longitude": "96.48135000"
+  },
+  {
+    "id": 13906,
+    "name": "Bhamo",
+    "stateId": 1810,
+    "latitude": "24.25256000",
+    "longitude": "97.23357000"
+  },
+  {
+    "id": 15469,
+    "name": "Bogale",
+    "stateId": 292,
+    "latitude": "16.29415000",
+    "longitude": "95.39742000"
+  },
+  {
+    "id": 25585,
+    "name": "Chauk",
+    "stateId": 2446,
+    "latitude": "20.89921000",
+    "longitude": "94.81784000"
+  },
+  {
+    "id": 35608,
+    "name": "Dawei",
+    "stateId": 4305,
+    "latitude": "14.08230000",
+    "longitude": "98.19151000"
+  },
+  {
+    "id": 36048,
+    "name": "Dellok",
+    "stateId": 1922,
+    "latitude": "16.04072000",
+    "longitude": "97.91773000"
+  },
+  {
+    "id": 43359,
+    "name": "Falam",
+    "stateId": 852,
+    "latitude": "22.91335000",
+    "longitude": "93.67779000"
+  },
+  {
+    "id": 52785,
+    "name": "Hakha",
+    "stateId": 852,
+    "latitude": "22.64452000",
+    "longitude": "93.61076000"
+  },
+  {
+    "id": 55101,
+    "name": "Hinthada",
+    "stateId": 292,
+    "latitude": "17.64944000",
+    "longitude": "95.45705000"
+  },
+  {
+    "id": 56195,
+    "name": "Hpa-An",
+    "stateId": 1922,
+    "latitude": "16.88953000",
+    "longitude": "97.63482000"
+  },
+  {
+    "id": 62665,
+    "name": "Kanbe",
+    "stateId": 4776,
+    "latitude": "16.70728000",
+    "longitude": "96.00168000"
+  },
+  {
+    "id": 63490,
+    "name": "Kawthoung",
+    "stateId": 4305,
+    "latitude": "9.98238000",
+    "longitude": "98.55034000"
+  },
+  {
+    "id": 63503,
+    "name": "Kayan",
+    "stateId": 4776,
+    "latitude": "16.90802000",
+    "longitude": "96.56037000"
+  },
+  {
+    "id": 65396,
+    "name": "Klonhtoug",
+    "stateId": 1922,
+    "latitude": "15.95411000",
+    "longitude": "98.43250000"
+  },
+  {
+    "id": 67595,
+    "name": "Kyaikkami",
+    "stateId": 2690,
+    "latitude": "16.07686000",
+    "longitude": "97.56388000"
+  },
+  {
+    "id": 67596,
+    "name": "Kyaiklat",
+    "stateId": 292,
+    "latitude": "16.44502000",
+    "longitude": "95.72373000"
+  },
+  {
+    "id": 67597,
+    "name": "Kyaikto",
+    "stateId": 2690,
+    "latitude": "17.30858000",
+    "longitude": "97.01124000"
+  },
+  {
+    "id": 67598,
+    "name": "Kyain Seikgyi Township",
+    "stateId": 1922,
+    "latitude": "15.82288000",
+    "longitude": "98.25257000"
+  },
+  {
+    "id": 67603,
+    "name": "Kyaukse",
+    "stateId": 2488,
+    "latitude": "21.60560000",
+    "longitude": "96.13508000"
+  },
+  {
+    "id": 70924,
+    "name": "Lashio",
+    "stateId": 3972,
+    "latitude": "22.93590000",
+    "longitude": "97.74980000"
+  },
+  {
+    "id": 72347,
+    "name": "Letpandan",
+    "stateId": 317,
+    "latitude": "17.78664000",
+    "longitude": "95.75076000"
+  },
+  {
+    "id": 73959,
+    "name": "Loikaw",
+    "stateId": 1918,
+    "latitude": "19.67798000",
+    "longitude": "97.20975000"
+  },
+  {
+    "id": 76690,
+    "name": "Magway",
+    "stateId": 2446,
+    "latitude": "20.14956000",
+    "longitude": "94.93246000"
+  },
+  {
+    "id": 77691,
+    "name": "Mandalay",
+    "stateId": 2488,
+    "latitude": "21.97473000",
+    "longitude": "96.08359000"
+  },
+  {
+    "id": 79142,
+    "name": "Martaban",
+    "stateId": 2690,
+    "latitude": "16.52834000",
+    "longitude": "97.61570000"
+  },
+  {
+    "id": 79851,
+    "name": "Maubin",
+    "stateId": 292,
+    "latitude": "16.73148000",
+    "longitude": "95.65441000"
+  },
+  {
+    "id": 79954,
+    "name": "Mawlaik",
+    "stateId": 3730,
+    "latitude": "23.64254000",
+    "longitude": "94.40478000"
+  },
+  {
+    "id": 79955,
+    "name": "Mawlamyine",
+    "stateId": 2690,
+    "latitude": "16.49051000",
+    "longitude": "97.62825000"
+  },
+  {
+    "id": 79956,
+    "name": "Mawlamyinegyunn",
+    "stateId": 292,
+    "latitude": "16.37720000",
+    "longitude": "95.26488000"
+  },
+  {
+    "id": 80662,
+    "name": "Meiktila",
+    "stateId": 2488,
+    "latitude": "20.87776000",
+    "longitude": "95.85844000"
+  },
+  {
+    "id": 81940,
+    "name": "Mikenaungea",
+    "stateId": 1922,
+    "latitude": "15.95846000",
+    "longitude": "98.42721000"
+  },
+  {
+    "id": 82303,
+    "name": "Minbu",
+    "stateId": 2446,
+    "latitude": "20.18059000",
+    "longitude": "94.87595000"
+  },
+  {
+    "id": 83084,
+    "name": "Mogok",
+    "stateId": 2488,
+    "latitude": "22.91766000",
+    "longitude": "96.50982000"
+  },
+  {
+    "id": 84468,
+    "name": "Monywa",
+    "stateId": 3730,
+    "latitude": "22.10856000",
+    "longitude": "95.13583000"
+  },
+  {
+    "id": 85712,
+    "name": "Mudon",
+    "stateId": 2690,
+    "latitude": "16.25624000",
+    "longitude": "97.72460000"
+  },
+  {
+    "id": 86567,
+    "name": "Myanaung",
+    "stateId": 292,
+    "latitude": "18.28651000",
+    "longitude": "95.32014000"
+  },
+  {
+    "id": 86572,
+    "name": "Myawadi",
+    "stateId": 1922,
+    "latitude": "16.68911000",
+    "longitude": "98.50893000"
+  },
+  {
+    "id": 86573,
+    "name": "Myaydo",
+    "stateId": 2446,
+    "latitude": "19.36838000",
+    "longitude": "95.21512000"
+  },
+  {
+    "id": 86575,
+    "name": "Myeik",
+    "stateId": 4305,
+    "latitude": "12.43954000",
+    "longitude": "98.60028000"
+  },
+  {
+    "id": 86584,
+    "name": "Myingyan",
+    "stateId": 2488,
+    "latitude": "21.46002000",
+    "longitude": "95.38840000"
+  },
+  {
+    "id": 86585,
+    "name": "Myitkyina",
+    "stateId": 1810,
+    "latitude": "25.38327000",
+    "longitude": "97.39637000"
+  },
+  {
+    "id": 88077,
+    "name": "Nay Pyi Taw",
+    "stateId": 2870,
+    "latitude": "19.74500000",
+    "longitude": "96.12972000"
+  },
+  {
+    "id": 91590,
+    "name": "Nyaungdon",
+    "stateId": 292,
+    "latitude": "17.04459000",
+    "longitude": "95.63957000"
+  },
+  {
+    "id": 91591,
+    "name": "Nyaunglebin",
+    "stateId": 317,
+    "latitude": "17.95363000",
+    "longitude": "96.72247000"
+  },
+  {
+    "id": 91592,
+    "name": "Nyaungshwe",
+    "stateId": 2488,
+    "latitude": "20.66084000",
+    "longitude": "96.93405000"
+  },
+  {
+    "id": 95683,
+    "name": "Pakokku",
+    "stateId": 2446,
+    "latitude": "21.33489000",
+    "longitude": "95.08438000"
+  },
+  {
+    "id": 97240,
+    "name": "Pathein",
+    "stateId": 292,
+    "latitude": "16.77919000",
+    "longitude": "94.73212000"
+  },
+  {
+    "id": 97406,
+    "name": "Paungde",
+    "stateId": 317,
+    "latitude": "18.49167000",
+    "longitude": "95.50591000"
+  },
+  {
+    "id": 104343,
+    "name": "Pulei",
+    "stateId": 1922,
+    "latitude": "16.06243000",
+    "longitude": "97.88280000"
+  },
+  {
+    "id": 104688,
+    "name": "Pyapon",
+    "stateId": 292,
+    "latitude": "16.28543000",
+    "longitude": "95.67882000"
+  },
+  {
+    "id": 104695,
+    "name": "Pyay",
+    "stateId": 317,
+    "latitude": "18.82464000",
+    "longitude": "95.22216000"
+  },
+  {
+    "id": 104709,
+    "name": "Pyin Oo Lwin",
+    "stateId": 2488,
+    "latitude": "22.03501000",
+    "longitude": "96.45683000"
+  },
+  {
+    "id": 104710,
+    "name": "Pyinmana",
+    "stateId": 2870,
+    "latitude": "19.73810000",
+    "longitude": "96.20742000"
+  },
+  {
+    "id": 104734,
+    "name": "Pyu",
+    "stateId": 317,
+    "latitude": "18.48130000",
+    "longitude": "96.43742000"
+  },
+  {
+    "id": 110773,
+    "name": "Sagaing",
+    "stateId": 3730,
+    "latitude": "21.87870000",
+    "longitude": "95.97965000"
+  },
+  {
+    "id": 121557,
+    "name": "Shwebo",
+    "stateId": 3730,
+    "latitude": "22.56925000",
+    "longitude": "95.69818000"
+  },
+  {
+    "id": 122477,
+    "name": "Sittwe",
+    "stateId": 3573,
+    "latitude": "20.14624000",
+    "longitude": "92.89835000"
+  },
+  {
+    "id": 127003,
+    "name": "Syriam",
+    "stateId": 4776,
+    "latitude": "16.76887000",
+    "longitude": "96.24503000"
+  },
+  {
+    "id": 128036,
+    "name": "Tachilek",
+    "stateId": 3972,
+    "latitude": "20.44750000",
+    "longitude": "99.88083000"
+  },
+  {
+    "id": 128163,
+    "name": "Tagondaing",
+    "stateId": 1922,
+    "latitude": "16.06750000",
+    "longitude": "97.90694000"
+  },
+  {
+    "id": 128659,
+    "name": "Tamoowoug",
+    "stateId": 1922,
+    "latitude": "16.03447000",
+    "longitude": "97.91458000"
+  },
+  {
+    "id": 129256,
+    "name": "Taungdwingyi",
+    "stateId": 2446,
+    "latitude": "20.00650000",
+    "longitude": "95.54531000"
+  },
+  {
+    "id": 129257,
+    "name": "Taunggyi",
+    "stateId": 3972,
+    "latitude": "20.78919000",
+    "longitude": "97.03776000"
+  },
+  {
+    "id": 129260,
+    "name": "Taungoo",
+    "stateId": 317,
+    "latitude": "18.94291000",
+    "longitude": "96.43408000"
+  },
+  {
+    "id": 130424,
+    "name": "Thanatpin",
+    "stateId": 317,
+    "latitude": "17.29136000",
+    "longitude": "96.57523000"
+  },
+  {
+    "id": 130448,
+    "name": "Tharyarwady",
+    "stateId": 317,
+    "latitude": "17.65399000",
+    "longitude": "95.78813000"
+  },
+  {
+    "id": 130453,
+    "name": "Thaton",
+    "stateId": 2690,
+    "latitude": "16.91867000",
+    "longitude": "97.37001000"
+  },
+  {
+    "id": 130461,
+    "name": "Thayetmyo",
+    "stateId": 2446,
+    "latitude": "19.32076000",
+    "longitude": "95.18272000"
+  },
+  {
+    "id": 130632,
+    "name": "Thongwa",
+    "stateId": 4776,
+    "latitude": "16.75998000",
+    "longitude": "96.52498000"
+  },
+  {
+    "id": 134030,
+    "name": "Twante",
+    "stateId": 4776,
+    "latitude": "16.71047000",
+    "longitude": "95.92866000"
+  },
+  {
+    "id": 140587,
+    "name": "Wakema",
+    "stateId": 292,
+    "latitude": "16.60333000",
+    "longitude": "95.18278000"
+  },
+  {
+    "id": 144394,
+    "name": "Yamethin",
+    "stateId": 2488,
+    "latitude": "20.43189000",
+    "longitude": "96.13875000"
+  },
+  {
+    "id": 144450,
+    "name": "Yangon",
+    "stateId": 4776,
+    "latitude": "16.80528000",
+    "longitude": "96.15611000"
+  },
+  {
+    "id": 144764,
+    "name": "Yenangyaung",
+    "stateId": 2446,
+    "latitude": "20.46504000",
+    "longitude": "94.87120000"
+  }
+]

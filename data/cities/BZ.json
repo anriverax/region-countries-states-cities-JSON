@@ -1,0 +1,93 @@
+[
+  {
+    "id": 12428,
+    "name": "Belize City",
+    "stateId": 425,
+    "latitude": "17.49952000",
+    "longitude": "-88.19756000"
+  },
+  {
+    "id": 12661,
+    "name": "Belmopan",
+    "stateId": 752,
+    "latitude": "17.25000000",
+    "longitude": "-88.76667000"
+  },
+  {
+    "id": 13024,
+    "name": "Benque Viejo el Carmen",
+    "stateId": 752,
+    "latitude": "17.07500000",
+    "longitude": "-89.13917000"
+  },
+  {
+    "id": 32806,
+    "name": "Corozal",
+    "stateId": 951,
+    "latitude": "18.39375000",
+    "longitude": "-88.38849000"
+  },
+  {
+    "id": 35234,
+    "name": "Dangriga",
+    "stateId": 4162,
+    "latitude": "16.96970000",
+    "longitude": "-88.23313000"
+  },
+  {
+    "id": 55795,
+    "name": "Hopelchén",
+    "stateId": 3137,
+    "latitude": "17.80000000",
+    "longitude": "-89.10000000"
+  },
+  {
+    "id": 93859,
+    "name": "Orange Walk",
+    "stateId": 3137,
+    "latitude": "18.08124000",
+    "longitude": "-88.56328000"
+  },
+  {
+    "id": 100025,
+    "name": "Placencia",
+    "stateId": 4162,
+    "latitude": "16.51419000",
+    "longitude": "-88.36647000"
+  },
+  {
+    "id": 104439,
+    "name": "Punta Gorda",
+    "stateId": 4410,
+    "latitude": "16.09835000",
+    "longitude": "-88.80970000"
+  },
+  {
+    "id": 113906,
+    "name": "San Ignacio",
+    "stateId": 752,
+    "latitude": "17.15880000",
+    "longitude": "-89.06960000"
+  },
+  {
+    "id": 115232,
+    "name": "San Pedro",
+    "stateId": 425,
+    "latitude": "17.91598000",
+    "longitude": "-87.96590000"
+  },
+  {
+    "id": 121354,
+    "name": "Shipyard",
+    "stateId": 3137,
+    "latitude": "17.89382000",
+    "longitude": "-88.65452000"
+  },
+  {
+    "id": 136373,
+    "name": "Valley of Peace",
+    "stateId": 752,
+    "latitude": "17.33472000",
+    "longitude": "-88.83472000"
+  }
+]

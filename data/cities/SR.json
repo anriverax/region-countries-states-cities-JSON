@@ -1,0 +1,93 @@
+[
+  {
+    "id": 2359,
+    "name": "Albina",
+    "stateId": 2529,
+    "latitude": "5.49788000",
+    "longitude": "-54.05522000"
+  },
+  {
+    "id": 17880,
+    "name": "Brokopondo",
+    "stateId": 583,
+    "latitude": "5.05594000",
+    "longitude": "-54.98043000"
+  },
+  {
+    "id": 18062,
+    "name": "Brownsweg",
+    "stateId": 583,
+    "latitude": "5.00435000",
+    "longitude": "-55.15333000"
+  },
+  {
+    "id": 50941,
+    "name": "Groningen",
+    "stateId": 3898,
+    "latitude": "5.80000000",
+    "longitude": "-55.46667000"
+  },
+  {
+    "id": 71879,
+    "name": "Lelydorp",
+    "stateId": 4688,
+    "latitude": "5.70000000",
+    "longitude": "-55.23333000"
+  },
+  {
+    "id": 78797,
+    "name": "Mariënburg",
+    "stateId": 929,
+    "latitude": "5.87722000",
+    "longitude": "-55.04322000"
+  },
+  {
+    "id": 83040,
+    "name": "Moengo",
+    "stateId": 2529,
+    "latitude": "5.61411000",
+    "longitude": "-54.40121000"
+  },
+  {
+    "id": 89519,
+    "name": "Nieuw Amsterdam",
+    "stateId": 929,
+    "latitude": "5.88573000",
+    "longitude": "-55.08871000"
+  },
+  {
+    "id": 89520,
+    "name": "Nieuw Nickerie",
+    "stateId": 2924,
+    "latitude": "5.92606000",
+    "longitude": "-56.97297000"
+  },
+  {
+    "id": 93663,
+    "name": "Onverwacht",
+    "stateId": 3224,
+    "latitude": "5.58983000",
+    "longitude": "-55.19462000"
+  },
+  {
+    "id": 96607,
+    "name": "Paramaribo",
+    "stateId": 3226,
+    "latitude": "5.86638000",
+    "longitude": "-55.16682000"
+  },
+  {
+    "id": 132396,
+    "name": "Totness",
+    "stateId": 950,
+    "latitude": "5.87618000",
+    "longitude": "-56.32572000"
+  },
+  {
+    "id": 140467,
+    "name": "Wageningen",
+    "stateId": 2924,
+    "latitude": "5.76010000",
+    "longitude": "-56.66523000"
+  }
+]

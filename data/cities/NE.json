@@ -1,0 +1,492 @@
+[
+  {
+    "id": 85,
+    "name": "Abalak",
+    "stateId": 4276,
+    "latitude": "15.41618000",
+    "longitude": "6.16975000"
+  },
+  {
+    "id": 910,
+    "name": "Agadez",
+    "stateId": 39,
+    "latitude": "16.97333000",
+    "longitude": "7.99111000"
+  },
+  {
+    "id": 1169,
+    "name": "Aguié",
+    "stateId": 2511,
+    "latitude": "13.50601000",
+    "longitude": "7.77863000"
+  },
+  {
+    "id": 2094,
+    "name": "Alaghsas",
+    "stateId": 39,
+    "latitude": "17.01870000",
+    "longitude": "8.01680000"
+  },
+  {
+    "id": 6640,
+    "name": "Arlit",
+    "stateId": 39,
+    "latitude": "18.83409000",
+    "longitude": "7.43327000"
+  },
+  {
+    "id": 8425,
+    "name": "Ayorou",
+    "stateId": 4385,
+    "latitude": "14.73075000",
+    "longitude": "0.91739000"
+  },
+  {
+    "id": 9803,
+    "name": "Balleyara",
+    "stateId": 4385,
+    "latitude": "13.72848000",
+    "longitude": "2.87503000"
+  },
+  {
+    "id": 14383,
+    "name": "Bilma",
+    "stateId": 39,
+    "latitude": "18.68532000",
+    "longitude": "12.91643000"
+  },
+  {
+    "id": 14596,
+    "name": "Birni N Konni",
+    "stateId": 4276,
+    "latitude": "13.79599000",
+    "longitude": "5.25026000"
+  },
+  {
+    "id": 15311,
+    "name": "Boboye Department",
+    "stateId": 1120,
+    "latitude": "13.08167000",
+    "longitude": "2.91083000"
+  },
+  {
+    "id": 16807,
+    "name": "Bouza",
+    "stateId": 4276,
+    "latitude": "14.42293000",
+    "longitude": "6.04278000"
+  },
+  {
+    "id": 34982,
+    "name": "Dakoro",
+    "stateId": 2511,
+    "latitude": "14.51056000",
+    "longitude": "6.76500000"
+  },
+  {
+    "id": 37013,
+    "name": "Diffa",
+    "stateId": 1070,
+    "latitude": "13.31536000",
+    "longitude": "12.61135000"
+  },
+  {
+    "id": 37610,
+    "name": "Dogondoutchi",
+    "stateId": 1120,
+    "latitude": "13.64030000",
+    "longitude": "4.02649000"
+  },
+  {
+    "id": 38185,
+    "name": "Dosso",
+    "stateId": 1120,
+    "latitude": "13.04900000",
+    "longitude": "3.19370000"
+  },
+  {
+    "id": 39275,
+    "name": "Département d' Illéla",
+    "stateId": 4276,
+    "latitude": "14.25000000",
+    "longitude": "5.00000000"
+  },
+  {
+    "id": 39279,
+    "name": "Département de Bilma",
+    "stateId": 39,
+    "latitude": "20.50000000",
+    "longitude": "13.25000000"
+  },
+  {
+    "id": 39280,
+    "name": "Département de Birni Nkonni",
+    "stateId": 4276,
+    "latitude": "13.90000000",
+    "longitude": "5.25000000"
+  },
+  {
+    "id": 39281,
+    "name": "Département de Bouza",
+    "stateId": 4276,
+    "latitude": "14.43333000",
+    "longitude": "6.00000000"
+  },
+  {
+    "id": 39282,
+    "name": "Département de Dakoro",
+    "stateId": 2511,
+    "latitude": "14.75000000",
+    "longitude": "7.00000000"
+  },
+  {
+    "id": 39283,
+    "name": "Département de Diffa",
+    "stateId": 1070,
+    "latitude": "13.66667000",
+    "longitude": "12.50000000"
+  },
+  {
+    "id": 39284,
+    "name": "Département de Dogondoutchi",
+    "stateId": 1120,
+    "latitude": "13.50000000",
+    "longitude": "4.00000000"
+  },
+  {
+    "id": 39285,
+    "name": "Département de Dosso",
+    "stateId": 1120,
+    "latitude": "12.83333000",
+    "longitude": "3.33333000"
+  },
+  {
+    "id": 39286,
+    "name": "Département de Filingué",
+    "stateId": 4385,
+    "latitude": "14.31645000",
+    "longitude": "3.23611000"
+  },
+  {
+    "id": 39287,
+    "name": "Département de Gaya",
+    "stateId": 1120,
+    "latitude": "11.95970000",
+    "longitude": "3.46045000"
+  },
+  {
+    "id": 39288,
+    "name": "Département de Gouré",
+    "stateId": 4851,
+    "latitude": "14.01618000",
+    "longitude": "10.14722000"
+  },
+  {
+    "id": 39289,
+    "name": "Département de Kantché",
+    "stateId": 4851,
+    "latitude": "13.40000000",
+    "longitude": "8.60000000"
+  },
+  {
+    "id": 39290,
+    "name": "Département de Keïta",
+    "stateId": 4276,
+    "latitude": "14.80000000",
+    "longitude": "6.00000000"
+  },
+  {
+    "id": 39291,
+    "name": "Département de Loga",
+    "stateId": 1120,
+    "latitude": "13.63333000",
+    "longitude": "3.50000000"
+  },
+  {
+    "id": 39292,
+    "name": "Département de Madaoua",
+    "stateId": 4276,
+    "latitude": "13.99988000",
+    "longitude": "6.10012000"
+  },
+  {
+    "id": 39294,
+    "name": "Département de Mayahi",
+    "stateId": 2511,
+    "latitude": "14.10000000",
+    "longitude": "7.60000000"
+  },
+  {
+    "id": 39295,
+    "name": "Département de Maïné-Soroa",
+    "stateId": 1070,
+    "latitude": "13.31206000",
+    "longitude": "12.08321000"
+  },
+  {
+    "id": 39296,
+    "name": "Département de Nguigmi",
+    "stateId": 1070,
+    "latitude": "14.20753000",
+    "longitude": "13.12177000"
+  },
+  {
+    "id": 39297,
+    "name": "Département de Ouallam",
+    "stateId": 4385,
+    "latitude": "14.63333000",
+    "longitude": "2.25000000"
+  },
+  {
+    "id": 39299,
+    "name": "Département de Say",
+    "stateId": 4385,
+    "latitude": "13.03579000",
+    "longitude": "2.22112000"
+  },
+  {
+    "id": 39301,
+    "name": "Département de Tahoua",
+    "stateId": 4276,
+    "latitude": "14.80000000",
+    "longitude": "4.80000000"
+  },
+  {
+    "id": 39302,
+    "name": "Département de Tchin-Tabaraden",
+    "stateId": 4276,
+    "latitude": "15.86694000",
+    "longitude": "5.71042000"
+  },
+  {
+    "id": 39303,
+    "name": "Département de Tchirozérine",
+    "stateId": 39,
+    "latitude": "17.43293000",
+    "longitude": "7.89321000"
+  },
+  {
+    "id": 39304,
+    "name": "Département de Tessaoua",
+    "stateId": 2511,
+    "latitude": "13.60000000",
+    "longitude": "7.90000000"
+  },
+  {
+    "id": 39305,
+    "name": "Département de Tânout",
+    "stateId": 4851,
+    "latitude": "14.75000000",
+    "longitude": "8.33333000"
+  },
+  {
+    "id": 39346,
+    "name": "Département d’Aguié",
+    "stateId": 2511,
+    "latitude": "13.46976000",
+    "longitude": "7.74219000"
+  },
+  {
+    "id": 44192,
+    "name": "Filingué",
+    "stateId": 4385,
+    "latitude": "14.35210000",
+    "longitude": "3.31680000"
+  },
+  {
+    "id": 47431,
+    "name": "Gaya",
+    "stateId": 1120,
+    "latitude": "11.88435000",
+    "longitude": "3.44919000"
+  },
+  {
+    "id": 49841,
+    "name": "Gouré",
+    "stateId": 4851,
+    "latitude": "13.98350000",
+    "longitude": "10.27035000"
+  },
+  {
+    "id": 51712,
+    "name": "Guidan Roumdji Department",
+    "stateId": 2511,
+    "latitude": "13.65750000",
+    "longitude": "6.69583000"
+  },
+  {
+    "id": 57990,
+    "name": "Illéla",
+    "stateId": 4276,
+    "latitude": "14.46050000",
+    "longitude": "5.24370000"
+  },
+  {
+    "id": 64075,
+    "name": "Keïta",
+    "stateId": 4276,
+    "latitude": "14.75510000",
+    "longitude": "5.77490000"
+  },
+  {
+    "id": 65726,
+    "name": "Kollo",
+    "stateId": 4385,
+    "latitude": "13.30430000",
+    "longitude": "2.33900000"
+  },
+  {
+    "id": 65727,
+    "name": "Kollo Department",
+    "stateId": 4385,
+    "latitude": "13.57600000",
+    "longitude": "2.45200000"
+  },
+  {
+    "id": 76303,
+    "name": "Madaoua",
+    "stateId": 4276,
+    "latitude": "14.07300000",
+    "longitude": "5.96000000"
+  },
+  {
+    "id": 76307,
+    "name": "Madarounfa",
+    "stateId": 2511,
+    "latitude": "13.28253000",
+    "longitude": "7.15495000"
+  },
+  {
+    "id": 76517,
+    "name": "Magaria",
+    "stateId": 4851,
+    "latitude": "12.99826000",
+    "longitude": "8.90991000"
+  },
+  {
+    "id": 78238,
+    "name": "Maradi",
+    "stateId": 2511,
+    "latitude": "13.50000000",
+    "longitude": "7.10174000"
+  },
+  {
+    "id": 79621,
+    "name": "Matamey",
+    "stateId": 4851,
+    "latitude": "13.42309000",
+    "longitude": "8.47485000"
+  },
+  {
+    "id": 79994,
+    "name": "Mayahi",
+    "stateId": 2511,
+    "latitude": "13.95532000",
+    "longitude": "7.67122000"
+  },
+  {
+    "id": 80189,
+    "name": "Maïné Soroa",
+    "stateId": 1070,
+    "latitude": "13.21139000",
+    "longitude": "12.02410000"
+  },
+  {
+    "id": 82624,
+    "name": "Mirriah",
+    "stateId": 4851,
+    "latitude": "13.70727000",
+    "longitude": "9.15013000"
+  },
+  {
+    "id": 89265,
+    "name": "Nguigmi",
+    "stateId": 1070,
+    "latitude": "14.24953000",
+    "longitude": "13.10921000"
+  },
+  {
+    "id": 94965,
+    "name": "Ouallam",
+    "stateId": 4385,
+    "latitude": "14.31641000",
+    "longitude": "2.08597000"
+  },
+  {
+    "id": 118573,
+    "name": "Say",
+    "stateId": 4385,
+    "latitude": "13.10070000",
+    "longitude": "2.36890000"
+  },
+  {
+    "id": 128195,
+    "name": "Tahoua",
+    "stateId": 4276,
+    "latitude": "14.88880000",
+    "longitude": "5.26920000"
+  },
+  {
+    "id": 128852,
+    "name": "Tanout",
+    "stateId": 4851,
+    "latitude": "14.97089000",
+    "longitude": "8.88786000"
+  },
+  {
+    "id": 129446,
+    "name": "Tchintabaraden",
+    "stateId": 4276,
+    "latitude": "15.89690000",
+    "longitude": "5.79850000"
+  },
+  {
+    "id": 130015,
+    "name": "Tera Department",
+    "stateId": 4385,
+    "latitude": "14.18600000",
+    "longitude": "0.84300000"
+  },
+  {
+    "id": 130226,
+    "name": "Tessaoua",
+    "stateId": 2511,
+    "latitude": "13.75737000",
+    "longitude": "7.98740000"
+  },
+  {
+    "id": 130845,
+    "name": "Tibiri",
+    "stateId": 2511,
+    "latitude": "13.56271000",
+    "longitude": "7.04848000"
+  },
+  {
+    "id": 131020,
+    "name": "Tillaberi Department",
+    "stateId": 4385,
+    "latitude": "14.51600000",
+    "longitude": "1.44300000"
+  },
+  {
+    "id": 131021,
+    "name": "Tillabéri",
+    "stateId": 4385,
+    "latitude": "14.20711000",
+    "longitude": "1.45418000"
+  },
+  {
+    "id": 134245,
+    "name": "Téra",
+    "stateId": 4385,
+    "latitude": "14.00776000",
+    "longitude": "0.75306000"
+  },
+  {
+    "id": 146145,
+    "name": "Zinder",
+    "stateId": 4851,
+    "latitude": "13.80716000",
+    "longitude": "8.98810000"
+  }
+]

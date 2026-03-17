@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1733,
+    "name": "Al Ghuwayrīyah",
+    "stateId": 98,
+    "latitude": "25.82882000",
+    "longitude": "51.24567000"
+  },
+  {
+    "id": 1797,
+    "name": "Al Jumaylīyah",
+    "stateId": 112,
+    "latitude": "25.61068000",
+    "longitude": "51.09108000"
+  },
+  {
+    "id": 1820,
+    "name": "Al Khawr",
+    "stateId": 98,
+    "latitude": "25.68389000",
+    "longitude": "51.50583000"
+  },
+  {
+    "id": 2013,
+    "name": "Al Wakrah",
+    "stateId": 106,
+    "latitude": "25.17151000",
+    "longitude": "51.60337000"
+  },
+  {
+    "id": 2017,
+    "name": "Al Wukayr",
+    "stateId": 106,
+    "latitude": "25.15107000",
+    "longitude": "51.53718000"
+  },
+  {
+    "id": 5956,
+    "name": "Ar Rayyān",
+    "stateId": 104,
+    "latitude": "25.29194000",
+    "longitude": "51.42444000"
+  },
+  {
+    "id": 5967,
+    "name": "Ar Ruways",
+    "stateId": 2432,
+    "latitude": "26.13978000",
+    "longitude": "51.21493000"
+  },
+  {
+    "id": 7243,
+    "name": "Ash Shīḩānīyah",
+    "stateId": 112,
+    "latitude": "25.37088000",
+    "longitude": "51.22264000"
+  },
+  {
+    "id": 37612,
+    "name": "Doha",
+    "stateId": 1099,
+    "latitude": "25.28545000",
+    "longitude": "51.53096000"
+  },
+  {
+    "id": 38796,
+    "name": "Dukhān",
+    "stateId": 112,
+    "latitude": "25.42485000",
+    "longitude": "50.78227000"
+  },
+  {
+    "id": 46360,
+    "name": "Fuwayriţ",
+    "stateId": 2432,
+    "latitude": "26.02565000",
+    "longitude": "51.36971000"
+  },
+  {
+    "id": 76451,
+    "name": "Madīnat ash Shamāl",
+    "stateId": 2432,
+    "latitude": "26.12933000",
+    "longitude": "51.20090000"
+  },
+  {
+    "id": 86404,
+    "name": "Musay‘īd",
+    "stateId": 106,
+    "latitude": "24.99226000",
+    "longitude": "51.55067000"
+  },
+  {
+    "id": 134821,
+    "name": "Umm Bāb",
+    "stateId": 104,
+    "latitude": "25.21417000",
+    "longitude": "50.80722000"
+  },
+  {
+    "id": 134833,
+    "name": "Umm Şalāl Muḩammad",
+    "stateId": 4514,
+    "latitude": "25.41524000",
+    "longitude": "51.40647000"
+  }
+]

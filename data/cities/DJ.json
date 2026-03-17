@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "'Ali Sabieh",
+    "stateId": 125,
+    "latitude": "11.15583000",
+    "longitude": "42.71250000"
+  },
+  {
+    "id": 2207,
+    "name": "Alaïli Ḏaḏḏa‘",
+    "stateId": 3092,
+    "latitude": "12.42167000",
+    "longitude": "42.89556000"
+  },
+  {
+    "id": 6931,
+    "name": "Arta",
+    "stateId": 243,
+    "latitude": "11.52639000",
+    "longitude": "42.85194000"
+  },
+  {
+    "id": 37057,
+    "name": "Dikhil",
+    "stateId": 1071,
+    "latitude": "11.10454000",
+    "longitude": "42.36971000"
+  },
+  {
+    "id": 37397,
+    "name": "Djibouti",
+    "stateId": 1089,
+    "latitude": "11.58901000",
+    "longitude": "43.14503000"
+  },
+  {
+    "id": 38141,
+    "name": "Dorra",
+    "stateId": 4272,
+    "latitude": "12.15028000",
+    "longitude": "42.47624000"
+  },
+  {
+    "id": 49810,
+    "name": "Goubétto",
+    "stateId": 125,
+    "latitude": "11.42389000",
+    "longitude": "43.00028000"
+  },
+  {
+    "id": 52230,
+    "name": "Gâlâfi",
+    "stateId": 1071,
+    "latitude": "11.71583000",
+    "longitude": "41.83611000"
+  },
+  {
+    "id": 55475,
+    "name": "Holhol",
+    "stateId": 125,
+    "latitude": "11.31028000",
+    "longitude": "42.92944000"
+  },
+  {
+    "id": 74872,
+    "name": "Loyada",
+    "stateId": 1089,
+    "latitude": "11.46111000",
+    "longitude": "43.25278000"
+  },
+  {
+    "id": 92212,
+    "name": "Obock",
+    "stateId": 3092,
+    "latitude": "11.96693000",
+    "longitude": "43.28835000"
+  },
+  {
+    "id": 128078,
+    "name": "Tadjourah",
+    "stateId": 4272,
+    "latitude": "11.78778000",
+    "longitude": "42.88222000"
+  }
+]

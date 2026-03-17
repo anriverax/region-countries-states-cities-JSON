@@ -1,0 +1,1248 @@
+[
+  {
+    "id": 952,
+    "name": "Agdzhabedy",
+    "stateId": 45,
+    "latitude": "40.05015000",
+    "longitude": "47.45937000"
+  },
+  {
+    "id": 973,
+    "name": "Aghstafa",
+    "stateId": 48,
+    "latitude": "41.11889000",
+    "longitude": "45.45389000"
+  },
+  {
+    "id": 974,
+    "name": "Aghsu",
+    "stateId": 49,
+    "latitude": "40.57028000",
+    "longitude": "48.40087000"
+  },
+  {
+    "id": 2910,
+    "name": "Aliabad",
+    "stateId": 4836,
+    "latitude": "41.48290000",
+    "longitude": "46.63483000"
+  },
+  {
+    "id": 3587,
+    "name": "Altıağac",
+    "stateId": 1963,
+    "latitude": "40.85785000",
+    "longitude": "48.93540000"
+  },
+  {
+    "id": 3957,
+    "name": "Amirdzhan",
+    "stateId": 330,
+    "latitude": "40.42639000",
+    "longitude": "49.98361000"
+  },
+  {
+    "id": 6050,
+    "name": "Aran",
+    "stateId": 4788,
+    "latitude": "40.62528000",
+    "longitude": "46.97556000"
+  },
+  {
+    "id": 7074,
+    "name": "Arıqdam",
+    "stateId": 1505,
+    "latitude": "40.59313000",
+    "longitude": "45.79900000"
+  },
+  {
+    "id": 7075,
+    "name": "Arıqıran",
+    "stateId": 1505,
+    "latitude": "40.53971000",
+    "longitude": "45.61414000"
+  },
+  {
+    "id": 7380,
+    "name": "Askyaran",
+    "stateId": 1965,
+    "latitude": "39.93910000",
+    "longitude": "46.83161000"
+  },
+  {
+    "id": 7478,
+    "name": "Astara",
+    "stateId": 261,
+    "latitude": "38.45598000",
+    "longitude": "48.87498000"
+  },
+  {
+    "id": 8310,
+    "name": "Avşar",
+    "stateId": 45,
+    "latitude": "39.97389000",
+    "longitude": "47.42389000"
+  },
+  {
+    "id": 8607,
+    "name": "Ağdam",
+    "stateId": 43,
+    "latitude": "39.99096000",
+    "longitude": "46.92736000"
+  },
+  {
+    "id": 8608,
+    "name": "Ağdaş",
+    "stateId": 44,
+    "latitude": "40.64699000",
+    "longitude": "47.47380000"
+  },
+  {
+    "id": 8996,
+    "name": "Badamdar",
+    "stateId": 330,
+    "latitude": "40.34024000",
+    "longitude": "49.80450000"
+  },
+  {
+    "id": 9488,
+    "name": "Baku",
+    "stateId": 330,
+    "latitude": "40.37767000",
+    "longitude": "49.89201000"
+  },
+  {
+    "id": 9498,
+    "name": "Bakıxanov",
+    "stateId": 330,
+    "latitude": "40.41894000",
+    "longitude": "49.96693000"
+  },
+  {
+    "id": 9539,
+    "name": "Balakhani",
+    "stateId": 330,
+    "latitude": "40.46344000",
+    "longitude": "49.91893000"
+  },
+  {
+    "id": 10668,
+    "name": "Barda",
+    "stateId": 367,
+    "latitude": "40.37577000",
+    "longitude": "47.12619000"
+  },
+  {
+    "id": 11325,
+    "name": "Basqal",
+    "stateId": 1710,
+    "latitude": "40.75520000",
+    "longitude": "48.39104000"
+  },
+  {
+    "id": 11865,
+    "name": "Baş Göynük",
+    "stateId": 3968,
+    "latitude": "41.32582000",
+    "longitude": "47.11357000"
+  },
+  {
+    "id": 12685,
+    "name": "Belokany",
+    "stateId": 332,
+    "latitude": "41.72626000",
+    "longitude": "46.40478000"
+  },
+  {
+    "id": 13774,
+    "name": "Beylagan",
+    "stateId": 456,
+    "latitude": "39.77556000",
+    "longitude": "47.61861000"
+  },
+  {
+    "id": 14304,
+    "name": "Bilajari",
+    "stateId": 330,
+    "latitude": "40.44440000",
+    "longitude": "49.80566000"
+  },
+  {
+    "id": 14305,
+    "name": "Bilajer",
+    "stateId": 330,
+    "latitude": "40.56441000",
+    "longitude": "50.04002000"
+  },
+  {
+    "id": 14423,
+    "name": "Binagadi",
+    "stateId": 330,
+    "latitude": "40.46602000",
+    "longitude": "49.82783000"
+  },
+  {
+    "id": 14510,
+    "name": "Biny Selo",
+    "stateId": 330,
+    "latitude": "40.45076000",
+    "longitude": "50.08686000"
+  },
+  {
+    "id": 14567,
+    "name": "Birinci Aşıqlı",
+    "stateId": 456,
+    "latitude": "39.81917000",
+    "longitude": "47.67944000"
+  },
+  {
+    "id": 16172,
+    "name": "Boradigah",
+    "stateId": 2544,
+    "latitude": "38.93013000",
+    "longitude": "48.70920000"
+  },
+  {
+    "id": 19599,
+    "name": "Buzovna",
+    "stateId": 330,
+    "latitude": "40.51903000",
+    "longitude": "50.11438000"
+  },
+  {
+    "id": 19877,
+    "name": "Böyük Qaramurad",
+    "stateId": 1505,
+    "latitude": "40.57626000",
+    "longitude": "45.63727000"
+  },
+  {
+    "id": 20511,
+    "name": "Cahri",
+    "stateId": 2823,
+    "latitude": "39.34837000",
+    "longitude": "45.41557000"
+  },
+  {
+    "id": 24864,
+    "name": "Ceyranbatan",
+    "stateId": 13,
+    "latitude": "40.54194000",
+    "longitude": "49.66073000"
+  },
+  {
+    "id": 32507,
+    "name": "Corat",
+    "stateId": 4211,
+    "latitude": "40.57176000",
+    "longitude": "49.70509000"
+  },
+  {
+    "id": 34227,
+    "name": "Culfa",
+    "stateId": 2823,
+    "latitude": "38.95397000",
+    "longitude": "45.62961000"
+  },
+  {
+    "id": 36610,
+    "name": "Deste",
+    "stateId": 2823,
+    "latitude": "38.88375000",
+    "longitude": "45.90963000"
+  },
+  {
+    "id": 37018,
+    "name": "Digah",
+    "stateId": 13,
+    "latitude": "40.49257000",
+    "longitude": "49.87477000"
+  },
+  {
+    "id": 37329,
+    "name": "Divichibazar",
+    "stateId": 3964,
+    "latitude": "41.20117000",
+    "longitude": "48.98712000"
+  },
+  {
+    "id": 37763,
+    "name": "Dolyar",
+    "stateId": 3971,
+    "latitude": "40.86278000",
+    "longitude": "46.03493000"
+  },
+  {
+    "id": 37921,
+    "name": "Dondar Quşçu",
+    "stateId": 4428,
+    "latitude": "40.95390000",
+    "longitude": "45.61942000"
+  },
+  {
+    "id": 39178,
+    "name": "Dzagam",
+    "stateId": 3971,
+    "latitude": "40.90330000",
+    "longitude": "45.88564000"
+  },
+  {
+    "id": 39400,
+    "name": "Dünyamalılar",
+    "stateId": 456,
+    "latitude": "39.77278000",
+    "longitude": "47.75889000"
+  },
+  {
+    "id": 43374,
+    "name": "Faldarlı",
+    "stateId": 4836,
+    "latitude": "41.46868000",
+    "longitude": "46.51579000"
+  },
+  {
+    "id": 44373,
+    "name": "Fizuli",
+    "stateId": 1289,
+    "latitude": "39.60094000",
+    "longitude": "47.14529000"
+  },
+  {
+    "id": 47010,
+    "name": "Ganja",
+    "stateId": 1347,
+    "latitude": "40.68278000",
+    "longitude": "46.36056000"
+  },
+  {
+    "id": 48099,
+    "name": "Geoktschai",
+    "stateId": 1425,
+    "latitude": "40.65055000",
+    "longitude": "47.74219000"
+  },
+  {
+    "id": 48569,
+    "name": "Gilgilçay",
+    "stateId": 4001,
+    "latitude": "41.13932000",
+    "longitude": "49.09038000"
+  },
+  {
+    "id": 49513,
+    "name": "Goranboy",
+    "stateId": 1408,
+    "latitude": "40.61028000",
+    "longitude": "46.78972000"
+  },
+  {
+    "id": 52197,
+    "name": "Gyuzdek",
+    "stateId": 13,
+    "latitude": "40.37444000",
+    "longitude": "49.68194000"
+  },
+  {
+    "id": 52583,
+    "name": "Hacı Zeynalabdin",
+    "stateId": 4211,
+    "latitude": "40.62333000",
+    "longitude": "49.55861000"
+  },
+  {
+    "id": 52585,
+    "name": "Hacıhüseynli",
+    "stateId": 3535,
+    "latitude": "41.45639000",
+    "longitude": "48.64889000"
+  },
+  {
+    "id": 52588,
+    "name": "Hacıqabul",
+    "stateId": 1518,
+    "latitude": "40.03874000",
+    "longitude": "48.94286000"
+  },
+  {
+    "id": 52633,
+    "name": "Hadrut",
+    "stateId": 2538,
+    "latitude": "39.52003000",
+    "longitude": "47.03190000"
+  },
+  {
+    "id": 52655,
+    "name": "Haftoni",
+    "stateId": 2217,
+    "latitude": "38.76325000",
+    "longitude": "48.76223000"
+  },
+  {
+    "id": 54685,
+    "name": "Heydarabad",
+    "stateId": 2823,
+    "latitude": "39.72286000",
+    "longitude": "44.84846000"
+  },
+  {
+    "id": 55828,
+    "name": "Horadiz",
+    "stateId": 1289,
+    "latitude": "39.45015000",
+    "longitude": "47.33496000"
+  },
+  {
+    "id": 57336,
+    "name": "Hövsan",
+    "stateId": 330,
+    "latitude": "40.37444000",
+    "longitude": "50.08528000"
+  },
+  {
+    "id": 58086,
+    "name": "Imishli",
+    "stateId": 1673,
+    "latitude": "39.87095000",
+    "longitude": "48.05995000"
+  },
+  {
+    "id": 59836,
+    "name": "Jalilabad",
+    "stateId": 1734,
+    "latitude": "39.20963000",
+    "longitude": "48.49186000"
+  },
+  {
+    "id": 60300,
+    "name": "Jebrail",
+    "stateId": 1729,
+    "latitude": "39.39917000",
+    "longitude": "47.02835000"
+  },
+  {
+    "id": 61285,
+    "name": "Julfa Rayon",
+    "stateId": 2823,
+    "latitude": "39.16667000",
+    "longitude": "45.66667000"
+  },
+  {
+    "id": 63922,
+    "name": "Kerbakhiar",
+    "stateId": 1830,
+    "latitude": "40.10984000",
+    "longitude": "46.04446000"
+  },
+  {
+    "id": 64275,
+    "name": "Khirdalan",
+    "stateId": 13,
+    "latitude": "40.44808000",
+    "longitude": "49.75502000"
+  },
+  {
+    "id": 64301,
+    "name": "Khodzhi-Gasan",
+    "stateId": 330,
+    "latitude": "40.41293000",
+    "longitude": "49.76904000"
+  },
+  {
+    "id": 64420,
+    "name": "Khyzy",
+    "stateId": 1963,
+    "latitude": "40.90847000",
+    "longitude": "49.07481000"
+  },
+  {
+    "id": 64632,
+    "name": "Kilyazi",
+    "stateId": 1963,
+    "latitude": "40.87392000",
+    "longitude": "49.34376000"
+  },
+  {
+    "id": 65239,
+    "name": "Kizhaba",
+    "stateId": 261,
+    "latitude": "38.53461000",
+    "longitude": "48.80546000"
+  },
+  {
+    "id": 66042,
+    "name": "Korgöz",
+    "stateId": 330,
+    "latitude": "40.30446000",
+    "longitude": "49.62360000"
+  },
+  {
+    "id": 67594,
+    "name": "Kyadabek",
+    "stateId": 1505,
+    "latitude": "40.57055000",
+    "longitude": "45.81229000"
+  },
+  {
+    "id": 67640,
+    "name": "Kyurdarmir",
+    "stateId": 2116,
+    "latitude": "40.34257000",
+    "longitude": "48.15649000"
+  },
+  {
+    "id": 67646,
+    "name": "Kyzyl-Burun",
+    "stateId": 4001,
+    "latitude": "41.07811000",
+    "longitude": "49.11564000"
+  },
+  {
+    "id": 70458,
+    "name": "Lankaran",
+    "stateId": 2217,
+    "latitude": "38.75428000",
+    "longitude": "48.85062000"
+  },
+  {
+    "id": 71311,
+    "name": "Laçın",
+    "stateId": 2188,
+    "latitude": "39.59881000",
+    "longitude": "46.55045000"
+  },
+  {
+    "id": 72135,
+    "name": "Lerik",
+    "stateId": 2246,
+    "latitude": "38.77388000",
+    "longitude": "48.41497000"
+  },
+  {
+    "id": 75872,
+    "name": "Lökbatan",
+    "stateId": 330,
+    "latitude": "40.32560000",
+    "longitude": "49.73376000"
+  },
+  {
+    "id": 77553,
+    "name": "Mamrux",
+    "stateId": 4836,
+    "latitude": "41.54243000",
+    "longitude": "46.76700000"
+  },
+  {
+    "id": 78437,
+    "name": "Mardakan",
+    "stateId": 330,
+    "latitude": "40.49182000",
+    "longitude": "50.14292000"
+  },
+  {
+    "id": 79143,
+    "name": "Martakert",
+    "stateId": 4324,
+    "latitude": "40.21127000",
+    "longitude": "46.82135000"
+  },
+  {
+    "id": 79358,
+    "name": "Masally",
+    "stateId": 2544,
+    "latitude": "39.03532000",
+    "longitude": "48.66540000"
+  },
+  {
+    "id": 80208,
+    "name": "Maştağa",
+    "stateId": 330,
+    "latitude": "40.52983000",
+    "longitude": "50.00616000"
+  },
+  {
+    "id": 82307,
+    "name": "Mincivan",
+    "stateId": 4829,
+    "latitude": "39.03023000",
+    "longitude": "46.72329000"
+  },
+  {
+    "id": 82364,
+    "name": "Mingelchaur",
+    "stateId": 2653,
+    "latitude": "40.76395000",
+    "longitude": "47.05953000"
+  },
+  {
+    "id": 85738,
+    "name": "Mughan",
+    "stateId": 1518,
+    "latitude": "40.09902000",
+    "longitude": "48.81886000"
+  },
+  {
+    "id": 87349,
+    "name": "Nakhchivan",
+    "stateId": 2823,
+    "latitude": "39.20889000",
+    "longitude": "45.41222000"
+  },
+  {
+    "id": 87695,
+    "name": "Nardaran",
+    "stateId": 330,
+    "latitude": "40.55611000",
+    "longitude": "50.00556000"
+  },
+  {
+    "id": 88244,
+    "name": "Neftçala",
+    "stateId": 2876,
+    "latitude": "39.37680000",
+    "longitude": "49.24700000"
+  },
+  {
+    "id": 89785,
+    "name": "Nizami Rayonu",
+    "stateId": 330,
+    "latitude": "40.40970000",
+    "longitude": "49.91926000"
+  },
+  {
+    "id": 91080,
+    "name": "Novosaratovka",
+    "stateId": 1505,
+    "latitude": "40.59811000",
+    "longitude": "45.60079000"
+  },
+  {
+    "id": 91156,
+    "name": "Novyy Karanlug",
+    "stateId": 2538,
+    "latitude": "39.79496000",
+    "longitude": "47.11170000"
+  },
+  {
+    "id": 94143,
+    "name": "Ordubad",
+    "stateId": 2823,
+    "latitude": "38.90961000",
+    "longitude": "46.02274000"
+  },
+  {
+    "id": 94144,
+    "name": "Ordubad Rayon",
+    "stateId": 2823,
+    "latitude": "39.08333000",
+    "longitude": "45.91667000"
+  },
+  {
+    "id": 94263,
+    "name": "Orjonikidze",
+    "stateId": 456,
+    "latitude": "39.63571000",
+    "longitude": "47.71199000"
+  },
+  {
+    "id": 95316,
+    "name": "Oğlanqala",
+    "stateId": 2823,
+    "latitude": "39.58694000",
+    "longitude": "45.04611000"
+  },
+  {
+    "id": 95317,
+    "name": "Oğuz",
+    "stateId": 3103,
+    "latitude": "41.07128000",
+    "longitude": "47.46528000"
+  },
+  {
+    "id": 99758,
+    "name": "Pirallahı",
+    "stateId": 330,
+    "latitude": "40.47013000",
+    "longitude": "50.32476000"
+  },
+  {
+    "id": 103128,
+    "name": "Prishibinskoye",
+    "stateId": 1734,
+    "latitude": "39.11998000",
+    "longitude": "48.59383000"
+  },
+  {
+    "id": 104567,
+    "name": "Pushkino",
+    "stateId": 463,
+    "latitude": "39.45833000",
+    "longitude": "48.54500000"
+  },
+  {
+    "id": 104595,
+    "name": "Puta",
+    "stateId": 330,
+    "latitude": "40.29667000",
+    "longitude": "49.66028000"
+  },
+  {
+    "id": 105016,
+    "name": "Qabaqçöl",
+    "stateId": 332,
+    "latitude": "41.75259000",
+    "longitude": "46.27052000"
+  },
+  {
+    "id": 105029,
+    "name": "Qala",
+    "stateId": 330,
+    "latitude": "40.44256000",
+    "longitude": "50.16759000"
+  },
+  {
+    "id": 105041,
+    "name": "Qandax",
+    "stateId": 4836,
+    "latitude": "41.47546000",
+    "longitude": "46.54128000"
+  },
+  {
+    "id": 105048,
+    "name": "Qaramanlı",
+    "stateId": 4788,
+    "latitude": "40.48135000",
+    "longitude": "46.99339000"
+  },
+  {
+    "id": 105051,
+    "name": "Qaraxanlı",
+    "stateId": 4428,
+    "latitude": "41.04358000",
+    "longitude": "45.65527000"
+  },
+  {
+    "id": 105052,
+    "name": "Qarayeri",
+    "stateId": 3831,
+    "latitude": "40.78674000",
+    "longitude": "46.31365000"
+  },
+  {
+    "id": 105054,
+    "name": "Qaraçala",
+    "stateId": 3818,
+    "latitude": "39.81614000",
+    "longitude": "48.93792000"
+  },
+  {
+    "id": 105055,
+    "name": "Qaraçuxur",
+    "stateId": 330,
+    "latitude": "40.39667000",
+    "longitude": "49.97361000"
+  },
+  {
+    "id": 105072,
+    "name": "Qasım İsmayılov",
+    "stateId": 3971,
+    "latitude": "40.81243000",
+    "longitude": "46.25938000"
+  },
+  {
+    "id": 105075,
+    "name": "Qax",
+    "stateId": 3523,
+    "latitude": "41.41826000",
+    "longitude": "46.92043000"
+  },
+  {
+    "id": 105076,
+    "name": "Qax İngiloy",
+    "stateId": 3523,
+    "latitude": "41.42412000",
+    "longitude": "46.93859000"
+  },
+  {
+    "id": 105077,
+    "name": "Qaxbaş",
+    "stateId": 3523,
+    "latitude": "41.43254000",
+    "longitude": "46.96460000"
+  },
+  {
+    "id": 105081,
+    "name": "Qazax",
+    "stateId": 3527,
+    "latitude": "41.09246000",
+    "longitude": "45.36561000"
+  },
+  {
+    "id": 105151,
+    "name": "Qobu",
+    "stateId": 13,
+    "latitude": "40.40472000",
+    "longitude": "49.71306000"
+  },
+  {
+    "id": 105152,
+    "name": "Qobustan",
+    "stateId": 330,
+    "latitude": "40.08238000",
+    "longitude": "49.41205000"
+  },
+  {
+    "id": 105153,
+    "name": "Qobustan",
+    "stateId": 1401,
+    "latitude": "40.53360000",
+    "longitude": "48.92819000"
+  },
+  {
+    "id": 105245,
+    "name": "Quba",
+    "stateId": 3535,
+    "latitude": "41.36108000",
+    "longitude": "48.51341000"
+  },
+  {
+    "id": 105246,
+    "name": "Qubadlı",
+    "stateId": 3536,
+    "latitude": "39.34441000",
+    "longitude": "46.58183000"
+  },
+  {
+    "id": 105584,
+    "name": "Qusar",
+    "stateId": 3548,
+    "latitude": "41.42750000",
+    "longitude": "48.43020000"
+  },
+  {
+    "id": 105589,
+    "name": "Qutqashen",
+    "stateId": 3521,
+    "latitude": "40.98247000",
+    "longitude": "47.84909000"
+  },
+  {
+    "id": 105615,
+    "name": "Qırmızı Bazar",
+    "stateId": 2538,
+    "latitude": "39.67669000",
+    "longitude": "46.95123000"
+  },
+  {
+    "id": 105616,
+    "name": "Qırmızı Samux",
+    "stateId": 3831,
+    "latitude": "40.93972000",
+    "longitude": "46.37889000"
+  },
+  {
+    "id": 105617,
+    "name": "Qıvraq",
+    "stateId": 2823,
+    "latitude": "39.39939000",
+    "longitude": "45.11513000"
+  },
+  {
+    "id": 105618,
+    "name": "Qızılhacılı",
+    "stateId": 1408,
+    "latitude": "40.57362000",
+    "longitude": "46.84900000"
+  },
+  {
+    "id": 106046,
+    "name": "Ramana",
+    "stateId": 330,
+    "latitude": "40.44222000",
+    "longitude": "49.98056000"
+  },
+  {
+    "id": 110522,
+    "name": "Saatlı",
+    "stateId": 3720,
+    "latitude": "39.93214000",
+    "longitude": "48.36892000"
+  },
+  {
+    "id": 110604,
+    "name": "Sabirabad",
+    "stateId": 3725,
+    "latitude": "40.00869000",
+    "longitude": "48.47701000"
+  },
+  {
+    "id": 110632,
+    "name": "Sabunçu",
+    "stateId": 330,
+    "latitude": "40.44250000",
+    "longitude": "49.94806000"
+  },
+  {
+    "id": 112615,
+    "name": "Saloğlu",
+    "stateId": 48,
+    "latitude": "41.27524000",
+    "longitude": "45.35293000"
+  },
+  {
+    "id": 112724,
+    "name": "Salyan",
+    "stateId": 3818,
+    "latitude": "39.59621000",
+    "longitude": "48.98479000"
+  },
+  {
+    "id": 112909,
+    "name": "Samur",
+    "stateId": 3548,
+    "latitude": "41.63671000",
+    "longitude": "48.43028000"
+  },
+  {
+    "id": 112915,
+    "name": "Samux",
+    "stateId": 3831,
+    "latitude": "40.76485000",
+    "longitude": "46.40868000"
+  },
+  {
+    "id": 112916,
+    "name": "Samuxlu",
+    "stateId": 367,
+    "latitude": "40.50833000",
+    "longitude": "47.16917000"
+  },
+  {
+    "id": 116204,
+    "name": "Sanqaçal",
+    "stateId": 330,
+    "latitude": "40.16991000",
+    "longitude": "49.46394000"
+  },
+  {
+    "id": 118062,
+    "name": "Saray",
+    "stateId": 13,
+    "latitude": "40.53299000",
+    "longitude": "49.71681000"
+  },
+  {
+    "id": 119408,
+    "name": "Sedarak",
+    "stateId": 2823,
+    "latitude": "39.71427000",
+    "longitude": "44.88455000"
+  },
+  {
+    "id": 120296,
+    "name": "Severo-Vostotchnyi Bank",
+    "stateId": 2876,
+    "latitude": "39.41117000",
+    "longitude": "49.24792000"
+  },
+  {
+    "id": 120447,
+    "name": "Shahbuz Rayon",
+    "stateId": 2823,
+    "latitude": "39.41667000",
+    "longitude": "45.58333000"
+  },
+  {
+    "id": 120847,
+    "name": "Shamakhi",
+    "stateId": 3970,
+    "latitude": "40.63141000",
+    "longitude": "48.64137000"
+  },
+  {
+    "id": 120856,
+    "name": "Shamkhor",
+    "stateId": 3971,
+    "latitude": "40.82975000",
+    "longitude": "46.01780000"
+  },
+  {
+    "id": 120949,
+    "name": "Sharur City",
+    "stateId": 2823,
+    "latitude": "39.55298000",
+    "longitude": "44.97993000"
+  },
+  {
+    "id": 121043,
+    "name": "Sheki",
+    "stateId": 3967,
+    "latitude": "41.19194000",
+    "longitude": "47.17056000"
+  },
+  {
+    "id": 121548,
+    "name": "Shushi",
+    "stateId": 3998,
+    "latitude": "39.76006000",
+    "longitude": "46.74989000"
+  },
+  {
+    "id": 124122,
+    "name": "Sovetabad",
+    "stateId": 2876,
+    "latitude": "39.33667000",
+    "longitude": "49.21414000"
+  },
+  {
+    "id": 126292,
+    "name": "Sumbatan-diza",
+    "stateId": 2823,
+    "latitude": "38.94804000",
+    "longitude": "45.82572000"
+  },
+  {
+    "id": 126356,
+    "name": "Sumqayıt",
+    "stateId": 4211,
+    "latitude": "40.58972000",
+    "longitude": "49.66861000"
+  },
+  {
+    "id": 129416,
+    "name": "Tazakend",
+    "stateId": 2823,
+    "latitude": "39.15459000",
+    "longitude": "45.44282000"
+  },
+  {
+    "id": 130194,
+    "name": "Terter",
+    "stateId": 4324,
+    "latitude": "40.34201000",
+    "longitude": "46.93161000"
+  },
+  {
+    "id": 132494,
+    "name": "Tovuz",
+    "stateId": 4428,
+    "latitude": "40.99249000",
+    "longitude": "45.62838000"
+  },
+  {
+    "id": 134302,
+    "name": "Türkan",
+    "stateId": 330,
+    "latitude": "40.36460000",
+    "longitude": "50.22075000"
+  },
+  {
+    "id": 134634,
+    "name": "Ujar",
+    "stateId": 4507,
+    "latitude": "40.51902000",
+    "longitude": "47.65423000"
+  },
+  {
+    "id": 136573,
+    "name": "Vank",
+    "stateId": 1830,
+    "latitude": "40.05275000",
+    "longitude": "46.54419000"
+  },
+  {
+    "id": 137358,
+    "name": "Verkhniy Dashkesan",
+    "stateId": 1019,
+    "latitude": "40.49357000",
+    "longitude": "46.07175000"
+  },
+  {
+    "id": 140095,
+    "name": "Vurğun",
+    "stateId": 48,
+    "latitude": "41.09524000",
+    "longitude": "45.47111000"
+  },
+  {
+    "id": 144054,
+    "name": "Xaçmaz",
+    "stateId": 1952,
+    "latitude": "41.46426000",
+    "longitude": "48.80565000"
+  },
+  {
+    "id": 144180,
+    "name": "Xocalı",
+    "stateId": 1965,
+    "latitude": "39.91297000",
+    "longitude": "46.79028000"
+  },
+  {
+    "id": 144240,
+    "name": "Xudat",
+    "stateId": 1952,
+    "latitude": "41.63052000",
+    "longitude": "48.68161000"
+  },
+  {
+    "id": 144252,
+    "name": "Xıllı",
+    "stateId": 2876,
+    "latitude": "39.43012000",
+    "longitude": "49.10166000"
+  },
+  {
+    "id": 144487,
+    "name": "Yanıqlı",
+    "stateId": 4428,
+    "latitude": "40.84320000",
+    "longitude": "45.68030000"
+  },
+  {
+    "id": 144508,
+    "name": "Yardımlı",
+    "stateId": 4779,
+    "latitude": "38.90771000",
+    "longitude": "48.24052000"
+  },
+  {
+    "id": 144642,
+    "name": "Yaycı",
+    "stateId": 2823,
+    "latitude": "38.94052000",
+    "longitude": "45.73244000"
+  },
+  {
+    "id": 144719,
+    "name": "Yelenendorf",
+    "stateId": 1426,
+    "latitude": "40.58584000",
+    "longitude": "46.31890000"
+  },
+  {
+    "id": 144768,
+    "name": "Yeni Suraxanı",
+    "stateId": 330,
+    "latitude": "40.43026000",
+    "longitude": "50.03598000"
+  },
+  {
+    "id": 144865,
+    "name": "Yevlakh",
+    "stateId": 4787,
+    "latitude": "40.61832000",
+    "longitude": "47.15014000"
+  },
+  {
+    "id": 145099,
+    "name": "Yukhary-Dashkesan",
+    "stateId": 1019,
+    "latitude": "40.52393000",
+    "longitude": "46.08186000"
+  },
+  {
+    "id": 145188,
+    "name": "Yuxarı Aran",
+    "stateId": 456,
+    "latitude": "39.73361000",
+    "longitude": "47.65500000"
+  },
+  {
+    "id": 145264,
+    "name": "Zabrat",
+    "stateId": 330,
+    "latitude": "40.47746000",
+    "longitude": "49.94174000"
+  },
+  {
+    "id": 145497,
+    "name": "Zangilan",
+    "stateId": 4829,
+    "latitude": "39.08371000",
+    "longitude": "46.65988000"
+  },
+  {
+    "id": 145559,
+    "name": "Zaqatala",
+    "stateId": 4836,
+    "latitude": "41.63160000",
+    "longitude": "46.64479000"
+  },
+  {
+    "id": 145588,
+    "name": "Zardob",
+    "stateId": 4838,
+    "latitude": "40.21840000",
+    "longitude": "47.71214000"
+  },
+  {
+    "id": 146505,
+    "name": "Zyrya",
+    "stateId": 330,
+    "latitude": "40.36613000",
+    "longitude": "50.29198000"
+  },
+  {
+    "id": 146894,
+    "name": "Çalxanqala",
+    "stateId": 2823,
+    "latitude": "39.44167000",
+    "longitude": "45.28333000"
+  },
+  {
+    "id": 146918,
+    "name": "Çatax",
+    "stateId": 4428,
+    "latitude": "40.72622000",
+    "longitude": "45.55919000"
+  },
+  {
+    "id": 146948,
+    "name": "Çinarlı",
+    "stateId": 3523,
+    "latitude": "41.46965000",
+    "longitude": "46.91582000"
+  },
+  {
+    "id": 146954,
+    "name": "Çobansığnaq",
+    "stateId": 4428,
+    "latitude": "40.75244000",
+    "longitude": "45.70645000"
+  },
+  {
+    "id": 147362,
+    "name": "İsmayıllı",
+    "stateId": 1710,
+    "latitude": "40.78485000",
+    "longitude": "48.15141000"
+  },
+  {
+    "id": 147572,
+    "name": "Şahbuz",
+    "stateId": 2823,
+    "latitude": "39.40722000",
+    "longitude": "45.57389000"
+  },
+  {
+    "id": 147635,
+    "name": "Şirvan",
+    "stateId": 3991,
+    "latitude": "39.93778000",
+    "longitude": "48.92900000"
+  },
+  {
+    "id": 147677,
+    "name": "Şuraabad",
+    "stateId": 1963,
+    "latitude": "40.81990000",
+    "longitude": "49.46774000"
+  },
+  {
+    "id": 147899,
+    "name": "Əhmədbəyli",
+    "stateId": 3720,
+    "latitude": "39.88074000",
+    "longitude": "48.39158000"
+  }
+]

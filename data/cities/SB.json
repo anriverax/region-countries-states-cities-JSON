@@ -1,0 +1,51 @@
+[
+  {
+    "id": 7993,
+    "name": "Auki",
+    "stateId": 2466,
+    "latitude": "-8.76778000",
+    "longitude": "160.69778000"
+  },
+  {
+    "id": 18340,
+    "name": "Buala",
+    "stateId": 1698,
+    "latitude": "-8.14497000",
+    "longitude": "159.59212000"
+  },
+  {
+    "id": 48771,
+    "name": "Gizo",
+    "stateId": 4732,
+    "latitude": "-8.10303000",
+    "longitude": "156.84186000"
+  },
+  {
+    "id": 55710,
+    "name": "Honiara",
+    "stateId": 1457,
+    "latitude": "-9.43333000",
+    "longitude": "159.95000000"
+  },
+  {
+    "id": 64897,
+    "name": "Kirakira",
+    "stateId": 2461,
+    "latitude": "-10.45442000",
+    "longitude": "161.92045000"
+  },
+  {
+    "id": 70960,
+    "name": "Lata",
+    "stateId": 4354,
+    "latitude": "-10.72500000",
+    "longitude": "165.79722000"
+  },
+  {
+    "id": 133612,
+    "name": "Tulagi",
+    "stateId": 780,
+    "latitude": "-9.10306000",
+    "longitude": "160.15056000"
+  }
+]
