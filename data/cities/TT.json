@@ -1,0 +1,177 @@
+[
+  {
+    "id": 6549,
+    "name": "Arima",
+    "stateId": 234,
+    "latitude": "10.63737000",
+    "longitude": "-61.28228000"
+  },
+  {
+    "id": 6784,
+    "name": "Arouca",
+    "stateId": 4475,
+    "latitude": "10.62877000",
+    "longitude": "-61.33487000"
+  },
+  {
+    "id": 24925,
+    "name": "Chaguanas",
+    "stateId": 812,
+    "latitude": "10.51667000",
+    "longitude": "-61.41667000"
+  },
+  {
+    "id": 33272,
+    "name": "Couva",
+    "stateId": 961,
+    "latitude": "10.42248000",
+    "longitude": "-61.46748000"
+  },
+  {
+    "id": 35790,
+    "name": "Debe",
+    "stateId": 3261,
+    "latitude": "10.20846000",
+    "longitude": "-61.45273000"
+  },
+  {
+    "id": 71179,
+    "name": "Laventille",
+    "stateId": 3842,
+    "latitude": "10.64917000",
+    "longitude": "-61.49889000"
+  },
+  {
+    "id": 78223,
+    "name": "Marabella",
+    "stateId": 3836,
+    "latitude": "10.30618000",
+    "longitude": "-61.44671000"
+  },
+  {
+    "id": 83365,
+    "name": "Mon Repos",
+    "stateId": 3836,
+    "latitude": "10.27979000",
+    "longitude": "-61.44590000"
+  },
+  {
+    "id": 85693,
+    "name": "Mucurapo",
+    "stateId": 3358,
+    "latitude": "10.66253000",
+    "longitude": "-61.53697000"
+  },
+  {
+    "id": 96566,
+    "name": "Paradise",
+    "stateId": 4475,
+    "latitude": "10.65298000",
+    "longitude": "-61.36298000"
+  },
+  {
+    "id": 98526,
+    "name": "Petit Valley",
+    "stateId": 1068,
+    "latitude": "10.69974000",
+    "longitude": "-61.54717000"
+  },
+  {
+    "id": 98711,
+    "name": "Peñal",
+    "stateId": 3261,
+    "latitude": "10.16667000",
+    "longitude": "-61.46667000"
+  },
+  {
+    "id": 100789,
+    "name": "Point Fortin",
+    "stateId": 3340,
+    "latitude": "10.17411000",
+    "longitude": "-61.68407000"
+  },
+  {
+    "id": 101688,
+    "name": "Port of Spain",
+    "stateId": 3358,
+    "latitude": "10.66668000",
+    "longitude": "-61.51889000"
+  },
+  {
+    "id": 103076,
+    "name": "Princes Town",
+    "stateId": 3395,
+    "latitude": "10.27184000",
+    "longitude": "-61.37103000"
+  },
+  {
+    "id": 107956,
+    "name": "Rio Claro",
+    "stateId": 4738,
+    "latitude": "10.30594000",
+    "longitude": "-61.17556000"
+  },
+  {
+    "id": 113618,
+    "name": "San Fernando",
+    "stateId": 3836,
+    "latitude": "10.27969000",
+    "longitude": "-61.46835000"
+  },
+  {
+    "id": 115997,
+    "name": "Sangre Grande",
+    "stateId": 3866,
+    "latitude": "10.58705000",
+    "longitude": "-61.13008000"
+  },
+  {
+    "id": 118668,
+    "name": "Scarborough",
+    "stateId": 1187,
+    "latitude": "11.18229000",
+    "longitude": "-60.73525000"
+  },
+  {
+    "id": 122342,
+    "name": "Siparia",
+    "stateId": 4031,
+    "latitude": "10.14525000",
+    "longitude": "-61.50740000"
+  },
+  {
+    "id": 127941,
+    "name": "Tabaquite",
+    "stateId": 961,
+    "latitude": "10.38824000",
+    "longitude": "-61.29704000"
+  },
+  {
+    "id": 133710,
+    "name": "Tunapuna",
+    "stateId": 4475,
+    "latitude": "10.65245000",
+    "longitude": "-61.38878000"
+  },
+  {
+    "id": 140959,
+    "name": "Ward of Chaguanas",
+    "stateId": 812,
+    "latitude": "10.50000000",
+    "longitude": "-61.38333000"
+  },
+  {
+    "id": 140960,
+    "name": "Ward of Diego Martin",
+    "stateId": 1068,
+    "latitude": "10.70000000",
+    "longitude": "-61.58333000"
+  },
+  {
+    "id": 140961,
+    "name": "Ward of Siparia",
+    "stateId": 4031,
+    "latitude": "10.15000000",
+    "longitude": "-61.46667000"
+  }
+]

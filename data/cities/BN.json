@@ -1,0 +1,65 @@
+[
+  {
+    "id": 10152,
+    "name": "Bandar Seri Begawan",
+    "stateId": 584,
+    "latitude": "4.89035000",
+    "longitude": "114.94006000"
+  },
+  {
+    "id": 10247,
+    "name": "Bangar",
+    "stateId": 4353,
+    "latitude": "4.70861000",
+    "longitude": "115.07167000"
+  },
+  {
+    "id": 13097,
+    "name": "Berakas A",
+    "stateId": 584,
+    "latitude": "4.97032000",
+    "longitude": "114.92989000"
+  },
+  {
+    "id": 62873,
+    "name": "Kapok",
+    "stateId": 584,
+    "latitude": "5.02447000",
+    "longitude": "115.04664000"
+  },
+  {
+    "id": 67049,
+    "name": "Kuala Belait",
+    "stateId": 421,
+    "latitude": "4.58361000",
+    "longitude": "114.23120000"
+  },
+  {
+    "id": 80994,
+    "name": "Mentiri",
+    "stateId": 584,
+    "latitude": "4.97058000",
+    "longitude": "115.02078000"
+  },
+  {
+    "id": 119949,
+    "name": "Serasa",
+    "stateId": 584,
+    "latitude": "5.01718000",
+    "longitude": "115.05841000"
+  },
+  {
+    "id": 119996,
+    "name": "Seria",
+    "stateId": 421,
+    "latitude": "4.60637000",
+    "longitude": "114.32476000"
+  },
+  {
+    "id": 133959,
+    "name": "Tutong",
+    "stateId": 4483,
+    "latitude": "4.80278000",
+    "longitude": "114.64917000"
+  }
+]

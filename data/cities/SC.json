@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5494,
+    "name": "Anse Boileau",
+    "stateId": 185,
+    "latitude": "-4.71667000",
+    "longitude": "55.48333000"
+  },
+  {
+    "id": 5503,
+    "name": "Anse Royale",
+    "stateId": 186,
+    "latitude": "-4.73333000",
+    "longitude": "55.51667000"
+  },
+  {
+    "id": 11937,
+    "name": "Beau Vallon",
+    "stateId": 413,
+    "latitude": "-4.62091000",
+    "longitude": "55.43015000"
+  },
+  {
+    "id": 12304,
+    "name": "Bel Ombre",
+    "stateId": 420,
+    "latitude": "-4.61667000",
+    "longitude": "55.41667000"
+  },
+  {
+    "id": 23095,
+    "name": "Cascade",
+    "stateId": 737,
+    "latitude": "-4.66667000",
+    "longitude": "55.50000000"
+  },
+  {
+    "id": 101609,
+    "name": "Port Glaud",
+    "stateId": 3353,
+    "latitude": "-4.66667000",
+    "longitude": "55.41667000"
+  },
+  {
+    "id": 128277,
+    "name": "Takamaka",
+    "stateId": 4286,
+    "latitude": "-4.76667000",
+    "longitude": "55.50000000"
+  },
+  {
+    "id": 137783,
+    "name": "Victoria",
+    "stateId": 2176,
+    "latitude": "-4.62001000",
+    "longitude": "55.45501000"
+  }
+]

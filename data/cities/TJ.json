@@ -1,0 +1,492 @@
+[
+  {
+    "id": 162,
+    "name": "Abdurahmoni Jomí",
+    "stateId": 1958,
+    "latitude": "37.94636000",
+    "longitude": "68.80878000"
+  },
+  {
+    "id": 804,
+    "name": "Adrasmon",
+    "stateId": 4197,
+    "latitude": "40.64928000",
+    "longitude": "69.98472000"
+  },
+  {
+    "id": 8420,
+    "name": "Ayní",
+    "stateId": 4197,
+    "latitude": "39.39406000",
+    "longitude": "68.53766000"
+  },
+  {
+    "id": 16523,
+    "name": "Boshchorbogh",
+    "stateId": 1958,
+    "latitude": "37.52027000",
+    "longitude": "68.12825000"
+  },
+  {
+    "id": 20079,
+    "name": "Bŭston",
+    "stateId": 4197,
+    "latitude": "40.52286000",
+    "longitude": "69.33307000"
+  },
+  {
+    "id": 20080,
+    "name": "Bŭstonqal’a",
+    "stateId": 1958,
+    "latitude": "37.84783000",
+    "longitude": "68.83125000"
+  },
+  {
+    "id": 26649,
+    "name": "Chkalov",
+    "stateId": 4197,
+    "latitude": "40.23417000",
+    "longitude": "69.69481000"
+  },
+  {
+    "id": 26869,
+    "name": "Chubek",
+    "stateId": 1958,
+    "latitude": "37.61453000",
+    "longitude": "69.70525000"
+  },
+  {
+    "id": 35231,
+    "name": "Danghara",
+    "stateId": 1958,
+    "latitude": "38.09578000",
+    "longitude": "69.33998000"
+  },
+  {
+    "id": 35344,
+    "name": "Darband",
+    "stateId": 4868,
+    "latitude": "38.86776000",
+    "longitude": "69.96642000"
+  },
+  {
+    "id": 39495,
+    "name": "Dŭstí",
+    "stateId": 1958,
+    "latitude": "37.34812000",
+    "longitude": "68.66398000"
+  },
+  {
+    "id": 43545,
+    "name": "Farkhor",
+    "stateId": 1958,
+    "latitude": "37.49219000",
+    "longitude": "69.40356000"
+  },
+  {
+    "id": 48323,
+    "name": "Ghafurov",
+    "stateId": 4197,
+    "latitude": "40.21571000",
+    "longitude": "69.72867000"
+  },
+  {
+    "id": 48329,
+    "name": "Gharavŭtí",
+    "stateId": 1958,
+    "latitude": "37.56703000",
+    "longitude": "68.44668000"
+  },
+  {
+    "id": 55177,
+    "name": "Hisor",
+    "stateId": 4868,
+    "latitude": "38.52504000",
+    "longitude": "68.55124000"
+  },
+  {
+    "id": 58808,
+    "name": "Isfara",
+    "stateId": 4197,
+    "latitude": "40.12649000",
+    "longitude": "70.62526000"
+  },
+  {
+    "id": 58832,
+    "name": "Ishqoshim",
+    "stateId": 1417,
+    "latitude": "36.72484000",
+    "longitude": "71.61331000"
+  },
+  {
+    "id": 58974,
+    "name": "Istaravshan",
+    "stateId": 4197,
+    "latitude": "39.91420000",
+    "longitude": "69.00328000"
+  },
+  {
+    "id": 60684,
+    "name": "Jilikŭl",
+    "stateId": 1958,
+    "latitude": "37.49167000",
+    "longitude": "68.53106000"
+  },
+  {
+    "id": 62946,
+    "name": "Karakenja",
+    "stateId": 4868,
+    "latitude": "39.23585000",
+    "longitude": "71.52412000"
+  },
+  {
+    "id": 64300,
+    "name": "Khodzha-Maston",
+    "stateId": 4868,
+    "latitude": "38.74457000",
+    "longitude": "68.62702000"
+  },
+  {
+    "id": 64350,
+    "name": "Khorugh",
+    "stateId": 1417,
+    "latitude": "37.48974000",
+    "longitude": "71.55304000"
+  },
+  {
+    "id": 64429,
+    "name": "Khŭjand",
+    "stateId": 4197,
+    "latitude": "40.28256000",
+    "longitude": "69.62216000"
+  },
+  {
+    "id": 64637,
+    "name": "Kim",
+    "stateId": 4197,
+    "latitude": "40.20798000",
+    "longitude": "70.46882000"
+  },
+  {
+    "id": 65031,
+    "name": "Kirov",
+    "stateId": 1958,
+    "latitude": "37.81908000",
+    "longitude": "68.85905000"
+  },
+  {
+    "id": 65718,
+    "name": "Kolkhozobod",
+    "stateId": 1958,
+    "latitude": "37.58823000",
+    "longitude": "68.65886000"
+  },
+  {
+    "id": 65901,
+    "name": "Konibodom",
+    "stateId": 4197,
+    "latitude": "40.29414000",
+    "longitude": "70.43122000"
+  },
+  {
+    "id": 65930,
+    "name": "Konsoy",
+    "stateId": 4197,
+    "latitude": "40.49155000",
+    "longitude": "69.70245000"
+  },
+  {
+    "id": 67909,
+    "name": "Kŭlob",
+    "stateId": 1958,
+    "latitude": "37.91459000",
+    "longitude": "69.78454000"
+  },
+  {
+    "id": 85059,
+    "name": "Moskovskiy",
+    "stateId": 1958,
+    "latitude": "37.60931000",
+    "longitude": "68.58094000"
+  },
+  {
+    "id": 86266,
+    "name": "Murghob",
+    "stateId": 1417,
+    "latitude": "38.17023000",
+    "longitude": "73.96674000"
+  },
+  {
+    "id": 87043,
+    "name": "Mŭ’minobod",
+    "stateId": 1958,
+    "latitude": "38.10714000",
+    "longitude": "70.03213000"
+  },
+  {
+    "id": 88243,
+    "name": "Neftobod",
+    "stateId": 4197,
+    "latitude": "40.21524000",
+    "longitude": "70.57193000"
+  },
+  {
+    "id": 89969,
+    "name": "Nohiyai Kolkhozobod",
+    "stateId": 1958,
+    "latitude": "37.57277000",
+    "longitude": "68.81528000"
+  },
+  {
+    "id": 89970,
+    "name": "Nohiyai Konibodom",
+    "stateId": 4197,
+    "latitude": "40.26877000",
+    "longitude": "70.33057000"
+  },
+  {
+    "id": 89971,
+    "name": "Nohiyai Panj",
+    "stateId": 1958,
+    "latitude": "37.31611000",
+    "longitude": "69.16679000"
+  },
+  {
+    "id": 89972,
+    "name": "Nohiyai Shughnon",
+    "stateId": 1417,
+    "latitude": "37.70004000",
+    "longitude": "72.16748000"
+  },
+  {
+    "id": 89973,
+    "name": "Nohiyai Vakhsh",
+    "stateId": 1958,
+    "latitude": "37.75602000",
+    "longitude": "68.94138000"
+  },
+  {
+    "id": 90113,
+    "name": "Norak",
+    "stateId": 1958,
+    "latitude": "38.38917000",
+    "longitude": "69.32272000"
+  },
+  {
+    "id": 90706,
+    "name": "Nov",
+    "stateId": 4197,
+    "latitude": "40.15220000",
+    "longitude": "69.37076000"
+  },
+  {
+    "id": 90983,
+    "name": "Novobod",
+    "stateId": 4868,
+    "latitude": "39.01084000",
+    "longitude": "70.15082000"
+  },
+  {
+    "id": 92196,
+    "name": "Obigarm",
+    "stateId": 4868,
+    "latitude": "38.71731000",
+    "longitude": "69.70885000"
+  },
+  {
+    "id": 93458,
+    "name": "Oltintopkan",
+    "stateId": 4197,
+    "latitude": "40.65425000",
+    "longitude": "69.59811000"
+  },
+  {
+    "id": 94482,
+    "name": "Orzu",
+    "stateId": 1958,
+    "latitude": "37.55820000",
+    "longitude": "68.81952000"
+  },
+  {
+    "id": 95677,
+    "name": "Pakhtakoron",
+    "stateId": 4197,
+    "latitude": "40.15709000",
+    "longitude": "68.74659000"
+  },
+  {
+    "id": 96097,
+    "name": "Palos",
+    "stateId": 4197,
+    "latitude": "40.31628000",
+    "longitude": "69.73743000"
+  },
+  {
+    "id": 96370,
+    "name": "Panj",
+    "stateId": 1958,
+    "latitude": "37.23634000",
+    "longitude": "69.09911000"
+  },
+  {
+    "id": 96371,
+    "name": "Panjakent",
+    "stateId": 4197,
+    "latitude": "39.49524000",
+    "longitude": "67.60931000"
+  },
+  {
+    "id": 103223,
+    "name": "Proletar",
+    "stateId": 4197,
+    "latitude": "40.16713000",
+    "longitude": "69.50163000"
+  },
+  {
+    "id": 105583,
+    "name": "Quruqsoy",
+    "stateId": 4197,
+    "latitude": "40.57648000",
+    "longitude": "69.37962000"
+  },
+  {
+    "id": 105621,
+    "name": "Qŭrghonteppa",
+    "stateId": 1958,
+    "latitude": "37.83399000",
+    "longitude": "68.78186000"
+  },
+  {
+    "id": 106378,
+    "name": "Rasht",
+    "stateId": 4868,
+    "latitude": "39.02871000",
+    "longitude": "70.37446000"
+  },
+  {
+    "id": 108749,
+    "name": "Roghun",
+    "stateId": 4868,
+    "latitude": "38.69331000",
+    "longitude": "69.73692000"
+  },
+  {
+    "id": 120801,
+    "name": "Shahrinav",
+    "stateId": 4868,
+    "latitude": "38.57085000",
+    "longitude": "68.33498000"
+  },
+  {
+    "id": 120803,
+    "name": "Shahritus",
+    "stateId": 1958,
+    "latitude": "37.26206000",
+    "longitude": "68.13849000"
+  },
+  {
+    "id": 120993,
+    "name": "Shaydon",
+    "stateId": 4197,
+    "latitude": "40.66992000",
+    "longitude": "70.35020000"
+  },
+  {
+    "id": 121581,
+    "name": "Shŭrob",
+    "stateId": 4197,
+    "latitude": "40.04605000",
+    "longitude": "70.54117000"
+  },
+  {
+    "id": 124121,
+    "name": "Sovet",
+    "stateId": 1958,
+    "latitude": "38.04670000",
+    "longitude": "69.58822000"
+  },
+  {
+    "id": 127997,
+    "name": "Taboshar",
+    "stateId": 4197,
+    "latitude": "40.57017000",
+    "longitude": "69.64175000"
+  },
+  {
+    "id": 128161,
+    "name": "Tagob",
+    "stateId": 4868,
+    "latitude": "38.83827000",
+    "longitude": "68.89847000"
+  },
+  {
+    "id": 129142,
+    "name": "Tartiki",
+    "stateId": 1958,
+    "latitude": "37.58221000",
+    "longitude": "68.13347000"
+  },
+  {
+    "id": 133900,
+    "name": "Tursunzoda",
+    "stateId": 4868,
+    "latitude": "38.51271000",
+    "longitude": "68.23163000"
+  },
+  {
+    "id": 135793,
+    "name": "Vahdat",
+    "stateId": 4868,
+    "latitude": "38.55632000",
+    "longitude": "69.01354000"
+  },
+  {
+    "id": 135794,
+    "name": "Vahdat District",
+    "stateId": 4868,
+    "latitude": "38.83333000",
+    "longitude": "69.33333000"
+  },
+  {
+    "id": 135838,
+    "name": "Vakhsh",
+    "stateId": 1958,
+    "latitude": "37.71485000",
+    "longitude": "68.83456000"
+  },
+  {
+    "id": 136718,
+    "name": "Varzob",
+    "stateId": 4868,
+    "latitude": "38.77369000",
+    "longitude": "68.81776000"
+  },
+  {
+    "id": 136719,
+    "name": "Varzob District",
+    "stateId": 4868,
+    "latitude": "38.75000000",
+    "longitude": "68.75000000"
+  },
+  {
+    "id": 139899,
+    "name": "Vorukh",
+    "stateId": 4197,
+    "latitude": "39.85125000",
+    "longitude": "70.58012000"
+  },
+  {
+    "id": 139905,
+    "name": "Vose’",
+    "stateId": 1958,
+    "latitude": "37.80396000",
+    "longitude": "69.64417000"
+  },
+  {
+    "id": 145049,
+    "name": "Yovon",
+    "stateId": 1958,
+    "latitude": "38.31408000",
+    "longitude": "69.03784000"
+  }
+]

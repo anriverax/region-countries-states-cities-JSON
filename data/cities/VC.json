@@ -1,0 +1,65 @@
+[
+  {
+    "id": 11064,
+    "name": "Barrouallie",
+    "stateId": 3778,
+    "latitude": "13.23676000",
+    "longitude": "-61.27275000"
+  },
+  {
+    "id": 14003,
+    "name": "Biabou",
+    "stateId": 826,
+    "latitude": "13.19430000",
+    "longitude": "-61.13904000"
+  },
+  {
+    "id": 19638,
+    "name": "Byera Village",
+    "stateId": 826,
+    "latitude": "13.25636000",
+    "longitude": "-61.11954000"
+  },
+  {
+    "id": 25538,
+    "name": "Chateaubelair",
+    "stateId": 3744,
+    "latitude": "13.29069000",
+    "longitude": "-61.24043000"
+  },
+  {
+    "id": 48119,
+    "name": "Georgetown",
+    "stateId": 826,
+    "latitude": "13.28054000",
+    "longitude": "-61.11850000"
+  },
+  {
+    "id": 64825,
+    "name": "Kingstown",
+    "stateId": 3751,
+    "latitude": "13.15527000",
+    "longitude": "-61.22742000"
+  },
+  {
+    "id": 64827,
+    "name": "Kingstown Park",
+    "stateId": 3751,
+    "latitude": "13.15924000",
+    "longitude": "-61.23161000"
+  },
+  {
+    "id": 71276,
+    "name": "Layou",
+    "stateId": 3738,
+    "latitude": "13.20175000",
+    "longitude": "-61.27014000"
+  },
+  {
+    "id": 101601,
+    "name": "Port Elizabeth",
+    "stateId": 1449,
+    "latitude": "13.01102000",
+    "longitude": "-61.23548000"
+  }
+]

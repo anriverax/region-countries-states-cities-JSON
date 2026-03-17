@@ -1,0 +1,7555 @@
+[
+  {
+    "id": 147,
+    "name": "Abbotsford",
+    "stateId": 578,
+    "latitude": "49.05798000",
+    "longitude": "-122.25257000"
+  },
+  {
+    "id": 249,
+    "name": "Abitibi-Témiscamingue",
+    "stateId": 3537,
+    "latitude": "48.10018000",
+    "longitude": "-77.78280000"
+  },
+  {
+    "id": 572,
+    "name": "Acton Vale",
+    "stateId": 3537,
+    "latitude": "45.65007000",
+    "longitude": "-72.56582000"
+  },
+  {
+    "id": 815,
+    "name": "Adstock",
+    "stateId": 3537,
+    "latitude": "46.05007000",
+    "longitude": "-71.08235000"
+  },
+  {
+    "id": 933,
+    "name": "Agassiz",
+    "stateId": 578,
+    "latitude": "49.23298000",
+    "longitude": "-121.76926000"
+  },
+  {
+    "id": 1381,
+    "name": "Airdrie",
+    "stateId": 119,
+    "latitude": "51.30011000",
+    "longitude": "-114.03528000"
+  },
+  {
+    "id": 1444,
+    "name": "Ajax",
+    "stateId": 3131,
+    "latitude": "43.85012000",
+    "longitude": "-79.03288000"
+  },
+  {
+    "id": 2238,
+    "name": "Albanel",
+    "stateId": 3537,
+    "latitude": "48.88324000",
+    "longitude": "-72.44867000"
+  },
+  {
+    "id": 2318,
+    "name": "Alberton",
+    "stateId": 3394,
+    "latitude": "46.81685000",
+    "longitude": "-64.06542000"
+  },
+  {
+    "id": 2621,
+    "name": "Aldergrove",
+    "stateId": 578,
+    "latitude": "49.05801000",
+    "longitude": "-122.47087000"
+  },
+  {
+    "id": 2622,
+    "name": "Aldergrove East",
+    "stateId": 578,
+    "latitude": "49.05593000",
+    "longitude": "-122.42299000"
+  },
+  {
+    "id": 2861,
+    "name": "Algoma",
+    "stateId": 3131,
+    "latitude": "47.88364000",
+    "longitude": "-84.42406000"
+  },
+  {
+    "id": 3098,
+    "name": "Alliston",
+    "stateId": 3131,
+    "latitude": "44.15011000",
+    "longitude": "-79.86635000"
+  },
+  {
+    "id": 3120,
+    "name": "Alma",
+    "stateId": 3537,
+    "latitude": "48.55009000",
+    "longitude": "-71.64910000"
+  },
+  {
+    "id": 3547,
+    "name": "Altona",
+    "stateId": 2500,
+    "latitude": "49.10469000",
+    "longitude": "-97.55961000"
+  },
+  {
+    "id": 3935,
+    "name": "Amherst",
+    "stateId": 3052,
+    "latitude": "45.83345000",
+    "longitude": "-64.19874000"
+  },
+  {
+    "id": 3943,
+    "name": "Amherstburg",
+    "stateId": 3131,
+    "latitude": "42.10009000",
+    "longitude": "-83.09985000"
+  },
+  {
+    "id": 3949,
+    "name": "Amigo Beach",
+    "stateId": 3131,
+    "latitude": "44.70011000",
+    "longitude": "-79.39963000"
+  },
+  {
+    "id": 4009,
+    "name": "Amos",
+    "stateId": 3537,
+    "latitude": "48.56688000",
+    "longitude": "-78.11624000"
+  },
+  {
+    "id": 4897,
+    "name": "Amqui",
+    "stateId": 3537,
+    "latitude": "48.46382000",
+    "longitude": "-67.43134000"
+  },
+  {
+    "id": 5034,
+    "name": "Ancaster",
+    "stateId": 3131,
+    "latitude": "43.21806000",
+    "longitude": "-79.98716000"
+  },
+  {
+    "id": 5246,
+    "name": "Ange-Gardien",
+    "stateId": 3537,
+    "latitude": "45.35008000",
+    "longitude": "-72.93244000"
+  },
+  {
+    "id": 5325,
+    "name": "Angus",
+    "stateId": 3131,
+    "latitude": "44.31681000",
+    "longitude": "-79.88295000"
+  },
+  {
+    "id": 5391,
+    "name": "Anmore",
+    "stateId": 578,
+    "latitude": "49.31637000",
+    "longitude": "-122.85263000"
+  },
+  {
+    "id": 5420,
+    "name": "Annapolis County",
+    "stateId": 3052,
+    "latitude": "44.58345000",
+    "longitude": "-65.16551000"
+  },
+  {
+    "id": 5571,
+    "name": "Antigonish",
+    "stateId": 3052,
+    "latitude": "45.61685000",
+    "longitude": "-61.99858000"
+  },
+  {
+    "id": 6209,
+    "name": "Arbutus Ridge",
+    "stateId": 578,
+    "latitude": "49.24966000",
+    "longitude": "-123.16934000"
+  },
+  {
+    "id": 6698,
+    "name": "Armstrong",
+    "stateId": 578,
+    "latitude": "50.44979000",
+    "longitude": "-119.20235000"
+  },
+  {
+    "id": 6746,
+    "name": "Arnprior",
+    "stateId": 3131,
+    "latitude": "45.43341000",
+    "longitude": "-76.34939000"
+  },
+  {
+    "id": 7157,
+    "name": "Asbestos",
+    "stateId": 3537,
+    "latitude": "45.76678000",
+    "longitude": "-71.93240000"
+  },
+  {
+    "id": 7264,
+    "name": "Ashcroft",
+    "stateId": 578,
+    "latitude": "50.72372000",
+    "longitude": "-121.28207000"
+  },
+  {
+    "id": 7455,
+    "name": "Assiniboia",
+    "stateId": 3906,
+    "latitude": "49.63336000",
+    "longitude": "-105.98446000"
+  },
+  {
+    "id": 7640,
+    "name": "Athabasca",
+    "stateId": 119,
+    "latitude": "54.71687000",
+    "longitude": "-113.28537000"
+  },
+  {
+    "id": 7682,
+    "name": "Atikokan",
+    "stateId": 3131,
+    "latitude": "48.75667000",
+    "longitude": "-91.62409000"
+  },
+  {
+    "id": 7782,
+    "name": "Attawapiskat",
+    "stateId": 3131,
+    "latitude": "52.92774000",
+    "longitude": "-82.41669000"
+  },
+  {
+    "id": 8065,
+    "name": "Aurora",
+    "stateId": 3131,
+    "latitude": "44.00011000",
+    "longitude": "-79.46632000"
+  },
+  {
+    "id": 8415,
+    "name": "Aylmer",
+    "stateId": 3131,
+    "latitude": "42.76679000",
+    "longitude": "-80.98302000"
+  },
+  {
+    "id": 8516,
+    "name": "Azilda",
+    "stateId": 3131,
+    "latitude": "46.55008000",
+    "longitude": "-81.09975000"
+  },
+  {
+    "id": 9306,
+    "name": "Baie Ste. Anne",
+    "stateId": 2891,
+    "latitude": "47.05231000",
+    "longitude": "-64.95355000"
+  },
+  {
+    "id": 9309,
+    "name": "Baie-Comeau",
+    "stateId": 3537,
+    "latitude": "49.21679000",
+    "longitude": "-68.14894000"
+  },
+  {
+    "id": 9310,
+    "name": "Baie-D'Urfé",
+    "stateId": 3537,
+    "latitude": "45.41397000",
+    "longitude": "-73.91586000"
+  },
+  {
+    "id": 9311,
+    "name": "Baie-Saint-Paul",
+    "stateId": 3537,
+    "latitude": "47.44109000",
+    "longitude": "-70.49858000"
+  },
+  {
+    "id": 9780,
+    "name": "Ballantrae",
+    "stateId": 3131,
+    "latitude": "44.03342000",
+    "longitude": "-79.29960000"
+  },
+  {
+    "id": 10137,
+    "name": "Bancroft",
+    "stateId": 3131,
+    "latitude": "45.05752000",
+    "longitude": "-77.85702000"
+  },
+  {
+    "id": 10194,
+    "name": "Banff",
+    "stateId": 119,
+    "latitude": "51.17622000",
+    "longitude": "-115.56982000"
+  },
+  {
+    "id": 10966,
+    "name": "Barraute",
+    "stateId": 3537,
+    "latitude": "48.43349000",
+    "longitude": "-77.63279000"
+  },
+  {
+    "id": 10992,
+    "name": "Barrhead",
+    "stateId": 119,
+    "latitude": "54.13345000",
+    "longitude": "-114.40211000"
+  },
+  {
+    "id": 10997,
+    "name": "Barrie",
+    "stateId": 3131,
+    "latitude": "44.40011000",
+    "longitude": "-79.66634000"
+  },
+  {
+    "id": 11048,
+    "name": "Barrière",
+    "stateId": 578,
+    "latitude": "51.18308000",
+    "longitude": "-120.11920000"
+  },
+  {
+    "id": 11197,
+    "name": "Bas-Saint-Laurent",
+    "stateId": 3537,
+    "latitude": "48.05030000",
+    "longitude": "-68.02266000"
+  },
+  {
+    "id": 11331,
+    "name": "Bassano",
+    "stateId": 119,
+    "latitude": "50.78342000",
+    "longitude": "-112.46854000"
+  },
+  {
+    "id": 11456,
+    "name": "Bath",
+    "stateId": 3131,
+    "latitude": "44.18342000",
+    "longitude": "-76.78273000"
+  },
+  {
+    "id": 11472,
+    "name": "Bathurst",
+    "stateId": 2891,
+    "latitude": "47.61814000",
+    "longitude": "-65.65112000"
+  },
+  {
+    "id": 11672,
+    "name": "Bay Roberts",
+    "stateId": 2902,
+    "latitude": "47.59989000",
+    "longitude": "-53.26478000"
+  },
+  {
+    "id": 11676,
+    "name": "Bay St. George South",
+    "stateId": 2902,
+    "latitude": "48.22781000",
+    "longitude": "-58.84162000"
+  },
+  {
+    "id": 11900,
+    "name": "Beaconsfield",
+    "stateId": 3537,
+    "latitude": "45.43341000",
+    "longitude": "-73.86586000"
+  },
+  {
+    "id": 11940,
+    "name": "Beauceville",
+    "stateId": 3537,
+    "latitude": "46.21785000",
+    "longitude": "-70.77873000"
+  },
+  {
+    "id": 11963,
+    "name": "Beauharnois",
+    "stateId": 3537,
+    "latitude": "45.31341000",
+    "longitude": "-73.87250000"
+  },
+  {
+    "id": 11979,
+    "name": "Beaumont",
+    "stateId": 119,
+    "latitude": "53.35013000",
+    "longitude": "-113.41871000"
+  },
+  {
+    "id": 12001,
+    "name": "Beaupré",
+    "stateId": 3537,
+    "latitude": "47.04428000",
+    "longitude": "-70.89529000"
+  },
+  {
+    "id": 12013,
+    "name": "Beausejour",
+    "stateId": 2500,
+    "latitude": "50.06220000",
+    "longitude": "-96.51669000"
+  },
+  {
+    "id": 12052,
+    "name": "Beaverlodge",
+    "stateId": 119,
+    "latitude": "55.21664000",
+    "longitude": "-119.43605000"
+  },
+  {
+    "id": 12120,
+    "name": "Bedford",
+    "stateId": 3537,
+    "latitude": "45.11678000",
+    "longitude": "-72.98244000"
+  },
+  {
+    "id": 12228,
+    "name": "Behchokǫ̀",
+    "stateId": 3041,
+    "latitude": "62.80250000",
+    "longitude": "-116.04639000"
+  },
+  {
+    "id": 12373,
+    "name": "Belfast",
+    "stateId": 3394,
+    "latitude": "46.08341000",
+    "longitude": "-62.88197000"
+  },
+  {
+    "id": 12543,
+    "name": "Belleville",
+    "stateId": 3131,
+    "latitude": "44.16682000",
+    "longitude": "-77.38277000"
+  },
+  {
+    "id": 12604,
+    "name": "Bells Corners",
+    "stateId": 3131,
+    "latitude": "45.31588000",
+    "longitude": "-75.83012000"
+  },
+  {
+    "id": 12629,
+    "name": "Belmont",
+    "stateId": 3131,
+    "latitude": "42.88339000",
+    "longitude": "-81.08303000"
+  },
+  {
+    "id": 12673,
+    "name": "Beloeil",
+    "stateId": 3537,
+    "latitude": "45.56839000",
+    "longitude": "-73.20568000"
+  },
+  {
+    "id": 13495,
+    "name": "Berthierville",
+    "stateId": 3537,
+    "latitude": "46.08336000",
+    "longitude": "-73.18245000"
+  },
+  {
+    "id": 13523,
+    "name": "Berwick",
+    "stateId": 3052,
+    "latitude": "45.05015000",
+    "longitude": "-64.73208000"
+  },
+  {
+    "id": 14234,
+    "name": "Biggar",
+    "stateId": 3906,
+    "latitude": "52.06680000",
+    "longitude": "-108.00135000"
+  },
+  {
+    "id": 14441,
+    "name": "Binbrook",
+    "stateId": 3131,
+    "latitude": "43.12135000",
+    "longitude": "-79.81104000"
+  },
+  {
+    "id": 14841,
+    "name": "Black Diamond",
+    "stateId": 119,
+    "latitude": "50.70011000",
+    "longitude": "-114.23530000"
+  },
+  {
+    "id": 14874,
+    "name": "Blackfalds",
+    "stateId": 119,
+    "latitude": "52.38342000",
+    "longitude": "-113.78530000"
+  },
+  {
+    "id": 14951,
+    "name": "Blainville",
+    "stateId": 3537,
+    "latitude": "45.66678000",
+    "longitude": "-73.88249000"
+  },
+  {
+    "id": 15185,
+    "name": "Bluewater",
+    "stateId": 3131,
+    "latitude": "43.46679000",
+    "longitude": "-81.59977000"
+  },
+  {
+    "id": 15612,
+    "name": "Bois-des-Filion",
+    "stateId": 3537,
+    "latitude": "45.66678000",
+    "longitude": "-73.74918000"
+  },
+  {
+    "id": 15617,
+    "name": "Boisbriand",
+    "stateId": 3537,
+    "latitude": "45.61678000",
+    "longitude": "-73.83249000"
+  },
+  {
+    "id": 15628,
+    "name": "Boissevain",
+    "stateId": 2500,
+    "latitude": "49.23062000",
+    "longitude": "-100.05586000"
+  },
+  {
+    "id": 15923,
+    "name": "Bon Accord",
+    "stateId": 119,
+    "latitude": "53.83345000",
+    "longitude": "-113.41872000"
+  },
+  {
+    "id": 15943,
+    "name": "Bonaventure",
+    "stateId": 3537,
+    "latitude": "48.04573000",
+    "longitude": "-65.49259000"
+  },
+  {
+    "id": 15946,
+    "name": "Bonavista",
+    "stateId": 2902,
+    "latitude": "48.64989000",
+    "longitude": "-53.11474000"
+  },
+  {
+    "id": 16067,
+    "name": "Bonnyville",
+    "stateId": 119,
+    "latitude": "54.26684000",
+    "longitude": "-110.73505000"
+  },
+  {
+    "id": 16635,
+    "name": "Botwood",
+    "stateId": 2902,
+    "latitude": "49.14994000",
+    "longitude": "-55.34819000"
+  },
+  {
+    "id": 16655,
+    "name": "Boucherville",
+    "stateId": 3537,
+    "latitude": "45.59104000",
+    "longitude": "-73.43605000"
+  },
+  {
+    "id": 16656,
+    "name": "Bouctouche",
+    "stateId": 2891,
+    "latitude": "46.46844000",
+    "longitude": "-64.73905000"
+  },
+  {
+    "id": 16754,
+    "name": "Bourget",
+    "stateId": 3131,
+    "latitude": "45.43340000",
+    "longitude": "-75.14930000"
+  },
+  {
+    "id": 16843,
+    "name": "Bow Island",
+    "stateId": 119,
+    "latitude": "49.86676000",
+    "longitude": "-111.36843000"
+  },
+  {
+    "id": 16851,
+    "name": "Bowen Island",
+    "stateId": 578,
+    "latitude": "49.38470000",
+    "longitude": "-123.33622000"
+  },
+  {
+    "id": 16993,
+    "name": "Bracebridge",
+    "stateId": 3131,
+    "latitude": "45.03341000",
+    "longitude": "-79.31633000"
+  },
+  {
+    "id": 17097,
+    "name": "Brampton",
+    "stateId": 3131,
+    "latitude": "43.68341000",
+    "longitude": "-79.76633000"
+  },
+  {
+    "id": 17127,
+    "name": "Brandon",
+    "stateId": 2500,
+    "latitude": "49.84692000",
+    "longitude": "-99.95306000"
+  },
+  {
+    "id": 17161,
+    "name": "Brant",
+    "stateId": 3131,
+    "latitude": "43.13340000",
+    "longitude": "-80.34967000"
+  },
+  {
+    "id": 17162,
+    "name": "Brantford",
+    "stateId": 3131,
+    "latitude": "43.13340000",
+    "longitude": "-80.26636000"
+  },
+  {
+    "id": 17274,
+    "name": "Breakeyville",
+    "stateId": 3537,
+    "latitude": "46.68037000",
+    "longitude": "-71.22327000"
+  },
+  {
+    "id": 17607,
+    "name": "Bridgewater",
+    "stateId": 3052,
+    "latitude": "44.37856000",
+    "longitude": "-64.51882000"
+  },
+  {
+    "id": 17835,
+    "name": "Brockville",
+    "stateId": 3131,
+    "latitude": "44.59132000",
+    "longitude": "-75.68705000"
+  },
+  {
+    "id": 17889,
+    "name": "Bromont",
+    "stateId": 3537,
+    "latitude": "45.31678000",
+    "longitude": "-72.64912000"
+  },
+  {
+    "id": 17962,
+    "name": "Brooks",
+    "stateId": 119,
+    "latitude": "50.58341000",
+    "longitude": "-111.88509000"
+  },
+  {
+    "id": 17996,
+    "name": "Brossard",
+    "stateId": 3537,
+    "latitude": "45.45008000",
+    "longitude": "-73.46583000"
+  },
+  {
+    "id": 18050,
+    "name": "Brownsburg-Chatham",
+    "stateId": 3537,
+    "latitude": "45.68342000",
+    "longitude": "-74.41590000"
+  },
+  {
+    "id": 18193,
+    "name": "Brussels",
+    "stateId": 3131,
+    "latitude": "43.73339000",
+    "longitude": "-81.24975000"
+  },
+  {
+    "id": 18469,
+    "name": "Buckingham",
+    "stateId": 3537,
+    "latitude": "45.58563000",
+    "longitude": "-75.42080000"
+  },
+  {
+    "id": 19127,
+    "name": "Burford",
+    "stateId": 3131,
+    "latitude": "43.10292000",
+    "longitude": "-80.42869000"
+  },
+  {
+    "id": 19146,
+    "name": "Burgeo",
+    "stateId": 2902,
+    "latitude": "47.61668000",
+    "longitude": "-57.61516000"
+  },
+  {
+    "id": 19263,
+    "name": "Burlington",
+    "stateId": 3131,
+    "latitude": "43.38621000",
+    "longitude": "-79.83713000"
+  },
+  {
+    "id": 19279,
+    "name": "Burnaby",
+    "stateId": 578,
+    "latitude": "49.26636000",
+    "longitude": "-122.95263000"
+  },
+  {
+    "id": 19307,
+    "name": "Burns Lake",
+    "stateId": 578,
+    "latitude": "54.22972000",
+    "longitude": "-125.76084000"
+  },
+  {
+    "id": 19781,
+    "name": "Bécancour",
+    "stateId": 3537,
+    "latitude": "46.34106000",
+    "longitude": "-72.43224000"
+  },
+  {
+    "id": 20157,
+    "name": "Cabano",
+    "stateId": 3537,
+    "latitude": "47.68065000",
+    "longitude": "-68.87810000"
+  },
+  {
+    "id": 20350,
+    "name": "Cache Creek",
+    "stateId": 578,
+    "latitude": "50.81011000",
+    "longitude": "-121.32460000"
+  },
+  {
+    "id": 20392,
+    "name": "Cacouna",
+    "stateId": 3537,
+    "latitude": "47.91657000",
+    "longitude": "-69.50054000"
+  },
+  {
+    "id": 20821,
+    "name": "Calgary",
+    "stateId": 119,
+    "latitude": "51.05011000",
+    "longitude": "-114.08529000"
+  },
+  {
+    "id": 20922,
+    "name": "Calmar",
+    "stateId": 119,
+    "latitude": "53.26683000",
+    "longitude": "-113.81874000"
+  },
+  {
+    "id": 21158,
+    "name": "Cambridge",
+    "stateId": 3131,
+    "latitude": "43.36010000",
+    "longitude": "-80.31269000"
+  },
+  {
+    "id": 21263,
+    "name": "Camlachie",
+    "stateId": 3131,
+    "latitude": "43.03596000",
+    "longitude": "-82.16160000"
+  },
+  {
+    "id": 21338,
+    "name": "Campbell River",
+    "stateId": 578,
+    "latitude": "50.01634000",
+    "longitude": "-125.24459000"
+  },
+  {
+    "id": 21344,
+    "name": "Campbellton",
+    "stateId": 2891,
+    "latitude": "48.00751000",
+    "longitude": "-66.67272000"
+  },
+  {
+    "id": 21566,
+    "name": "Camrose",
+    "stateId": 119,
+    "latitude": "53.01684000",
+    "longitude": "-112.83525000"
+  },
+  {
+    "id": 21691,
+    "name": "Candiac",
+    "stateId": 3537,
+    "latitude": "45.38338000",
+    "longitude": "-73.51587000"
+  },
+  {
+    "id": 21786,
+    "name": "Canmore",
+    "stateId": 119,
+    "latitude": "51.08335000",
+    "longitude": "-115.35206000"
+  },
+  {
+    "id": 21827,
+    "name": "Canora",
+    "stateId": 3906,
+    "latitude": "51.63328000",
+    "longitude": "-102.43425000"
+  },
+  {
+    "id": 21901,
+    "name": "Cantley",
+    "stateId": 3537,
+    "latitude": "45.56680000",
+    "longitude": "-75.78265000"
+  },
+  {
+    "id": 21979,
+    "name": "Cap-Chat",
+    "stateId": 3537,
+    "latitude": "49.10009000",
+    "longitude": "-66.68212000"
+  },
+  {
+    "id": 21980,
+    "name": "Cap-Santé",
+    "stateId": 3537,
+    "latitude": "46.67159000",
+    "longitude": "-71.78812000"
+  },
+  {
+    "id": 22014,
+    "name": "Cape Breton County",
+    "stateId": 3052,
+    "latitude": "46.00014000",
+    "longitude": "-60.31516000"
+  },
+  {
+    "id": 22082,
+    "name": "Capitale-Nationale",
+    "stateId": 3537,
+    "latitude": "47.37600000",
+    "longitude": "-71.12337000"
+  },
+  {
+    "id": 22152,
+    "name": "Capreol",
+    "stateId": 3131,
+    "latitude": "46.70626000",
+    "longitude": "-80.92109000"
+  },
+  {
+    "id": 22302,
+    "name": "Carberry",
+    "stateId": 2500,
+    "latitude": "49.86893000",
+    "longitude": "-99.36021000"
+  },
+  {
+    "id": 22322,
+    "name": "Carbonear",
+    "stateId": 2902,
+    "latitude": "47.73319000",
+    "longitude": "-53.21478000"
+  },
+  {
+    "id": 22393,
+    "name": "Cardston",
+    "stateId": 119,
+    "latitude": "49.19998000",
+    "longitude": "-113.30190000"
+  },
+  {
+    "id": 22446,
+    "name": "Carignan",
+    "stateId": 3537,
+    "latitude": "45.45008000",
+    "longitude": "-73.29916000"
+  },
+  {
+    "id": 22482,
+    "name": "Carleton",
+    "stateId": 3537,
+    "latitude": "48.09838000",
+    "longitude": "-66.10036000"
+  },
+  {
+    "id": 22484,
+    "name": "Carleton Place",
+    "stateId": 3131,
+    "latitude": "45.13341000",
+    "longitude": "-76.14938000"
+  },
+  {
+    "id": 22485,
+    "name": "Carleton-sur-Mer",
+    "stateId": 3537,
+    "latitude": "48.10749000",
+    "longitude": "-66.12800000"
+  },
+  {
+    "id": 22527,
+    "name": "Carlyle",
+    "stateId": 3906,
+    "latitude": "49.63334000",
+    "longitude": "-102.26765000"
+  },
+  {
+    "id": 22532,
+    "name": "Carman",
+    "stateId": 2500,
+    "latitude": "49.49920000",
+    "longitude": "-98.00156000"
+  },
+  {
+    "id": 22840,
+    "name": "Carstairs",
+    "stateId": 119,
+    "latitude": "51.56681000",
+    "longitude": "-114.10200000"
+  },
+  {
+    "id": 23223,
+    "name": "Casselman",
+    "stateId": 3131,
+    "latitude": "45.31680000",
+    "longitude": "-75.08260000"
+  },
+  {
+    "id": 23669,
+    "name": "Castlegar",
+    "stateId": 578,
+    "latitude": "49.32317000",
+    "longitude": "-117.65831000"
+  },
+  {
+    "id": 23792,
+    "name": "Catalina",
+    "stateId": 2902,
+    "latitude": "48.51659000",
+    "longitude": "-53.08135000"
+  },
+  {
+    "id": 24208,
+    "name": "Cedar",
+    "stateId": 578,
+    "latitude": "49.11633000",
+    "longitude": "-123.85270000"
+  },
+  {
+    "id": 24452,
+    "name": "Central Coast Regional District",
+    "stateId": 578,
+    "latitude": "52.16638000",
+    "longitude": "-127.00323000"
+  },
+  {
+    "id": 24489,
+    "name": "Centre-du-Québec",
+    "stateId": 3537,
+    "latitude": "46.01985000",
+    "longitude": "-71.98242000"
+  },
+  {
+    "id": 25073,
+    "name": "Chambly",
+    "stateId": 3537,
+    "latitude": "45.45008000",
+    "longitude": "-73.28246000"
+  },
+  {
+    "id": 25076,
+    "name": "Chambord",
+    "stateId": 3537,
+    "latitude": "48.43339000",
+    "longitude": "-72.06583000"
+  },
+  {
+    "id": 25193,
+    "name": "Chandler",
+    "stateId": 3537,
+    "latitude": "48.34935000",
+    "longitude": "-64.67926000"
+  },
+  {
+    "id": 25255,
+    "name": "Channel-Port aux Basques",
+    "stateId": 2902,
+    "latitude": "47.57286000",
+    "longitude": "-59.13808000"
+  },
+  {
+    "id": 25301,
+    "name": "Chapais",
+    "stateId": 3537,
+    "latitude": "49.78344000",
+    "longitude": "-74.84919000"
+  },
+  {
+    "id": 25399,
+    "name": "Charlemagne",
+    "stateId": 3537,
+    "latitude": "45.71678000",
+    "longitude": "-73.48247000"
+  },
+  {
+    "id": 25453,
+    "name": "Charlottetown",
+    "stateId": 3394,
+    "latitude": "46.23899000",
+    "longitude": "-63.13414000"
+  },
+  {
+    "id": 25508,
+    "name": "Chase",
+    "stateId": 578,
+    "latitude": "50.81650000",
+    "longitude": "-119.68571000"
+  },
+  {
+    "id": 25540,
+    "name": "Chatham",
+    "stateId": 3131,
+    "latitude": "42.41224000",
+    "longitude": "-82.18494000"
+  },
+  {
+    "id": 25549,
+    "name": "Chatham-Kent",
+    "stateId": 3131,
+    "latitude": "42.40009000",
+    "longitude": "-82.18310000"
+  },
+  {
+    "id": 25581,
+    "name": "Chaudière-Appalaches",
+    "stateId": 3537,
+    "latitude": "46.55500000",
+    "longitude": "-70.83080000"
+  },
+  {
+    "id": 25736,
+    "name": "Chemainus",
+    "stateId": 578,
+    "latitude": "48.91633000",
+    "longitude": "-123.71937000"
+  },
+  {
+    "id": 25931,
+    "name": "Chertsey",
+    "stateId": 3537,
+    "latitude": "46.07109000",
+    "longitude": "-73.89095000"
+  },
+  {
+    "id": 25983,
+    "name": "Chester",
+    "stateId": 3052,
+    "latitude": "44.54225000",
+    "longitude": "-64.23891000"
+  },
+  {
+    "id": 26019,
+    "name": "Chestermere",
+    "stateId": 119,
+    "latitude": "51.03341000",
+    "longitude": "-113.81867000"
+  },
+  {
+    "id": 26033,
+    "name": "Chetwynd",
+    "stateId": 578,
+    "latitude": "55.69988000",
+    "longitude": "-121.63627000"
+  },
+  {
+    "id": 26151,
+    "name": "Chibougamau",
+    "stateId": 3537,
+    "latitude": "49.91684000",
+    "longitude": "-74.36586000"
+  },
+  {
+    "id": 26339,
+    "name": "Chilliwack",
+    "stateId": 578,
+    "latitude": "49.16638000",
+    "longitude": "-121.95257000"
+  },
+  {
+    "id": 26975,
+    "name": "Chute-aux-Outardes",
+    "stateId": 3537,
+    "latitude": "49.11679000",
+    "longitude": "-68.39896000"
+  },
+  {
+    "id": 27019,
+    "name": "Château-Richer",
+    "stateId": 3537,
+    "latitude": "46.96031000",
+    "longitude": "-71.03219000"
+  },
+  {
+    "id": 27033,
+    "name": "Châteauguay",
+    "stateId": 3537,
+    "latitude": "45.38338000",
+    "longitude": "-73.74919000"
+  },
+  {
+    "id": 27749,
+    "name": "Clarence-Rockland",
+    "stateId": 3131,
+    "latitude": "45.55010000",
+    "longitude": "-75.29101000"
+  },
+  {
+    "id": 27757,
+    "name": "Clarenville-Shoal Harbour",
+    "stateId": 2902,
+    "latitude": "48.18050000",
+    "longitude": "-53.96982000"
+  },
+  {
+    "id": 27758,
+    "name": "Claresholm",
+    "stateId": 119,
+    "latitude": "50.03332000",
+    "longitude": "-113.58524000"
+  },
+  {
+    "id": 28114,
+    "name": "Clyde River",
+    "stateId": 3072,
+    "latitude": "70.47233000",
+    "longitude": "-68.58987000"
+  },
+  {
+    "id": 28165,
+    "name": "Coaldale",
+    "stateId": 119,
+    "latitude": "49.71670000",
+    "longitude": "-112.61854000"
+  },
+  {
+    "id": 28169,
+    "name": "Coalhurst",
+    "stateId": 119,
+    "latitude": "49.74640000",
+    "longitude": "-112.93246000"
+  },
+  {
+    "id": 28201,
+    "name": "Coaticook",
+    "stateId": 3537,
+    "latitude": "45.13339000",
+    "longitude": "-71.79907000"
+  },
+  {
+    "id": 28232,
+    "name": "Cobourg",
+    "stateId": 3131,
+    "latitude": "43.95977000",
+    "longitude": "-78.16515000"
+  },
+  {
+    "id": 28268,
+    "name": "Cochrane",
+    "stateId": 119,
+    "latitude": "51.18341000",
+    "longitude": "-114.46871000"
+  },
+  {
+    "id": 28270,
+    "name": "Cochrane District",
+    "stateId": 3131,
+    "latitude": "50.00022000",
+    "longitude": "-82.99979000"
+  },
+  {
+    "id": 28462,
+    "name": "Colchester",
+    "stateId": 3052,
+    "latitude": "45.33345000",
+    "longitude": "-63.24868000"
+  },
+  {
+    "id": 28468,
+    "name": "Cold Lake",
+    "stateId": 119,
+    "latitude": "54.46525000",
+    "longitude": "-110.18154000"
+  },
+  {
+    "id": 28489,
+    "name": "Cole Harbour",
+    "stateId": 3052,
+    "latitude": "44.67244000",
+    "longitude": "-63.47506000"
+  },
+  {
+    "id": 28637,
+    "name": "Collingwood",
+    "stateId": 3131,
+    "latitude": "44.48340000",
+    "longitude": "-80.21638000"
+  },
+  {
+    "id": 29025,
+    "name": "Colwood",
+    "stateId": 578,
+    "latitude": "48.43293000",
+    "longitude": "-123.48591000"
+  },
+  {
+    "id": 32064,
+    "name": "Conception Bay South",
+    "stateId": 2902,
+    "latitude": "47.49989000",
+    "longitude": "-52.99806000"
+  },
+  {
+    "id": 32081,
+    "name": "Concord",
+    "stateId": 3131,
+    "latitude": "43.80011000",
+    "longitude": "-79.48291000"
+  },
+  {
+    "id": 32255,
+    "name": "Constance Bay",
+    "stateId": 3131,
+    "latitude": "45.50011000",
+    "longitude": "-76.08267000"
+  },
+  {
+    "id": 32316,
+    "name": "Contrecoeur",
+    "stateId": 3537,
+    "latitude": "45.85008000",
+    "longitude": "-73.23245000"
+  },
+  {
+    "id": 32370,
+    "name": "Cookshire",
+    "stateId": 3537,
+    "latitude": "45.41536000",
+    "longitude": "-71.62962000"
+  },
+  {
+    "id": 32371,
+    "name": "Cookshire-Eaton",
+    "stateId": 3537,
+    "latitude": "45.41675000",
+    "longitude": "-71.63240000"
+  },
+  {
+    "id": 32372,
+    "name": "Cookstown",
+    "stateId": 3131,
+    "latitude": "44.18341000",
+    "longitude": "-79.69964000"
+  },
+  {
+    "id": 32396,
+    "name": "Coombs",
+    "stateId": 578,
+    "latitude": "49.29963000",
+    "longitude": "-124.41946000"
+  },
+  {
+    "id": 32490,
+    "name": "Coquitlam",
+    "stateId": 578,
+    "latitude": "49.28460000",
+    "longitude": "-122.78217000"
+  },
+  {
+    "id": 32697,
+    "name": "Corner Brook",
+    "stateId": 2902,
+    "latitude": "48.95001000",
+    "longitude": "-57.95202000"
+  },
+  {
+    "id": 32734,
+    "name": "Cornwall",
+    "stateId": 3131,
+    "latitude": "45.01809000",
+    "longitude": "-74.72815000"
+  },
+  {
+    "id": 32735,
+    "name": "Cornwall",
+    "stateId": 3394,
+    "latitude": "46.22652000",
+    "longitude": "-63.21809000"
+  },
+  {
+    "id": 32953,
+    "name": "Corunna",
+    "stateId": 3131,
+    "latitude": "42.88338000",
+    "longitude": "-82.43313000"
+  },
+  {
+    "id": 33085,
+    "name": "Coteau-du-Lac",
+    "stateId": 3537,
+    "latitude": "45.30008000",
+    "longitude": "-74.18253000"
+  },
+  {
+    "id": 33247,
+    "name": "Courtenay",
+    "stateId": 578,
+    "latitude": "49.68657000",
+    "longitude": "-124.99360000"
+  },
+  {
+    "id": 33314,
+    "name": "Cow Bay",
+    "stateId": 3052,
+    "latitude": "44.63141000",
+    "longitude": "-63.43218000"
+  },
+  {
+    "id": 33317,
+    "name": "Cowansville",
+    "stateId": 3537,
+    "latitude": "45.20008000",
+    "longitude": "-72.74913000"
+  },
+  {
+    "id": 33329,
+    "name": "Cowichan Bay",
+    "stateId": 578,
+    "latitude": "48.73366000",
+    "longitude": "-123.61739000"
+  },
+  {
+    "id": 33408,
+    "name": "Crabtree",
+    "stateId": 3537,
+    "latitude": "45.96677000",
+    "longitude": "-73.46586000"
+  },
+  {
+    "id": 33451,
+    "name": "Cranbrook",
+    "stateId": 578,
+    "latitude": "49.49991000",
+    "longitude": "-115.76879000"
+  },
+  {
+    "id": 33587,
+    "name": "Creston",
+    "stateId": 578,
+    "latitude": "49.09987000",
+    "longitude": "-116.50211000"
+  },
+  {
+    "id": 33788,
+    "name": "Cross Lake 19A",
+    "stateId": 2500,
+    "latitude": "54.65135000",
+    "longitude": "-97.76848000"
+  },
+  {
+    "id": 33796,
+    "name": "Crossfield",
+    "stateId": 119,
+    "latitude": "51.43341000",
+    "longitude": "-114.03528000"
+  },
+  {
+    "id": 34280,
+    "name": "Cumberland",
+    "stateId": 578,
+    "latitude": "49.61634000",
+    "longitude": "-125.03613000"
+  },
+  {
+    "id": 34726,
+    "name": "Côte-Nord",
+    "stateId": 3537,
+    "latitude": "50.86683000",
+    "longitude": "-65.81541000"
+  },
+  {
+    "id": 34727,
+    "name": "Côte-Saint-Luc",
+    "stateId": 3537,
+    "latitude": "45.46536000",
+    "longitude": "-73.66585000"
+  },
+  {
+    "id": 35082,
+    "name": "Dalmeny",
+    "stateId": 3906,
+    "latitude": "52.33339000",
+    "longitude": "-106.76792000"
+  },
+  {
+    "id": 35282,
+    "name": "Danville",
+    "stateId": 3537,
+    "latitude": "45.78337000",
+    "longitude": "-72.01580000"
+  },
+  {
+    "id": 35431,
+    "name": "Dartmouth",
+    "stateId": 3052,
+    "latitude": "44.67134000",
+    "longitude": "-63.57719000"
+  },
+  {
+    "id": 35529,
+    "name": "Dauphin",
+    "stateId": 2500,
+    "latitude": "51.14941000",
+    "longitude": "-100.05023000"
+  },
+  {
+    "id": 35551,
+    "name": "Daveluyville",
+    "stateId": 3537,
+    "latitude": "46.20006000",
+    "longitude": "-72.13239000"
+  },
+  {
+    "id": 35616,
+    "name": "Dawson City",
+    "stateId": 4798,
+    "latitude": "64.06013000",
+    "longitude": "-139.43328000"
+  },
+  {
+    "id": 35621,
+    "name": "Dawson Creek",
+    "stateId": 578,
+    "latitude": "55.75984000",
+    "longitude": "-120.24030000"
+  },
+  {
+    "id": 35722,
+    "name": "De Salaberry",
+    "stateId": 2500,
+    "latitude": "49.39999000",
+    "longitude": "-97.00894000"
+  },
+  {
+    "id": 35858,
+    "name": "Deep River",
+    "stateId": 3131,
+    "latitude": "46.10012000",
+    "longitude": "-77.49949000"
+  },
+  {
+    "id": 35862,
+    "name": "Deer Lake",
+    "stateId": 2902,
+    "latitude": "49.16671000",
+    "longitude": "-57.43163000"
+  },
+  {
+    "id": 35991,
+    "name": "Delaware",
+    "stateId": 3131,
+    "latitude": "42.91679000",
+    "longitude": "-81.41646000"
+  },
+  {
+    "id": 36063,
+    "name": "Deloraine",
+    "stateId": 2500,
+    "latitude": "49.19082000",
+    "longitude": "-100.49477000"
+  },
+  {
+    "id": 36070,
+    "name": "Delson",
+    "stateId": 3537,
+    "latitude": "45.36678000",
+    "longitude": "-73.54917000"
+  },
+  {
+    "id": 36072,
+    "name": "Delta",
+    "stateId": 578,
+    "latitude": "49.14399000",
+    "longitude": "-122.90680000"
+  },
+  {
+    "id": 36171,
+    "name": "Denman Island",
+    "stateId": 578,
+    "latitude": "49.53294000",
+    "longitude": "-124.81950000"
+  },
+  {
+    "id": 36172,
+    "name": "Denman Island Trust Area",
+    "stateId": 578,
+    "latitude": "49.55189000",
+    "longitude": "-124.79881000"
+  },
+  {
+    "id": 36574,
+    "name": "Deseronto",
+    "stateId": 3131,
+    "latitude": "44.20012000",
+    "longitude": "-77.04944000"
+  },
+  {
+    "id": 36670,
+    "name": "Deux-Montagnes",
+    "stateId": 3537,
+    "latitude": "45.53455000",
+    "longitude": "-73.90168000"
+  },
+  {
+    "id": 36699,
+    "name": "Devon",
+    "stateId": 119,
+    "latitude": "53.36683000",
+    "longitude": "-113.73533000"
+  },
+  {
+    "id": 36926,
+    "name": "Didsbury",
+    "stateId": 119,
+    "latitude": "51.66681000",
+    "longitude": "-114.13529000"
+  },
+  {
+    "id": 36960,
+    "name": "Dieppe",
+    "stateId": 2891,
+    "latitude": "46.07844000",
+    "longitude": "-64.68735000"
+  },
+  {
+    "id": 37023,
+    "name": "Digby",
+    "stateId": 3052,
+    "latitude": "44.62188000",
+    "longitude": "-65.75860000"
+  },
+  {
+    "id": 37024,
+    "name": "Digby County",
+    "stateId": 3052,
+    "latitude": "44.36685000",
+    "longitude": "-65.69884000"
+  },
+  {
+    "id": 37236,
+    "name": "Disraeli",
+    "stateId": 3537,
+    "latitude": "45.90007000",
+    "longitude": "-71.34907000"
+  },
+  {
+    "id": 37649,
+    "name": "Dolbeau-Mistassini",
+    "stateId": 3537,
+    "latitude": "48.87860000",
+    "longitude": "-72.23142000"
+  },
+  {
+    "id": 37682,
+    "name": "Dollard-Des Ormeaux",
+    "stateId": 3537,
+    "latitude": "45.49452000",
+    "longitude": "-73.82419000"
+  },
+  {
+    "id": 37999,
+    "name": "Donnacona",
+    "stateId": 3537,
+    "latitude": "46.68042000",
+    "longitude": "-71.72390000"
+  },
+  {
+    "id": 38064,
+    "name": "Dorchester",
+    "stateId": 3131,
+    "latitude": "42.98339000",
+    "longitude": "-81.06643000"
+  },
+  {
+    "id": 38158,
+    "name": "Dorval",
+    "stateId": 3537,
+    "latitude": "45.44730000",
+    "longitude": "-73.75335000"
+  },
+  {
+    "id": 38315,
+    "name": "Dowling",
+    "stateId": 3131,
+    "latitude": "46.59111000",
+    "longitude": "-81.33917000"
+  },
+  {
+    "id": 38441,
+    "name": "Drayton Valley",
+    "stateId": 119,
+    "latitude": "53.21682000",
+    "longitude": "-114.98544000"
+  },
+  {
+    "id": 38553,
+    "name": "Drummondville",
+    "stateId": 3537,
+    "latitude": "45.88336000",
+    "longitude": "-72.48241000"
+  },
+  {
+    "id": 38584,
+    "name": "Dryden",
+    "stateId": 3131,
+    "latitude": "49.78334000",
+    "longitude": "-92.75032000"
+  },
+  {
+    "id": 38722,
+    "name": "Duck Lake",
+    "stateId": 578,
+    "latitude": "50.00880000",
+    "longitude": "-119.39672000"
+  },
+  {
+    "id": 38932,
+    "name": "Duncan",
+    "stateId": 578,
+    "latitude": "48.78293000",
+    "longitude": "-123.70266000"
+  },
+  {
+    "id": 38982,
+    "name": "Dunham",
+    "stateId": 3537,
+    "latitude": "45.13338000",
+    "longitude": "-72.79913000"
+  },
+  {
+    "id": 39075,
+    "name": "Durham",
+    "stateId": 3131,
+    "latitude": "44.20012000",
+    "longitude": "-78.99957000"
+  },
+  {
+    "id": 39534,
+    "name": "Ear Falls",
+    "stateId": 3131,
+    "latitude": "50.63955000",
+    "longitude": "-93.23526000"
+  },
+  {
+    "id": 39559,
+    "name": "East Angus",
+    "stateId": 3537,
+    "latitude": "45.48338000",
+    "longitude": "-71.66577000"
+  },
+  {
+    "id": 39585,
+    "name": "East Broughton",
+    "stateId": 3537,
+    "latitude": "46.21358000",
+    "longitude": "-71.07674000"
+  },
+  {
+    "id": 39646,
+    "name": "East Gwillimbury",
+    "stateId": 3131,
+    "latitude": "44.10087000",
+    "longitude": "-79.43785000"
+  },
+  {
+    "id": 39792,
+    "name": "East Wellington",
+    "stateId": 578,
+    "latitude": "49.17385000",
+    "longitude": "-124.01745000"
+  },
+  {
+    "id": 39800,
+    "name": "East York",
+    "stateId": 3131,
+    "latitude": "43.69053000",
+    "longitude": "-79.32794000"
+  },
+  {
+    "id": 40106,
+    "name": "Edmonton",
+    "stateId": 119,
+    "latitude": "53.55014000",
+    "longitude": "-113.46871000"
+  },
+  {
+    "id": 40110,
+    "name": "Edmundston",
+    "stateId": 2891,
+    "latitude": "47.37370000",
+    "longitude": "-68.32512000"
+  },
+  {
+    "id": 40119,
+    "name": "Edson",
+    "stateId": 119,
+    "latitude": "53.58345000",
+    "longitude": "-116.43559000"
+  },
+  {
+    "id": 41574,
+    "name": "Elk Point",
+    "stateId": 119,
+    "latitude": "53.90017000",
+    "longitude": "-110.90170000"
+  },
+  {
+    "id": 41582,
+    "name": "Elkford",
+    "stateId": 578,
+    "latitude": "50.05007000",
+    "longitude": "-114.88540000"
+  },
+  {
+    "id": 41644,
+    "name": "Elliot Lake",
+    "stateId": 3131,
+    "latitude": "46.38336000",
+    "longitude": "-82.63315000"
+  },
+  {
+    "id": 41652,
+    "name": "Ellison",
+    "stateId": 578,
+    "latitude": "49.93307000",
+    "longitude": "-119.36907000"
+  },
+  {
+    "id": 41701,
+    "name": "Elmvale",
+    "stateId": 3131,
+    "latitude": "44.58340000",
+    "longitude": "-79.86636000"
+  },
+  {
+    "id": 41993,
+    "name": "Enderby",
+    "stateId": 578,
+    "latitude": "50.54980000",
+    "longitude": "-119.15234000"
+  },
+  {
+    "id": 42047,
+    "name": "Englehart",
+    "stateId": 3131,
+    "latitude": "47.81686000",
+    "longitude": "-79.86640000"
+  },
+  {
+    "id": 42056,
+    "name": "English Corner",
+    "stateId": 3052,
+    "latitude": "44.73345000",
+    "longitude": "-63.78201000"
+  },
+  {
+    "id": 42558,
+    "name": "Eskasoni 3",
+    "stateId": 3052,
+    "latitude": "45.94522000",
+    "longitude": "-60.61617000"
+  },
+  {
+    "id": 42591,
+    "name": "Espanola",
+    "stateId": 3131,
+    "latitude": "46.25837000",
+    "longitude": "-81.76649000"
+  },
+  {
+    "id": 42721,
+    "name": "Essex",
+    "stateId": 3131,
+    "latitude": "42.17509000",
+    "longitude": "-82.82483000"
+  },
+  {
+    "id": 42824,
+    "name": "Esterhazy",
+    "stateId": 3906,
+    "latitude": "50.65001000",
+    "longitude": "-102.08426000"
+  },
+  {
+    "id": 42834,
+    "name": "Estevan",
+    "stateId": 3906,
+    "latitude": "49.13337000",
+    "longitude": "-102.98422000"
+  },
+  {
+    "id": 42909,
+    "name": "Etobicoke",
+    "stateId": 3131,
+    "latitude": "43.65421000",
+    "longitude": "-79.56711000"
+  },
+  {
+    "id": 43314,
+    "name": "Fairview",
+    "stateId": 119,
+    "latitude": "56.06675000",
+    "longitude": "-118.38606000"
+  },
+  {
+    "id": 43334,
+    "name": "Fairwinds",
+    "stateId": 578,
+    "latitude": "49.27588000",
+    "longitude": "-124.12782000"
+  },
+  {
+    "id": 43381,
+    "name": "Falher",
+    "stateId": 119,
+    "latitude": "55.73339000",
+    "longitude": "-117.20262000"
+  },
+  {
+    "id": 43404,
+    "name": "Fall River",
+    "stateId": 3052,
+    "latitude": "44.81685000",
+    "longitude": "-63.61540000"
+  },
+  {
+    "id": 43413,
+    "name": "Fallingbrook",
+    "stateId": 3394,
+    "latitude": "45.47558000",
+    "longitude": "-75.48401000"
+  },
+  {
+    "id": 43587,
+    "name": "Farnham",
+    "stateId": 3537,
+    "latitude": "45.28338000",
+    "longitude": "-72.98244000"
+  },
+  {
+    "id": 43941,
+    "name": "Ferme-Neuve",
+    "stateId": 3537,
+    "latitude": "46.70011000",
+    "longitude": "-75.44929000"
+  },
+  {
+    "id": 43944,
+    "name": "Fermont",
+    "stateId": 3537,
+    "latitude": "52.78345000",
+    "longitude": "-67.08204000"
+  },
+  {
+    "id": 43977,
+    "name": "Fernie",
+    "stateId": 578,
+    "latitude": "49.49996000",
+    "longitude": "-115.06871000"
+  },
+  {
+    "id": 44489,
+    "name": "Flin Flon",
+    "stateId": 2500,
+    "latitude": "54.76703000",
+    "longitude": "-101.87433000"
+  },
+  {
+    "id": 44565,
+    "name": "Florenceville-Bristol",
+    "stateId": 2891,
+    "latitude": "46.44353000",
+    "longitude": "-67.61536000"
+  },
+  {
+    "id": 44679,
+    "name": "Foam Lake",
+    "stateId": 3906,
+    "latitude": "51.65001000",
+    "longitude": "-103.53431000"
+  },
+  {
+    "id": 44698,
+    "name": "Fogo Island",
+    "stateId": 2902,
+    "latitude": "49.71649000",
+    "longitude": "-54.16981000"
+  },
+  {
+    "id": 44959,
+    "name": "Forestville",
+    "stateId": 3537,
+    "latitude": "48.73808000",
+    "longitude": "-69.08478000"
+  },
+  {
+    "id": 45091,
+    "name": "Fort Erie",
+    "stateId": 3131,
+    "latitude": "42.90012000",
+    "longitude": "-78.93286000"
+  },
+  {
+    "id": 45093,
+    "name": "Fort Frances",
+    "stateId": 3131,
+    "latitude": "48.61667000",
+    "longitude": "-93.40030000"
+  },
+  {
+    "id": 45113,
+    "name": "Fort Macleod",
+    "stateId": 119,
+    "latitude": "49.71671000",
+    "longitude": "-113.41857000"
+  },
+  {
+    "id": 45116,
+    "name": "Fort McMurray",
+    "stateId": 119,
+    "latitude": "56.72676000",
+    "longitude": "-111.38103000"
+  },
+  {
+    "id": 45117,
+    "name": "Fort McPherson",
+    "stateId": 3041,
+    "latitude": "67.43863000",
+    "longitude": "-134.88543000"
+  },
+  {
+    "id": 45127,
+    "name": "Fort Nelson",
+    "stateId": 578,
+    "latitude": "58.80533000",
+    "longitude": "-122.70020000"
+  },
+  {
+    "id": 45143,
+    "name": "Fort Saskatchewan",
+    "stateId": 119,
+    "latitude": "53.71684000",
+    "longitude": "-113.21870000"
+  },
+  {
+    "id": 45146,
+    "name": "Fort Smith",
+    "stateId": 3041,
+    "latitude": "60.00439000",
+    "longitude": "-111.88871000"
+  },
+  {
+    "id": 45148,
+    "name": "Fort St. John",
+    "stateId": 578,
+    "latitude": "56.24988000",
+    "longitude": "-120.85292000"
+  },
+  {
+    "id": 45167,
+    "name": "Fort-Coulonge",
+    "stateId": 3537,
+    "latitude": "45.85011000",
+    "longitude": "-76.73272000"
+  },
+  {
+    "id": 45223,
+    "name": "Fossambault-sur-le-Lac",
+    "stateId": 3537,
+    "latitude": "46.87662000",
+    "longitude": "-71.61541000"
+  },
+  {
+    "id": 45303,
+    "name": "Fox Creek",
+    "stateId": 119,
+    "latitude": "54.40007000",
+    "longitude": "-116.80238000"
+  },
+  {
+    "id": 45513,
+    "name": "Franklin",
+    "stateId": 3537,
+    "latitude": "45.03338000",
+    "longitude": "-73.91591000"
+  },
+  {
+    "id": 45595,
+    "name": "Fraser Valley Regional District",
+    "stateId": 578,
+    "latitude": "49.58299000",
+    "longitude": "-121.83587000"
+  },
+  {
+    "id": 45675,
+    "name": "Fredericton",
+    "stateId": 2891,
+    "latitude": "45.94541000",
+    "longitude": "-66.66558000"
+  },
+  {
+    "id": 45781,
+    "name": "French Creek",
+    "stateId": 578,
+    "latitude": "49.34123000",
+    "longitude": "-124.35541000"
+  },
+  {
+    "id": 46015,
+    "name": "Fruitvale",
+    "stateId": 578,
+    "latitude": "49.11654000",
+    "longitude": "-117.55222000"
+  },
+  {
+    "id": 46295,
+    "name": "Fundy Bay",
+    "stateId": 2891,
+    "latitude": "44.74100000",
+    "longitude": "-66.76041000"
+  },
+  {
+    "id": 46890,
+    "name": "Gambo",
+    "stateId": 2902,
+    "latitude": "48.78320000",
+    "longitude": "-54.21482000"
+  },
+  {
+    "id": 46941,
+    "name": "Gananoque",
+    "stateId": 3131,
+    "latitude": "44.33342000",
+    "longitude": "-76.16607000"
+  },
+  {
+    "id": 47310,
+    "name": "Gaspé",
+    "stateId": 3537,
+    "latitude": "48.83341000",
+    "longitude": "-64.48194000"
+  },
+  {
+    "id": 47311,
+    "name": "Gaspésie-Îles-de-la-Madeleine",
+    "stateId": 3537,
+    "latitude": "48.87555000",
+    "longitude": "-65.40710000"
+  },
+  {
+    "id": 47349,
+    "name": "Gatineau",
+    "stateId": 3537,
+    "latitude": "45.47723000",
+    "longitude": "-75.70164000"
+  },
+  {
+    "id": 48461,
+    "name": "Gibbons",
+    "stateId": 119,
+    "latitude": "53.83345000",
+    "longitude": "-113.33531000"
+  },
+  {
+    "id": 48478,
+    "name": "Gibsons",
+    "stateId": 578,
+    "latitude": "49.39539000",
+    "longitude": "-123.50555000"
+  },
+  {
+    "id": 48615,
+    "name": "Gimli",
+    "stateId": 2500,
+    "latitude": "50.63362000",
+    "longitude": "-96.99066000"
+  },
+  {
+    "id": 48782,
+    "name": "Gjoa Haven",
+    "stateId": 3072,
+    "latitude": "68.62602000",
+    "longitude": "-95.87836000"
+  },
+  {
+    "id": 48786,
+    "name": "Glace Bay",
+    "stateId": 3052,
+    "latitude": "46.19695000",
+    "longitude": "-59.95698000"
+  },
+  {
+    "id": 48911,
+    "name": "Glencoe",
+    "stateId": 3131,
+    "latitude": "42.75009000",
+    "longitude": "-81.71648000"
+  },
+  {
+    "id": 49154,
+    "name": "Godefroy",
+    "stateId": 3537,
+    "latitude": "51.75012000",
+    "longitude": "-68.08213000"
+  },
+  {
+    "id": 49159,
+    "name": "Goderich",
+    "stateId": 3131,
+    "latitude": "43.74171000",
+    "longitude": "-81.71339000"
+  },
+  {
+    "id": 49271,
+    "name": "Golden",
+    "stateId": 578,
+    "latitude": "51.29995000",
+    "longitude": "-116.96890000"
+  },
+  {
+    "id": 49272,
+    "name": "Golden",
+    "stateId": 3131,
+    "latitude": "51.05917000",
+    "longitude": "-93.73568000"
+  },
+  {
+    "id": 49824,
+    "name": "Goulds",
+    "stateId": 2902,
+    "latitude": "47.45532000",
+    "longitude": "-52.77552000"
+  },
+  {
+    "id": 50146,
+    "name": "Granby",
+    "stateId": 3537,
+    "latitude": "45.40008000",
+    "longitude": "-72.73243000"
+  },
+  {
+    "id": 50153,
+    "name": "Grand Bank",
+    "stateId": 2902,
+    "latitude": "47.09995000",
+    "longitude": "-55.76504000"
+  },
+  {
+    "id": 50161,
+    "name": "Grand Centre",
+    "stateId": 119,
+    "latitude": "54.41628000",
+    "longitude": "-110.21304000"
+  },
+  {
+    "id": 50165,
+    "name": "Grand Falls-Windsor",
+    "stateId": 2902,
+    "latitude": "48.93324000",
+    "longitude": "-55.66492000"
+  },
+  {
+    "id": 50166,
+    "name": "Grand Forks",
+    "stateId": 578,
+    "latitude": "49.03309000",
+    "longitude": "-118.43560000"
+  },
+  {
+    "id": 50201,
+    "name": "Grande Cache",
+    "stateId": 119,
+    "latitude": "53.88335000",
+    "longitude": "-119.13585000"
+  },
+  {
+    "id": 50202,
+    "name": "Grande Prairie",
+    "stateId": 119,
+    "latitude": "55.16667000",
+    "longitude": "-118.80271000"
+  },
+  {
+    "id": 50219,
+    "name": "Grande-Digue",
+    "stateId": 2891,
+    "latitude": "46.30014000",
+    "longitude": "-64.56546000"
+  },
+  {
+    "id": 50386,
+    "name": "Gravelbourg",
+    "stateId": 3906,
+    "latitude": "49.88336000",
+    "longitude": "-106.55122000"
+  },
+  {
+    "id": 50390,
+    "name": "Gravenhurst",
+    "stateId": 3131,
+    "latitude": "44.91681000",
+    "longitude": "-79.36633000"
+  },
+  {
+    "id": 50496,
+    "name": "Greater Lakeburn",
+    "stateId": 2891,
+    "latitude": "46.07651000",
+    "longitude": "-64.66818000"
+  },
+  {
+    "id": 50498,
+    "name": "Greater Napanee",
+    "stateId": 3131,
+    "latitude": "44.25012000",
+    "longitude": "-76.94944000"
+  },
+  {
+    "id": 50503,
+    "name": "Greater Sudbury",
+    "stateId": 3131,
+    "latitude": "46.49000000",
+    "longitude": "-80.99001000"
+  },
+  {
+    "id": 50649,
+    "name": "Greenstone",
+    "stateId": 3131,
+    "latitude": "49.73343000",
+    "longitude": "-87.16668000"
+  },
+  {
+    "id": 50689,
+    "name": "Greenwood",
+    "stateId": 3052,
+    "latitude": "44.97413000",
+    "longitude": "-64.93169000"
+  },
+  {
+    "id": 50861,
+    "name": "Grimshaw",
+    "stateId": 119,
+    "latitude": "56.18339000",
+    "longitude": "-117.60270000"
+  },
+  {
+    "id": 51200,
+    "name": "Grunthal",
+    "stateId": 2500,
+    "latitude": "49.40668000",
+    "longitude": "-96.85873000"
+  },
+  {
+    "id": 51666,
+    "name": "Guelph",
+    "stateId": 3131,
+    "latitude": "43.54594000",
+    "longitude": "-80.25599000"
+  },
+  {
+    "id": 52740,
+    "name": "Haines Junction",
+    "stateId": 4798,
+    "latitude": "60.75216000",
+    "longitude": "-137.51082000"
+  },
+  {
+    "id": 52816,
+    "name": "Haldimand County",
+    "stateId": 3131,
+    "latitude": "42.98341000",
+    "longitude": "-79.86633000"
+  },
+  {
+    "id": 52844,
+    "name": "Haliburton Village",
+    "stateId": 3131,
+    "latitude": "45.05154000",
+    "longitude": "-78.52245000"
+  },
+  {
+    "id": 52845,
+    "name": "Halifax",
+    "stateId": 3052,
+    "latitude": "44.64533000",
+    "longitude": "-63.57239000"
+  },
+  {
+    "id": 52925,
+    "name": "Halton",
+    "stateId": 3131,
+    "latitude": "43.50011000",
+    "longitude": "-79.88294000"
+  },
+  {
+    "id": 52990,
+    "name": "Hamilton",
+    "stateId": 3131,
+    "latitude": "43.25011000",
+    "longitude": "-79.84963000"
+  },
+  {
+    "id": 53068,
+    "name": "Hampstead",
+    "stateId": 3537,
+    "latitude": "45.48064000",
+    "longitude": "-73.66307000"
+  },
+  {
+    "id": 53075,
+    "name": "Hampton",
+    "stateId": 2891,
+    "latitude": "45.52876000",
+    "longitude": "-65.85354000"
+  },
+  {
+    "id": 53118,
+    "name": "Hanceville",
+    "stateId": 578,
+    "latitude": "51.91922000",
+    "longitude": "-123.04458000"
+  },
+  {
+    "id": 53174,
+    "name": "Hanna",
+    "stateId": 119,
+    "latitude": "51.63343000",
+    "longitude": "-111.90181000"
+  },
+  {
+    "id": 53191,
+    "name": "Hanover",
+    "stateId": 3131,
+    "latitude": "44.15009000",
+    "longitude": "-81.03303000"
+  },
+  {
+    "id": 53220,
+    "name": "Hantsport",
+    "stateId": 3052,
+    "latitude": "45.06685000",
+    "longitude": "-64.16544000"
+  },
+  {
+    "id": 53242,
+    "name": "Happy Valley-Goose Bay",
+    "stateId": 2902,
+    "latitude": "53.30380000",
+    "longitude": "-60.32576000"
+  },
+  {
+    "id": 53278,
+    "name": "Harbour Breton",
+    "stateId": 2902,
+    "latitude": "47.48325000",
+    "longitude": "-55.79833000"
+  },
+  {
+    "id": 53451,
+    "name": "Harrison Brook",
+    "stateId": 2891,
+    "latitude": "47.21304000",
+    "longitude": "-67.92847000"
+  },
+  {
+    "id": 53463,
+    "name": "Harriston",
+    "stateId": 3131,
+    "latitude": "43.90009000",
+    "longitude": "-80.88302000"
+  },
+  {
+    "id": 53769,
+    "name": "Hauterive",
+    "stateId": 3537,
+    "latitude": "49.19572000",
+    "longitude": "-68.25813000"
+  },
+  {
+    "id": 53815,
+    "name": "Havre-Saint-Pierre",
+    "stateId": 3537,
+    "latitude": "50.24342000",
+    "longitude": "-63.60264000"
+  },
+  {
+    "id": 53837,
+    "name": "Hawkesbury",
+    "stateId": 3131,
+    "latitude": "45.60009000",
+    "longitude": "-74.61595000"
+  },
+  {
+    "id": 53866,
+    "name": "Hay River",
+    "stateId": 3041,
+    "latitude": "60.81555000",
+    "longitude": "-115.79993000"
+  },
+  {
+    "id": 53883,
+    "name": "Hayes Subdivision",
+    "stateId": 3052,
+    "latitude": "45.05519000",
+    "longitude": "-64.58795000"
+  },
+  {
+    "id": 53970,
+    "name": "Headingley",
+    "stateId": 2500,
+    "latitude": "49.87530000",
+    "longitude": "-97.40896000"
+  },
+  {
+    "id": 53983,
+    "name": "Hearst",
+    "stateId": 3131,
+    "latitude": "49.68351000",
+    "longitude": "-83.66654000"
+  },
+  {
+    "id": 54450,
+    "name": "Heritage Pointe",
+    "stateId": 119,
+    "latitude": "50.84213000",
+    "longitude": "-114.00493000"
+  },
+  {
+    "id": 54794,
+    "name": "High Level",
+    "stateId": 119,
+    "latitude": "58.51688000",
+    "longitude": "-117.13605000"
+  },
+  {
+    "id": 54799,
+    "name": "High Prairie",
+    "stateId": 119,
+    "latitude": "55.43340000",
+    "longitude": "-116.48580000"
+  },
+  {
+    "id": 54801,
+    "name": "High River",
+    "stateId": 119,
+    "latitude": "50.58341000",
+    "longitude": "-113.86867000"
+  },
+  {
+    "id": 55102,
+    "name": "Hinton",
+    "stateId": 119,
+    "latitude": "53.40009000",
+    "longitude": "-117.58567000"
+  },
+  {
+    "id": 55778,
+    "name": "Hope",
+    "stateId": 578,
+    "latitude": "49.38299000",
+    "longitude": "-121.44144000"
+  },
+  {
+    "id": 55900,
+    "name": "Hornby Island",
+    "stateId": 578,
+    "latitude": "49.53448000",
+    "longitude": "-124.66923000"
+  },
+  {
+    "id": 55908,
+    "name": "Hornepayne",
+    "stateId": 3131,
+    "latitude": "49.21451000",
+    "longitude": "-84.77617000"
+  },
+  {
+    "id": 56100,
+    "name": "Houston",
+    "stateId": 578,
+    "latitude": "54.39976000",
+    "longitude": "-126.67008000"
+  },
+  {
+    "id": 56387,
+    "name": "Hudson",
+    "stateId": 3537,
+    "latitude": "45.45008000",
+    "longitude": "-74.14922000"
+  },
+  {
+    "id": 56402,
+    "name": "Hudson Bay",
+    "stateId": 3906,
+    "latitude": "52.85003000",
+    "longitude": "-102.38425000"
+  },
+  {
+    "id": 56585,
+    "name": "Humboldt",
+    "stateId": 3906,
+    "latitude": "52.20005000",
+    "longitude": "-105.12550000"
+  },
+  {
+    "id": 56652,
+    "name": "Huntingdon",
+    "stateId": 3537,
+    "latitude": "45.08339000",
+    "longitude": "-74.16593000"
+  },
+  {
+    "id": 56679,
+    "name": "Huntsville",
+    "stateId": 3131,
+    "latitude": "45.33341000",
+    "longitude": "-79.21632000"
+  },
+  {
+    "id": 56719,
+    "name": "Huron East",
+    "stateId": 3131,
+    "latitude": "43.61679000",
+    "longitude": "-81.29975000"
+  },
+  {
+    "id": 57269,
+    "name": "Hérouxville",
+    "stateId": 3537,
+    "latitude": "46.66617000",
+    "longitude": "-72.62512000"
+  },
+  {
+    "id": 57903,
+    "name": "Ile des Chênes",
+    "stateId": 2500,
+    "latitude": "49.71060000",
+    "longitude": "-96.98893000"
+  },
+  {
+    "id": 58220,
+    "name": "Indian Head",
+    "stateId": 3906,
+    "latitude": "50.53336000",
+    "longitude": "-103.66775000"
+  },
+  {
+    "id": 58311,
+    "name": "Ingersoll",
+    "stateId": 3131,
+    "latitude": "43.03339000",
+    "longitude": "-80.88302000"
+  },
+  {
+    "id": 58380,
+    "name": "Innisfil",
+    "stateId": 3131,
+    "latitude": "44.30011000",
+    "longitude": "-79.64964000"
+  },
+  {
+    "id": 58427,
+    "name": "Inuvik",
+    "stateId": 3041,
+    "latitude": "68.34986000",
+    "longitude": "-133.72181000"
+  },
+  {
+    "id": 58444,
+    "name": "Invermere",
+    "stateId": 578,
+    "latitude": "50.51666000",
+    "longitude": "-116.03538000"
+  },
+  {
+    "id": 58592,
+    "name": "Iqaluit",
+    "stateId": 3072,
+    "latitude": "63.74697000",
+    "longitude": "-68.51727000"
+  },
+  {
+    "id": 58689,
+    "name": "Iroquois Falls",
+    "stateId": 3131,
+    "latitude": "48.76688000",
+    "longitude": "-80.68307000"
+  },
+  {
+    "id": 58696,
+    "name": "Irricana",
+    "stateId": 119,
+    "latitude": "51.32372000",
+    "longitude": "-113.60475000"
+  },
+  {
+    "id": 60132,
+    "name": "Jarvis",
+    "stateId": 3131,
+    "latitude": "42.88341000",
+    "longitude": "-80.09965000"
+  },
+  {
+    "id": 60174,
+    "name": "Jasper Park Lodge",
+    "stateId": 119,
+    "latitude": "52.88633000",
+    "longitude": "-118.05625000"
+  },
+  {
+    "id": 60952,
+    "name": "Joliette",
+    "stateId": 3537,
+    "latitude": "46.01640000",
+    "longitude": "-73.42360000"
+  },
+  {
+    "id": 61011,
+    "name": "Jonquière",
+    "stateId": 3537,
+    "latitude": "48.41648000",
+    "longitude": "-71.24884000"
+  },
+  {
+    "id": 62562,
+    "name": "Kamloops",
+    "stateId": 578,
+    "latitude": "50.66648000",
+    "longitude": "-120.31920000"
+  },
+  {
+    "id": 62624,
+    "name": "Kamsack",
+    "stateId": 3906,
+    "latitude": "51.56668000",
+    "longitude": "-101.90093000"
+  },
+  {
+    "id": 62658,
+    "name": "Kanata",
+    "stateId": 3131,
+    "latitude": "45.30010000",
+    "longitude": "-75.91606000"
+  },
+  {
+    "id": 62898,
+    "name": "Kapuskasing",
+    "stateId": 3131,
+    "latitude": "49.41694000",
+    "longitude": "-82.43308000"
+  },
+  {
+    "id": 63479,
+    "name": "Kawartha Lakes",
+    "stateId": 3131,
+    "latitude": "44.58342000",
+    "longitude": "-78.83288000"
+  },
+  {
+    "id": 63717,
+    "name": "Kelowna",
+    "stateId": 578,
+    "latitude": "49.88307000",
+    "longitude": "-119.48568000"
+  },
+  {
+    "id": 63847,
+    "name": "Kenora",
+    "stateId": 3131,
+    "latitude": "49.76741000",
+    "longitude": "-94.48985000"
+  },
+  {
+    "id": 63855,
+    "name": "Kensington",
+    "stateId": 3394,
+    "latitude": "46.43343000",
+    "longitude": "-63.64871000"
+  },
+  {
+    "id": 63894,
+    "name": "Kentville",
+    "stateId": 3052,
+    "latitude": "45.07710000",
+    "longitude": "-64.49605000"
+  },
+  {
+    "id": 63964,
+    "name": "Kerrobert",
+    "stateId": 3906,
+    "latitude": "51.91682000",
+    "longitude": "-109.13479000"
+  },
+  {
+    "id": 64009,
+    "name": "Keswick",
+    "stateId": 3131,
+    "latitude": "44.25011000",
+    "longitude": "-79.46632000"
+  },
+  {
+    "id": 64011,
+    "name": "Keswick Ridge",
+    "stateId": 2891,
+    "latitude": "46.00011000",
+    "longitude": "-66.88218000"
+  },
+  {
+    "id": 64588,
+    "name": "Killam",
+    "stateId": 119,
+    "latitude": "52.78344000",
+    "longitude": "-111.85175000"
+  },
+  {
+    "id": 64591,
+    "name": "Killarney",
+    "stateId": 2500,
+    "latitude": "49.18332000",
+    "longitude": "-99.66364000"
+  },
+  {
+    "id": 64646,
+    "name": "Kimberley",
+    "stateId": 578,
+    "latitude": "49.67071000",
+    "longitude": "-115.97760000"
+  },
+  {
+    "id": 64688,
+    "name": "Kincardine",
+    "stateId": 3131,
+    "latitude": "44.18339000",
+    "longitude": "-81.63307000"
+  },
+  {
+    "id": 64698,
+    "name": "Kindersley",
+    "stateId": 3906,
+    "latitude": "51.46681000",
+    "longitude": "-109.16818000"
+  },
+  {
+    "id": 64710,
+    "name": "King",
+    "stateId": 3131,
+    "latitude": "43.96514000",
+    "longitude": "-79.59011000"
+  },
+  {
+    "id": 64778,
+    "name": "Kingsey Falls",
+    "stateId": 3537,
+    "latitude": "45.85007000",
+    "longitude": "-72.06580000"
+  },
+  {
+    "id": 64801,
+    "name": "Kingston",
+    "stateId": 3131,
+    "latitude": "44.22976000",
+    "longitude": "-76.48098000"
+  },
+  {
+    "id": 65011,
+    "name": "Kirkland",
+    "stateId": 3537,
+    "latitude": "45.45008000",
+    "longitude": "-73.86586000"
+  },
+  {
+    "id": 65014,
+    "name": "Kirkland Lake",
+    "stateId": 3131,
+    "latitude": "48.14461000",
+    "longitude": "-80.03767000"
+  },
+  {
+    "id": 65184,
+    "name": "Kitchener",
+    "stateId": 3131,
+    "latitude": "43.42537000",
+    "longitude": "-80.51120000"
+  },
+  {
+    "id": 65191,
+    "name": "Kitimat",
+    "stateId": 578,
+    "latitude": "54.05244000",
+    "longitude": "-128.65342000"
+  },
+  {
+    "id": 67115,
+    "name": "Kugluktuk",
+    "stateId": 3072,
+    "latitude": "67.82743000",
+    "longitude": "-115.09649000"
+  },
+  {
+    "id": 67919,
+    "name": "L'Ancienne-Lorette",
+    "stateId": 3537,
+    "latitude": "46.79392000",
+    "longitude": "-71.35191000"
+  },
+  {
+    "id": 67920,
+    "name": "L'Ange-Gardien",
+    "stateId": 3537,
+    "latitude": "46.91976000",
+    "longitude": "-71.08253000"
+  },
+  {
+    "id": 67924,
+    "name": "L'Ascension-de-Notre-Seigneur",
+    "stateId": 3537,
+    "latitude": "48.68339000",
+    "longitude": "-71.66580000"
+  },
+  {
+    "id": 67925,
+    "name": "L'Assomption",
+    "stateId": 3537,
+    "latitude": "45.82318000",
+    "longitude": "-73.42940000"
+  },
+  {
+    "id": 67933,
+    "name": "L'Orignal",
+    "stateId": 3131,
+    "latitude": "45.61980000",
+    "longitude": "-74.69150000"
+  },
+  {
+    "id": 67935,
+    "name": "L'Épiphanie",
+    "stateId": 3537,
+    "latitude": "45.85008000",
+    "longitude": "-73.48246000"
+  },
+  {
+    "id": 67937,
+    "name": "L'Île-Perrot",
+    "stateId": 3537,
+    "latitude": "45.38338000",
+    "longitude": "-73.94920000"
+  },
+  {
+    "id": 68019,
+    "name": "La Broquerie",
+    "stateId": 2500,
+    "latitude": "49.51688000",
+    "longitude": "-96.50029000"
+  },
+  {
+    "id": 68197,
+    "name": "La Conception",
+    "stateId": 3537,
+    "latitude": "46.15009000",
+    "longitude": "-74.69925000"
+  },
+  {
+    "id": 68475,
+    "name": "La Haute-Saint-Charles",
+    "stateId": 3537,
+    "latitude": "46.89028000",
+    "longitude": "-71.37222000"
+  },
+  {
+    "id": 68646,
+    "name": "La Malbaie",
+    "stateId": 3537,
+    "latitude": "47.65400000",
+    "longitude": "-70.15268000"
+  },
+  {
+    "id": 68693,
+    "name": "La Minerve",
+    "stateId": 3537,
+    "latitude": "46.25009000",
+    "longitude": "-74.93257000"
+  },
+  {
+    "id": 68875,
+    "name": "La Pocatière",
+    "stateId": 3537,
+    "latitude": "47.36733000",
+    "longitude": "-70.03484000"
+  },
+  {
+    "id": 68891,
+    "name": "La Prairie",
+    "stateId": 3537,
+    "latitude": "45.41678000",
+    "longitude": "-73.49917000"
+  },
+  {
+    "id": 68993,
+    "name": "La Ronge",
+    "stateId": 3906,
+    "latitude": "55.10013000",
+    "longitude": "-105.28422000"
+  },
+  {
+    "id": 69029,
+    "name": "La Sarre",
+    "stateId": 3537,
+    "latitude": "48.80019000",
+    "longitude": "-79.19964000"
+  },
+  {
+    "id": 69133,
+    "name": "La Tuque",
+    "stateId": 3537,
+    "latitude": "47.43337000",
+    "longitude": "-72.78240000"
+  },
+  {
+    "id": 69279,
+    "name": "Labelle",
+    "stateId": 3537,
+    "latitude": "46.28339000",
+    "longitude": "-74.73255000"
+  },
+  {
+    "id": 69307,
+    "name": "Labrador City",
+    "stateId": 2902,
+    "latitude": "52.94626000",
+    "longitude": "-66.91137000"
+  },
+  {
+    "id": 69330,
+    "name": "Lac La Biche",
+    "stateId": 119,
+    "latitude": "54.76690000",
+    "longitude": "-111.96861000"
+  },
+  {
+    "id": 69333,
+    "name": "Lac du Bonnet",
+    "stateId": 2500,
+    "latitude": "50.25360000",
+    "longitude": "-96.06116000"
+  },
+  {
+    "id": 69336,
+    "name": "Lac-Alouette",
+    "stateId": 3537,
+    "latitude": "45.81698000",
+    "longitude": "-73.95920000"
+  },
+  {
+    "id": 69337,
+    "name": "Lac-Brome",
+    "stateId": 3537,
+    "latitude": "45.21678000",
+    "longitude": "-72.51581000"
+  },
+  {
+    "id": 69338,
+    "name": "Lac-Connelly",
+    "stateId": 3537,
+    "latitude": "45.89788000",
+    "longitude": "-73.97230000"
+  },
+  {
+    "id": 69339,
+    "name": "Lac-Lapierre",
+    "stateId": 3537,
+    "latitude": "45.89837000",
+    "longitude": "-73.77308000"
+  },
+  {
+    "id": 69340,
+    "name": "Lac-Mégantic",
+    "stateId": 3537,
+    "latitude": "45.58338000",
+    "longitude": "-70.88234000"
+  },
+  {
+    "id": 69341,
+    "name": "Lac-Simon",
+    "stateId": 3537,
+    "latitude": "46.15699000",
+    "longitude": "-74.74129000"
+  },
+  {
+    "id": 69371,
+    "name": "Lachute",
+    "stateId": 3537,
+    "latitude": "45.65008000",
+    "longitude": "-74.33253000"
+  },
+  {
+    "id": 69382,
+    "name": "Lacolle",
+    "stateId": 3537,
+    "latitude": "45.08338000",
+    "longitude": "-73.36585000"
+  },
+  {
+    "id": 69383,
+    "name": "Lacombe",
+    "stateId": 119,
+    "latitude": "52.46681000",
+    "longitude": "-113.73530000"
+  },
+  {
+    "id": 69420,
+    "name": "Ladner",
+    "stateId": 578,
+    "latitude": "49.08938000",
+    "longitude": "-123.08241000"
+  },
+  {
+    "id": 69440,
+    "name": "Ladysmith",
+    "stateId": 578,
+    "latitude": "48.99016000",
+    "longitude": "-123.81699000"
+  },
+  {
+    "id": 69770,
+    "name": "Lake Cowichan",
+    "stateId": 578,
+    "latitude": "48.82495000",
+    "longitude": "-124.05461000"
+  },
+  {
+    "id": 69778,
+    "name": "Lake Echo",
+    "stateId": 3052,
+    "latitude": "44.73345000",
+    "longitude": "-63.38198000"
+  },
+  {
+    "id": 69895,
+    "name": "Lakefield",
+    "stateId": 3131,
+    "latitude": "44.43342000",
+    "longitude": "-78.26623000"
+  },
+  {
+    "id": 70098,
+    "name": "Lambton Shores",
+    "stateId": 3131,
+    "latitude": "43.16678000",
+    "longitude": "-81.93309000"
+  },
+  {
+    "id": 70136,
+    "name": "Lamont",
+    "stateId": 119,
+    "latitude": "53.76686000",
+    "longitude": "-112.80195000"
+  },
+  {
+    "id": 70256,
+    "name": "Landmark",
+    "stateId": 2500,
+    "latitude": "49.67169000",
+    "longitude": "-96.82232000"
+  },
+  {
+    "id": 70337,
+    "name": "Langenburg",
+    "stateId": 3906,
+    "latitude": "50.84999000",
+    "longitude": "-101.71763000"
+  },
+  {
+    "id": 70377,
+    "name": "Langford",
+    "stateId": 578,
+    "latitude": "48.44963000",
+    "longitude": "-123.50261000"
+  },
+  {
+    "id": 70381,
+    "name": "Langham",
+    "stateId": 3906,
+    "latitude": "52.36680000",
+    "longitude": "-106.96793000"
+  },
+  {
+    "id": 70394,
+    "name": "Langley",
+    "stateId": 578,
+    "latitude": "49.10107000",
+    "longitude": "-122.65883000"
+  },
+  {
+    "id": 70451,
+    "name": "Lanigan",
+    "stateId": 3906,
+    "latitude": "51.85006000",
+    "longitude": "-105.03443000"
+  },
+  {
+    "id": 70472,
+    "name": "Lanoraie",
+    "stateId": 3537,
+    "latitude": "45.96677000",
+    "longitude": "-73.21585000"
+  },
+  {
+    "id": 70508,
+    "name": "Lantz",
+    "stateId": 3052,
+    "latitude": "44.98345000",
+    "longitude": "-63.48199000"
+  },
+  {
+    "id": 70583,
+    "name": "Lappe",
+    "stateId": 3131,
+    "latitude": "48.56680000",
+    "longitude": "-89.35013000"
+  },
+  {
+    "id": 70669,
+    "name": "Larkspur",
+    "stateId": 119,
+    "latitude": "53.47942000",
+    "longitude": "-113.38142000"
+  },
+  {
+    "id": 71072,
+    "name": "Laurel",
+    "stateId": 119,
+    "latitude": "53.44667000",
+    "longitude": "-113.38197000"
+  },
+  {
+    "id": 71152,
+    "name": "Laval",
+    "stateId": 3537,
+    "latitude": "45.56995000",
+    "longitude": "-73.69200000"
+  },
+  {
+    "id": 71158,
+    "name": "Lavaltrie",
+    "stateId": 3537,
+    "latitude": "45.88338000",
+    "longitude": "-73.28245000"
+  },
+  {
+    "id": 71324,
+    "name": "Le Bic",
+    "stateId": 3537,
+    "latitude": "48.37549000",
+    "longitude": "-68.69415000"
+  },
+  {
+    "id": 71577,
+    "name": "Leamington",
+    "stateId": 3131,
+    "latitude": "42.05009000",
+    "longitude": "-82.59981000"
+  },
+  {
+    "id": 71615,
+    "name": "Lebel-sur-Quévillon",
+    "stateId": 3537,
+    "latitude": "49.05018000",
+    "longitude": "-76.98273000"
+  },
+  {
+    "id": 71618,
+    "name": "Leblanc",
+    "stateId": 3537,
+    "latitude": "48.26683000",
+    "longitude": "-74.34914000"
+  },
+  {
+    "id": 71670,
+    "name": "Leduc",
+    "stateId": 119,
+    "latitude": "53.26682000",
+    "longitude": "-113.55201000"
+  },
+  {
+    "id": 72190,
+    "name": "Les Coteaux",
+    "stateId": 3537,
+    "latitude": "45.28338000",
+    "longitude": "-74.23254000"
+  },
+  {
+    "id": 72192,
+    "name": "Les Cèdres",
+    "stateId": 3537,
+    "latitude": "45.30008000",
+    "longitude": "-74.04922000"
+  },
+  {
+    "id": 72196,
+    "name": "Les Escoumins",
+    "stateId": 3537,
+    "latitude": "48.35191000",
+    "longitude": "-69.40724000"
+  },
+  {
+    "id": 72332,
+    "name": "Lethbridge",
+    "stateId": 119,
+    "latitude": "49.69999000",
+    "longitude": "-112.81856000"
+  },
+  {
+    "id": 72464,
+    "name": "Lewisporte",
+    "stateId": 2902,
+    "latitude": "49.24993000",
+    "longitude": "-55.04816000"
+  },
+  {
+    "id": 72887,
+    "name": "Lillooet",
+    "stateId": 578,
+    "latitude": "50.68560000",
+    "longitude": "-121.94200000"
+  },
+  {
+    "id": 72980,
+    "name": "Limoges",
+    "stateId": 3131,
+    "latitude": "45.33340000",
+    "longitude": "-75.24931000"
+  },
+  {
+    "id": 73045,
+    "name": "Lincoln",
+    "stateId": 2891,
+    "latitude": "45.90012000",
+    "longitude": "-66.58218000"
+  },
+  {
+    "id": 73157,
+    "name": "Lindsay",
+    "stateId": 3131,
+    "latitude": "44.35012000",
+    "longitude": "-78.73286000"
+  },
+  {
+    "id": 73205,
+    "name": "Linière",
+    "stateId": 3537,
+    "latitude": "46.00007000",
+    "longitude": "-70.41572000"
+  },
+  {
+    "id": 73269,
+    "name": "Lions Bay",
+    "stateId": 578,
+    "latitude": "49.45218000",
+    "longitude": "-123.23760000"
+  },
+  {
+    "id": 73387,
+    "name": "Listowel",
+    "stateId": 3131,
+    "latitude": "43.73340000",
+    "longitude": "-80.94973000"
+  },
+  {
+    "id": 73439,
+    "name": "Little Current",
+    "stateId": 3131,
+    "latitude": "45.97927000",
+    "longitude": "-81.92480000"
+  },
+  {
+    "id": 73520,
+    "name": "Lively",
+    "stateId": 3131,
+    "latitude": "46.43338000",
+    "longitude": "-81.14975000"
+  },
+  {
+    "id": 73735,
+    "name": "Lloydminster",
+    "stateId": 119,
+    "latitude": "53.27237000",
+    "longitude": "-110.02256000"
+  },
+  {
+    "id": 73916,
+    "name": "Logan Lake",
+    "stateId": 578,
+    "latitude": "50.49976000",
+    "longitude": "-120.80253000"
+  },
+  {
+    "id": 74127,
+    "name": "London",
+    "stateId": 3131,
+    "latitude": "42.98339000",
+    "longitude": "-81.23304000"
+  },
+  {
+    "id": 74264,
+    "name": "Longueuil",
+    "stateId": 3537,
+    "latitude": "45.53121000",
+    "longitude": "-73.51806000"
+  },
+  {
+    "id": 74389,
+    "name": "Lorette",
+    "stateId": 2500,
+    "latitude": "49.73919000",
+    "longitude": "-96.87232000"
+  },
+  {
+    "id": 74415,
+    "name": "Lorraine",
+    "stateId": 3537,
+    "latitude": "45.68338000",
+    "longitude": "-73.78249000"
+  },
+  {
+    "id": 74722,
+    "name": "Louiseville",
+    "stateId": 3537,
+    "latitude": "46.25594000",
+    "longitude": "-72.94145000"
+  },
+  {
+    "id": 74852,
+    "name": "Lower Sackville",
+    "stateId": 3052,
+    "latitude": "44.77599000",
+    "longitude": "-63.67865000"
+  },
+  {
+    "id": 74984,
+    "name": "Lucan",
+    "stateId": 3131,
+    "latitude": "43.18339000",
+    "longitude": "-81.39976000"
+  },
+  {
+    "id": 75032,
+    "name": "Luceville",
+    "stateId": 3537,
+    "latitude": "48.54498000",
+    "longitude": "-68.39658000"
+  },
+  {
+    "id": 75266,
+    "name": "Lumby",
+    "stateId": 578,
+    "latitude": "50.24979000",
+    "longitude": "-118.96904000"
+  },
+  {
+    "id": 75288,
+    "name": "Lumsden",
+    "stateId": 3906,
+    "latitude": "50.65009000",
+    "longitude": "-104.86783000"
+  },
+  {
+    "id": 75364,
+    "name": "Lunenburg",
+    "stateId": 3052,
+    "latitude": "44.37847000",
+    "longitude": "-64.31658000"
+  },
+  {
+    "id": 75498,
+    "name": "Lutes Mountain",
+    "stateId": 2891,
+    "latitude": "46.13544000",
+    "longitude": "-64.90504000"
+  },
+  {
+    "id": 75837,
+    "name": "Lévis",
+    "stateId": 3537,
+    "latitude": "46.80326000",
+    "longitude": "-71.17793000"
+  },
+  {
+    "id": 76099,
+    "name": "Macamic",
+    "stateId": 3537,
+    "latitude": "48.75018000",
+    "longitude": "-78.99962000"
+  },
+  {
+    "id": 76222,
+    "name": "Mackenzie",
+    "stateId": 578,
+    "latitude": "55.33637000",
+    "longitude": "-123.09374000"
+  },
+  {
+    "id": 76227,
+    "name": "Macklin",
+    "stateId": 3906,
+    "latitude": "52.33344000",
+    "longitude": "-109.93484000"
+  },
+  {
+    "id": 76403,
+    "name": "Madoc",
+    "stateId": 3131,
+    "latitude": "44.50842000",
+    "longitude": "-77.47448000"
+  },
+  {
+    "id": 76639,
+    "name": "Magog",
+    "stateId": 3537,
+    "latitude": "45.26678000",
+    "longitude": "-72.14909000"
+  },
+  {
+    "id": 76652,
+    "name": "Magrath",
+    "stateId": 119,
+    "latitude": "49.41668000",
+    "longitude": "-112.86856000"
+  },
+  {
+    "id": 77143,
+    "name": "Malartic",
+    "stateId": 3537,
+    "latitude": "48.13348000",
+    "longitude": "-78.13283000"
+  },
+  {
+    "id": 77296,
+    "name": "Maliotenam",
+    "stateId": 3537,
+    "latitude": "50.21119000",
+    "longitude": "-66.18164000"
+  },
+  {
+    "id": 77637,
+    "name": "Manawan",
+    "stateId": 3537,
+    "latitude": "47.22029000",
+    "longitude": "-74.38606000"
+  },
+  {
+    "id": 77718,
+    "name": "Mandeville",
+    "stateId": 3537,
+    "latitude": "46.36677000",
+    "longitude": "-73.34915000"
+  },
+  {
+    "id": 77886,
+    "name": "Manitoulin District",
+    "stateId": 3131,
+    "latitude": "45.75007000",
+    "longitude": "-82.49985000"
+  },
+  {
+    "id": 77887,
+    "name": "Manitouwadge",
+    "stateId": 3131,
+    "latitude": "49.12152000",
+    "longitude": "-85.84030000"
+  },
+  {
+    "id": 77891,
+    "name": "Maniwaki",
+    "stateId": 3537,
+    "latitude": "46.38341000",
+    "longitude": "-75.96605000"
+  },
+  {
+    "id": 77935,
+    "name": "Manning",
+    "stateId": 119,
+    "latitude": "56.91683000",
+    "longitude": "-117.61945000"
+  },
+  {
+    "id": 77948,
+    "name": "Mannville",
+    "stateId": 119,
+    "latitude": "53.33764000",
+    "longitude": "-111.17750000"
+  },
+  {
+    "id": 78166,
+    "name": "Maple Creek",
+    "stateId": 3906,
+    "latitude": "49.91678000",
+    "longitude": "-109.48481000"
+  },
+  {
+    "id": 78175,
+    "name": "Maple Ridge",
+    "stateId": 119,
+    "latitude": "53.50172000",
+    "longitude": "-113.36274000"
+  },
+  {
+    "id": 78176,
+    "name": "Maple Ridge",
+    "stateId": 578,
+    "latitude": "49.21939000",
+    "longitude": "-122.60193000"
+  },
+  {
+    "id": 78292,
+    "name": "Marathon",
+    "stateId": 3131,
+    "latitude": "48.75010000",
+    "longitude": "-86.43322000"
+  },
+  {
+    "id": 78535,
+    "name": "Maria",
+    "stateId": 3537,
+    "latitude": "48.17490000",
+    "longitude": "-65.98595000"
+  },
+  {
+    "id": 78644,
+    "name": "Marieville",
+    "stateId": 3537,
+    "latitude": "45.43338000",
+    "longitude": "-73.16585000"
+  },
+  {
+    "id": 78814,
+    "name": "Markdale",
+    "stateId": 3131,
+    "latitude": "44.31680000",
+    "longitude": "-80.64971000"
+  },
+  {
+    "id": 78838,
+    "name": "Markham",
+    "stateId": 3131,
+    "latitude": "43.86682000",
+    "longitude": "-79.26630000"
+  },
+  {
+    "id": 79156,
+    "name": "Martensville",
+    "stateId": 3906,
+    "latitude": "52.28339000",
+    "longitude": "-106.66792000"
+  },
+  {
+    "id": 79294,
+    "name": "Marystown",
+    "stateId": 2902,
+    "latitude": "47.16663000",
+    "longitude": "-55.14829000"
+  },
+  {
+    "id": 79392,
+    "name": "Mascouche",
+    "stateId": 3537,
+    "latitude": "45.74965000",
+    "longitude": "-73.59956000"
+  },
+  {
+    "id": 79442,
+    "name": "Maskinongé",
+    "stateId": 3537,
+    "latitude": "46.22860000",
+    "longitude": "-73.01917000"
+  },
+  {
+    "id": 79601,
+    "name": "Matagami",
+    "stateId": 3537,
+    "latitude": "49.75018000",
+    "longitude": "-77.63277000"
+  },
+  {
+    "id": 79631,
+    "name": "Matane",
+    "stateId": 3537,
+    "latitude": "48.82857000",
+    "longitude": "-67.52197000"
+  },
+  {
+    "id": 79788,
+    "name": "Mattawa",
+    "stateId": 3131,
+    "latitude": "46.31681000",
+    "longitude": "-78.69957000"
+  },
+  {
+    "id": 79912,
+    "name": "Mauricie",
+    "stateId": 3537,
+    "latitude": "47.55009000",
+    "longitude": "-73.41583000"
+  },
+  {
+    "id": 80016,
+    "name": "Mayerthorpe",
+    "stateId": 119,
+    "latitude": "53.95015000",
+    "longitude": "-115.13547000"
+  },
+  {
+    "id": 80296,
+    "name": "McEwen",
+    "stateId": 2891,
+    "latitude": "46.14520000",
+    "longitude": "-64.78615000"
+  },
+  {
+    "id": 80372,
+    "name": "Meadow Lake",
+    "stateId": 3906,
+    "latitude": "54.13348000",
+    "longitude": "-108.43471000"
+  },
+  {
+    "id": 80395,
+    "name": "Meaford",
+    "stateId": 3131,
+    "latitude": "44.60725000",
+    "longitude": "-80.61081000"
+  },
+  {
+    "id": 80495,
+    "name": "Medicine Hat",
+    "stateId": 119,
+    "latitude": "50.03928000",
+    "longitude": "-110.67661000"
+  },
+  {
+    "id": 80754,
+    "name": "Melfort",
+    "stateId": 3906,
+    "latitude": "52.86673000",
+    "longitude": "-104.61768000"
+  },
+  {
+    "id": 80788,
+    "name": "Melita",
+    "stateId": 2500,
+    "latitude": "49.26811000",
+    "longitude": "-100.99669000"
+  },
+  {
+    "id": 80824,
+    "name": "Melocheville",
+    "stateId": 3537,
+    "latitude": "45.31726000",
+    "longitude": "-73.93710000"
+  },
+  {
+    "id": 80856,
+    "name": "Melville",
+    "stateId": 3906,
+    "latitude": "50.91671000",
+    "longitude": "-102.80099000"
+  },
+  {
+    "id": 81082,
+    "name": "Mercier",
+    "stateId": 3537,
+    "latitude": "45.31678000",
+    "longitude": "-73.74919000"
+  },
+  {
+    "id": 81209,
+    "name": "Merritt",
+    "stateId": 578,
+    "latitude": "50.11225000",
+    "longitude": "-120.79420000"
+  },
+  {
+    "id": 81341,
+    "name": "Metabetchouan-Lac-a-la-Croix",
+    "stateId": 3537,
+    "latitude": "48.41000000",
+    "longitude": "-71.78000000"
+  },
+  {
+    "id": 81352,
+    "name": "Metcalfe",
+    "stateId": 3131,
+    "latitude": "45.23340000",
+    "longitude": "-75.46603000"
+  },
+  {
+    "id": 81355,
+    "name": "Metchosin",
+    "stateId": 578,
+    "latitude": "48.38293000",
+    "longitude": "-123.53591000"
+  },
+  {
+    "id": 81386,
+    "name": "Metro Vancouver Regional District",
+    "stateId": 578,
+    "latitude": "49.33296000",
+    "longitude": "-123.00264000"
+  },
+  {
+    "id": 81729,
+    "name": "Middleton",
+    "stateId": 3052,
+    "latitude": "44.94284000",
+    "longitude": "-65.07022000"
+  },
+  {
+    "id": 81755,
+    "name": "Midland",
+    "stateId": 3131,
+    "latitude": "44.75010000",
+    "longitude": "-79.88296000"
+  },
+  {
+    "id": 82023,
+    "name": "Mildmay",
+    "stateId": 3131,
+    "latitude": "44.05009000",
+    "longitude": "-81.11644000"
+  },
+  {
+    "id": 82091,
+    "name": "Mill Woods Town Centre",
+    "stateId": 119,
+    "latitude": "53.45639000",
+    "longitude": "-113.42751000"
+  },
+  {
+    "id": 82103,
+    "name": "Millbrook",
+    "stateId": 3131,
+    "latitude": "44.15012000",
+    "longitude": "-78.44954000"
+  },
+  {
+    "id": 82135,
+    "name": "Millet",
+    "stateId": 119,
+    "latitude": "53.10013000",
+    "longitude": "-113.46870000"
+  },
+  {
+    "id": 82202,
+    "name": "Milton",
+    "stateId": 3131,
+    "latitude": "43.51681000",
+    "longitude": "-79.88294000"
+  },
+  {
+    "id": 82395,
+    "name": "Minnedosa",
+    "stateId": 2500,
+    "latitude": "50.24532000",
+    "longitude": "-99.84364000"
+  },
+  {
+    "id": 82468,
+    "name": "Mirabel",
+    "stateId": 3537,
+    "latitude": "45.65008000",
+    "longitude": "-74.08251000"
+  },
+  {
+    "id": 82508,
+    "name": "Miramichi",
+    "stateId": 2891,
+    "latitude": "47.02895000",
+    "longitude": "-65.50186000"
+  },
+  {
+    "id": 82687,
+    "name": "Mission",
+    "stateId": 578,
+    "latitude": "49.13298000",
+    "longitude": "-122.30258000"
+  },
+  {
+    "id": 82700,
+    "name": "Mississauga",
+    "stateId": 3131,
+    "latitude": "43.57890000",
+    "longitude": "-79.65830000"
+  },
+  {
+    "id": 82701,
+    "name": "Mississauga Beach",
+    "stateId": 3131,
+    "latitude": "43.26682000",
+    "longitude": "-79.08287000"
+  },
+  {
+    "id": 82714,
+    "name": "Mistissini",
+    "stateId": 3537,
+    "latitude": "50.41667000",
+    "longitude": "-73.88333000"
+  },
+  {
+    "id": 83456,
+    "name": "Moncton",
+    "stateId": 2891,
+    "latitude": "46.09454000",
+    "longitude": "-64.79650000"
+  },
+  {
+    "id": 83674,
+    "name": "Mont-Joli",
+    "stateId": 3537,
+    "latitude": "48.58388000",
+    "longitude": "-68.19214000"
+  },
+  {
+    "id": 83675,
+    "name": "Mont-Laurier",
+    "stateId": 3537,
+    "latitude": "46.55011000",
+    "longitude": "-75.49930000"
+  },
+  {
+    "id": 83676,
+    "name": "Mont-Royal",
+    "stateId": 3537,
+    "latitude": "45.51675000",
+    "longitude": "-73.64918000"
+  },
+  {
+    "id": 83678,
+    "name": "Mont-Saint-Grégoire",
+    "stateId": 3537,
+    "latitude": "45.33338000",
+    "longitude": "-73.16585000"
+  },
+  {
+    "id": 83680,
+    "name": "Mont-Saint-Hilaire",
+    "stateId": 3537,
+    "latitude": "45.56515000",
+    "longitude": "-73.18680000"
+  },
+  {
+    "id": 83684,
+    "name": "Mont-Tremblant",
+    "stateId": 3537,
+    "latitude": "46.21274000",
+    "longitude": "-74.58438000"
+  },
+  {
+    "id": 83710,
+    "name": "Montague",
+    "stateId": 3394,
+    "latitude": "46.16681000",
+    "longitude": "-62.64866000"
+  },
+  {
+    "id": 84346,
+    "name": "Montmagny",
+    "stateId": 3537,
+    "latitude": "46.98043000",
+    "longitude": "-70.55493000"
+  },
+  {
+    "id": 84436,
+    "name": "Montréal",
+    "stateId": 3537,
+    "latitude": "45.50008000",
+    "longitude": "-73.68248000"
+  },
+  {
+    "id": 84438,
+    "name": "Montréal-Est",
+    "stateId": 3537,
+    "latitude": "45.63202000",
+    "longitude": "-73.50750000"
+  },
+  {
+    "id": 84439,
+    "name": "Montréal-Ouest",
+    "stateId": 3537,
+    "latitude": "45.45286000",
+    "longitude": "-73.64918000"
+  },
+  {
+    "id": 84545,
+    "name": "Moose Factory",
+    "stateId": 3131,
+    "latitude": "51.26689000",
+    "longitude": "-80.61624000"
+  },
+  {
+    "id": 84546,
+    "name": "Moose Jaw",
+    "stateId": 3906,
+    "latitude": "50.40005000",
+    "longitude": "-105.53445000"
+  },
+  {
+    "id": 84547,
+    "name": "Moose Lake",
+    "stateId": 2500,
+    "latitude": "49.20559000",
+    "longitude": "-95.30629000"
+  },
+  {
+    "id": 84553,
+    "name": "Moosomin",
+    "stateId": 3906,
+    "latitude": "50.13332000",
+    "longitude": "-101.66766000"
+  },
+  {
+    "id": 84554,
+    "name": "Moosonee",
+    "stateId": 3131,
+    "latitude": "51.27931000",
+    "longitude": "-80.63450000"
+  },
+  {
+    "id": 84672,
+    "name": "Morden",
+    "stateId": 2500,
+    "latitude": "49.19190000",
+    "longitude": "-98.10136000"
+  },
+  {
+    "id": 84785,
+    "name": "Morin-Heights",
+    "stateId": 3537,
+    "latitude": "45.90009000",
+    "longitude": "-74.24922000"
+  },
+  {
+    "id": 84789,
+    "name": "Morinville",
+    "stateId": 119,
+    "latitude": "53.80014000",
+    "longitude": "-113.65203000"
+  },
+  {
+    "id": 84899,
+    "name": "Morris",
+    "stateId": 2500,
+    "latitude": "49.35499000",
+    "longitude": "-97.36567000"
+  },
+  {
+    "id": 84911,
+    "name": "Morrisburg",
+    "stateId": 3131,
+    "latitude": "44.90010000",
+    "longitude": "-75.18261000"
+  },
+  {
+    "id": 85229,
+    "name": "Mount Albert",
+    "stateId": 3131,
+    "latitude": "44.13341000",
+    "longitude": "-79.31630000"
+  },
+  {
+    "id": 85238,
+    "name": "Mount Brydges",
+    "stateId": 3131,
+    "latitude": "42.90009000",
+    "longitude": "-81.48306000"
+  },
+  {
+    "id": 85331,
+    "name": "Mount Pearl",
+    "stateId": 2902,
+    "latitude": "47.51659000",
+    "longitude": "-52.78135000"
+  },
+  {
+    "id": 86758,
+    "name": "Métabetchouan",
+    "stateId": 3537,
+    "latitude": "48.36679000",
+    "longitude": "-72.01583000"
+  },
+  {
+    "id": 87101,
+    "name": "Nackawic",
+    "stateId": 2891,
+    "latitude": "45.99666000",
+    "longitude": "-67.24028000"
+  },
+  {
+    "id": 87373,
+    "name": "Nakusp",
+    "stateId": 578,
+    "latitude": "50.24987000",
+    "longitude": "-117.80226000"
+  },
+  {
+    "id": 87478,
+    "name": "Nanaimo",
+    "stateId": 578,
+    "latitude": "49.16638000",
+    "longitude": "-123.94003000"
+  },
+  {
+    "id": 87579,
+    "name": "Nanton",
+    "stateId": 119,
+    "latitude": "50.35008000",
+    "longitude": "-113.76866000"
+  },
+  {
+    "id": 87609,
+    "name": "Napanee",
+    "stateId": 3131,
+    "latitude": "44.25012000",
+    "longitude": "-76.94944000"
+  },
+  {
+    "id": 87610,
+    "name": "Napanee Downtown",
+    "stateId": 3131,
+    "latitude": "44.24832000",
+    "longitude": "-76.95069000"
+  },
+  {
+    "id": 87618,
+    "name": "Napierville",
+    "stateId": 3537,
+    "latitude": "45.18648000",
+    "longitude": "-73.40468000"
+  },
+  {
+    "id": 88216,
+    "name": "Neebing",
+    "stateId": 3131,
+    "latitude": "48.16680000",
+    "longitude": "-89.41683000"
+  },
+  {
+    "id": 88228,
+    "name": "Neepawa",
+    "stateId": 2500,
+    "latitude": "50.22892000",
+    "longitude": "-99.46642000"
+  },
+  {
+    "id": 88342,
+    "name": "Nelson",
+    "stateId": 578,
+    "latitude": "49.49985000",
+    "longitude": "-117.28553000"
+  },
+  {
+    "id": 88413,
+    "name": "Nepean",
+    "stateId": 3131,
+    "latitude": "45.35215000",
+    "longitude": "-75.73975000"
+  },
+  {
+    "id": 88733,
+    "name": "Neuville",
+    "stateId": 3537,
+    "latitude": "46.69823000",
+    "longitude": "-71.58275000"
+  },
+  {
+    "id": 88838,
+    "name": "New Carlisle",
+    "stateId": 3537,
+    "latitude": "48.00956000",
+    "longitude": "-65.33621000"
+  },
+  {
+    "id": 88885,
+    "name": "New Glasgow",
+    "stateId": 3052,
+    "latitude": "45.58344000",
+    "longitude": "-62.64863000"
+  },
+  {
+    "id": 88889,
+    "name": "New Hamburg",
+    "stateId": 3131,
+    "latitude": "43.38339000",
+    "longitude": "-80.69970000"
+  },
+  {
+    "id": 88953,
+    "name": "New Maryland",
+    "stateId": 2891,
+    "latitude": "45.87932000",
+    "longitude": "-66.66828000"
+  },
+  {
+    "id": 89029,
+    "name": "New Westminster",
+    "stateId": 578,
+    "latitude": "49.20678000",
+    "longitude": "-122.91092000"
+  },
+  {
+    "id": 89040,
+    "name": "New-Richmond",
+    "stateId": 3537,
+    "latitude": "48.16059000",
+    "longitude": "-65.85823000"
+  },
+  {
+    "id": 89119,
+    "name": "Newmarket",
+    "stateId": 3131,
+    "latitude": "44.05011000",
+    "longitude": "-79.46631000"
+  },
+  {
+    "id": 89288,
+    "name": "Niagara Falls",
+    "stateId": 3131,
+    "latitude": "43.10012000",
+    "longitude": "-79.06627000"
+  },
+  {
+    "id": 89341,
+    "name": "Nicolet",
+    "stateId": 3537,
+    "latitude": "46.21676000",
+    "longitude": "-72.61582000"
+  },
+  {
+    "id": 89696,
+    "name": "Nipawin",
+    "stateId": 3906,
+    "latitude": "53.36678000",
+    "longitude": "-104.00092000"
+  },
+  {
+    "id": 89698,
+    "name": "Nipissing District",
+    "stateId": 3131,
+    "latitude": "46.00010000",
+    "longitude": "-78.99959000"
+  },
+  {
+    "id": 89766,
+    "name": "Niverville",
+    "stateId": 2500,
+    "latitude": "49.60559000",
+    "longitude": "-97.04234000"
+  },
+  {
+    "id": 90082,
+    "name": "Noonan",
+    "stateId": 2891,
+    "latitude": "45.96682000",
+    "longitude": "-66.53218000"
+  },
+  {
+    "id": 90135,
+    "name": "Nord-du-Québec",
+    "stateId": 3537,
+    "latitude": "51.96200000",
+    "longitude": "-74.89610000"
+  },
+  {
+    "id": 90176,
+    "name": "Norfolk County",
+    "stateId": 3131,
+    "latitude": "42.83340000",
+    "longitude": "-80.38297000"
+  },
+  {
+    "id": 90198,
+    "name": "Norman Wells",
+    "stateId": 3041,
+    "latitude": "65.28201000",
+    "longitude": "-126.83290000"
+  },
+  {
+    "id": 90200,
+    "name": "Normandin",
+    "stateId": 3537,
+    "latitude": "48.83328000",
+    "longitude": "-72.53209000"
+  },
+  {
+    "id": 90250,
+    "name": "North Battleford",
+    "stateId": 3906,
+    "latitude": "52.77972000",
+    "longitude": "-108.29670000"
+  },
+  {
+    "id": 90251,
+    "name": "North Bay",
+    "stateId": 3131,
+    "latitude": "46.31680000",
+    "longitude": "-79.46633000"
+  },
+  {
+    "id": 90303,
+    "name": "North Cowichan",
+    "stateId": 578,
+    "latitude": "48.84133000",
+    "longitude": "-123.68596000"
+  },
+  {
+    "id": 90410,
+    "name": "North Oyster/Yellow Point",
+    "stateId": 578,
+    "latitude": "49.04807000",
+    "longitude": "-123.83395000"
+  },
+  {
+    "id": 90418,
+    "name": "North Perth",
+    "stateId": 3131,
+    "latitude": "43.72510000",
+    "longitude": "-80.96723000"
+  },
+  {
+    "id": 90446,
+    "name": "North Saanich",
+    "stateId": 578,
+    "latitude": "48.66634000",
+    "longitude": "-123.41933000"
+  },
+  {
+    "id": 90486,
+    "name": "North Vancouver",
+    "stateId": 578,
+    "latitude": "49.31636000",
+    "longitude": "-123.06934000"
+  },
+  {
+    "id": 90511,
+    "name": "North York",
+    "stateId": 3131,
+    "latitude": "43.76681000",
+    "longitude": "-79.41630000"
+  },
+  {
+    "id": 90622,
+    "name": "Norwood",
+    "stateId": 3131,
+    "latitude": "44.38342000",
+    "longitude": "-77.98281000"
+  },
+  {
+    "id": 90668,
+    "name": "Notre-Dame-de-Grâce",
+    "stateId": 3537,
+    "latitude": "45.47675000",
+    "longitude": "-73.61432000"
+  },
+  {
+    "id": 90673,
+    "name": "Notre-Dame-de-l'Île-Perrot",
+    "stateId": 3537,
+    "latitude": "45.36678000",
+    "longitude": "-73.93250000"
+  },
+  {
+    "id": 90675,
+    "name": "Notre-Dame-des-Prairies",
+    "stateId": 3537,
+    "latitude": "46.05007000",
+    "longitude": "-73.43245000"
+  },
+  {
+    "id": 90676,
+    "name": "Notre-Dame-du-Lac",
+    "stateId": 3537,
+    "latitude": "46.75012000",
+    "longitude": "-79.04961000"
+  },
+  {
+    "id": 90677,
+    "name": "Notre-Dame-du-Mont-Carmel",
+    "stateId": 3537,
+    "latitude": "46.01680000",
+    "longitude": "-75.08259000"
+  },
+  {
+    "id": 91841,
+    "name": "Oak Bay",
+    "stateId": 578,
+    "latitude": "48.44964000",
+    "longitude": "-123.30260000"
+  },
+  {
+    "id": 91941,
+    "name": "Oakville",
+    "stateId": 3131,
+    "latitude": "43.45011000",
+    "longitude": "-79.68292000"
+  },
+  {
+    "id": 92904,
+    "name": "Oka",
+    "stateId": 3537,
+    "latitude": "45.46489000",
+    "longitude": "-74.08892000"
+  },
+  {
+    "id": 92909,
+    "name": "Okanagan",
+    "stateId": 578,
+    "latitude": "50.36386000",
+    "longitude": "-119.34997000"
+  },
+  {
+    "id": 92910,
+    "name": "Okanagan Falls",
+    "stateId": 578,
+    "latitude": "49.35000000",
+    "longitude": "-119.56667000"
+  },
+  {
+    "id": 92967,
+    "name": "Okotoks",
+    "stateId": 119,
+    "latitude": "50.72885000",
+    "longitude": "-113.98281000"
+  },
+  {
+    "id": 93233,
+    "name": "Olds",
+    "stateId": 119,
+    "latitude": "51.78341000",
+    "longitude": "-114.10199000"
+  },
+  {
+    "id": 93347,
+    "name": "Oliver",
+    "stateId": 578,
+    "latitude": "49.18306000",
+    "longitude": "-119.55240000"
+  },
+  {
+    "id": 93523,
+    "name": "Omemee",
+    "stateId": 3131,
+    "latitude": "44.29897000",
+    "longitude": "-78.55989000"
+  },
+  {
+    "id": 93866,
+    "name": "Orangeville",
+    "stateId": 3131,
+    "latitude": "43.91680000",
+    "longitude": "-80.09967000"
+  },
+  {
+    "id": 94232,
+    "name": "Orillia",
+    "stateId": 3131,
+    "latitude": "44.60868000",
+    "longitude": "-79.42068000"
+  },
+  {
+    "id": 94329,
+    "name": "Ormstown",
+    "stateId": 3537,
+    "latitude": "45.13338000",
+    "longitude": "-73.99922000"
+  },
+  {
+    "id": 94355,
+    "name": "Oromocto",
+    "stateId": 2891,
+    "latitude": "45.83512000",
+    "longitude": "-66.47917000"
+  },
+  {
+    "id": 94560,
+    "name": "Osgoode",
+    "stateId": 3131,
+    "latitude": "45.14887000",
+    "longitude": "-75.59778000"
+  },
+  {
+    "id": 94564,
+    "name": "Oshawa",
+    "stateId": 3131,
+    "latitude": "43.90012000",
+    "longitude": "-78.84957000"
+  },
+  {
+    "id": 94639,
+    "name": "Osoyoos",
+    "stateId": 578,
+    "latitude": "49.03306000",
+    "longitude": "-119.45237000"
+  },
+  {
+    "id": 94891,
+    "name": "Ottawa",
+    "stateId": 3131,
+    "latitude": "45.41117000",
+    "longitude": "-75.69812000"
+  },
+  {
+    "id": 94918,
+    "name": "Otterburn Park",
+    "stateId": 3537,
+    "latitude": "45.53338000",
+    "longitude": "-73.21585000"
+  },
+  {
+    "id": 95088,
+    "name": "Outaouais",
+    "stateId": 3537,
+    "latitude": "46.26681000",
+    "longitude": "-76.31606000"
+  },
+  {
+    "id": 95097,
+    "name": "Outlook",
+    "stateId": 3906,
+    "latitude": "51.50008000",
+    "longitude": "-107.05128000"
+  },
+  {
+    "id": 95174,
+    "name": "Owen Sound",
+    "stateId": 3131,
+    "latitude": "44.56717000",
+    "longitude": "-80.94349000"
+  },
+  {
+    "id": 95196,
+    "name": "Oxbow",
+    "stateId": 3906,
+    "latitude": "49.23335000",
+    "longitude": "-102.16760000"
+  },
+  {
+    "id": 95203,
+    "name": "Oxford",
+    "stateId": 3052,
+    "latitude": "45.73345000",
+    "longitude": "-63.86542000"
+  },
+  {
+    "id": 95627,
+    "name": "Paisley",
+    "stateId": 3131,
+    "latitude": "44.30641000",
+    "longitude": "-81.27265000"
+  },
+  {
+    "id": 96330,
+    "name": "Pangnirtung",
+    "stateId": 3072,
+    "latitude": "66.14642000",
+    "longitude": "-65.69996000"
+  },
+  {
+    "id": 96513,
+    "name": "Papineauville",
+    "stateId": 3537,
+    "latitude": "45.61680000",
+    "longitude": "-75.01599000"
+  },
+  {
+    "id": 96692,
+    "name": "Parc-Boutin",
+    "stateId": 3537,
+    "latitude": "45.29209000",
+    "longitude": "-73.26154000"
+  },
+  {
+    "id": 96782,
+    "name": "Paris",
+    "stateId": 3131,
+    "latitude": "43.20000000",
+    "longitude": "-80.38333000"
+  },
+  {
+    "id": 96846,
+    "name": "Parkhill",
+    "stateId": 3131,
+    "latitude": "43.15993000",
+    "longitude": "-81.68464000"
+  },
+  {
+    "id": 96864,
+    "name": "Parksville",
+    "stateId": 578,
+    "latitude": "49.31947000",
+    "longitude": "-124.31575000"
+  },
+  {
+    "id": 96930,
+    "name": "Parrsboro",
+    "stateId": 3052,
+    "latitude": "45.40567000",
+    "longitude": "-64.32585000"
+  },
+  {
+    "id": 96931,
+    "name": "Parry Sound",
+    "stateId": 3131,
+    "latitude": "45.34732000",
+    "longitude": "-80.03527000"
+  },
+  {
+    "id": 96932,
+    "name": "Parry Sound District",
+    "stateId": 3131,
+    "latitude": "45.75011000",
+    "longitude": "-79.83297000"
+  },
+  {
+    "id": 97013,
+    "name": "Pasadena",
+    "stateId": 2902,
+    "latitude": "49.01671000",
+    "longitude": "-57.59837000"
+  },
+  {
+    "id": 97571,
+    "name": "Peace River",
+    "stateId": 119,
+    "latitude": "56.23715000",
+    "longitude": "-117.29176000"
+  },
+  {
+    "id": 97572,
+    "name": "Peace River Regional District",
+    "stateId": 578,
+    "latitude": "56.66650000",
+    "longitude": "-122.75302000"
+  },
+  {
+    "id": 97579,
+    "name": "Peachland",
+    "stateId": 578,
+    "latitude": "49.76647000",
+    "longitude": "-119.73568000"
+  },
+  {
+    "id": 97766,
+    "name": "Peel",
+    "stateId": 3131,
+    "latitude": "43.75011000",
+    "longitude": "-79.78293000"
+  },
+  {
+    "id": 97847,
+    "name": "Pelican Narrows",
+    "stateId": 3906,
+    "latitude": "55.16685000",
+    "longitude": "-102.93410000"
+  },
+  {
+    "id": 97888,
+    "name": "Pemberton",
+    "stateId": 578,
+    "latitude": "50.31641000",
+    "longitude": "-122.80273000"
+  },
+  {
+    "id": 97894,
+    "name": "Pembroke",
+    "stateId": 3131,
+    "latitude": "45.81681000",
+    "longitude": "-77.11616000"
+  },
+  {
+    "id": 97965,
+    "name": "Penhold",
+    "stateId": 119,
+    "latitude": "52.13342000",
+    "longitude": "-113.86870000"
+  },
+  {
+    "id": 98036,
+    "name": "Penticton",
+    "stateId": 578,
+    "latitude": "49.48062000",
+    "longitude": "-119.58584000"
+  },
+  {
+    "id": 98342,
+    "name": "Perth",
+    "stateId": 3131,
+    "latitude": "44.90011000",
+    "longitude": "-76.24939000"
+  },
+  {
+    "id": 98487,
+    "name": "Petawawa",
+    "stateId": 3131,
+    "latitude": "45.89452000",
+    "longitude": "-77.28007000"
+  },
+  {
+    "id": 98494,
+    "name": "Peterborough",
+    "stateId": 3131,
+    "latitude": "44.30012000",
+    "longitude": "-78.31623000"
+  },
+  {
+    "id": 98590,
+    "name": "Petrolia",
+    "stateId": 3131,
+    "latitude": "42.86678000",
+    "longitude": "-82.14981000"
+  },
+  {
+    "id": 99050,
+    "name": "Pickering",
+    "stateId": 3131,
+    "latitude": "43.90012000",
+    "longitude": "-79.13289000"
+  },
+  {
+    "id": 99065,
+    "name": "Picton",
+    "stateId": 3131,
+    "latitude": "44.00012000",
+    "longitude": "-77.13275000"
+  },
+  {
+    "id": 99067,
+    "name": "Pictou",
+    "stateId": 3052,
+    "latitude": "45.67875000",
+    "longitude": "-62.70936000"
+  },
+  {
+    "id": 99068,
+    "name": "Pictou County",
+    "stateId": 3052,
+    "latitude": "45.50015000",
+    "longitude": "-62.58193000"
+  },
+  {
+    "id": 99069,
+    "name": "Picture Butte",
+    "stateId": 119,
+    "latitude": "49.88330000",
+    "longitude": "-112.78516000"
+  },
+  {
+    "id": 99112,
+    "name": "Piedmont",
+    "stateId": 3537,
+    "latitude": "45.90008000",
+    "longitude": "-74.13251000"
+  },
+  {
+    "id": 99191,
+    "name": "Pierreville",
+    "stateId": 3537,
+    "latitude": "46.07034000",
+    "longitude": "-72.81125000"
+  },
+  {
+    "id": 99406,
+    "name": "Pilot Butte",
+    "stateId": 3906,
+    "latitude": "50.46678000",
+    "longitude": "-104.41778000"
+  },
+  {
+    "id": 99482,
+    "name": "Pincher Creek",
+    "stateId": 119,
+    "latitude": "49.48328000",
+    "longitude": "-113.95195000"
+  },
+  {
+    "id": 99487,
+    "name": "Pincourt",
+    "stateId": 3537,
+    "latitude": "45.38338000",
+    "longitude": "-73.98250000"
+  },
+  {
+    "id": 99934,
+    "name": "Pitt Meadows",
+    "stateId": 578,
+    "latitude": "49.22119000",
+    "longitude": "-122.68965000"
+  },
+  {
+    "id": 100132,
+    "name": "Plantagenet",
+    "stateId": 3131,
+    "latitude": "45.53260000",
+    "longitude": "-74.99369000"
+  },
+  {
+    "id": 100190,
+    "name": "Plattsville",
+    "stateId": 3131,
+    "latitude": "43.30010000",
+    "longitude": "-80.61639000"
+  },
+  {
+    "id": 100286,
+    "name": "Plessisville",
+    "stateId": 3537,
+    "latitude": "46.21856000",
+    "longitude": "-71.76201000"
+  },
+  {
+    "id": 100735,
+    "name": "Pohénégamook",
+    "stateId": 3537,
+    "latitude": "47.46315000",
+    "longitude": "-69.22666000"
+  },
+  {
+    "id": 100807,
+    "name": "Pointe-Calumet",
+    "stateId": 3537,
+    "latitude": "45.50008000",
+    "longitude": "-73.96590000"
+  },
+  {
+    "id": 100808,
+    "name": "Pointe-Claire",
+    "stateId": 3537,
+    "latitude": "45.44868000",
+    "longitude": "-73.81669000"
+  },
+  {
+    "id": 100810,
+    "name": "Pointe-du-Lac",
+    "stateId": 3537,
+    "latitude": "48.50009000",
+    "longitude": "-71.78241000"
+  },
+  {
+    "id": 101220,
+    "name": "Ponoka",
+    "stateId": 119,
+    "latitude": "52.67680000",
+    "longitude": "-113.58147000"
+  },
+  {
+    "id": 101231,
+    "name": "Pont Rouge",
+    "stateId": 3537,
+    "latitude": "48.88332000",
+    "longitude": "-72.08247000"
+  },
+  {
+    "id": 101241,
+    "name": "Pont-Rouge",
+    "stateId": 3537,
+    "latitude": "46.75468000",
+    "longitude": "-71.69566000"
+  },
+  {
+    "id": 101570,
+    "name": "Port Alberni",
+    "stateId": 578,
+    "latitude": "49.24133000",
+    "longitude": "-124.80280000"
+  },
+  {
+    "id": 101594,
+    "name": "Port Colborne",
+    "stateId": 3131,
+    "latitude": "42.90012000",
+    "longitude": "-79.23288000"
+  },
+  {
+    "id": 101595,
+    "name": "Port Coquitlam",
+    "stateId": 578,
+    "latitude": "49.26637000",
+    "longitude": "-122.76932000"
+  },
+  {
+    "id": 101613,
+    "name": "Port Hawkesbury",
+    "stateId": 3052,
+    "latitude": "45.61685000",
+    "longitude": "-61.34853000"
+  },
+  {
+    "id": 101616,
+    "name": "Port Hope",
+    "stateId": 3131,
+    "latitude": "44.01682000",
+    "longitude": "-78.39953000"
+  },
+  {
+    "id": 101634,
+    "name": "Port McNeill",
+    "stateId": 578,
+    "latitude": "50.58716000",
+    "longitude": "-127.08053000"
+  },
+  {
+    "id": 101637,
+    "name": "Port Moody",
+    "stateId": 578,
+    "latitude": "49.28124000",
+    "longitude": "-122.82457000"
+  },
+  {
+    "id": 101659,
+    "name": "Port Rowan",
+    "stateId": 3131,
+    "latitude": "42.61680000",
+    "longitude": "-80.46638000"
+  },
+  {
+    "id": 101670,
+    "name": "Port Stanley",
+    "stateId": 3131,
+    "latitude": "42.66679000",
+    "longitude": "-81.21644000"
+  },
+  {
+    "id": 101682,
+    "name": "Port Williams",
+    "stateId": 3052,
+    "latitude": "45.10015000",
+    "longitude": "-64.41546000"
+  },
+  {
+    "id": 101691,
+    "name": "Port-Cartier",
+    "stateId": 3537,
+    "latitude": "50.03339000",
+    "longitude": "-66.86545000"
+  },
+  {
+    "id": 101725,
+    "name": "Portage la Prairie",
+    "stateId": 2500,
+    "latitude": "49.97282000",
+    "longitude": "-98.29263000"
+  },
+  {
+    "id": 101804,
+    "name": "Portneuf",
+    "stateId": 3537,
+    "latitude": "46.69058000",
+    "longitude": "-71.89011000"
+  },
+  {
+    "id": 102157,
+    "name": "Powassan",
+    "stateId": 3131,
+    "latitude": "46.03340000",
+    "longitude": "-79.34961000"
+  },
+  {
+    "id": 102167,
+    "name": "Powell River",
+    "stateId": 578,
+    "latitude": "49.83278000",
+    "longitude": "-124.52368000"
+  },
+  {
+    "id": 102799,
+    "name": "Preeceville",
+    "stateId": 3906,
+    "latitude": "51.94998000",
+    "longitude": "-102.66766000"
+  },
+  {
+    "id": 102853,
+    "name": "Prescott",
+    "stateId": 3131,
+    "latitude": "44.71681000",
+    "longitude": "-75.51604000"
+  },
+  {
+    "id": 103061,
+    "name": "Prince Albert",
+    "stateId": 3906,
+    "latitude": "53.20008000",
+    "longitude": "-105.76772000"
+  },
+  {
+    "id": 103063,
+    "name": "Prince Edward",
+    "stateId": 3131,
+    "latitude": "44.00012000",
+    "longitude": "-77.24946000"
+  },
+  {
+    "id": 103066,
+    "name": "Prince George",
+    "stateId": 578,
+    "latitude": "53.91660000",
+    "longitude": "-122.75301000"
+  },
+  {
+    "id": 103070,
+    "name": "Prince Rupert",
+    "stateId": 578,
+    "latitude": "54.31507000",
+    "longitude": "-130.32098000"
+  },
+  {
+    "id": 103080,
+    "name": "Princeton",
+    "stateId": 578,
+    "latitude": "49.45802000",
+    "longitude": "-120.51076000"
+  },
+  {
+    "id": 103096,
+    "name": "Princeville",
+    "stateId": 3052,
+    "latitude": "45.76684000",
+    "longitude": "-61.29853000"
+  },
+  {
+    "id": 103097,
+    "name": "Princeville",
+    "stateId": 3537,
+    "latitude": "46.17163000",
+    "longitude": "-71.87462000"
+  },
+  {
+    "id": 103814,
+    "name": "Provost",
+    "stateId": 119,
+    "latitude": "52.35014000",
+    "longitude": "-110.26828000"
+  },
+  {
+    "id": 103939,
+    "name": "Prévost",
+    "stateId": 3537,
+    "latitude": "45.86678000",
+    "longitude": "-74.08251000"
+  },
+  {
+    "id": 104465,
+    "name": "Puntledge",
+    "stateId": 578,
+    "latitude": "49.66168000",
+    "longitude": "-125.05686000"
+  },
+  {
+    "id": 105298,
+    "name": "Queenswood Heights",
+    "stateId": 3131,
+    "latitude": "45.47083000",
+    "longitude": "-75.50556000"
+  },
+  {
+    "id": 105355,
+    "name": "Quesnel",
+    "stateId": 578,
+    "latitude": "52.97842000",
+    "longitude": "-122.49310000"
+  },
+  {
+    "id": 105509,
+    "name": "Quinte West",
+    "stateId": 3131,
+    "latitude": "44.18342000",
+    "longitude": "-77.56618000"
+  },
+  {
+    "id": 105597,
+    "name": "Québec",
+    "stateId": 3537,
+    "latitude": "46.81228000",
+    "longitude": "-71.21454000"
+  },
+  {
+    "id": 105936,
+    "name": "Rainy River District",
+    "stateId": 3131,
+    "latitude": "48.49981000",
+    "longitude": "-92.50031000"
+  },
+  {
+    "id": 106297,
+    "name": "Rankin Inlet",
+    "stateId": 3072,
+    "latitude": "62.80906000",
+    "longitude": "-92.08534000"
+  },
+  {
+    "id": 106551,
+    "name": "Rawdon",
+    "stateId": 3537,
+    "latitude": "46.05007000",
+    "longitude": "-73.71587000"
+  },
+  {
+    "id": 106578,
+    "name": "Raymond",
+    "stateId": 119,
+    "latitude": "49.44998000",
+    "longitude": "-112.65185000"
+  },
+  {
+    "id": 106595,
+    "name": "Rayside-Balfour",
+    "stateId": 3131,
+    "latitude": "46.60873000",
+    "longitude": "-81.20763000"
+  },
+  {
+    "id": 106744,
+    "name": "Red Deer",
+    "stateId": 119,
+    "latitude": "52.26682000",
+    "longitude": "-113.80200000"
+  },
+  {
+    "id": 106755,
+    "name": "Red Lake",
+    "stateId": 3131,
+    "latitude": "51.01678000",
+    "longitude": "-93.82736000"
+  },
+  {
+    "id": 106921,
+    "name": "Regina",
+    "stateId": 3906,
+    "latitude": "50.45008000",
+    "longitude": "-104.61780000"
+  },
+  {
+    "id": 106922,
+    "name": "Regina Beach",
+    "stateId": 3906,
+    "latitude": "50.78338000",
+    "longitude": "-105.00112000"
+  },
+  {
+    "id": 106935,
+    "name": "Regional District of Alberni-Clayoquot",
+    "stateId": 578,
+    "latitude": "49.24962000",
+    "longitude": "-125.33615000"
+  },
+  {
+    "id": 106936,
+    "name": "Regional District of Central Okanagan",
+    "stateId": 578,
+    "latitude": "49.99978000",
+    "longitude": "-119.41908000"
+  },
+  {
+    "id": 106937,
+    "name": "Regional Municipality of Waterloo",
+    "stateId": 3131,
+    "latitude": "43.50010000",
+    "longitude": "-80.49969000"
+  },
+  {
+    "id": 107154,
+    "name": "Renfrew",
+    "stateId": 3131,
+    "latitude": "45.46681000",
+    "longitude": "-76.68272000"
+  },
+  {
+    "id": 107207,
+    "name": "Repentigny",
+    "stateId": 3537,
+    "latitude": "45.74222000",
+    "longitude": "-73.45008000"
+  },
+  {
+    "id": 107339,
+    "name": "Revelstoke",
+    "stateId": 578,
+    "latitude": "50.99712000",
+    "longitude": "-118.19530000"
+  },
+  {
+    "id": 107609,
+    "name": "Richelieu",
+    "stateId": 3537,
+    "latitude": "45.44336000",
+    "longitude": "-73.24602000"
+  },
+  {
+    "id": 107620,
+    "name": "Richibucto",
+    "stateId": 2891,
+    "latitude": "46.68073000",
+    "longitude": "-64.88044000"
+  },
+  {
+    "id": 107646,
+    "name": "Richmond",
+    "stateId": 578,
+    "latitude": "49.17003000",
+    "longitude": "-123.13683000"
+  },
+  {
+    "id": 107647,
+    "name": "Richmond",
+    "stateId": 3131,
+    "latitude": "45.18340000",
+    "longitude": "-75.83266000"
+  },
+  {
+    "id": 107648,
+    "name": "Richmond",
+    "stateId": 3537,
+    "latitude": "45.66677000",
+    "longitude": "-72.14910000"
+  },
+  {
+    "id": 107675,
+    "name": "Richmond Hill",
+    "stateId": 3131,
+    "latitude": "43.87111000",
+    "longitude": "-79.43725000"
+  },
+  {
+    "id": 107711,
+    "name": "Rideau Park",
+    "stateId": 119,
+    "latitude": "53.47899000",
+    "longitude": "-113.50470000"
+  },
+  {
+    "id": 107728,
+    "name": "Ridgetown",
+    "stateId": 3131,
+    "latitude": "42.43339000",
+    "longitude": "-81.89978000"
+  },
+  {
+    "id": 107809,
+    "name": "Rigaud",
+    "stateId": 3537,
+    "latitude": "45.47927000",
+    "longitude": "-74.30238000"
+  },
+  {
+    "id": 107847,
+    "name": "Rimbey",
+    "stateId": 119,
+    "latitude": "52.63340000",
+    "longitude": "-114.23532000"
+  },
+  {
+    "id": 107854,
+    "name": "Rimouski",
+    "stateId": 3537,
+    "latitude": "48.44879000",
+    "longitude": "-68.52396000"
+  },
+  {
+    "id": 108213,
+    "name": "Rivers",
+    "stateId": 2500,
+    "latitude": "50.03081000",
+    "longitude": "-100.24029000"
+  },
+  {
+    "id": 108263,
+    "name": "Rivière-Rouge",
+    "stateId": 3537,
+    "latitude": "46.41679000",
+    "longitude": "-74.86596000"
+  },
+  {
+    "id": 108265,
+    "name": "Rivière-du-Loup",
+    "stateId": 3537,
+    "latitude": "47.82699000",
+    "longitude": "-69.54243000"
+  },
+  {
+    "id": 108371,
+    "name": "Roberval",
+    "stateId": 3537,
+    "latitude": "48.51680000",
+    "longitude": "-72.23244000"
+  },
+  {
+    "id": 108398,
+    "name": "Roblin",
+    "stateId": 2500,
+    "latitude": "51.22999000",
+    "longitude": "-101.35650000"
+  },
+  {
+    "id": 108549,
+    "name": "Rock Forest",
+    "stateId": 3537,
+    "latitude": "45.35699000",
+    "longitude": "-71.99676000"
+  },
+  {
+    "id": 108619,
+    "name": "Rockwood",
+    "stateId": 3131,
+    "latitude": "43.61899000",
+    "longitude": "-80.14441000"
+  },
+  {
+    "id": 108625,
+    "name": "Rocky Mountain House",
+    "stateId": 119,
+    "latitude": "52.36683000",
+    "longitude": "-114.91880000"
+  },
+  {
+    "id": 109217,
+    "name": "Rosemère",
+    "stateId": 3537,
+    "latitude": "45.63338000",
+    "longitude": "-73.79919000"
+  },
+  {
+    "id": 109240,
+    "name": "Rosetown",
+    "stateId": 3906,
+    "latitude": "51.55010000",
+    "longitude": "-108.00136000"
+  },
+  {
+    "id": 109320,
+    "name": "Rossland",
+    "stateId": 578,
+    "latitude": "49.08313000",
+    "longitude": "-117.80224000"
+  },
+  {
+    "id": 109345,
+    "name": "Rosthern",
+    "stateId": 3906,
+    "latitude": "52.66679000",
+    "longitude": "-106.33446000"
+  },
+  {
+    "id": 109459,
+    "name": "Rougemont",
+    "stateId": 3537,
+    "latitude": "45.43338000",
+    "longitude": "-73.04914000"
+  },
+  {
+    "id": 109497,
+    "name": "Rouyn-Noranda",
+    "stateId": 3537,
+    "latitude": "48.23656000",
+    "longitude": "-79.02311000"
+  },
+  {
+    "id": 109583,
+    "name": "Royston",
+    "stateId": 578,
+    "latitude": "49.64703000",
+    "longitude": "-124.94670000"
+  },
+  {
+    "id": 109981,
+    "name": "Russell",
+    "stateId": 3131,
+    "latitude": "45.25010000",
+    "longitude": "-75.36602000"
+  },
+  {
+    "id": 110670,
+    "name": "Sackville",
+    "stateId": 2891,
+    "latitude": "45.91875000",
+    "longitude": "-64.38455000"
+  },
+  {
+    "id": 110686,
+    "name": "Sacré-Coeur",
+    "stateId": 3537,
+    "latitude": "48.22970000",
+    "longitude": "-69.80061000"
+  },
+  {
+    "id": 110824,
+    "name": "Saguenay",
+    "stateId": 3537,
+    "latitude": "48.41675000",
+    "longitude": "-71.06573000"
+  },
+  {
+    "id": 110899,
+    "name": "Saint Andrews",
+    "stateId": 2891,
+    "latitude": "45.07370000",
+    "longitude": "-67.05312000"
+  },
+  {
+    "id": 110986,
+    "name": "Saint John",
+    "stateId": 2891,
+    "latitude": "45.27271000",
+    "longitude": "-66.06766000"
+  },
+  {
+    "id": 111070,
+    "name": "Saint-Adolphe-d'Howard",
+    "stateId": 3537,
+    "latitude": "45.96679000",
+    "longitude": "-74.33253000"
+  },
+  {
+    "id": 111083,
+    "name": "Saint-Alexandre",
+    "stateId": 3537,
+    "latitude": "45.50010000",
+    "longitude": "-75.74935000"
+  },
+  {
+    "id": 111085,
+    "name": "Saint-Amable",
+    "stateId": 3537,
+    "latitude": "45.65008000",
+    "longitude": "-73.29916000"
+  },
+  {
+    "id": 111097,
+    "name": "Saint-Ambroise",
+    "stateId": 3537,
+    "latitude": "48.55009000",
+    "longitude": "-71.33238000"
+  },
+  {
+    "id": 111103,
+    "name": "Saint-André-Avellin",
+    "stateId": 3537,
+    "latitude": "45.71680000",
+    "longitude": "-75.06599000"
+  },
+  {
+    "id": 111118,
+    "name": "Saint-Anselme",
+    "stateId": 3537,
+    "latitude": "46.62922000",
+    "longitude": "-70.97340000"
+  },
+  {
+    "id": 111119,
+    "name": "Saint-Antoine",
+    "stateId": 2891,
+    "latitude": "46.36294000",
+    "longitude": "-64.74985000"
+  },
+  {
+    "id": 111122,
+    "name": "Saint-Antoine-de-Tilly",
+    "stateId": 3537,
+    "latitude": "46.66346000",
+    "longitude": "-71.57335000"
+  },
+  {
+    "id": 111145,
+    "name": "Saint-Augustin",
+    "stateId": 3537,
+    "latitude": "51.22602000",
+    "longitude": "-58.65017000"
+  },
+  {
+    "id": 111147,
+    "name": "Saint-Augustin-de-Desmaures",
+    "stateId": 3537,
+    "latitude": "46.74064000",
+    "longitude": "-71.45131000"
+  },
+  {
+    "id": 111158,
+    "name": "Saint-Barnabé-Sud",
+    "stateId": 3537,
+    "latitude": "45.72977000",
+    "longitude": "-72.92244000"
+  },
+  {
+    "id": 111161,
+    "name": "Saint-Basile-le-Grand",
+    "stateId": 3537,
+    "latitude": "45.53338000",
+    "longitude": "-73.28246000"
+  },
+  {
+    "id": 111173,
+    "name": "Saint-Boniface",
+    "stateId": 3537,
+    "latitude": "46.50011000",
+    "longitude": "-75.98264000"
+  },
+  {
+    "id": 111192,
+    "name": "Saint-Bruno",
+    "stateId": 3537,
+    "latitude": "48.46679000",
+    "longitude": "-71.64910000"
+  },
+  {
+    "id": 111193,
+    "name": "Saint-Bruno-de-Guigues",
+    "stateId": 3537,
+    "latitude": "47.46685000",
+    "longitude": "-79.43296000"
+  },
+  {
+    "id": 111194,
+    "name": "Saint-Bruno-de-Montarville",
+    "stateId": 3537,
+    "latitude": "45.53341000",
+    "longitude": "-73.34916000"
+  },
+  {
+    "id": 111199,
+    "name": "Saint-Canut",
+    "stateId": 3537,
+    "latitude": "45.71502000",
+    "longitude": "-74.08376000"
+  },
+  {
+    "id": 111212,
+    "name": "Saint-Charles",
+    "stateId": 3537,
+    "latitude": "45.70288000",
+    "longitude": "-73.55417000"
+  },
+  {
+    "id": 111239,
+    "name": "Saint-Constant",
+    "stateId": 3537,
+    "latitude": "45.36678000",
+    "longitude": "-73.56588000"
+  },
+  {
+    "id": 111258,
+    "name": "Saint-Cyrille-de-Wendover",
+    "stateId": 3537,
+    "latitude": "45.93336000",
+    "longitude": "-72.43241000"
+  },
+  {
+    "id": 111260,
+    "name": "Saint-Césaire",
+    "stateId": 3537,
+    "latitude": "45.41678000",
+    "longitude": "-72.99914000"
+  },
+  {
+    "id": 111262,
+    "name": "Saint-Côme-Linière",
+    "stateId": 3537,
+    "latitude": "46.06677000",
+    "longitude": "-70.51573000"
+  },
+  {
+    "id": 111263,
+    "name": "Saint-Damase",
+    "stateId": 3537,
+    "latitude": "45.53341000",
+    "longitude": "-72.99914000"
+  },
+  {
+    "id": 111275,
+    "name": "Saint-Denis-sur-Richelieu",
+    "stateId": 3537,
+    "latitude": "45.78338000",
+    "longitude": "-73.14915000"
+  },
+  {
+    "id": 111289,
+    "name": "Saint-Donat-de-Montcalm",
+    "stateId": 3537,
+    "latitude": "46.31868000",
+    "longitude": "-74.22171000"
+  },
+  {
+    "id": 111294,
+    "name": "Saint-Elzéar",
+    "stateId": 3537,
+    "latitude": "45.60338000",
+    "longitude": "-73.72698000"
+  },
+  {
+    "id": 111301,
+    "name": "Saint-Eustache",
+    "stateId": 3537,
+    "latitude": "45.56500000",
+    "longitude": "-73.90554000"
+  },
+  {
+    "id": 111320,
+    "name": "Saint-Félicien",
+    "stateId": 3537,
+    "latitude": "48.65007000",
+    "longitude": "-72.44906000"
+  },
+  {
+    "id": 111325,
+    "name": "Saint-Félix-de-Valois",
+    "stateId": 3537,
+    "latitude": "46.16977000",
+    "longitude": "-73.42525000"
+  },
+  {
+    "id": 111326,
+    "name": "Saint-Gabriel",
+    "stateId": 3537,
+    "latitude": "46.30007000",
+    "longitude": "-73.38245000"
+  },
+  {
+    "id": 111349,
+    "name": "Saint-Georges",
+    "stateId": 3537,
+    "latitude": "46.11353000",
+    "longitude": "-70.66526000"
+  },
+  {
+    "id": 111381,
+    "name": "Saint-Germain-de-Grantham",
+    "stateId": 3537,
+    "latitude": "45.83337000",
+    "longitude": "-72.56582000"
+  },
+  {
+    "id": 111424,
+    "name": "Saint-Gédéon",
+    "stateId": 3537,
+    "latitude": "48.50009000",
+    "longitude": "-71.76581000"
+  },
+  {
+    "id": 111429,
+    "name": "Saint-Henri",
+    "stateId": 3537,
+    "latitude": "46.69314000",
+    "longitude": "-71.06927000"
+  },
+  {
+    "id": 111450,
+    "name": "Saint-Hippolyte",
+    "stateId": 3537,
+    "latitude": "45.93338000",
+    "longitude": "-74.01590000"
+  },
+  {
+    "id": 111456,
+    "name": "Saint-Honoré",
+    "stateId": 3537,
+    "latitude": "48.53338000",
+    "longitude": "-71.08236000"
+  },
+  {
+    "id": 111458,
+    "name": "Saint-Hyacinthe",
+    "stateId": 3537,
+    "latitude": "45.63076000",
+    "longitude": "-72.95699000"
+  },
+  {
+    "id": 111462,
+    "name": "Saint-Isidore",
+    "stateId": 3537,
+    "latitude": "47.43345000",
+    "longitude": "-79.29965000"
+  },
+  {
+    "id": 111465,
+    "name": "Saint-Jacques-le-Mineur",
+    "stateId": 3537,
+    "latitude": "45.28338000",
+    "longitude": "-73.41587000"
+  },
+  {
+    "id": 111473,
+    "name": "Saint-Jean-Baptiste",
+    "stateId": 3537,
+    "latitude": "45.38060000",
+    "longitude": "-74.01210000"
+  },
+  {
+    "id": 111512,
+    "name": "Saint-Jean-sur-Richelieu",
+    "stateId": 3537,
+    "latitude": "45.30713000",
+    "longitude": "-73.26259000"
+  },
+  {
+    "id": 111519,
+    "name": "Saint-Joseph",
+    "stateId": 3537,
+    "latitude": "45.95817000",
+    "longitude": "-73.22025000"
+  },
+  {
+    "id": 111522,
+    "name": "Saint-Joseph-de-Beauce",
+    "stateId": 3537,
+    "latitude": "46.30000000",
+    "longitude": "-70.86667000"
+  },
+  {
+    "id": 111523,
+    "name": "Saint-Joseph-de-Coleraine",
+    "stateId": 3537,
+    "latitude": "45.96677000",
+    "longitude": "-71.36577000"
+  },
+  {
+    "id": 111525,
+    "name": "Saint-Joseph-du-Lac",
+    "stateId": 3537,
+    "latitude": "45.53338000",
+    "longitude": "-73.99920000"
+  },
+  {
+    "id": 111562,
+    "name": "Saint-Jérôme",
+    "stateId": 3537,
+    "latitude": "45.78036000",
+    "longitude": "-74.00365000"
+  },
+  {
+    "id": 111565,
+    "name": "Saint-Lambert-de-Lauzon",
+    "stateId": 3537,
+    "latitude": "46.58624000",
+    "longitude": "-71.20892000"
+  },
+  {
+    "id": 111570,
+    "name": "Saint-Laurent",
+    "stateId": 3537,
+    "latitude": "45.50008000",
+    "longitude": "-73.66585000"
+  },
+  {
+    "id": 111590,
+    "name": "Saint-Lazare",
+    "stateId": 3537,
+    "latitude": "45.40008000",
+    "longitude": "-74.13256000"
+  },
+  {
+    "id": 111594,
+    "name": "Saint-Liboire",
+    "stateId": 3537,
+    "latitude": "45.65068000",
+    "longitude": "-72.76348000"
+  },
+  {
+    "id": 111595,
+    "name": "Saint-Lin-Laurentides",
+    "stateId": 3537,
+    "latitude": "45.85008000",
+    "longitude": "-73.76588000"
+  },
+  {
+    "id": 111628,
+    "name": "Saint-Léonard",
+    "stateId": 2891,
+    "latitude": "47.16317000",
+    "longitude": "-67.92460000"
+  },
+  {
+    "id": 111629,
+    "name": "Saint-Léonard",
+    "stateId": 3537,
+    "latitude": "45.58773000",
+    "longitude": "-73.59501000"
+  },
+  {
+    "id": 111634,
+    "name": "Saint-Léonard-d'Aston",
+    "stateId": 3537,
+    "latitude": "46.10006000",
+    "longitude": "-72.36580000"
+  },
+  {
+    "id": 111652,
+    "name": "Saint-Marc-des-Carrières",
+    "stateId": 3537,
+    "latitude": "46.68335000",
+    "longitude": "-72.04910000"
+  },
+  {
+    "id": 111718,
+    "name": "Saint-Mathieu",
+    "stateId": 3537,
+    "latitude": "45.31678000",
+    "longitude": "-73.51587000"
+  },
+  {
+    "id": 111749,
+    "name": "Saint-Michel",
+    "stateId": 3537,
+    "latitude": "45.56758000",
+    "longitude": "-73.62168000"
+  },
+  {
+    "id": 111755,
+    "name": "Saint-Michel-des-Saints",
+    "stateId": 3537,
+    "latitude": "46.67702000",
+    "longitude": "-73.91881000"
+  },
+  {
+    "id": 111776,
+    "name": "Saint-Nazaire",
+    "stateId": 3537,
+    "latitude": "48.58944000",
+    "longitude": "-71.55247000"
+  },
+  {
+    "id": 111794,
+    "name": "Saint-Norbert",
+    "stateId": 3537,
+    "latitude": "46.16949000",
+    "longitude": "-73.31494000"
+  },
+  {
+    "id": 111810,
+    "name": "Saint-Pacôme",
+    "stateId": 3537,
+    "latitude": "47.40457000",
+    "longitude": "-69.95025000"
+  },
+  {
+    "id": 111822,
+    "name": "Saint-Pascal",
+    "stateId": 3537,
+    "latitude": "47.51813000",
+    "longitude": "-69.80301000"
+  },
+  {
+    "id": 111852,
+    "name": "Saint-Philippe-de-La Prairie",
+    "stateId": 3537,
+    "latitude": "45.35723000",
+    "longitude": "-73.47706000"
+  },
+  {
+    "id": 111854,
+    "name": "Saint-Pie",
+    "stateId": 3537,
+    "latitude": "45.50277000",
+    "longitude": "-72.90890000"
+  },
+  {
+    "id": 111878,
+    "name": "Saint-Pierre-les-Becquets",
+    "stateId": 3537,
+    "latitude": "46.50005000",
+    "longitude": "-72.19910000"
+  },
+  {
+    "id": 111898,
+    "name": "Saint-Prime",
+    "stateId": 3537,
+    "latitude": "48.58339000",
+    "longitude": "-72.33244000"
+  },
+  {
+    "id": 111925,
+    "name": "Saint-Raphaël",
+    "stateId": 3537,
+    "latitude": "46.25011000",
+    "longitude": "-76.01605000"
+  },
+  {
+    "id": 111928,
+    "name": "Saint-Raymond",
+    "stateId": 3537,
+    "latitude": "45.46698000",
+    "longitude": "-73.60948000"
+  },
+  {
+    "id": 111943,
+    "name": "Saint-Rémi",
+    "stateId": 3537,
+    "latitude": "45.26678000",
+    "longitude": "-73.61588000"
+  },
+  {
+    "id": 111944,
+    "name": "Saint-Rémi-de-Tingwick",
+    "stateId": 3537,
+    "latitude": "45.86677000",
+    "longitude": "-71.81581000"
+  },
+  {
+    "id": 111965,
+    "name": "Saint-Sauveur",
+    "stateId": 3537,
+    "latitude": "45.88686000",
+    "longitude": "-74.17943000"
+  },
+  {
+    "id": 111974,
+    "name": "Saint-Sauveur-des-Monts",
+    "stateId": 3537,
+    "latitude": "45.90008000",
+    "longitude": "-74.16591000"
+  },
+  {
+    "id": 111993,
+    "name": "Saint-Siméon",
+    "stateId": 3537,
+    "latitude": "47.84431000",
+    "longitude": "-69.87837000"
+  },
+  {
+    "id": 112021,
+    "name": "Saint-Thomas",
+    "stateId": 3537,
+    "latitude": "46.01677000",
+    "longitude": "-73.34915000"
+  },
+  {
+    "id": 112026,
+    "name": "Saint-Tite",
+    "stateId": 3537,
+    "latitude": "46.73336000",
+    "longitude": "-72.56581000"
+  },
+  {
+    "id": 112049,
+    "name": "Saint-Victor",
+    "stateId": 3537,
+    "latitude": "45.61118000",
+    "longitude": "-73.51527000"
+  },
+  {
+    "id": 112080,
+    "name": "Saint-Zotique",
+    "stateId": 3537,
+    "latitude": "45.25009000",
+    "longitude": "-74.24924000"
+  },
+  {
+    "id": 112081,
+    "name": "Saint-Édouard",
+    "stateId": 3537,
+    "latitude": "45.23338000",
+    "longitude": "-73.51588000"
+  },
+  {
+    "id": 112088,
+    "name": "Saint-Éphrem-de-Beauce",
+    "stateId": 3537,
+    "latitude": "46.06677000",
+    "longitude": "-70.94905000"
+  },
+  {
+    "id": 112108,
+    "name": "Sainte Catherine de la Jacques Cartier",
+    "stateId": 3537,
+    "latitude": "46.85244000",
+    "longitude": "-71.62056000"
+  },
+  {
+    "id": 112112,
+    "name": "Sainte-Adèle",
+    "stateId": 3537,
+    "latitude": "45.95008000",
+    "longitude": "-74.13251000"
+  },
+  {
+    "id": 112113,
+    "name": "Sainte-Agathe-des-Monts",
+    "stateId": 3537,
+    "latitude": "46.05009000",
+    "longitude": "-74.28252000"
+  },
+  {
+    "id": 112118,
+    "name": "Sainte-Anne-de-Bellevue",
+    "stateId": 3537,
+    "latitude": "45.40618000",
+    "longitude": "-73.94560000"
+  },
+  {
+    "id": 112119,
+    "name": "Sainte-Anne-des-Monts",
+    "stateId": 3537,
+    "latitude": "49.12402000",
+    "longitude": "-66.49243000"
+  },
+  {
+    "id": 112120,
+    "name": "Sainte-Anne-des-Plaines",
+    "stateId": 3537,
+    "latitude": "45.76468000",
+    "longitude": "-73.81156000"
+  },
+  {
+    "id": 112123,
+    "name": "Sainte-Béatrix",
+    "stateId": 3537,
+    "latitude": "46.20007000",
+    "longitude": "-73.61587000"
+  },
+  {
+    "id": 112124,
+    "name": "Sainte-Catherine",
+    "stateId": 3537,
+    "latitude": "45.40008000",
+    "longitude": "-73.58248000"
+  },
+  {
+    "id": 112130,
+    "name": "Sainte-Croix",
+    "stateId": 3537,
+    "latitude": "45.13368000",
+    "longitude": "-72.80083000"
+  },
+  {
+    "id": 112161,
+    "name": "Sainte-Julie",
+    "stateId": 3537,
+    "latitude": "45.58338000",
+    "longitude": "-73.33246000"
+  },
+  {
+    "id": 112162,
+    "name": "Sainte-Julienne",
+    "stateId": 3537,
+    "latitude": "45.96677000",
+    "longitude": "-73.71587000"
+  },
+  {
+    "id": 112166,
+    "name": "Sainte-Madeleine",
+    "stateId": 3537,
+    "latitude": "45.60008000",
+    "longitude": "-73.09914000"
+  },
+  {
+    "id": 112170,
+    "name": "Sainte-Marie",
+    "stateId": 3537,
+    "latitude": "46.43401000",
+    "longitude": "-71.01168000"
+  },
+  {
+    "id": 112180,
+    "name": "Sainte-Marthe-sur-le-Lac",
+    "stateId": 3537,
+    "latitude": "45.53338000",
+    "longitude": "-73.93250000"
+  },
+  {
+    "id": 112181,
+    "name": "Sainte-Martine",
+    "stateId": 3537,
+    "latitude": "45.25008000",
+    "longitude": "-73.79919000"
+  },
+  {
+    "id": 112195,
+    "name": "Sainte-Sophie",
+    "stateId": 3537,
+    "latitude": "45.81678000",
+    "longitude": "-73.89919000"
+  },
+  {
+    "id": 112200,
+    "name": "Sainte-Thècle",
+    "stateId": 3537,
+    "latitude": "46.81676000",
+    "longitude": "-72.49911000"
+  },
+  {
+    "id": 112201,
+    "name": "Sainte-Thérèse",
+    "stateId": 3537,
+    "latitude": "45.63922000",
+    "longitude": "-73.82757000"
+  },
+  {
+    "id": 112204,
+    "name": "Sainte-Élisabeth",
+    "stateId": 3537,
+    "latitude": "46.09502000",
+    "longitude": "-73.35176000"
+  },
+  {
+    "id": 112300,
+    "name": "Salaberry-de-Valleyfield",
+    "stateId": 3537,
+    "latitude": "45.25008000",
+    "longitude": "-74.13253000"
+  },
+  {
+    "id": 112536,
+    "name": "Salisbury",
+    "stateId": 2891,
+    "latitude": "46.03905000",
+    "longitude": "-65.04628000"
+  },
+  {
+    "id": 112582,
+    "name": "Salluit",
+    "stateId": 3537,
+    "latitude": "62.20411000",
+    "longitude": "-75.64344000"
+  },
+  {
+    "id": 112586,
+    "name": "Salmo",
+    "stateId": 578,
+    "latitude": "49.19986000",
+    "longitude": "-117.26890000"
+  },
+  {
+    "id": 112588,
+    "name": "Salmon Arm",
+    "stateId": 578,
+    "latitude": "50.69980000",
+    "longitude": "-119.30237000"
+  },
+  {
+    "id": 112631,
+    "name": "Salt Spring Island",
+    "stateId": 578,
+    "latitude": "48.81852000",
+    "longitude": "-123.49061000"
+  },
+  {
+    "id": 112634,
+    "name": "Saltair",
+    "stateId": 578,
+    "latitude": "48.94963000",
+    "longitude": "-123.76939000"
+  },
+  {
+    "id": 118152,
+    "name": "Sarnia",
+    "stateId": 3131,
+    "latitude": "42.97866000",
+    "longitude": "-82.40407000"
+  },
+  {
+    "id": 118258,
+    "name": "Saskatoon",
+    "stateId": 3906,
+    "latitude": "52.13238000",
+    "longitude": "-106.66892000"
+  },
+  {
+    "id": 118414,
+    "name": "Sault Ste. Marie",
+    "stateId": 3131,
+    "latitude": "46.51677000",
+    "longitude": "-84.33325000"
+  },
+  {
+    "id": 118667,
+    "name": "Scarborough",
+    "stateId": 3131,
+    "latitude": "43.77223000",
+    "longitude": "-79.25666000"
+  },
+  {
+    "id": 119289,
+    "name": "Seaforth",
+    "stateId": 3131,
+    "latitude": "43.55009000",
+    "longitude": "-81.39976000"
+  },
+  {
+    "id": 119371,
+    "name": "Sechelt",
+    "stateId": 578,
+    "latitude": "49.47512000",
+    "longitude": "-123.75903000"
+  },
+  {
+    "id": 119650,
+    "name": "Selkirk",
+    "stateId": 2500,
+    "latitude": "50.14360000",
+    "longitude": "-96.88452000"
+  },
+  {
+    "id": 119869,
+    "name": "Senneterre",
+    "stateId": 3537,
+    "latitude": "48.39302000",
+    "longitude": "-77.23951000"
+  },
+  {
+    "id": 119922,
+    "name": "Sept-Îles",
+    "stateId": 3537,
+    "latitude": "50.20011000",
+    "longitude": "-66.38208000"
+  },
+  {
+    "id": 120344,
+    "name": "Sexsmith",
+    "stateId": 119,
+    "latitude": "55.34998000",
+    "longitude": "-118.78602000"
+  },
+  {
+    "id": 120888,
+    "name": "Shannon",
+    "stateId": 3537,
+    "latitude": "46.88026000",
+    "longitude": "-71.51464000"
+  },
+  {
+    "id": 120973,
+    "name": "Shaunavon",
+    "stateId": 3906,
+    "latitude": "49.65005000",
+    "longitude": "-108.41810000"
+  },
+  {
+    "id": 120984,
+    "name": "Shawinigan",
+    "stateId": 3537,
+    "latitude": "46.56675000",
+    "longitude": "-72.74913000"
+  },
+  {
+    "id": 120992,
+    "name": "Shawville",
+    "stateId": 3537,
+    "latitude": "45.60011000",
+    "longitude": "-76.48270000"
+  },
+  {
+    "id": 121023,
+    "name": "Shediac",
+    "stateId": 2891,
+    "latitude": "46.21981000",
+    "longitude": "-64.54107000"
+  },
+  {
+    "id": 121024,
+    "name": "Shediac Bridge-Shediac River",
+    "stateId": 2891,
+    "latitude": "46.26886000",
+    "longitude": "-64.60047000"
+  },
+  {
+    "id": 121050,
+    "name": "Shelburne",
+    "stateId": 3052,
+    "latitude": "43.76325000",
+    "longitude": "-65.32355000"
+  },
+  {
+    "id": 121051,
+    "name": "Shelburne",
+    "stateId": 3131,
+    "latitude": "44.07870000",
+    "longitude": "-80.20408000"
+  },
+  {
+    "id": 121088,
+    "name": "Shellbrook",
+    "stateId": 3906,
+    "latitude": "53.21679000",
+    "longitude": "-106.40109000"
+  },
+  {
+    "id": 121154,
+    "name": "Sherbrooke",
+    "stateId": 3537,
+    "latitude": "45.40008000",
+    "longitude": "-71.89908000"
+  },
+  {
+    "id": 121203,
+    "name": "Sherwood Park",
+    "stateId": 119,
+    "latitude": "53.51684000",
+    "longitude": "-113.31870000"
+  },
+  {
+    "id": 121277,
+    "name": "Shilo",
+    "stateId": 2500,
+    "latitude": "49.80509000",
+    "longitude": "-99.63175000"
+  },
+  {
+    "id": 121347,
+    "name": "Shippagan",
+    "stateId": 2891,
+    "latitude": "47.74424000",
+    "longitude": "-64.70804000"
+  },
+  {
+    "id": 121654,
+    "name": "Sicamous",
+    "stateId": 578,
+    "latitude": "50.83312000",
+    "longitude": "-118.98565000"
+  },
+  {
+    "id": 122010,
+    "name": "Silver Berry",
+    "stateId": 119,
+    "latitude": "53.45787000",
+    "longitude": "-113.38170000"
+  },
+  {
+    "id": 122077,
+    "name": "Simcoe",
+    "stateId": 3131,
+    "latitude": "42.83340000",
+    "longitude": "-80.29967000"
+  },
+  {
+    "id": 122339,
+    "name": "Sioux Lookout",
+    "stateId": 3131,
+    "latitude": "50.06676000",
+    "longitude": "-91.98358000"
+  },
+  {
+    "id": 122507,
+    "name": "Six Mile",
+    "stateId": 578,
+    "latitude": "48.45767000",
+    "longitude": "-123.46088000"
+  },
+  {
+    "id": 122565,
+    "name": "Skatepark",
+    "stateId": 3131,
+    "latitude": "44.25122000",
+    "longitude": "-76.94424000"
+  },
+  {
+    "id": 122743,
+    "name": "Slave Lake",
+    "stateId": 119,
+    "latitude": "55.28344000",
+    "longitude": "-114.76896000"
+  },
+  {
+    "id": 122883,
+    "name": "Smithers",
+    "stateId": 578,
+    "latitude": "54.78036000",
+    "longitude": "-127.17428000"
+  },
+  {
+    "id": 122893,
+    "name": "Smiths Falls",
+    "stateId": 3131,
+    "latitude": "44.90452000",
+    "longitude": "-76.02333000"
+  },
+  {
+    "id": 122912,
+    "name": "Smoky Lake",
+    "stateId": 119,
+    "latitude": "54.11687000",
+    "longitude": "-112.46863000"
+  },
+  {
+    "id": 123546,
+    "name": "Sooke",
+    "stateId": 578,
+    "latitude": "48.37463000",
+    "longitude": "-123.72762000"
+  },
+  {
+    "id": 123594,
+    "name": "Sorel-Tracy",
+    "stateId": 3537,
+    "latitude": "46.04178000",
+    "longitude": "-73.11358000"
+  },
+  {
+    "id": 123780,
+    "name": "Souris",
+    "stateId": 2500,
+    "latitude": "49.61720000",
+    "longitude": "-100.26120000"
+  },
+  {
+    "id": 123781,
+    "name": "Souris",
+    "stateId": 3394,
+    "latitude": "46.35010000",
+    "longitude": "-62.24862000"
+  },
+  {
+    "id": 123903,
+    "name": "South Huron",
+    "stateId": 3131,
+    "latitude": "43.31679000",
+    "longitude": "-81.51647000"
+  },
+  {
+    "id": 123958,
+    "name": "South Pender Harbour",
+    "stateId": 578,
+    "latitude": "49.62202000",
+    "longitude": "-124.02484000"
+  },
+  {
+    "id": 123971,
+    "name": "South River",
+    "stateId": 3131,
+    "latitude": "45.83340000",
+    "longitude": "-79.38293000"
+  },
+  {
+    "id": 124229,
+    "name": "Sparwood",
+    "stateId": 578,
+    "latitude": "49.73332000",
+    "longitude": "-114.88532000"
+  },
+  {
+    "id": 124350,
+    "name": "Spirit River",
+    "stateId": 119,
+    "latitude": "55.78327000",
+    "longitude": "-118.83607000"
+  },
+  {
+    "id": 124450,
+    "name": "Springbrook",
+    "stateId": 119,
+    "latitude": "52.17920000",
+    "longitude": "-113.87981000"
+  },
+  {
+    "id": 124451,
+    "name": "Springdale",
+    "stateId": 2902,
+    "latitude": "49.49995000",
+    "longitude": "-56.06492000"
+  },
+  {
+    "id": 124486,
+    "name": "Springhill",
+    "stateId": 3052,
+    "latitude": "45.65015000",
+    "longitude": "-64.04873000"
+  },
+  {
+    "id": 124507,
+    "name": "Spruce Grove",
+    "stateId": 119,
+    "latitude": "53.53344000",
+    "longitude": "-113.91874000"
+  },
+  {
+    "id": 124669,
+    "name": "St-Jean-Port-Joli",
+    "stateId": 3537,
+    "latitude": "47.21418000",
+    "longitude": "-70.26969000"
+  },
+  {
+    "id": 124670,
+    "name": "St. Adolphe",
+    "stateId": 2500,
+    "latitude": "49.67440000",
+    "longitude": "-97.11124000"
+  },
+  {
+    "id": 124672,
+    "name": "St. Albert",
+    "stateId": 119,
+    "latitude": "53.63344000",
+    "longitude": "-113.63533000"
+  },
+  {
+    "id": 124675,
+    "name": "St. Anthony",
+    "stateId": 2902,
+    "latitude": "51.37039000",
+    "longitude": "-55.59743000"
+  },
+  {
+    "id": 124676,
+    "name": "St. Catharines",
+    "stateId": 3131,
+    "latitude": "43.17126000",
+    "longitude": "-79.24267000"
+  },
+  {
+    "id": 124680,
+    "name": "St. George",
+    "stateId": 3131,
+    "latitude": "43.24495000",
+    "longitude": "-80.25144000"
+  },
+  {
+    "id": 124683,
+    "name": "St. John's",
+    "stateId": 2902,
+    "latitude": "47.56494000",
+    "longitude": "-52.70931000"
+  },
+  {
+    "id": 124702,
+    "name": "St. Thomas",
+    "stateId": 3131,
+    "latitude": "42.77361000",
+    "longitude": "-81.18038000"
+  },
+  {
+    "id": 124972,
+    "name": "Starlight Village",
+    "stateId": 2891,
+    "latitude": "45.88308000",
+    "longitude": "-66.76905000"
+  },
+  {
+    "id": 125187,
+    "name": "Steinbach",
+    "stateId": 2500,
+    "latitude": "49.52579000",
+    "longitude": "-96.68451000"
+  },
+  {
+    "id": 125285,
+    "name": "Stephenville",
+    "stateId": 2902,
+    "latitude": "48.55001000",
+    "longitude": "-58.58180000"
+  },
+  {
+    "id": 125287,
+    "name": "Stephenville Crossing",
+    "stateId": 2902,
+    "latitude": "48.50001000",
+    "longitude": "-58.43180000"
+  },
+  {
+    "id": 125329,
+    "name": "Stettler",
+    "stateId": 119,
+    "latitude": "52.31683000",
+    "longitude": "-112.71861000"
+  },
+  {
+    "id": 125407,
+    "name": "Stirling",
+    "stateId": 3131,
+    "latitude": "44.30012000",
+    "longitude": "-77.54948000"
+  },
+  {
+    "id": 125518,
+    "name": "Stonewall",
+    "stateId": 2500,
+    "latitude": "50.13441000",
+    "longitude": "-97.32676000"
+  },
+  {
+    "id": 125523,
+    "name": "Stoney Point",
+    "stateId": 3131,
+    "latitude": "44.26681000",
+    "longitude": "-79.53292000"
+  },
+  {
+    "id": 125531,
+    "name": "Stony Plain",
+    "stateId": 119,
+    "latitude": "53.53343000",
+    "longitude": "-114.00205000"
+  },
+  {
+    "id": 125651,
+    "name": "Stratford",
+    "stateId": 3131,
+    "latitude": "43.36679000",
+    "longitude": "-80.94972000"
+  },
+  {
+    "id": 125673,
+    "name": "Strathmore",
+    "stateId": 119,
+    "latitude": "51.05011000",
+    "longitude": "-113.38523000"
+  },
+  {
+    "id": 126048,
+    "name": "Sudbury",
+    "stateId": 3131,
+    "latitude": "47.16679000",
+    "longitude": "-81.99980000"
+  },
+  {
+    "id": 126323,
+    "name": "Summerland",
+    "stateId": 578,
+    "latitude": "49.59977000",
+    "longitude": "-119.66911000"
+  },
+  {
+    "id": 126330,
+    "name": "Summerside",
+    "stateId": 3394,
+    "latitude": "46.39593000",
+    "longitude": "-63.78762000"
+  },
+  {
+    "id": 126415,
+    "name": "Sundre",
+    "stateId": 119,
+    "latitude": "51.80010000",
+    "longitude": "-114.63532000"
+  },
+  {
+    "id": 126584,
+    "name": "Surrey",
+    "stateId": 578,
+    "latitude": "49.10635000",
+    "longitude": "-122.82509000"
+  },
+  {
+    "id": 126642,
+    "name": "Sussex",
+    "stateId": 2891,
+    "latitude": "45.72266000",
+    "longitude": "-65.50663000"
+  },
+  {
+    "id": 126681,
+    "name": "Sutton",
+    "stateId": 3537,
+    "latitude": "45.10008000",
+    "longitude": "-72.61582000"
+  },
+  {
+    "id": 126879,
+    "name": "Swan Hills",
+    "stateId": 119,
+    "latitude": "54.71681000",
+    "longitude": "-115.40226000"
+  },
+  {
+    "id": 126880,
+    "name": "Swan River",
+    "stateId": 2500,
+    "latitude": "52.10580000",
+    "longitude": "-101.26759000"
+  },
+  {
+    "id": 126922,
+    "name": "Swift Current",
+    "stateId": 3906,
+    "latitude": "50.28337000",
+    "longitude": "-107.80135000"
+  },
+  {
+    "id": 126951,
+    "name": "Sydney",
+    "stateId": 3052,
+    "latitude": "46.13510000",
+    "longitude": "-60.18310000"
+  },
+  {
+    "id": 126953,
+    "name": "Sydney Mines",
+    "stateId": 3052,
+    "latitude": "46.23669000",
+    "longitude": "-60.21767000"
+  },
+  {
+    "id": 126976,
+    "name": "Sylvan Lake",
+    "stateId": 119,
+    "latitude": "52.31100000",
+    "longitude": "-114.08375000"
+  },
+  {
+    "id": 127953,
+    "name": "Taber",
+    "stateId": 119,
+    "latitude": "49.78703000",
+    "longitude": "-112.14603000"
+  },
+  {
+    "id": 128571,
+    "name": "Tamarack",
+    "stateId": 119,
+    "latitude": "53.46441000",
+    "longitude": "-113.36235000"
+  },
+  {
+    "id": 129325,
+    "name": "Tavistock",
+    "stateId": 3131,
+    "latitude": "43.31679000",
+    "longitude": "-80.83302000"
+  },
+  {
+    "id": 129750,
+    "name": "Temiskaming Shores",
+    "stateId": 3131,
+    "latitude": "47.49376000",
+    "longitude": "-79.71529000"
+  },
+  {
+    "id": 130120,
+    "name": "Terrace",
+    "stateId": 578,
+    "latitude": "54.51634000",
+    "longitude": "-128.60345000"
+  },
+  {
+    "id": 130142,
+    "name": "Terrasse-des-Pins",
+    "stateId": 3537,
+    "latitude": "45.86449000",
+    "longitude": "-74.06627000"
+  },
+  {
+    "id": 130154,
+    "name": "Terrebonne",
+    "stateId": 3537,
+    "latitude": "45.70004000",
+    "longitude": "-73.64732000"
+  },
+  {
+    "id": 130488,
+    "name": "The Pas",
+    "stateId": 2500,
+    "latitude": "53.82509000",
+    "longitude": "-101.25413000"
+  },
+  {
+    "id": 130534,
+    "name": "Thessalon",
+    "stateId": 3131,
+    "latitude": "46.25006000",
+    "longitude": "-83.56660000"
+  },
+  {
+    "id": 130537,
+    "name": "Thetford-Mines",
+    "stateId": 3537,
+    "latitude": "46.09371000",
+    "longitude": "-71.30539000"
+  },
+  {
+    "id": 130621,
+    "name": "Thompson",
+    "stateId": 2500,
+    "latitude": "55.74350000",
+    "longitude": "-97.85579000"
+  },
+  {
+    "id": 130672,
+    "name": "Thorold",
+    "stateId": 3131,
+    "latitude": "43.11682000",
+    "longitude": "-79.19958000"
+  },
+  {
+    "id": 130691,
+    "name": "Three Hills",
+    "stateId": 119,
+    "latitude": "51.70012000",
+    "longitude": "-113.26863000"
+  },
+  {
+    "id": 130728,
+    "name": "Thunder Bay",
+    "stateId": 3131,
+    "latitude": "48.38202000",
+    "longitude": "-89.25018000"
+  },
+  {
+    "id": 130729,
+    "name": "Thunder Bay District",
+    "stateId": 3131,
+    "latitude": "49.50011000",
+    "longitude": "-88.50004000"
+  },
+  {
+    "id": 130746,
+    "name": "Thurso",
+    "stateId": 3537,
+    "latitude": "45.60010000",
+    "longitude": "-75.24931000"
+  },
+  {
+    "id": 131081,
+    "name": "Timiskaming District",
+    "stateId": 3131,
+    "latitude": "47.75016000",
+    "longitude": "-80.33303000"
+  },
+  {
+    "id": 131089,
+    "name": "Timmins",
+    "stateId": 3131,
+    "latitude": "48.46686000",
+    "longitude": "-81.33312000"
+  },
+  {
+    "id": 131280,
+    "name": "Tisdale",
+    "stateId": 3906,
+    "latitude": "52.85002000",
+    "longitude": "-104.05096000"
+  },
+  {
+    "id": 131547,
+    "name": "Tobermory",
+    "stateId": 3131,
+    "latitude": "45.25007000",
+    "longitude": "-81.66647000"
+  },
+  {
+    "id": 131626,
+    "name": "Tofield",
+    "stateId": 119,
+    "latitude": "53.36684000",
+    "longitude": "-112.66862000"
+  },
+  {
+    "id": 131627,
+    "name": "Tofino",
+    "stateId": 578,
+    "latitude": "49.15314000",
+    "longitude": "-125.90744000"
+  },
+  {
+    "id": 132018,
+    "name": "Torbay",
+    "stateId": 2902,
+    "latitude": "47.66659000",
+    "longitude": "-52.73135000"
+  },
+  {
+    "id": 132104,
+    "name": "Toronto",
+    "stateId": 3131,
+    "latitude": "43.70011000",
+    "longitude": "-79.41630000"
+  },
+  {
+    "id": 132106,
+    "name": "Toronto county",
+    "stateId": 3131,
+    "latitude": "43.69655000",
+    "longitude": "-79.42909000"
+  },
+  {
+    "id": 132419,
+    "name": "Tottenham",
+    "stateId": 3131,
+    "latitude": "44.02437000",
+    "longitude": "-79.80553000"
+  },
+  {
+    "id": 132570,
+    "name": "Tracadie-Sheila",
+    "stateId": 2891,
+    "latitude": "47.51444000",
+    "longitude": "-64.91806000"
+  },
+  {
+    "id": 132602,
+    "name": "Trail",
+    "stateId": 578,
+    "latitude": "49.09983000",
+    "longitude": "-117.70223000"
+  },
+  {
+    "id": 133093,
+    "name": "Trois-Rivières",
+    "stateId": 3537,
+    "latitude": "46.34515000",
+    "longitude": "-72.54770000"
+  },
+  {
+    "id": 133229,
+    "name": "Truro",
+    "stateId": 3052,
+    "latitude": "45.36685000",
+    "longitude": "-63.26538000"
+  },
+  {
+    "id": 133347,
+    "name": "Tsawwassen",
+    "stateId": 578,
+    "latitude": "49.01667000",
+    "longitude": "-123.08333000"
+  },
+  {
+    "id": 133700,
+    "name": "Tumbler Ridge",
+    "stateId": 578,
+    "latitude": "55.13027000",
+    "longitude": "-120.99415000"
+  },
+  {
+    "id": 134035,
+    "name": "Tweed",
+    "stateId": 3131,
+    "latitude": "44.47512000",
+    "longitude": "-77.31616000"
+  },
+  {
+    "id": 134065,
+    "name": "Two Hills",
+    "stateId": 119,
+    "latitude": "53.71686000",
+    "longitude": "-111.75181000"
+  },
+  {
+    "id": 134242,
+    "name": "Témiscaming",
+    "stateId": 3537,
+    "latitude": "46.72122000",
+    "longitude": "-79.09712000"
+  },
+  {
+    "id": 134467,
+    "name": "Ucluelet",
+    "stateId": 578,
+    "latitude": "48.94153000",
+    "longitude": "-125.54635000"
+  },
+  {
+    "id": 134998,
+    "name": "Unity",
+    "stateId": 3906,
+    "latitude": "52.45014000",
+    "longitude": "-109.16816000"
+  },
+  {
+    "id": 135172,
+    "name": "Upper Island Cove",
+    "stateId": 2902,
+    "latitude": "47.64989000",
+    "longitude": "-53.21478000"
+  },
+  {
+    "id": 135644,
+    "name": "Uxbridge",
+    "stateId": 3131,
+    "latitude": "44.10012000",
+    "longitude": "-79.11628000"
+  },
+  {
+    "id": 135852,
+    "name": "Val-David",
+    "stateId": 3537,
+    "latitude": "46.03338000",
+    "longitude": "-74.21592000"
+  },
+  {
+    "id": 135853,
+    "name": "Val-Morin",
+    "stateId": 3537,
+    "latitude": "46.00008000",
+    "longitude": "-74.18251000"
+  },
+  {
+    "id": 135854,
+    "name": "Val-d'Or",
+    "stateId": 3537,
+    "latitude": "48.09740000",
+    "longitude": "-77.79737000"
+  },
+  {
+    "id": 135860,
+    "name": "Val-des-Monts",
+    "stateId": 3537,
+    "latitude": "45.65010000",
+    "longitude": "-75.66604000"
+  },
+  {
+    "id": 135890,
+    "name": "Valcourt",
+    "stateId": 3537,
+    "latitude": "45.50008000",
+    "longitude": "-72.31581000"
+  },
+  {
+    "id": 136356,
+    "name": "Valley East",
+    "stateId": 3131,
+    "latitude": "46.66773000",
+    "longitude": "-81.00028000"
+  },
+  {
+    "id": 136375,
+    "name": "Valleyview",
+    "stateId": 119,
+    "latitude": "55.06673000",
+    "longitude": "-117.28585000"
+  },
+  {
+    "id": 136399,
+    "name": "Vallée-Jonction",
+    "stateId": 3537,
+    "latitude": "46.37441000",
+    "longitude": "-70.91881000"
+  },
+  {
+    "id": 136539,
+    "name": "Vancouver",
+    "stateId": 578,
+    "latitude": "49.24966000",
+    "longitude": "-123.11934000"
+  },
+  {
+    "id": 136555,
+    "name": "Vanderhoof",
+    "stateId": 578,
+    "latitude": "54.01657000",
+    "longitude": "-124.01982000"
+  },
+  {
+    "id": 136567,
+    "name": "Vanier",
+    "stateId": 3131,
+    "latitude": "45.43990000",
+    "longitude": "-75.66498000"
+  },
+  {
+    "id": 136635,
+    "name": "Varennes",
+    "stateId": 3537,
+    "latitude": "45.68338000",
+    "longitude": "-73.43246000"
+  },
+  {
+    "id": 136801,
+    "name": "Vaudreuil-Dorion",
+    "stateId": 3537,
+    "latitude": "45.40008000",
+    "longitude": "-74.03251000"
+  },
+  {
+    "id": 136803,
+    "name": "Vaughan",
+    "stateId": 3131,
+    "latitude": "43.83610000",
+    "longitude": "-79.49827000"
+  },
+  {
+    "id": 136911,
+    "name": "Vegreville",
+    "stateId": 119,
+    "latitude": "53.50015000",
+    "longitude": "-112.05182000"
+  },
+  {
+    "id": 137179,
+    "name": "Venise-en-Québec",
+    "stateId": 3537,
+    "latitude": "45.08338000",
+    "longitude": "-73.13245000"
+  },
+  {
+    "id": 137277,
+    "name": "Verchères",
+    "stateId": 3537,
+    "latitude": "45.78338000",
+    "longitude": "-73.34916000"
+  },
+  {
+    "id": 137412,
+    "name": "Vermilion",
+    "stateId": 119,
+    "latitude": "53.35409000",
+    "longitude": "-110.85849000"
+  },
+  {
+    "id": 137447,
+    "name": "Vernon",
+    "stateId": 578,
+    "latitude": "50.26729000",
+    "longitude": "-119.27337000"
+  },
+  {
+    "id": 137764,
+    "name": "Victoria",
+    "stateId": 578,
+    "latitude": "48.43590000",
+    "longitude": "-123.35155000"
+  },
+  {
+    "id": 137799,
+    "name": "Victoriaville",
+    "stateId": 3537,
+    "latitude": "46.05007000",
+    "longitude": "-71.96579000"
+  },
+  {
+    "id": 138040,
+    "name": "Viking",
+    "stateId": 119,
+    "latitude": "53.10014000",
+    "longitude": "-111.76844000"
+  },
+  {
+    "id": 139001,
+    "name": "Ville-Marie",
+    "stateId": 3537,
+    "latitude": "47.33345000",
+    "longitude": "-79.43297000"
+  },
+  {
+    "id": 139248,
+    "name": "Vineland",
+    "stateId": 3131,
+    "latitude": "43.15012000",
+    "longitude": "-79.39960000"
+  },
+  {
+    "id": 139349,
+    "name": "Virden",
+    "stateId": 2500,
+    "latitude": "49.85080000",
+    "longitude": "-100.93262000"
+  },
+  {
+    "id": 139357,
+    "name": "Virgil",
+    "stateId": 3131,
+    "latitude": "43.21682000",
+    "longitude": "-79.13288000"
+  },
+  {
+    "id": 140069,
+    "name": "Vulcan",
+    "stateId": 119,
+    "latitude": "50.40008000",
+    "longitude": "-113.25189000"
+  },
+  {
+    "id": 140388,
+    "name": "Wabana",
+    "stateId": 2902,
+    "latitude": "47.63319000",
+    "longitude": "-52.94806000"
+  },
+  {
+    "id": 140426,
+    "name": "Wadena",
+    "stateId": 3906,
+    "latitude": "51.94999000",
+    "longitude": "-103.80102000"
+  },
+  {
+    "id": 140548,
+    "name": "Wainwright",
+    "stateId": 119,
+    "latitude": "52.83482000",
+    "longitude": "-110.85342000"
+  },
+  {
+    "id": 140576,
+    "name": "Wakefield",
+    "stateId": 3537,
+    "latitude": "45.66680000",
+    "longitude": "-75.83265000"
+  },
+  {
+    "id": 140782,
+    "name": "Walnut Grove",
+    "stateId": 578,
+    "latitude": "49.16473000",
+    "longitude": "-122.64042000"
+  },
+  {
+    "id": 140794,
+    "name": "Walpole Island",
+    "stateId": 3131,
+    "latitude": "42.61520000",
+    "longitude": "-82.51398000"
+  },
+  {
+    "id": 141004,
+    "name": "Warman",
+    "stateId": 3906,
+    "latitude": "52.31679000",
+    "longitude": "-106.56791000"
+  },
+  {
+    "id": 141121,
+    "name": "Warwick",
+    "stateId": 3537,
+    "latitude": "45.95007000",
+    "longitude": "-71.98240000"
+  },
+  {
+    "id": 141128,
+    "name": "Wasaga Beach",
+    "stateId": 3131,
+    "latitude": "44.51680000",
+    "longitude": "-80.01637000"
+  },
+  {
+    "id": 141210,
+    "name": "Waskaganish",
+    "stateId": 3537,
+    "latitude": "51.48333000",
+    "longitude": "-78.75000000"
+  },
+  {
+    "id": 141232,
+    "name": "Waswanipi",
+    "stateId": 3537,
+    "latitude": "49.73346000",
+    "longitude": "-76.16604000"
+  },
+  {
+    "id": 141260,
+    "name": "Waterford",
+    "stateId": 3131,
+    "latitude": "42.93340000",
+    "longitude": "-80.28296000"
+  },
+  {
+    "id": 141274,
+    "name": "Waterloo",
+    "stateId": 3131,
+    "latitude": "43.46680000",
+    "longitude": "-80.51639000"
+  },
+  {
+    "id": 141275,
+    "name": "Waterloo",
+    "stateId": 3537,
+    "latitude": "45.35008000",
+    "longitude": "-72.51582000"
+  },
+  {
+    "id": 141307,
+    "name": "Watford",
+    "stateId": 3131,
+    "latitude": "42.95008000",
+    "longitude": "-81.88309000"
+  },
+  {
+    "id": 141319,
+    "name": "Watrous",
+    "stateId": 3906,
+    "latitude": "51.66677000",
+    "longitude": "-105.46788000"
+  },
+  {
+    "id": 141324,
+    "name": "Watson Lake",
+    "stateId": 4798,
+    "latitude": "60.06349000",
+    "longitude": "-128.70893000"
+  },
+  {
+    "id": 141398,
+    "name": "Wawa",
+    "stateId": 3131,
+    "latitude": "47.98877000",
+    "longitude": "-84.77411000"
+  },
+  {
+    "id": 141516,
+    "name": "Weedon Centre",
+    "stateId": 3537,
+    "latitude": "45.70802000",
+    "longitude": "-71.45986000"
+  },
+  {
+    "id": 141686,
+    "name": "Welcome Beach",
+    "stateId": 578,
+    "latitude": "49.47959000",
+    "longitude": "-123.89239000"
+  },
+  {
+    "id": 141701,
+    "name": "Welland",
+    "stateId": 3131,
+    "latitude": "42.98342000",
+    "longitude": "-79.24958000"
+  },
+  {
+    "id": 141712,
+    "name": "Wellesley",
+    "stateId": 3131,
+    "latitude": "43.47691000",
+    "longitude": "-80.76209000"
+  },
+  {
+    "id": 141738,
+    "name": "Wells",
+    "stateId": 2891,
+    "latitude": "45.39274000",
+    "longitude": "-65.92313000"
+  },
+  {
+    "id": 141774,
+    "name": "Wembley",
+    "stateId": 119,
+    "latitude": "55.14995000",
+    "longitude": "-119.13602000"
+  },
+  {
+    "id": 141803,
+    "name": "Wendover",
+    "stateId": 3131,
+    "latitude": "45.57275000",
+    "longitude": "-75.12757000"
+  },
+  {
+    "id": 141989,
+    "name": "West End",
+    "stateId": 578,
+    "latitude": "49.28333000",
+    "longitude": "-123.13333000"
+  },
+  {
+    "id": 142057,
+    "name": "West Kelowna",
+    "stateId": 578,
+    "latitude": "49.86250000",
+    "longitude": "-119.58333000"
+  },
+  {
+    "id": 142089,
+    "name": "West Lorne",
+    "stateId": 3131,
+    "latitude": "42.60009000",
+    "longitude": "-81.59976000"
+  },
+  {
+    "id": 142173,
+    "name": "West St. Paul",
+    "stateId": 2500,
+    "latitude": "49.99940000",
+    "longitude": "-97.16284000"
+  },
+  {
+    "id": 142194,
+    "name": "West Vancouver",
+    "stateId": 578,
+    "latitude": "49.36672000",
+    "longitude": "-123.16652000"
+  },
+  {
+    "id": 142305,
+    "name": "Westlake",
+    "stateId": 119,
+    "latitude": "55.22228000",
+    "longitude": "-118.80415000"
+  },
+  {
+    "id": 142313,
+    "name": "Westlock",
+    "stateId": 119,
+    "latitude": "54.15016000",
+    "longitude": "-113.86876000"
+  },
+  {
+    "id": 142334,
+    "name": "Westmount",
+    "stateId": 3537,
+    "latitude": "45.48341000",
+    "longitude": "-73.59918000"
+  },
+  {
+    "id": 142382,
+    "name": "Wetaskiwin",
+    "stateId": 119,
+    "latitude": "52.96683000",
+    "longitude": "-113.36869000"
+  },
+  {
+    "id": 142422,
+    "name": "Weyburn",
+    "stateId": 3906,
+    "latitude": "49.66675000",
+    "longitude": "-103.85109000"
+  },
+  {
+    "id": 142428,
+    "name": "Weymontachie",
+    "stateId": 3537,
+    "latitude": "47.89940000",
+    "longitude": "-73.77720000"
+  },
+  {
+    "id": 142476,
+    "name": "Whistler",
+    "stateId": 578,
+    "latitude": "50.11817000",
+    "longitude": "-122.95396000"
+  },
+  {
+    "id": 142486,
+    "name": "White City",
+    "stateId": 3906,
+    "latitude": "50.43338000",
+    "longitude": "-104.36778000"
+  },
+  {
+    "id": 142523,
+    "name": "White Rock",
+    "stateId": 578,
+    "latitude": "49.01636000",
+    "longitude": "-122.80260000"
+  },
+  {
+    "id": 142532,
+    "name": "Whitecourt",
+    "stateId": 119,
+    "latitude": "54.15015000",
+    "longitude": "-115.68548000"
+  },
+  {
+    "id": 142552,
+    "name": "Whitehorse",
+    "stateId": 4798,
+    "latitude": "60.71611000",
+    "longitude": "-135.05375000"
+  },
+  {
+    "id": 142781,
+    "name": "Wild Rose",
+    "stateId": 119,
+    "latitude": "53.47080000",
+    "longitude": "-113.38119000"
+  },
+  {
+    "id": 142831,
+    "name": "Wilkie",
+    "stateId": 3906,
+    "latitude": "52.41683000",
+    "longitude": "-108.70142000"
+  },
+  {
+    "id": 142870,
+    "name": "Williams Lake",
+    "stateId": 578,
+    "latitude": "52.14153000",
+    "longitude": "-122.14451000"
+  },
+  {
+    "id": 142947,
+    "name": "Willowdale",
+    "stateId": 3131,
+    "latitude": "43.76672000",
+    "longitude": "-79.39909000"
+  },
+  {
+    "id": 143038,
+    "name": "Winchester",
+    "stateId": 3131,
+    "latitude": "45.08340000",
+    "longitude": "-75.34933000"
+  },
+  {
+    "id": 143097,
+    "name": "Windsor",
+    "stateId": 3052,
+    "latitude": "44.98345000",
+    "longitude": "-64.13204000"
+  },
+  {
+    "id": 143098,
+    "name": "Windsor",
+    "stateId": 3131,
+    "latitude": "42.30008000",
+    "longitude": "-83.01654000"
+  },
+  {
+    "id": 143099,
+    "name": "Windsor",
+    "stateId": 3537,
+    "latitude": "45.56678000",
+    "longitude": "-71.99909000"
+  },
+  {
+    "id": 143144,
+    "name": "Wingham",
+    "stateId": 3131,
+    "latitude": "43.88793000",
+    "longitude": "-81.31145000"
+  },
+  {
+    "id": 143158,
+    "name": "Winkler",
+    "stateId": 2500,
+    "latitude": "49.18170000",
+    "longitude": "-97.94104000"
+  },
+  {
+    "id": 143183,
+    "name": "Winnipeg",
+    "stateId": 2500,
+    "latitude": "49.88440000",
+    "longitude": "-97.14704000"
+  },
+  {
+    "id": 143462,
+    "name": "Wolfville",
+    "stateId": 3052,
+    "latitude": "45.08345000",
+    "longitude": "-64.36546000"
+  },
+  {
+    "id": 143634,
+    "name": "Woodstock",
+    "stateId": 3131,
+    "latitude": "43.13339000",
+    "longitude": "-80.74970000"
+  },
+  {
+    "id": 143899,
+    "name": "Wynyard",
+    "stateId": 3906,
+    "latitude": "51.76674000",
+    "longitude": "-104.18436000"
+  },
+  {
+    "id": 144372,
+    "name": "Yamachiche",
+    "stateId": 3537,
+    "latitude": "46.26676000",
+    "longitude": "-72.83243000"
+  },
+  {
+    "id": 144523,
+    "name": "Yarmouth",
+    "stateId": 3052,
+    "latitude": "43.83345000",
+    "longitude": "-66.11557000"
+  },
+  {
+    "id": 144735,
+    "name": "Yellowknife",
+    "stateId": 3041,
+    "latitude": "62.45411000",
+    "longitude": "-114.37248000"
+  },
+  {
+    "id": 144976,
+    "name": "York",
+    "stateId": 3131,
+    "latitude": "44.00011000",
+    "longitude": "-79.46632000"
+  },
+  {
+    "id": 144999,
+    "name": "Yorkton",
+    "stateId": 3906,
+    "latitude": "51.21670000",
+    "longitude": "-102.46766000"
+  },
+  {
+    "id": 146685,
+    "name": "le Plateau",
+    "stateId": 3537,
+    "latitude": "45.43514000",
+    "longitude": "-75.78030000"
+  }
+]

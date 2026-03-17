@@ -1,0 +1,198 @@
+[
+  {
+    "id": 14745,
+    "name": "Bitam",
+    "stateId": 4751,
+    "latitude": "2.07597000",
+    "longitude": "11.50065000"
+  },
+  {
+    "id": 16143,
+    "name": "Booué",
+    "stateId": 3104,
+    "latitude": "-0.09207000",
+    "longitude": "11.93846000"
+  },
+  {
+    "id": 28295,
+    "name": "Cocobeach",
+    "stateId": 1247,
+    "latitude": "1.00019000",
+    "longitude": "9.58229000"
+  },
+  {
+    "id": 45250,
+    "name": "Fougamou",
+    "stateId": 2917,
+    "latitude": "-1.21544000",
+    "longitude": "10.58378000"
+  },
+  {
+    "id": 45423,
+    "name": "Franceville",
+    "stateId": 1546,
+    "latitude": "-1.63333000",
+    "longitude": "13.58357000"
+  },
+  {
+    "id": 46870,
+    "name": "Gamba",
+    "stateId": 3106,
+    "latitude": "-2.65000000",
+    "longitude": "10.00000000"
+  },
+  {
+    "id": 66392,
+    "name": "Koulamoutou",
+    "stateId": 3105,
+    "latitude": "-1.13667000",
+    "longitude": "12.46399000"
+  },
+  {
+    "id": 70073,
+    "name": "Lambaréné",
+    "stateId": 2743,
+    "latitude": "-0.70010000",
+    "longitude": "10.24055000"
+  },
+  {
+    "id": 70949,
+    "name": "Lastoursville",
+    "stateId": 3105,
+    "latitude": "-0.81742000",
+    "longitude": "12.70818000"
+  },
+  {
+    "id": 72674,
+    "name": "Libreville",
+    "stateId": 1247,
+    "latitude": "0.39241000",
+    "longitude": "9.45356000"
+  },
+  {
+    "id": 75823,
+    "name": "Lékoni",
+    "stateId": 1546,
+    "latitude": "-1.58431000",
+    "longitude": "14.25905000"
+  },
+  {
+    "id": 77012,
+    "name": "Makokou",
+    "stateId": 3104,
+    "latitude": "0.57381000",
+    "longitude": "12.86419000"
+  },
+  {
+    "id": 80099,
+    "name": "Mayumba",
+    "stateId": 3082,
+    "latitude": "-3.43198000",
+    "longitude": "10.65540000"
+  },
+  {
+    "id": 80236,
+    "name": "Mbigou",
+    "stateId": 2917,
+    "latitude": "-1.90046000",
+    "longitude": "11.90600000"
+  },
+  {
+    "id": 82240,
+    "name": "Mimongo",
+    "stateId": 2917,
+    "latitude": "-1.61952000",
+    "longitude": "11.60675000"
+  },
+  {
+    "id": 82805,
+    "name": "Mitzic",
+    "stateId": 4751,
+    "latitude": "0.78205000",
+    "longitude": "11.54904000"
+  },
+  {
+    "id": 82938,
+    "name": "Moanda",
+    "stateId": 1546,
+    "latitude": "-1.56652000",
+    "longitude": "13.19870000"
+  },
+  {
+    "id": 85189,
+    "name": "Mouila",
+    "stateId": 2917,
+    "latitude": "-1.86846000",
+    "longitude": "11.05594000"
+  },
+  {
+    "id": 85211,
+    "name": "Mounana",
+    "stateId": 1546,
+    "latitude": "-1.40850000",
+    "longitude": "13.15857000"
+  },
+  {
+    "id": 88135,
+    "name": "Ndendé",
+    "stateId": 2917,
+    "latitude": "-2.40077000",
+    "longitude": "11.35813000"
+  },
+  {
+    "id": 88139,
+    "name": "Ndjolé",
+    "stateId": 2743,
+    "latitude": "-0.17827000",
+    "longitude": "10.76488000"
+  },
+  {
+    "id": 91299,
+    "name": "Ntoum",
+    "stateId": 1247,
+    "latitude": "0.39051000",
+    "longitude": "9.76096000"
+  },
+  {
+    "id": 92964,
+    "name": "Okondja",
+    "stateId": 1546,
+    "latitude": "-0.65487000",
+    "longitude": "13.67533000"
+  },
+  {
+    "id": 93515,
+    "name": "Omboué",
+    "stateId": 3106,
+    "latitude": "-1.57464000",
+    "longitude": "9.26184000"
+  },
+  {
+    "id": 95251,
+    "name": "Oyem",
+    "stateId": 4751,
+    "latitude": "1.59950000",
+    "longitude": "11.57933000"
+  },
+  {
+    "id": 101692,
+    "name": "Port-Gentil",
+    "stateId": 3106,
+    "latitude": "-0.71933000",
+    "longitude": "8.78151000"
+  },
+  {
+    "id": 129445,
+    "name": "Tchibanga",
+    "stateId": 3082,
+    "latitude": "-2.93323000",
+    "longitude": "10.98178000"
+  },
+  {
+    "id": 145323,
+    "name": "Zadie",
+    "stateId": 3104,
+    "latitude": "0.92582000",
+    "longitude": "13.90813000"
+  }
+]
