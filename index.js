@@ -1,10 +1,8 @@
 'use strict';
 
-const fs = require('fs');
-const path = require('path');
-
-const DATA_DIR = path.join(__dirname, 'data');
-const CITIES_DIR = path.join(DATA_DIR, 'cities');
+// ---------------------------------------------------------------------------
+// Lazy-loaded singletons
+// ---------------------------------------------------------------------------
 
 // ---------------------------------------------------------------------------
 // Lazy-loaded singletons
@@ -26,17 +24,14 @@ let _cityIndex = null;
 // Internal loaders
 // ---------------------------------------------------------------------------
 
-function _load(file) {
-  return JSON.parse(fs.readFileSync(path.join(DATA_DIR, file), 'utf8'));
-}
-
 function _loadCitiesForCountry(iso2) {
   const key = iso2.toUpperCase();
   if (!_citiesCache[key]) {
-    const filePath = path.join(CITIES_DIR, `${key}.json`);
-    _citiesCache[key] = fs.existsSync(filePath)
-      ? JSON.parse(fs.readFileSync(filePath, 'utf8'))
-      : [];
+    try {
+      _citiesCache[key] = require(`./data/cities/${key}.json`);
+    } catch (e) {
+      _citiesCache[key] = [];
+    }
   }
   return _citiesCache[key];
 }
@@ -49,11 +44,11 @@ function _loadCitiesForCountry(iso2) {
 function _buildCityIndex() {
   if (_cityIndex) return _cityIndex;
 
-  const files = fs.readdirSync(CITIES_DIR).filter((f) => f.endsWith('.json'));
+  const countries = getCountries();
   const all = [];
 
-  for (const file of files) {
-    const iso2 = file.slice(0, -5); // strip ".json"
+  for (const country of countries) {
+    const iso2 = country.iso2;
     const cities = _loadCitiesForCountry(iso2);
     for (const city of cities) {
       all.push({ ...city, countryIso2: iso2 });
@@ -80,7 +75,7 @@ function _buildCityIndex() {
  * @returns {object[]}
  */
 function getCountries() {
-  if (!_countries) _countries = _load('countries.json');
+  if (!_countries) _countries = require('./data/countries.json');
   return _countries;
 }
 
@@ -89,7 +84,7 @@ function getCountries() {
  * @returns {object[]}
  */
 function getStates() {
-  if (!_states) _states = _load('states.json');
+  if (!_states) _states = require('./data/states.json');
   return _states;
 }
 
@@ -98,7 +93,7 @@ function getStates() {
  * @returns {object[]}
  */
 function getRegions() {
-  if (!_regions) _regions = _load('regions.json');
+  if (!_regions) _regions = require('./data/regions.json');
   return _regions;
 }
 
@@ -107,7 +102,7 @@ function getRegions() {
  * @returns {object[]}
  */
 function getSubregions() {
-  if (!_subregions) _subregions = _load('subregions.json');
+  if (!_subregions) _subregions = require('./data/subregions.json');
   return _subregions;
 }
 
@@ -116,7 +111,7 @@ function getSubregions() {
  * @returns {object[]}
  */
 function getLanguages() {
-  if (!_languages) _languages = _load('languages.json');
+  if (!_languages) _languages = require('./data/languages.json');
   return _languages;
 }
 
