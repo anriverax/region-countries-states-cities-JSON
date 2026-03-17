@@ -42,8 +42,34 @@ FILES.forEach((file) => {
     return;
   }
 
+  // Check for duplicate ids
+  const ids = data.map((r) => r.id).filter((id) => id !== undefined);
+  const seenIds = new Set();
+  const duplicateIds = [];
+  ids.forEach((id) => {
+    if (seenIds.has(id)) duplicateIds.push(id);
+    else seenIds.add(id);
+  });
+  if (duplicateIds.length > 0) {
+    console.error(`❌  data/${file}: duplicate id(s) found: ${duplicateIds.slice(0, 5).join(', ')}${duplicateIds.length > 5 ? ` … and ${duplicateIds.length - 5} more` : ''}`);
+    hasErrors = true;
+  }
+
+  // Check for empty names
+  const emptyNames = data.reduce((acc, r, index) => {
+    if (r.name === undefined || r.name === null || typeof r.name !== 'string' || r.name.trim() === '') acc.push(index);
+    return acc;
+  }, []);
+  if (emptyNames.length > 0) {
+    console.error(`❌  data/${file}: empty name at index(es): ${emptyNames.slice(0, 5).join(', ')}${emptyNames.length > 5 ? ` … and ${emptyNames.length - 5} more` : ''}`);
+    hasErrors = true;
+  }
+
+  if (duplicateIds.length === 0 && emptyNames.length === 0) {
+    console.log(`✅  data/${file} — ${data.length} records`);
+  }
+
   loaded[file] = data;
-  console.log(`✅  data/${file} — ${data.length} records`);
 });
 
 if (hasErrors) {
