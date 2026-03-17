@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Countries · States · Cities — Demo</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background: #f4f6f8;
+      color: #222;
+      padding: 2rem;
+    }
+    h1 { margin-bottom: 1.5rem; font-size: 1.75rem; }
+    .controls { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
+    select {
+      padding: .5rem .75rem;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 1rem;
+      min-width: 220px;
+      background: #fff;
+    }
+    #results {
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+      max-height: 60vh;
+      overflow-y: auto;
+    }
+    table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+    th, td { text-align: left; padding: .45rem .6rem; border-bottom: 1px solid #eee; }
+    th { background: #f0f2f4; font-weight: 600; }
+    tr:last-child td { border-bottom: none; }
+    #status { margin-top: .75rem; font-size: .85rem; color: #555; }
+  </style>
+</head>
+<body>
+  <h1>🌍 Countries · States · Cities</h1>
+
+  <div class="controls">
+    <select id="countrySelect">
+      <option value="">— Select a country —</option>
+    </select>
+    <select id="stateSelect" disabled>
+      <option value="">— Select a state —</option>
+    </select>
+  </div>
+
+  <div id="results">
+    <p style="color:#888">Select a country to get started.</p>
+  </div>
+  <p id="status"></p>
+
+  <script>
+    const BASE = '../data';
+    let countries = [], states = [], cities = [];
+
+    async function loadJSON(file) {
+      const res = await fetch(`${BASE}/${file}`);
+      if (!res.ok) throw new Error(`Failed to load ${file}`);
+      return res.json();
+    }
+
+    async function init() {
+      [countries, states, cities] = await Promise.all([
+        loadJSON('countries.json'),
+        loadJSON('states.json'),
+        loadJSON('cities.json'),
+      ]);
+
+      const sel = document.getElementById('countrySelect');
+      countries.forEach((c, i) => {
+        const opt = document.createElement('option');
+        opt.value = i;
+        opt.textContent = `${c.flag ?? ''} ${c.name}`;
+        sel.appendChild(opt);
+      });
+    }
+
+    document.getElementById('countrySelect').addEventListener('change', function () {
+      const stateSel = document.getElementById('stateSelect');
+      stateSel.innerHTML = '<option value="">— Select a state —</option>';
+      stateSel.disabled = true;
+      document.getElementById('results').innerHTML = '<p style="color:#888">Select a state to see its cities.</p>';
+      document.getElementById('status').textContent = '';
+
+      if (this.value === '') return;
+
+      const country = countries[+this.value];
+      // countryId in states is 1-based (array index + 1)
+      const countryStates = states.filter((s) => s.countryId === (+this.value + 1));
+
+      countryStates.forEach((s, i) => {
+        const opt = document.createElement('option');
+        opt.value = i;
+        opt.dataset.stateIndex = states.indexOf(s);
+        opt.textContent = s.name;
+        stateSel.appendChild(opt);
+      });
+
+      stateSel.disabled = countryStates.length === 0;
+      document.getElementById('status').textContent =
+        `${country.name} — ${countryStates.length} state(s) found`;
+
+      showCountryInfo(country);
+    });
+
+    document.getElementById('stateSelect').addEventListener('change', function () {
+      if (this.value === '') return;
+      const selectedOpt = this.options[this.selectedIndex];
+      // stateId is 1-based (array index + 1)
+      const stateIdx = +selectedOpt.dataset.stateIndex;
+      const state = states[stateIdx];
+
+      const stateCities = cities.filter(c => c.stateId === stateIdx + 1);
+      showCities(state, stateCities);
+      document.getElementById('status').textContent =
+        `${state.name} — ${stateCities.length} city(ies) found`;
+    });
+
+    function showCountryInfo(country) {
+      document.getElementById('results').innerHTML = `
+        <table>
+          <thead><tr><th>Field</th><th>Value</th></tr></thead>
+          <tbody>
+            <tr><td>Name</td><td>${country.name}</td></tr>
+            <tr><td>ISO2</td><td>${country.iso2}</td></tr>
+            <tr><td>ISO3</td><td>${country.iso3}</td></tr>
+            <tr><td>Capital</td><td>${country.capital}</td></tr>
+            <tr><td>Phone Code</td><td>${country.phoneCode}</td></tr>
+            <tr><td>TLD</td><td>${country.tld}</td></tr>
+          </tbody>
+        </table>`;
+    }
+
+    function showCities(state, citiesList) {
+      if (citiesList.length === 0) {
+        document.getElementById('results').innerHTML = '<p style="color:#888">No cities found for this state.</p>';
+        return;
+      }
+      const rows = citiesList.map(c =>
+        `<tr><td>${c.name}</td><td>${c.latitude}</td><td>${c.longitude}</td></tr>`
+      ).join('');
+      document.getElementById('results').innerHTML = `
+        <table>
+          <thead><tr><th>City</th><th>Latitude</th><th>Longitude</th></tr></thead>
+          <tbody>${rows}</tbody>
+        </table>`;
+    }
+
+    init().catch(err => {
+      document.getElementById('results').innerHTML =
+        `<p style="color:red">Error loading data: ${err.message}. Open via a local server (e.g. <code>npx serve .</code>).</p>`;
+    });
+  </script>
+</body>
+</html>
