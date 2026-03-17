@@ -12,6 +12,7 @@ export interface Flags {
 }
 
 export interface Country {
+  id: number;
   subRegionId: number;
   name: string;
   iso2: string;

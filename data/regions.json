@@ -1,26 +1,34 @@
 [
   {
+    "id": 1,
     "name": "Africa"
   },
   {
+    "id": 2,
     "name": "Americas"
   },
   {
+    "id": 3,
     "name": "Antarctic"
   },
   {
+    "id": 4,
     "name": "Asia"
   },
   {
+    "id": 5,
     "name": "Europe"
   },
   {
+    "id": 6,
     "name": "Oceania"
   },
   {
+    "id": 7,
     "name": "Polar"
   },
   {
+    "id": 8,
     "name": "Unknown"
   }
 ]
