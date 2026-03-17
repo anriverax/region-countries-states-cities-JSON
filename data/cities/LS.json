@@ -1,0 +1,86 @@
+[
+  {
+    "id": 19484,
+    "name": "Butha-Buthe",
+    "stateId": 640,
+    "latitude": "-28.76659000",
+    "longitude": "28.24937000"
+  },
+  {
+    "id": 72133,
+    "name": "Leribe",
+    "stateId": 2245,
+    "latitude": "-28.87185000",
+    "longitude": "28.04501000"
+  },
+  {
+    "id": 76474,
+    "name": "Mafeteng",
+    "stateId": 2439,
+    "latitude": "-29.82299000",
+    "longitude": "27.23744000"
+  },
+  {
+    "id": 78201,
+    "name": "Maputsoe",
+    "stateId": 2245,
+    "latitude": "-28.88660000",
+    "longitude": "27.89915000"
+  },
+  {
+    "id": 79402,
+    "name": "Maseru",
+    "stateId": 2548,
+    "latitude": "-29.31667000",
+    "longitude": "27.48333000"
+  },
+  {
+    "id": 83104,
+    "name": "Mohale’s Hoek",
+    "stateId": 2680,
+    "latitude": "-30.15137000",
+    "longitude": "27.47691000"
+  },
+  {
+    "id": 83196,
+    "name": "Mokhotlong",
+    "stateId": 2685,
+    "latitude": "-29.28939000",
+    "longitude": "29.06751000"
+  },
+  {
+    "id": 87365,
+    "name": "Nako",
+    "stateId": 2548,
+    "latitude": "-29.61667000",
+    "longitude": "27.76667000"
+  },
+  {
+    "id": 105017,
+    "name": "Qacha’s Nek",
+    "stateId": 3522,
+    "latitude": "-30.11537000",
+    "longitude": "28.68936000"
+  },
+  {
+    "id": 105588,
+    "name": "Quthing",
+    "stateId": 3549,
+    "latitude": "-30.40001000",
+    "longitude": "27.70027000"
+  },
+  {
+    "id": 130350,
+    "name": "Teyateyaneng",
+    "stateId": 446,
+    "latitude": "-29.14719000",
+    "longitude": "27.74895000"
+  },
+  {
+    "id": 130385,
+    "name": "Thaba-Tseka",
+    "stateId": 4365,
+    "latitude": "-29.52204000",
+    "longitude": "28.60840000"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": 523,
+    "name": "Aconibe",
+    "stateId": 4697,
+    "latitude": "1.29683000",
+    "longitude": "10.93691000"
+  },
+  {
+    "id": 587,
+    "name": "Acurenam",
+    "stateId": 799,
+    "latitude": "1.03225000",
+    "longitude": "10.64882000"
+  },
+  {
+    "id": 8391,
+    "name": "Ayene",
+    "stateId": 4697,
+    "latitude": "1.85592000",
+    "longitude": "10.68994000"
+  },
+  {
+    "id": 8601,
+    "name": "Añisoc",
+    "stateId": 4697,
+    "latitude": "1.86580000",
+    "longitude": "10.76892000"
+  },
+  {
+    "id": 11396,
+    "name": "Bata",
+    "stateId": 2297,
+    "latitude": "1.86391000",
+    "longitude": "9.76582000"
+  },
+  {
+    "id": 14115,
+    "name": "Bicurga",
+    "stateId": 799,
+    "latitude": "1.58113000",
+    "longitude": "10.46716000"
+  },
+  {
+    "id": 14758,
+    "name": "Bitica",
+    "stateId": 2297,
+    "latitude": "1.42610000",
+    "longitude": "9.62316000"
+  },
+  {
+    "id": 28392,
+    "name": "Cogo",
+    "stateId": 2297,
+    "latitude": "1.08425000",
+    "longitude": "9.69300000"
+  },
+  {
+    "id": 39872,
+    "name": "Ebebiyin",
+    "stateId": 2017,
+    "latitude": "2.15106000",
+    "longitude": "11.33528000"
+  },
+  {
+    "id": 43062,
+    "name": "Evinayong",
+    "stateId": 799,
+    "latitude": "1.43677000",
+    "longitude": "10.55124000"
+  },
+  {
+    "id": 74918,
+    "name": "Luba",
+    "stateId": 470,
+    "latitude": "3.45683000",
+    "longitude": "8.55465000"
+  },
+  {
+    "id": 76201,
+    "name": "Machinda",
+    "stateId": 2297,
+    "latitude": "1.88262000",
+    "longitude": "9.95133000"
+  },
+  {
+    "id": 77067,
+    "name": "Malabo",
+    "stateId": 469,
+    "latitude": "3.75578000",
+    "longitude": "8.78166000"
+  },
+  {
+    "id": 80238,
+    "name": "Mbini",
+    "stateId": 2297,
+    "latitude": "1.58267000",
+    "longitude": "9.61478000"
+  },
+  {
+    "id": 80963,
+    "name": "Mengomeyén",
+    "stateId": 4697,
+    "latitude": "1.69439000",
+    "longitude": "11.03422000"
+  },
+  {
+    "id": 81965,
+    "name": "Mikomeseng",
+    "stateId": 2017,
+    "latitude": "2.13609000",
+    "longitude": "10.61322000"
+  },
+  {
+    "id": 83526,
+    "name": "Mongomo",
+    "stateId": 4697,
+    "latitude": "1.62742000",
+    "longitude": "11.31346000"
+  },
+  {
+    "id": 88132,
+    "name": "Ncue",
+    "stateId": 2017,
+    "latitude": "2.01643000",
+    "longitude": "10.47066000"
+  },
+  {
+    "id": 91283,
+    "name": "Nsang",
+    "stateId": 2017,
+    "latitude": "2.02475000",
+    "longitude": "10.94599000"
+  },
+  {
+    "id": 91289,
+    "name": "Nsok",
+    "stateId": 4697,
+    "latitude": "1.12985000",
+    "longitude": "11.26603000"
+  },
+  {
+    "id": 106667,
+    "name": "Rebola",
+    "stateId": 469,
+    "latitude": "3.71667000",
+    "longitude": "8.83333000"
+  },
+  {
+    "id": 110272,
+    "name": "Río Campo",
+    "stateId": 2297,
+    "latitude": "2.33812000",
+    "longitude": "9.82212000"
+  },
+  {
+    "id": 113149,
+    "name": "San Antonio de Palé",
+    "stateId": 184,
+    "latitude": "-1.40680000",
+    "longitude": "5.63178000"
+  },
+  {
+    "id": 117622,
+    "name": "Santiago de Baney",
+    "stateId": 469,
+    "latitude": "3.69920000",
+    "longitude": "8.90840000"
+  }
+]

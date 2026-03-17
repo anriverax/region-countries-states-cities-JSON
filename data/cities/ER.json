@@ -1,0 +1,79 @@
+[
+  {
+    "id": 738,
+    "name": "Adi Keyh",
+    "stateId": 1032,
+    "latitude": "14.84444000",
+    "longitude": "39.37722000"
+  },
+  {
+    "id": 1642,
+    "name": "Ak’ordat",
+    "stateId": 1356,
+    "latitude": "15.54798000",
+    "longitude": "37.88291000"
+  },
+  {
+    "id": 7386,
+    "name": "Asmara",
+    "stateId": 2438,
+    "latitude": "15.33805000",
+    "longitude": "38.93184000"
+  },
+  {
+    "id": 7436,
+    "name": "Assab",
+    "stateId": 4147,
+    "latitude": "13.00917000",
+    "longitude": "42.73944000"
+  },
+  {
+    "id": 10706,
+    "name": "Barentu",
+    "stateId": 1356,
+    "latitude": "15.10582000",
+    "longitude": "37.59067000"
+  },
+  {
+    "id": 35949,
+    "name": "Dek’emhāre",
+    "stateId": 1032,
+    "latitude": "15.07000000",
+    "longitude": "39.04750000"
+  },
+  {
+    "id": 39984,
+    "name": "Edd",
+    "stateId": 4147,
+    "latitude": "13.93088000",
+    "longitude": "41.69380000"
+  },
+  {
+    "id": 63931,
+    "name": "Keren",
+    "stateId": 189,
+    "latitude": "15.77792000",
+    "longitude": "38.45107000"
+  },
+  {
+    "id": 79518,
+    "name": "Massawa",
+    "stateId": 3032,
+    "latitude": "15.60811000",
+    "longitude": "39.47455000"
+  },
+  {
+    "id": 80909,
+    "name": "Mendefera",
+    "stateId": 1032,
+    "latitude": "14.88722000",
+    "longitude": "38.81528000"
+  },
+  {
+    "id": 130214,
+    "name": "Teseney",
+    "stateId": 1356,
+    "latitude": "15.11000000",
+    "longitude": "36.65750000"
+  }
+]

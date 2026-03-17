@@ -2,7 +2,7 @@
   "name": "countries-states-cities-database",
   "version": "1.0.0",
   "description": "Open dataset of countries, states and cities in JSON",
-  "main": "data/countries.json",
+  "main": "index.js",
   "types": "types/country.ts",
   "license": "MIT",
   "keywords": [
@@ -21,9 +21,11 @@
   },
   "files": [
     "data/",
-    "types/"
+    "types/",
+    "index.js"
   ],
   "scripts": {
-    "validate": "node scripts/validate-data.js"
+    "validate": "node scripts/validate-data.js",
+    "split-cities": "node scripts/split-cities.js"
   }
 }

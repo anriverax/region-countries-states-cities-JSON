@@ -1,0 +1,513 @@
+[
+  {
+    "id": 842,
+    "name": "Adéane",
+    "stateId": 4849,
+    "latitude": "12.63000000",
+    "longitude": "-16.01694000"
+  },
+  {
+    "id": 14247,
+    "name": "Bignona",
+    "stateId": 4849,
+    "latitude": "12.81028000",
+    "longitude": "-16.22639000"
+  },
+  {
+    "id": 34974,
+    "name": "Dakar",
+    "stateId": 1006,
+    "latitude": "14.69370000",
+    "longitude": "-17.44406000"
+  },
+  {
+    "id": 34975,
+    "name": "Dakar Department",
+    "stateId": 1006,
+    "latitude": "14.71403000",
+    "longitude": "-17.45534000"
+  },
+  {
+    "id": 35327,
+    "name": "Dara",
+    "stateId": 2364,
+    "latitude": "15.34844000",
+    "longitude": "-15.47993000"
+  },
+  {
+    "id": 36866,
+    "name": "Diawara",
+    "stateId": 2561,
+    "latitude": "15.02196000",
+    "longitude": "-12.54374000"
+  },
+  {
+    "id": 37180,
+    "name": "Diofior",
+    "stateId": 1270,
+    "latitude": "14.18333000",
+    "longitude": "-16.66667000"
+  },
+  {
+    "id": 39298,
+    "name": "Département de Salémata",
+    "stateId": 2147,
+    "latitude": "12.59971000",
+    "longitude": "-12.77619000"
+  },
+  {
+    "id": 43652,
+    "name": "Fatick Department",
+    "stateId": 1270,
+    "latitude": "14.25909000",
+    "longitude": "-16.49884000"
+  },
+  {
+    "id": 45261,
+    "name": "Foundiougne",
+    "stateId": 1270,
+    "latitude": "14.13333000",
+    "longitude": "-16.46667000"
+  },
+  {
+    "id": 46964,
+    "name": "Gandiaye",
+    "stateId": 1872,
+    "latitude": "14.23333000",
+    "longitude": "-16.26667000"
+  },
+  {
+    "id": 49357,
+    "name": "Goléré",
+    "stateId": 3796,
+    "latitude": "16.25575000",
+    "longitude": "-14.10165000"
+  },
+  {
+    "id": 49816,
+    "name": "Goudomp Department",
+    "stateId": 4251,
+    "latitude": "12.57778000",
+    "longitude": "-15.87222000"
+  },
+  {
+    "id": 51787,
+    "name": "Guinguinéo",
+    "stateId": 1270,
+    "latitude": "14.26667000",
+    "longitude": "-15.95000000"
+  },
+  {
+    "id": 52117,
+    "name": "Guédiawaye Department",
+    "stateId": 1006,
+    "latitude": "14.77610000",
+    "longitude": "-17.39560000"
+  },
+  {
+    "id": 52125,
+    "name": "Guéoul",
+    "stateId": 2364,
+    "latitude": "15.48333000",
+    "longitude": "-16.35000000"
+  },
+  {
+    "id": 60819,
+    "name": "Joal-Fadiout",
+    "stateId": 4371,
+    "latitude": "14.16667000",
+    "longitude": "-16.83333000"
+  },
+  {
+    "id": 62059,
+    "name": "Kaffrine",
+    "stateId": 1814,
+    "latitude": "14.10594000",
+    "longitude": "-15.55080000"
+  },
+  {
+    "id": 62716,
+    "name": "Kanel",
+    "stateId": 2561,
+    "latitude": "15.49160000",
+    "longitude": "-13.17627000"
+  },
+  {
+    "id": 62832,
+    "name": "Kaolack",
+    "stateId": 1872,
+    "latitude": "14.15197000",
+    "longitude": "-16.07259000"
+  },
+  {
+    "id": 63510,
+    "name": "Kayar",
+    "stateId": 4371,
+    "latitude": "14.91893000",
+    "longitude": "-17.11978000"
+  },
+  {
+    "id": 64318,
+    "name": "Khombole",
+    "stateId": 4371,
+    "latitude": "14.76667000",
+    "longitude": "-16.70000000"
+  },
+  {
+    "id": 65707,
+    "name": "Kolda",
+    "stateId": 2036,
+    "latitude": "12.89390000",
+    "longitude": "-14.94125000"
+  },
+  {
+    "id": 65708,
+    "name": "Kolda Department",
+    "stateId": 2036,
+    "latitude": "12.88300000",
+    "longitude": "-14.95000000"
+  },
+  {
+    "id": 66399,
+    "name": "Koungheul",
+    "stateId": 1814,
+    "latitude": "13.98333000",
+    "longitude": "-14.80000000"
+  },
+  {
+    "id": 67704,
+    "name": "Kédougou",
+    "stateId": 2147,
+    "latitude": "12.55561000",
+    "longitude": "-12.18076000"
+  },
+  {
+    "id": 67705,
+    "name": "Kédougou Department",
+    "stateId": 2147,
+    "latitude": "12.81716000",
+    "longitude": "-12.17834000"
+  },
+  {
+    "id": 73195,
+    "name": "Linguere Department",
+    "stateId": 2364,
+    "latitude": "15.35900000",
+    "longitude": "-15.15800000"
+  },
+  {
+    "id": 74709,
+    "name": "Louga",
+    "stateId": 2364,
+    "latitude": "15.61867000",
+    "longitude": "-16.22436000"
+  },
+  {
+    "id": 79056,
+    "name": "Marsassoum",
+    "stateId": 2036,
+    "latitude": "12.82750000",
+    "longitude": "-15.98056000"
+  },
+  {
+    "id": 79616,
+    "name": "Matam",
+    "stateId": 2561,
+    "latitude": "15.65587000",
+    "longitude": "-13.25544000"
+  },
+  {
+    "id": 79617,
+    "name": "Matam Department",
+    "stateId": 2561,
+    "latitude": "15.73191000",
+    "longitude": "-13.63393000"
+  },
+  {
+    "id": 80215,
+    "name": "Mbacké",
+    "stateId": 1077,
+    "latitude": "14.80828000",
+    "longitude": "-15.86454000"
+  },
+  {
+    "id": 80217,
+    "name": "Mbaké",
+    "stateId": 1077,
+    "latitude": "14.79032000",
+    "longitude": "-15.90803000"
+  },
+  {
+    "id": 80242,
+    "name": "Mbour",
+    "stateId": 4371,
+    "latitude": "14.40569000",
+    "longitude": "-16.85559000"
+  },
+  {
+    "id": 81189,
+    "name": "Mermoz Boabab",
+    "stateId": 1006,
+    "latitude": "14.70649000",
+    "longitude": "-17.47581000"
+  },
+  {
+    "id": 86723,
+    "name": "Mékhé",
+    "stateId": 4371,
+    "latitude": "15.10970000",
+    "longitude": "-16.62180000"
+  },
+  {
+    "id": 88136,
+    "name": "Ndibène Dahra",
+    "stateId": 2364,
+    "latitude": "15.33380000",
+    "longitude": "-15.47660000"
+  },
+  {
+    "id": 88138,
+    "name": "Ndioum",
+    "stateId": 3796,
+    "latitude": "16.51293000",
+    "longitude": "-14.64706000"
+  },
+  {
+    "id": 88140,
+    "name": "Ndofane",
+    "stateId": 1872,
+    "latitude": "13.91667000",
+    "longitude": "-15.93333000"
+  },
+  {
+    "id": 89275,
+    "name": "Nguékhokh",
+    "stateId": 4371,
+    "latitude": "14.51255000",
+    "longitude": "-17.00447000"
+  },
+  {
+    "id": 89690,
+    "name": "Nioro du Rip",
+    "stateId": 1872,
+    "latitude": "13.75000000",
+    "longitude": "-15.80000000"
+  },
+  {
+    "id": 91824,
+    "name": "N’diareme limamoulaye",
+    "stateId": 1006,
+    "latitude": "14.78148000",
+    "longitude": "-17.38410000"
+  },
+  {
+    "id": 95066,
+    "name": "Ouro Sogui",
+    "stateId": 2561,
+    "latitude": "15.60588000",
+    "longitude": "-13.32230000"
+  },
+  {
+    "id": 95086,
+    "name": "Oussouye",
+    "stateId": 4849,
+    "latitude": "12.48500000",
+    "longitude": "-16.54694000"
+  },
+  {
+    "id": 97140,
+    "name": "Passi",
+    "stateId": 1270,
+    "latitude": "13.98333000",
+    "longitude": "-16.26667000"
+  },
+  {
+    "id": 99340,
+    "name": "Pikine",
+    "stateId": 1006,
+    "latitude": "14.76457000",
+    "longitude": "-17.39071000"
+  },
+  {
+    "id": 99341,
+    "name": "Pikine Department",
+    "stateId": 1006,
+    "latitude": "14.76515000",
+    "longitude": "-17.35198000"
+  },
+  {
+    "id": 100879,
+    "name": "Polel Diaoubé",
+    "stateId": 3796,
+    "latitude": "15.26667000",
+    "longitude": "-13.00000000"
+  },
+  {
+    "id": 102122,
+    "name": "Pourham",
+    "stateId": 1270,
+    "latitude": "14.35000000",
+    "longitude": "-16.41667000"
+  },
+  {
+    "id": 102133,
+    "name": "Pout",
+    "stateId": 4371,
+    "latitude": "14.77099000",
+    "longitude": "-17.06107000"
+  },
+  {
+    "id": 106331,
+    "name": "Ranérou",
+    "stateId": 2561,
+    "latitude": "15.30000000",
+    "longitude": "-13.96667000"
+  },
+  {
+    "id": 107597,
+    "name": "Richard-Toll",
+    "stateId": 3796,
+    "latitude": "16.46250000",
+    "longitude": "-15.70083000"
+  },
+  {
+    "id": 109331,
+    "name": "Rosso",
+    "stateId": 3796,
+    "latitude": "16.42028000",
+    "longitude": "-15.79834000"
+  },
+  {
+    "id": 109811,
+    "name": "Rufisque Department",
+    "stateId": 1006,
+    "latitude": "14.74339000",
+    "longitude": "-17.19841000"
+  },
+  {
+    "id": 111601,
+    "name": "Saint-Louis",
+    "stateId": 3796,
+    "latitude": "16.01793000",
+    "longitude": "-16.48962000"
+  },
+  {
+    "id": 118065,
+    "name": "Saraya",
+    "stateId": 2147,
+    "latitude": "13.00150000",
+    "longitude": "-11.79627000"
+  },
+  {
+    "id": 123175,
+    "name": "Sokone",
+    "stateId": 1270,
+    "latitude": "13.88333000",
+    "longitude": "-16.36667000"
+  },
+  {
+    "id": 127661,
+    "name": "Sédhiou",
+    "stateId": 4251,
+    "latitude": "12.70806000",
+    "longitude": "-15.55694000"
+  },
+  {
+    "id": 127673,
+    "name": "Sémé",
+    "stateId": 2561,
+    "latitude": "15.19422000",
+    "longitude": "-12.94482000"
+  },
+  {
+    "id": 128603,
+    "name": "Tambacounda",
+    "stateId": 4293,
+    "latitude": "13.77073000",
+    "longitude": "-13.66734000"
+  },
+  {
+    "id": 128604,
+    "name": "Tambacounda Department",
+    "stateId": 4293,
+    "latitude": "13.60500000",
+    "longitude": "-13.64700000"
+  },
+  {
+    "id": 130590,
+    "name": "Thiès",
+    "stateId": 4371,
+    "latitude": "14.73004000",
+    "longitude": "-16.86974000"
+  },
+  {
+    "id": 130591,
+    "name": "Thiès Nones",
+    "stateId": 4371,
+    "latitude": "14.78333000",
+    "longitude": "-16.96667000"
+  },
+  {
+    "id": 130811,
+    "name": "Tiadiaye",
+    "stateId": 4371,
+    "latitude": "14.41667000",
+    "longitude": "-16.70000000"
+  },
+  {
+    "id": 131192,
+    "name": "Tionk Essil",
+    "stateId": 4849,
+    "latitude": "12.78556000",
+    "longitude": "-16.52167000"
+  },
+  {
+    "id": 131349,
+    "name": "Tivaouane",
+    "stateId": 4371,
+    "latitude": "15.08519000",
+    "longitude": "-16.71058000"
+  },
+  {
+    "id": 131384,
+    "name": "Tiébo",
+    "stateId": 1077,
+    "latitude": "14.63333000",
+    "longitude": "-16.23333000"
+  },
+  {
+    "id": 132427,
+    "name": "Touba",
+    "stateId": 1077,
+    "latitude": "14.85000000",
+    "longitude": "-15.88333000"
+  },
+  {
+    "id": 140272,
+    "name": "Vélingara",
+    "stateId": 2036,
+    "latitude": "13.15000000",
+    "longitude": "-14.11667000"
+  },
+  {
+    "id": 140929,
+    "name": "Waoundé",
+    "stateId": 2561,
+    "latitude": "15.26367000",
+    "longitude": "-12.86821000"
+  },
+  {
+    "id": 140945,
+    "name": "Warang",
+    "stateId": 4371,
+    "latitude": "14.37349000",
+    "longitude": "-16.94366000"
+  },
+  {
+    "id": 146105,
+    "name": "Ziguinchor",
+    "stateId": 4849,
+    "latitude": "12.56801000",
+    "longitude": "-16.27326000"
+  }
+]

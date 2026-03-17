@@ -112,6 +112,51 @@ checkRelation('countries.json', 'subRegionId', 'subregions.json');
 checkRelation('states.json', 'countryId', 'countries.json');
 checkRelation('cities.json', 'stateId', 'states.json');
 
+// Validate per-country city files in data/cities/
+console.log('\n— Checking data/cities/ directory —');
+const CITIES_DIR = path.join(DATA_DIR, 'cities');
+if (!fs.existsSync(CITIES_DIR)) {
+  console.warn('⚠️  data/cities/ directory not found. Run: node scripts/split-cities.js');
+} else {
+  const cityFiles = fs.readdirSync(CITIES_DIR).filter((f) => f.endsWith('.json'));
+  const stateIds = buildIdSet('states.json');
+  let cityFileErrors = 0;
+  let totalCities = 0;
+
+  for (const file of cityFiles) {
+    const filePath = path.join(CITIES_DIR, file);
+    let data;
+    try {
+      data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    } catch (err) {
+      console.error(`❌  data/cities/${file}: invalid JSON — ${err.message}`);
+      hasErrors = true;
+      cityFileErrors++;
+      continue;
+    }
+    if (!Array.isArray(data)) {
+      console.error(`❌  data/cities/${file} must contain a JSON array`);
+      hasErrors = true;
+      cityFileErrors++;
+      continue;
+    }
+    const broken = data
+      .filter((c) => !stateIds.has(c.stateId))
+      .map((c) => `id=${c.id} stateId=${c.stateId}`);
+    if (broken.length > 0) {
+      console.error(`❌  data/cities/${file}: ${broken.length} city/cities with invalid stateId`);
+      broken.slice(0, 3).forEach((msg) => console.error(`     • ${msg}`));
+      hasErrors = true;
+      cityFileErrors++;
+    }
+    totalCities += data.length;
+  }
+
+  if (cityFileErrors === 0) {
+    console.log(`✅  data/cities/ — ${cityFiles.length} country files, ${totalCities} cities total`);
+  }
+}
+
 if (hasErrors) {
   console.error('\nValidation failed.');
   process.exit(1);

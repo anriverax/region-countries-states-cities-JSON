@@ -1,0 +1,58 @@
+[
+  {
+    "id": 53793,
+    "name": "Haveluloto",
+    "stateId": 4418,
+    "latitude": "-21.15216000",
+    "longitude": "-175.21333000"
+  },
+  {
+    "id": 54886,
+    "name": "Hihifo",
+    "stateId": 2940,
+    "latitude": "-15.95440000",
+    "longitude": "-173.79616000"
+  },
+  {
+    "id": 65747,
+    "name": "Kolonga",
+    "stateId": 4418,
+    "latitude": "-21.13333000",
+    "longitude": "-175.06667000"
+  },
+  {
+    "id": 88292,
+    "name": "Neiafu",
+    "stateId": 4585,
+    "latitude": "-18.65060000",
+    "longitude": "-173.98404000"
+  },
+  {
+    "id": 91467,
+    "name": "Nuku‘alofa",
+    "stateId": 4418,
+    "latitude": "-21.13938000",
+    "longitude": "-175.20180000"
+  },
+  {
+    "id": 96303,
+    "name": "Pangai",
+    "stateId": 1568,
+    "latitude": "-19.81468000",
+    "longitude": "-174.35423000"
+  },
+  {
+    "id": 135819,
+    "name": "Vaini",
+    "stateId": 4418,
+    "latitude": "-21.19292000",
+    "longitude": "-175.17678000"
+  },
+  {
+    "id": 148015,
+    "name": "‘Ohonua",
+    "stateId": 4964,
+    "latitude": "-21.33333000",
+    "longitude": "-174.95000000"
+  }
+]

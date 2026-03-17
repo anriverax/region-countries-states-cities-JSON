@@ -1,0 +1,86 @@
+[
+  {
+    "id": 19471,
+    "name": "Butare",
+    "stateId": 4143,
+    "latitude": "-2.59667000",
+    "longitude": "29.73944000"
+  },
+  {
+    "id": 19695,
+    "name": "Byumba",
+    "stateId": 3028,
+    "latitude": "-1.57630000",
+    "longitude": "30.06750000"
+  },
+  {
+    "id": 34550,
+    "name": "Cyangugu",
+    "stateId": 4731,
+    "latitude": "-2.48460000",
+    "longitude": "28.90750000"
+  },
+  {
+    "id": 40217,
+    "name": "Eglise Catholique, Centrale GIKO",
+    "stateId": 4143,
+    "latitude": "-1.93653000",
+    "longitude": "29.80610000"
+  },
+  {
+    "id": 48713,
+    "name": "Gisenyi",
+    "stateId": 4731,
+    "latitude": "-1.70278000",
+    "longitude": "29.25639000"
+  },
+  {
+    "id": 48723,
+    "name": "Gitarama",
+    "stateId": 4143,
+    "latitude": "-2.07444000",
+    "longitude": "29.75667000"
+  },
+  {
+    "id": 64465,
+    "name": "Kibungo",
+    "stateId": 1179,
+    "latitude": "-2.15970000",
+    "longitude": "30.54270000"
+  },
+  {
+    "id": 64467,
+    "name": "Kibuye",
+    "stateId": 4731,
+    "latitude": "-2.06028000",
+    "longitude": "29.34778000"
+  },
+  {
+    "id": 64509,
+    "name": "Kigali",
+    "stateId": 1985,
+    "latitude": "-1.94995000",
+    "longitude": "30.05885000"
+  },
+  {
+    "id": 86399,
+    "name": "Musanze",
+    "stateId": 3028,
+    "latitude": "-1.49984000",
+    "longitude": "29.63497000"
+  },
+  {
+    "id": 91663,
+    "name": "Nzega",
+    "stateId": 4143,
+    "latitude": "-2.47900000",
+    "longitude": "29.55640000"
+  },
+  {
+    "id": 110081,
+    "name": "Rwamagana",
+    "stateId": 1179,
+    "latitude": "-1.94870000",
+    "longitude": "30.43470000"
+  }
+]

@@ -1,0 +1,3369 @@
+[
+  {
+    "id": 565,
+    "name": "Active Hill",
+    "stateId": 743,
+    "latitude": "14.01940000",
+    "longitude": "-60.97767000"
+  },
+  {
+    "id": 930,
+    "name": "Agard Lands/Morne Dudon",
+    "stateId": 743,
+    "latitude": "14.00768000",
+    "longitude": "-60.96462000"
+  },
+  {
+    "id": 3227,
+    "name": "Almondale",
+    "stateId": 743,
+    "latitude": "14.01848000",
+    "longitude": "-60.96162000"
+  },
+  {
+    "id": 5455,
+    "name": "Annus",
+    "stateId": 2183,
+    "latitude": "13.77449000",
+    "longitude": "-61.00511000"
+  },
+  {
+    "id": 5495,
+    "name": "Anse Canot",
+    "stateId": 1049,
+    "latitude": "13.90871000",
+    "longitude": "-60.90440000"
+  },
+  {
+    "id": 5496,
+    "name": "Anse Chastanet",
+    "stateId": 4091,
+    "latitude": "13.86426000",
+    "longitude": "-61.07016000"
+  },
+  {
+    "id": 5497,
+    "name": "Anse Cochon",
+    "stateId": 691,
+    "latitude": "13.92261000",
+    "longitude": "-61.05250000"
+  },
+  {
+    "id": 5498,
+    "name": "Anse Galet",
+    "stateId": 691,
+    "latitude": "13.93221000",
+    "longitude": "-61.04290000"
+  },
+  {
+    "id": 5499,
+    "name": "Anse Ger",
+    "stateId": 2634,
+    "latitude": "13.79567000",
+    "longitude": "-60.91567000"
+  },
+  {
+    "id": 5500,
+    "name": "Anse La Raye",
+    "stateId": 187,
+    "latitude": "13.94619000",
+    "longitude": "-61.03879000"
+  },
+  {
+    "id": 5501,
+    "name": "Anse La Verdue",
+    "stateId": 691,
+    "latitude": "13.90964000",
+    "longitude": "-61.04755000"
+  },
+  {
+    "id": 7647,
+    "name": "Athens",
+    "stateId": 1049,
+    "latitude": "13.90574000",
+    "longitude": "-60.89184000"
+  },
+  {
+    "id": 7851,
+    "name": "Au Leon",
+    "stateId": 1049,
+    "latitude": "13.95245000",
+    "longitude": "-60.90456000"
+  },
+  {
+    "id": 7853,
+    "name": "Au Tabor",
+    "stateId": 187,
+    "latitude": "13.94540000",
+    "longitude": "-61.04112000"
+  },
+  {
+    "id": 7854,
+    "name": "Au Tabor Hill",
+    "stateId": 187,
+    "latitude": "13.94457000",
+    "longitude": "-61.03559000"
+  },
+  {
+    "id": 7959,
+    "name": "Augier",
+    "stateId": 4618,
+    "latitude": "13.76669000",
+    "longitude": "-60.98063000"
+  },
+  {
+    "id": 8048,
+    "name": "Aurendel Hill",
+    "stateId": 743,
+    "latitude": "14.00069000",
+    "longitude": "-60.98670000"
+  },
+  {
+    "id": 8697,
+    "name": "Babonneau Proper",
+    "stateId": 743,
+    "latitude": "14.00535000",
+    "longitude": "-60.94640000"
+  },
+  {
+    "id": 9115,
+    "name": "Bagatelle",
+    "stateId": 743,
+    "latitude": "13.99797000",
+    "longitude": "-60.98156000"
+  },
+  {
+    "id": 9598,
+    "name": "Balata",
+    "stateId": 743,
+    "latitude": "14.01471000",
+    "longitude": "-60.95167000"
+  },
+  {
+    "id": 9631,
+    "name": "Balca",
+    "stateId": 2183,
+    "latitude": "13.77117000",
+    "longitude": "-61.02389000"
+  },
+  {
+    "id": 9632,
+    "name": "Balca/En Leur Ba",
+    "stateId": 2183,
+    "latitude": "13.77638000",
+    "longitude": "-61.01931000"
+  },
+  {
+    "id": 9680,
+    "name": "Balembouche",
+    "stateId": 2183,
+    "latitude": "13.75992000",
+    "longitude": "-61.02840000"
+  },
+  {
+    "id": 10100,
+    "name": "Banannes Bay",
+    "stateId": 743,
+    "latitude": "14.01087000",
+    "longitude": "-61.00135000"
+  },
+  {
+    "id": 10383,
+    "name": "Banse",
+    "stateId": 2183,
+    "latitude": "13.79211000",
+    "longitude": "-60.99282000"
+  },
+  {
+    "id": 10384,
+    "name": "Banse La Grace",
+    "stateId": 2183,
+    "latitude": "13.78150000",
+    "longitude": "-60.99840000"
+  },
+  {
+    "id": 10482,
+    "name": "Bara Bara",
+    "stateId": 1049,
+    "latitude": "13.95911000",
+    "longitude": "-60.93414000"
+  },
+  {
+    "id": 10819,
+    "name": "Barnard Hill",
+    "stateId": 743,
+    "latitude": "14.01423000",
+    "longitude": "-60.98924000"
+  },
+  {
+    "id": 10875,
+    "name": "Barons Drive/Coin De L'Anse",
+    "stateId": 4091,
+    "latitude": "13.85138000",
+    "longitude": "-61.05939000"
+  },
+  {
+    "id": 10971,
+    "name": "Barre Denis",
+    "stateId": 743,
+    "latitude": "13.96809000",
+    "longitude": "-60.99073000"
+  },
+  {
+    "id": 10972,
+    "name": "Barre Duchaussee",
+    "stateId": 743,
+    "latitude": "13.96190000",
+    "longitude": "-60.99678000"
+  },
+  {
+    "id": 10973,
+    "name": "Barre St.Joseph",
+    "stateId": 743,
+    "latitude": "13.97247000",
+    "longitude": "-61.01829000"
+  },
+  {
+    "id": 11826,
+    "name": "Bazile",
+    "stateId": 1049,
+    "latitude": "13.91082000",
+    "longitude": "-60.92430000"
+  },
+  {
+    "id": 11911,
+    "name": "Beane Field",
+    "stateId": 4618,
+    "latitude": "13.73976000",
+    "longitude": "-60.94741000"
+  },
+  {
+    "id": 11926,
+    "name": "Beasejour/Myers Bridge",
+    "stateId": 4091,
+    "latitude": "13.82147000",
+    "longitude": "-61.03396000"
+  },
+  {
+    "id": 11942,
+    "name": "Beauchamp",
+    "stateId": 2634,
+    "latitude": "13.81778000",
+    "longitude": "-60.91528000"
+  },
+  {
+    "id": 12014,
+    "name": "Beausejour",
+    "stateId": 1455,
+    "latitude": "14.07647000",
+    "longitude": "-60.93780000"
+  },
+  {
+    "id": 12015,
+    "name": "Beausejour",
+    "stateId": 4618,
+    "latitude": "13.75229000",
+    "longitude": "-60.95519000"
+  },
+  {
+    "id": 12016,
+    "name": "Beausejour/Fostin'S Development",
+    "stateId": 1455,
+    "latitude": "14.07445000",
+    "longitude": "-60.92929000"
+  },
+  {
+    "id": 12017,
+    "name": "Beausejour/Ndc",
+    "stateId": 1455,
+    "latitude": "14.07733000",
+    "longitude": "-60.92683000"
+  },
+  {
+    "id": 12322,
+    "name": "Belair",
+    "stateId": 743,
+    "latitude": "13.95283000",
+    "longitude": "-60.99747000"
+  },
+  {
+    "id": 12446,
+    "name": "Bella Rosa",
+    "stateId": 743,
+    "latitude": "14.00777000",
+    "longitude": "-60.99628000"
+  },
+  {
+    "id": 12447,
+    "name": "Bella Rosa",
+    "stateId": 1455,
+    "latitude": "14.07711000",
+    "longitude": "-60.94568000"
+  },
+  {
+    "id": 12502,
+    "name": "Belle Plaine",
+    "stateId": 4091,
+    "latitude": "13.82700000",
+    "longitude": "-61.03127000"
+  },
+  {
+    "id": 12509,
+    "name": "Belle Vue",
+    "stateId": 864,
+    "latitude": "13.80510000",
+    "longitude": "-61.03615000"
+  },
+  {
+    "id": 12510,
+    "name": "Belle Vue",
+    "stateId": 1455,
+    "latitude": "14.08470000",
+    "longitude": "-60.94342000"
+  },
+  {
+    "id": 12511,
+    "name": "Belle Vue",
+    "stateId": 4618,
+    "latitude": "13.79218000",
+    "longitude": "-60.95379000"
+  },
+  {
+    "id": 12512,
+    "name": "Belle Vue Estate",
+    "stateId": 1455,
+    "latitude": "14.08840000",
+    "longitude": "-60.94613000"
+  },
+  {
+    "id": 12522,
+    "name": "Bellefond",
+    "stateId": 4091,
+    "latitude": "13.82753000",
+    "longitude": "-61.04269000"
+  },
+  {
+    "id": 12630,
+    "name": "Belmont",
+    "stateId": 1049,
+    "latitude": "13.95044000",
+    "longitude": "-60.93276000"
+  },
+  {
+    "id": 12748,
+    "name": "Belvedere",
+    "stateId": 691,
+    "latitude": "13.89122000",
+    "longitude": "-61.05550000"
+  },
+  {
+    "id": 12749,
+    "name": "Belvedere",
+    "stateId": 4091,
+    "latitude": "13.83440000",
+    "longitude": "-61.01771000"
+  },
+  {
+    "id": 13765,
+    "name": "Bexon",
+    "stateId": 743,
+    "latitude": "13.96077000",
+    "longitude": "-60.97497000"
+  },
+  {
+    "id": 14655,
+    "name": "Bisee",
+    "stateId": 743,
+    "latitude": "14.02429000",
+    "longitude": "-60.97445000"
+  },
+  {
+    "id": 14672,
+    "name": "Bishop'S Gap",
+    "stateId": 743,
+    "latitude": "14.00019000",
+    "longitude": "-60.98498000"
+  },
+  {
+    "id": 14712,
+    "name": "Bissee",
+    "stateId": 743,
+    "latitude": "14.02255000",
+    "longitude": "-60.97489000"
+  },
+  {
+    "id": 14838,
+    "name": "Black Bay",
+    "stateId": 4618,
+    "latitude": "13.74330000",
+    "longitude": "-60.98272000"
+  },
+  {
+    "id": 14852,
+    "name": "Black Mallet",
+    "stateId": 743,
+    "latitude": "14.00457000",
+    "longitude": "-60.98811000"
+  },
+  {
+    "id": 14978,
+    "name": "Blanchard",
+    "stateId": 2634,
+    "latitude": "13.80616000",
+    "longitude": "-60.94630000"
+  },
+  {
+    "id": 15346,
+    "name": "Bocage",
+    "stateId": 743,
+    "latitude": "14.00199000",
+    "longitude": "-60.96954000"
+  },
+  {
+    "id": 15553,
+    "name": "Boguis",
+    "stateId": 1455,
+    "latitude": "14.01548000",
+    "longitude": "-60.92089000"
+  },
+  {
+    "id": 15554,
+    "name": "Boguis/Desa Blond",
+    "stateId": 1455,
+    "latitude": "14.01057000",
+    "longitude": "-60.92565000"
+  },
+  {
+    "id": 15599,
+    "name": "Bois Catchet",
+    "stateId": 743,
+    "latitude": "14.00399000",
+    "longitude": "-60.99437000"
+  },
+  {
+    "id": 15600,
+    "name": "Bois D'Inde",
+    "stateId": 187,
+    "latitude": "13.94148000",
+    "longitude": "-61.00966000"
+  },
+  {
+    "id": 15601,
+    "name": "Bois D'Inde",
+    "stateId": 4091,
+    "latitude": "13.83650000",
+    "longitude": "-61.03491000"
+  },
+  {
+    "id": 15602,
+    "name": "Bois D'Orange",
+    "stateId": 1455,
+    "latitude": "14.05803000",
+    "longitude": "-60.95992000"
+  },
+  {
+    "id": 15603,
+    "name": "Bois D'Ornange/Trouya",
+    "stateId": 1455,
+    "latitude": "14.06198000",
+    "longitude": "-60.96914000"
+  },
+  {
+    "id": 15604,
+    "name": "Bois Dinde",
+    "stateId": 864,
+    "latitude": "13.80463000",
+    "longitude": "-61.04952000"
+  },
+  {
+    "id": 15605,
+    "name": "Bois Joli",
+    "stateId": 1049,
+    "latitude": "13.92020000",
+    "longitude": "-60.91409000"
+  },
+  {
+    "id": 15606,
+    "name": "Bois Patat",
+    "stateId": 743,
+    "latitude": "14.00892000",
+    "longitude": "-60.98214000"
+  },
+  {
+    "id": 15993,
+    "name": "Bongalo",
+    "stateId": 2183,
+    "latitude": "13.76666000",
+    "longitude": "-61.02991000"
+  },
+  {
+    "id": 16047,
+    "name": "Bonneterre",
+    "stateId": 1455,
+    "latitude": "14.06994000",
+    "longitude": "-60.94146000"
+  },
+  {
+    "id": 16048,
+    "name": "Bonneterre Gardens",
+    "stateId": 1455,
+    "latitude": "14.06737000",
+    "longitude": "-60.93393000"
+  },
+  {
+    "id": 16195,
+    "name": "Bordelais",
+    "stateId": 1049,
+    "latitude": "13.89552000",
+    "longitude": "-60.90092000"
+  },
+  {
+    "id": 16544,
+    "name": "Bosquet D'Or",
+    "stateId": 1049,
+    "latitude": "13.92886000",
+    "longitude": "-60.91127000"
+  },
+  {
+    "id": 16796,
+    "name": "Bouton",
+    "stateId": 4091,
+    "latitude": "13.87936000",
+    "longitude": "-61.06449000"
+  },
+  {
+    "id": 18093,
+    "name": "Bruceville/Shanty Town",
+    "stateId": 4618,
+    "latitude": "13.72558000",
+    "longitude": "-60.94907000"
+  },
+  {
+    "id": 20232,
+    "name": "Cabiche/Babonneau",
+    "stateId": 743,
+    "latitude": "14.00583000",
+    "longitude": "-60.95432000"
+  },
+  {
+    "id": 20384,
+    "name": "Cacoa",
+    "stateId": 4618,
+    "latitude": "13.77889000",
+    "longitude": "-60.93862000"
+  },
+  {
+    "id": 20385,
+    "name": "Cacoa/Babonneau",
+    "stateId": 743,
+    "latitude": "13.98875000",
+    "longitude": "-60.95113000"
+  },
+  {
+    "id": 20475,
+    "name": "Caffiere",
+    "stateId": 864,
+    "latitude": "13.78409000",
+    "longitude": "-61.03554000"
+  },
+  {
+    "id": 20528,
+    "name": "Caico/Millet",
+    "stateId": 187,
+    "latitude": "13.91948000",
+    "longitude": "-60.99264000"
+  },
+  {
+    "id": 21003,
+    "name": "Calvary",
+    "stateId": 743,
+    "latitude": "14.01391000",
+    "longitude": "-60.98664000"
+  },
+  {
+    "id": 21004,
+    "name": "Calvary/Calvaire",
+    "stateId": 4091,
+    "latitude": "13.85035000",
+    "longitude": "-61.05620000"
+  },
+  {
+    "id": 21624,
+    "name": "Canaries",
+    "stateId": 187,
+    "latitude": "13.90224000",
+    "longitude": "-61.06459000"
+  },
+  {
+    "id": 21723,
+    "name": "Canelles",
+    "stateId": 2634,
+    "latitude": "13.78515000",
+    "longitude": "-60.91789000"
+  },
+  {
+    "id": 21920,
+    "name": "Cantonement",
+    "stateId": 4618,
+    "latitude": "13.75665000",
+    "longitude": "-60.97662000"
+  },
+  {
+    "id": 21968,
+    "name": "Cap Estate",
+    "stateId": 1455,
+    "latitude": "14.09410000",
+    "longitude": "-60.93592000"
+  },
+  {
+    "id": 21969,
+    "name": "Cap Estate/Becune Point",
+    "stateId": 1455,
+    "latitude": "14.09270000",
+    "longitude": "-60.95161000"
+  },
+  {
+    "id": 21970,
+    "name": "Cap Estate/Caribbean Park",
+    "stateId": 1455,
+    "latitude": "14.10019000",
+    "longitude": "-60.92446000"
+  },
+  {
+    "id": 21971,
+    "name": "Cap Estate/Golf Park",
+    "stateId": 1455,
+    "latitude": "14.09998000",
+    "longitude": "-60.93705000"
+  },
+  {
+    "id": 21972,
+    "name": "Cap Estate/Lower Saline Point",
+    "stateId": 1455,
+    "latitude": "14.10515000",
+    "longitude": "-60.94310000"
+  },
+  {
+    "id": 21973,
+    "name": "Cap Estate/Mon Du Cap",
+    "stateId": 1455,
+    "latitude": "14.10554000",
+    "longitude": "-60.93758000"
+  },
+  {
+    "id": 21974,
+    "name": "Cap Estate/Ranch Site",
+    "stateId": 1455,
+    "latitude": "14.10437000",
+    "longitude": "-60.93360000"
+  },
+  {
+    "id": 21975,
+    "name": "Cap Estate/Saddlec Back",
+    "stateId": 1455,
+    "latitude": "14.10023000",
+    "longitude": "-60.94246000"
+  },
+  {
+    "id": 21976,
+    "name": "Cap Estate/Upper Saline Point",
+    "stateId": 1455,
+    "latitude": "14.10740000",
+    "longitude": "-60.94487000"
+  },
+  {
+    "id": 22081,
+    "name": "Capital Hill",
+    "stateId": 743,
+    "latitude": "13.99307000",
+    "longitude": "-60.99097000"
+  },
+  {
+    "id": 22403,
+    "name": "Carellie",
+    "stateId": 743,
+    "latitude": "14.01889000",
+    "longitude": "-60.96851000"
+  },
+  {
+    "id": 22439,
+    "name": "Carierre",
+    "stateId": 4618,
+    "latitude": "13.78514000",
+    "longitude": "-60.96721000"
+  },
+  {
+    "id": 22919,
+    "name": "Cas En Bas",
+    "stateId": 1455,
+    "latitude": "14.08328000",
+    "longitude": "-60.93209000"
+  },
+  {
+    "id": 23703,
+    "name": "Castries",
+    "stateId": 743,
+    "latitude": "13.99570000",
+    "longitude": "-61.00614000"
+  },
+  {
+    "id": 23853,
+    "name": "Catin",
+    "stateId": 4618,
+    "latitude": "13.77694000",
+    "longitude": "-60.97973000"
+  },
+  {
+    "id": 24059,
+    "name": "Caye Manje'",
+    "stateId": 1455,
+    "latitude": "14.06629000",
+    "longitude": "-60.93560000"
+  },
+  {
+    "id": 24097,
+    "name": "Cazuca",
+    "stateId": 2634,
+    "latitude": "13.80002000",
+    "longitude": "-60.90481000"
+  },
+  {
+    "id": 24239,
+    "name": "Cedars",
+    "stateId": 743,
+    "latitude": "14.00601000",
+    "longitude": "-60.98232000"
+  },
+  {
+    "id": 24240,
+    "name": "Cedars/Chu Tigre",
+    "stateId": 864,
+    "latitude": "13.76995000",
+    "longitude": "-61.04716000"
+  },
+  {
+    "id": 24360,
+    "name": "Cenac",
+    "stateId": 4091,
+    "latitude": "13.87207000",
+    "longitude": "-61.04243000"
+  },
+  {
+    "id": 25034,
+    "name": "Chalon",
+    "stateId": 691,
+    "latitude": "13.92018000",
+    "longitude": "-61.04412000"
+  },
+  {
+    "id": 25127,
+    "name": "Champen Estate",
+    "stateId": 187,
+    "latitude": "13.93575000",
+    "longitude": "-61.02991000"
+  },
+  {
+    "id": 25512,
+    "name": "Chase Gardens",
+    "stateId": 743,
+    "latitude": "14.01481000",
+    "longitude": "-60.97395000"
+  },
+  {
+    "id": 25527,
+    "name": "Chassin/Babonneau",
+    "stateId": 743,
+    "latitude": "13.99100000",
+    "longitude": "-60.92187000"
+  },
+  {
+    "id": 25537,
+    "name": "Chateau Belair",
+    "stateId": 4091,
+    "latitude": "13.81830000",
+    "longitude": "-61.05350000"
+  },
+  {
+    "id": 26495,
+    "name": "Chique/Blanchard",
+    "stateId": 2634,
+    "latitude": "13.80120000",
+    "longitude": "-60.94970000"
+  },
+  {
+    "id": 26701,
+    "name": "Choiseul",
+    "stateId": 864,
+    "latitude": "13.77273000",
+    "longitude": "-61.04931000"
+  },
+  {
+    "id": 26757,
+    "name": "Choppin Ridge/Sarot",
+    "stateId": 743,
+    "latitude": "13.95597000",
+    "longitude": "-60.98624000"
+  },
+  {
+    "id": 26831,
+    "name": "Christian Hill",
+    "stateId": 864,
+    "latitude": "13.77354000",
+    "longitude": "-61.04694000"
+  },
+  {
+    "id": 27165,
+    "name": "Ciceron",
+    "stateId": 743,
+    "latitude": "13.99296000",
+    "longitude": "-61.00878000"
+  },
+  {
+    "id": 27446,
+    "name": "City",
+    "stateId": 743,
+    "latitude": "14.00946000",
+    "longitude": "-60.99027000"
+  },
+  {
+    "id": 27449,
+    "name": "City Gate/La Clery",
+    "stateId": 743,
+    "latitude": "14.02124000",
+    "longitude": "-60.98149000"
+  },
+  {
+    "id": 28293,
+    "name": "Cocoa Dan",
+    "stateId": 4618,
+    "latitude": "13.73087000",
+    "longitude": "-60.97195000"
+  },
+  {
+    "id": 28702,
+    "name": "Colombette",
+    "stateId": 4091,
+    "latitude": "13.86861000",
+    "longitude": "-61.04990000"
+  },
+  {
+    "id": 29182,
+    "name": "Compar",
+    "stateId": 4091,
+    "latitude": "13.83586000",
+    "longitude": "-61.05934000"
+  },
+  {
+    "id": 32345,
+    "name": "Conway/Waterfront",
+    "stateId": 743,
+    "latitude": "14.01389000",
+    "longitude": "-60.99055000"
+  },
+  {
+    "id": 32385,
+    "name": "Coolie Town",
+    "stateId": 743,
+    "latitude": "13.95684000",
+    "longitude": "-61.01437000"
+  },
+  {
+    "id": 32386,
+    "name": "Coolie Town",
+    "stateId": 2634,
+    "latitude": "13.85429000",
+    "longitude": "-60.91380000"
+  },
+  {
+    "id": 32387,
+    "name": "Coolie Town",
+    "stateId": 4618,
+    "latitude": "13.76911000",
+    "longitude": "-60.96680000"
+  },
+  {
+    "id": 32632,
+    "name": "Corinth",
+    "stateId": 1455,
+    "latitude": "14.04710000",
+    "longitude": "-60.96046000"
+  },
+  {
+    "id": 32636,
+    "name": "Corinth Estate",
+    "stateId": 1455,
+    "latitude": "14.04336000",
+    "longitude": "-60.95388000"
+  },
+  {
+    "id": 32637,
+    "name": "Corinth/La Bel Lair",
+    "stateId": 1455,
+    "latitude": "14.04469000",
+    "longitude": "-60.94484000"
+  },
+  {
+    "id": 33146,
+    "name": "Coubaril",
+    "stateId": 743,
+    "latitude": "14.00223000",
+    "longitude": "-61.00919000"
+  },
+  {
+    "id": 33576,
+    "name": "Cresslands",
+    "stateId": 4091,
+    "latitude": "13.85999000",
+    "longitude": "-61.04032000"
+  },
+  {
+    "id": 33835,
+    "name": "Crownlands/Marc",
+    "stateId": 743,
+    "latitude": "13.95174000",
+    "longitude": "-60.97150000"
+  },
+  {
+    "id": 34208,
+    "name": "Cul De Sac",
+    "stateId": 743,
+    "latitude": "13.98084000",
+    "longitude": "-61.00645000"
+  },
+  {
+    "id": 34829,
+    "name": "Daban",
+    "stateId": 2183,
+    "latitude": "13.80490000",
+    "longitude": "-61.00435000"
+  },
+  {
+    "id": 34857,
+    "name": "Dacretin",
+    "stateId": 864,
+    "latitude": "13.79617000",
+    "longitude": "-61.03574000"
+  },
+  {
+    "id": 35386,
+    "name": "Darling Road",
+    "stateId": 743,
+    "latitude": "14.01355000",
+    "longitude": "-60.98779000"
+  },
+  {
+    "id": 35530,
+    "name": "Dauphin",
+    "stateId": 1455,
+    "latitude": "14.05647000",
+    "longitude": "-60.90188000"
+  },
+  {
+    "id": 35709,
+    "name": "De Mailly",
+    "stateId": 4618,
+    "latitude": "13.79649000",
+    "longitude": "-60.94938000"
+  },
+  {
+    "id": 35804,
+    "name": "Debreuil",
+    "stateId": 864,
+    "latitude": "13.79033000",
+    "longitude": "-61.02585000"
+  },
+  {
+    "id": 35894,
+    "name": "Deglos",
+    "stateId": 743,
+    "latitude": "13.97727000",
+    "longitude": "-60.97329000"
+  },
+  {
+    "id": 35982,
+    "name": "Delaide",
+    "stateId": 1049,
+    "latitude": "13.92993000",
+    "longitude": "-60.90584000"
+  },
+  {
+    "id": 36002,
+    "name": "Delcer",
+    "stateId": 864,
+    "latitude": "13.80121000",
+    "longitude": "-61.05892000"
+  },
+  {
+    "id": 36061,
+    "name": "Delomel",
+    "stateId": 2634,
+    "latitude": "13.80338000",
+    "longitude": "-60.92927000"
+  },
+  {
+    "id": 36178,
+    "name": "Dennery",
+    "stateId": 1049,
+    "latitude": "13.91409000",
+    "longitude": "-60.89132000"
+  },
+  {
+    "id": 36179,
+    "name": "Dennery By Pass",
+    "stateId": 1049,
+    "latitude": "13.91164000",
+    "longitude": "-60.89454000"
+  },
+  {
+    "id": 36180,
+    "name": "Dennery By Pass/Green Mountain",
+    "stateId": 1049,
+    "latitude": "13.91094000",
+    "longitude": "-60.89810000"
+  },
+  {
+    "id": 36181,
+    "name": "Dennery By Pass/Rocky Lane",
+    "stateId": 1049,
+    "latitude": "13.91443000",
+    "longitude": "-60.90017000"
+  },
+  {
+    "id": 36182,
+    "name": "Dennery By Pass/White Rock Gardens",
+    "stateId": 1049,
+    "latitude": "13.91424000",
+    "longitude": "-60.89333000"
+  },
+  {
+    "id": 36183,
+    "name": "Dennery Village",
+    "stateId": 1049,
+    "latitude": "13.91099000",
+    "longitude": "-60.89122000"
+  },
+  {
+    "id": 36499,
+    "name": "Derierre Bois",
+    "stateId": 4618,
+    "latitude": "13.76807000",
+    "longitude": "-60.97725000"
+  },
+  {
+    "id": 36500,
+    "name": "Derierre Fort/Old Victoria Road",
+    "stateId": 743,
+    "latitude": "13.99474000",
+    "longitude": "-60.98513000"
+  },
+  {
+    "id": 36501,
+    "name": "Derierre Morne",
+    "stateId": 4618,
+    "latitude": "13.74126000",
+    "longitude": "-60.96057000"
+  },
+  {
+    "id": 36515,
+    "name": "Derniere Riviere",
+    "stateId": 1049,
+    "latitude": "13.95679000",
+    "longitude": "-60.92578000"
+  },
+  {
+    "id": 36516,
+    "name": "Derniere Riviere/Fond Maricient",
+    "stateId": 1049,
+    "latitude": "13.95130000",
+    "longitude": "-60.92218000"
+  },
+  {
+    "id": 36517,
+    "name": "Derniere Riviere/Mardi Gras/Morne Caca Cochon",
+    "stateId": 1049,
+    "latitude": "13.96288000",
+    "longitude": "-60.92029000"
+  },
+  {
+    "id": 36518,
+    "name": "Derniere Riviere/Morne Panache",
+    "stateId": 1049,
+    "latitude": "13.95252000",
+    "longitude": "-60.92919000"
+  },
+  {
+    "id": 36522,
+    "name": "Derriere Lagoon",
+    "stateId": 187,
+    "latitude": "13.94168000",
+    "longitude": "-61.01891000"
+  },
+  {
+    "id": 36523,
+    "name": "Derriere Morne",
+    "stateId": 864,
+    "latitude": "13.80916000",
+    "longitude": "-61.05101000"
+  },
+  {
+    "id": 36550,
+    "name": "Des Barras",
+    "stateId": 1455,
+    "latitude": "13.99949000",
+    "longitude": "-60.90166000"
+  },
+  {
+    "id": 36551,
+    "name": "Des Barras/Cacolie",
+    "stateId": 1455,
+    "latitude": "14.01687000",
+    "longitude": "-60.90097000"
+  },
+  {
+    "id": 36552,
+    "name": "Des Blanchard",
+    "stateId": 2634,
+    "latitude": "13.81155000",
+    "longitude": "-60.93423000"
+  },
+  {
+    "id": 36601,
+    "name": "Despinoze",
+    "stateId": 1049,
+    "latitude": "13.94971000",
+    "longitude": "-60.91182000"
+  },
+  {
+    "id": 36603,
+    "name": "Desrameaux",
+    "stateId": 1455,
+    "latitude": "14.03681000",
+    "longitude": "-60.92697000"
+  },
+  {
+    "id": 36604,
+    "name": "Desruisseaux",
+    "stateId": 2634,
+    "latitude": "13.79640000",
+    "longitude": "-60.93540000"
+  },
+  {
+    "id": 36689,
+    "name": "Deville",
+    "stateId": 4091,
+    "latitude": "13.81372000",
+    "longitude": "-61.05049000"
+  },
+  {
+    "id": 36849,
+    "name": "Diamond/Diamond Estate",
+    "stateId": 4091,
+    "latitude": "13.85168000",
+    "longitude": "-61.04352000"
+  },
+  {
+    "id": 37550,
+    "name": "Docamel/La Resource",
+    "stateId": 4618,
+    "latitude": "13.74202000",
+    "longitude": "-60.95604000"
+  },
+  {
+    "id": 38684,
+    "name": "Dubonnaire",
+    "stateId": 1049,
+    "latitude": "13.92808000",
+    "longitude": "-60.92336000"
+  },
+  {
+    "id": 38692,
+    "name": "Dubrassay",
+    "stateId": 743,
+    "latitude": "13.98382000",
+    "longitude": "-60.97154000"
+  },
+  {
+    "id": 38760,
+    "name": "Dugard",
+    "stateId": 864,
+    "latitude": "13.80386000",
+    "longitude": "-61.02831000"
+  },
+  {
+    "id": 38761,
+    "name": "Dugard",
+    "stateId": 2634,
+    "latitude": "13.81090000",
+    "longitude": "-60.91415000"
+  },
+  {
+    "id": 39040,
+    "name": "Dupre",
+    "stateId": 864,
+    "latitude": "13.79435000",
+    "longitude": "-61.02947000"
+  },
+  {
+    "id": 39055,
+    "name": "Durandeau",
+    "stateId": 187,
+    "latitude": "13.92277000",
+    "longitude": "-60.99512000"
+  },
+  {
+    "id": 39864,
+    "name": "Eau Piquant/St Urbain",
+    "stateId": 4618,
+    "latitude": "13.76025000",
+    "longitude": "-60.94012000"
+  },
+  {
+    "id": 41946,
+    "name": "En Bamboo",
+    "stateId": 4618,
+    "latitude": "13.78155000",
+    "longitude": "-60.94763000"
+  },
+  {
+    "id": 41948,
+    "name": "En Pois Doux/Babonneau",
+    "stateId": 743,
+    "latitude": "13.98853000",
+    "longitude": "-60.94099000"
+  },
+  {
+    "id": 41951,
+    "name": "Enbar Pwin",
+    "stateId": 187,
+    "latitude": "13.91175000",
+    "longitude": "-60.99266000"
+  },
+  {
+    "id": 42155,
+    "name": "Entrepot",
+    "stateId": 743,
+    "latitude": "13.99978000",
+    "longitude": "-60.97953000"
+  },
+  {
+    "id": 42481,
+    "name": "Escap",
+    "stateId": 2634,
+    "latitude": "13.83031000",
+    "longitude": "-60.89673000"
+  },
+  {
+    "id": 42619,
+    "name": "Esperance",
+    "stateId": 864,
+    "latitude": "13.80775000",
+    "longitude": "-61.05331000"
+  },
+  {
+    "id": 42620,
+    "name": "Esperance",
+    "stateId": 4091,
+    "latitude": "13.84562000",
+    "longitude": "-61.03713000"
+  },
+  {
+    "id": 42621,
+    "name": "Esperance",
+    "stateId": 4618,
+    "latitude": "13.78854000",
+    "longitude": "-60.96108000"
+  },
+  {
+    "id": 42889,
+    "name": "Etangs",
+    "stateId": 4091,
+    "latitude": "13.81902000",
+    "longitude": "-61.04056000"
+  },
+  {
+    "id": 43674,
+    "name": "Faux A Chaud",
+    "stateId": 743,
+    "latitude": "14.00878000",
+    "longitude": "-60.99558000"
+  },
+  {
+    "id": 43999,
+    "name": "Ferrand",
+    "stateId": 743,
+    "latitude": "13.98684000",
+    "longitude": "-60.98494000"
+  },
+  {
+    "id": 44520,
+    "name": "Floissac/Marc",
+    "stateId": 743,
+    "latitude": "13.96283000",
+    "longitude": "-60.95880000"
+  },
+  {
+    "id": 44750,
+    "name": "Fond Assau/Babonneau",
+    "stateId": 743,
+    "latitude": "13.99491000",
+    "longitude": "-60.93626000"
+  },
+  {
+    "id": 44752,
+    "name": "Fond Berange",
+    "stateId": 2183,
+    "latitude": "13.78238000",
+    "longitude": "-61.00346000"
+  },
+  {
+    "id": 44753,
+    "name": "Fond Bernier",
+    "stateId": 4091,
+    "latitude": "13.85845000",
+    "longitude": "-61.05949000"
+  },
+  {
+    "id": 44754,
+    "name": "Fond Cacoa",
+    "stateId": 4091,
+    "latitude": "13.85442000",
+    "longitude": "-61.05077000"
+  },
+  {
+    "id": 44755,
+    "name": "Fond Canie",
+    "stateId": 743,
+    "latitude": "13.99195000",
+    "longitude": "-60.95954000"
+  },
+  {
+    "id": 44756,
+    "name": "Fond Capeche",
+    "stateId": 4618,
+    "latitude": "13.77449000",
+    "longitude": "-60.94835000"
+  },
+  {
+    "id": 44757,
+    "name": "Fond D'Lor/Dugard",
+    "stateId": 2634,
+    "latitude": "13.81069000",
+    "longitude": "-60.92119000"
+  },
+  {
+    "id": 44758,
+    "name": "Fond Doux",
+    "stateId": 4091,
+    "latitude": "13.82096000",
+    "longitude": "-61.04952000"
+  },
+  {
+    "id": 44759,
+    "name": "Fond Estate",
+    "stateId": 2634,
+    "latitude": "13.84243000",
+    "longitude": "-60.91862000"
+  },
+  {
+    "id": 44760,
+    "name": "Fond Gens Libre",
+    "stateId": 4091,
+    "latitude": "13.80791000",
+    "longitude": "-61.06259000"
+  },
+  {
+    "id": 44762,
+    "name": "Fond Sabot",
+    "stateId": 4618,
+    "latitude": "13.77659000",
+    "longitude": "-60.95546000"
+  },
+  {
+    "id": 44767,
+    "name": "Fond/Desruisseaux",
+    "stateId": 2634,
+    "latitude": "13.79421000",
+    "longitude": "-60.94128000"
+  },
+  {
+    "id": 44955,
+    "name": "Forestiere",
+    "stateId": 743,
+    "latitude": "13.97775000",
+    "longitude": "-60.95766000"
+  },
+  {
+    "id": 45432,
+    "name": "Franciou",
+    "stateId": 864,
+    "latitude": "13.80400000",
+    "longitude": "-61.05448000"
+  },
+  {
+    "id": 46574,
+    "name": "Gadette",
+    "stateId": 1049,
+    "latitude": "13.95937000",
+    "longitude": "-60.91029000"
+  },
+  {
+    "id": 47235,
+    "name": "Garrand",
+    "stateId": 1455,
+    "latitude": "14.00424000",
+    "longitude": "-60.93270000"
+  },
+  {
+    "id": 47433,
+    "name": "Gayabois",
+    "stateId": 2183,
+    "latitude": "13.78643000",
+    "longitude": "-61.01835000"
+  },
+  {
+    "id": 48083,
+    "name": "Gentil",
+    "stateId": 2183,
+    "latitude": "13.76816000",
+    "longitude": "-60.98877000"
+  },
+  {
+    "id": 48102,
+    "name": "George Charles Boulevard",
+    "stateId": 743,
+    "latitude": "14.00499000",
+    "longitude": "-60.98673000"
+  },
+  {
+    "id": 48295,
+    "name": "Getrine",
+    "stateId": 2183,
+    "latitude": "13.78192000",
+    "longitude": "-61.00741000"
+  },
+  {
+    "id": 48670,
+    "name": "Girard",
+    "stateId": 743,
+    "latitude": "14.00004000",
+    "longitude": "-60.95960000"
+  },
+  {
+    "id": 48682,
+    "name": "Giraud",
+    "stateId": 2183,
+    "latitude": "13.79254000",
+    "longitude": "-61.00843000"
+  },
+  {
+    "id": 49185,
+    "name": "Goergeville",
+    "stateId": 743,
+    "latitude": "14.01311000",
+    "longitude": "-60.98446000"
+  },
+  {
+    "id": 49377,
+    "name": "Gomier",
+    "stateId": 2634,
+    "latitude": "13.81485000",
+    "longitude": "-60.95252000"
+  },
+  {
+    "id": 49469,
+    "name": "Goodlands",
+    "stateId": 743,
+    "latitude": "13.99121000",
+    "longitude": "-60.99840000"
+  },
+  {
+    "id": 49820,
+    "name": "Gouette",
+    "stateId": 2634,
+    "latitude": "13.80650000",
+    "longitude": "-60.93964000"
+  },
+  {
+    "id": 49942,
+    "name": "Grace",
+    "stateId": 4618,
+    "latitude": "13.77678000",
+    "longitude": "-60.96637000"
+  },
+  {
+    "id": 50185,
+    "name": "Grand Riviere",
+    "stateId": 1455,
+    "latitude": "14.03546000",
+    "longitude": "-60.95152000"
+  },
+  {
+    "id": 50203,
+    "name": "Grande Ravine",
+    "stateId": 1049,
+    "latitude": "13.94263000",
+    "longitude": "-60.93404000"
+  },
+  {
+    "id": 50204,
+    "name": "Grande Riviere",
+    "stateId": 1049,
+    "latitude": "13.93306000",
+    "longitude": "-60.93239000"
+  },
+  {
+    "id": 50205,
+    "name": "Grande Riviere/Assou Canal",
+    "stateId": 1455,
+    "latitude": "14.03975000",
+    "longitude": "-60.95121000"
+  },
+  {
+    "id": 50206,
+    "name": "Grande Riviere/Des Branch",
+    "stateId": 1049,
+    "latitude": "13.93383000",
+    "longitude": "-60.93499000"
+  },
+  {
+    "id": 50207,
+    "name": "Grande Riviere/En Leur Morne/Discompere",
+    "stateId": 1049,
+    "latitude": "13.93223000",
+    "longitude": "-60.93461000"
+  },
+  {
+    "id": 50208,
+    "name": "Grande Riviere/Funier",
+    "stateId": 1049,
+    "latitude": "13.93240000",
+    "longitude": "-60.93305000"
+  },
+  {
+    "id": 50209,
+    "name": "Grande Riviere/Ingle Woods",
+    "stateId": 1455,
+    "latitude": "14.03091000",
+    "longitude": "-60.95592000"
+  },
+  {
+    "id": 50210,
+    "name": "Grande Riviere/Morne Caca Cochon",
+    "stateId": 1049,
+    "latitude": "13.92960000",
+    "longitude": "-60.93794000"
+  },
+  {
+    "id": 50211,
+    "name": "Grande Riviere/Morne Serpent",
+    "stateId": 1455,
+    "latitude": "14.03509000",
+    "longitude": "-60.96060000"
+  },
+  {
+    "id": 50212,
+    "name": "Grande Riviere/Norbert",
+    "stateId": 1455,
+    "latitude": "14.04317000",
+    "longitude": "-60.94933000"
+  },
+  {
+    "id": 50213,
+    "name": "Grande Riviere/Piat",
+    "stateId": 1455,
+    "latitude": "14.03926000",
+    "longitude": "-60.94361000"
+  },
+  {
+    "id": 50214,
+    "name": "Grande Riviere/White Rock",
+    "stateId": 1455,
+    "latitude": "14.03618000",
+    "longitude": "-60.95556000"
+  },
+  {
+    "id": 50357,
+    "name": "Grass Street",
+    "stateId": 743,
+    "latitude": "14.00706000",
+    "longitude": "-60.98763000"
+  },
+  {
+    "id": 50542,
+    "name": "Green Gold",
+    "stateId": 743,
+    "latitude": "13.99603000",
+    "longitude": "-60.95284000"
+  },
+  {
+    "id": 50958,
+    "name": "Gros Islet",
+    "stateId": 1455,
+    "latitude": "14.06667000",
+    "longitude": "-60.95000000"
+  },
+  {
+    "id": 50959,
+    "name": "Gros Islet Town",
+    "stateId": 1455,
+    "latitude": "14.08080000",
+    "longitude": "-60.95312000"
+  },
+  {
+    "id": 50960,
+    "name": "Gros Islet/Edge Water",
+    "stateId": 1455,
+    "latitude": "14.07912000",
+    "longitude": "-60.94973000"
+  },
+  {
+    "id": 51689,
+    "name": "Guesneau",
+    "stateId": 743,
+    "latitude": "13.99084000",
+    "longitude": "-60.96486000"
+  },
+  {
+    "id": 52487,
+    "name": "H'Erelle",
+    "stateId": 2183,
+    "latitude": "13.75599000",
+    "longitude": "-60.98698000"
+  },
+  {
+    "id": 54676,
+    "name": "Hewanorra Orchard",
+    "stateId": 4618,
+    "latitude": "13.74486000",
+    "longitude": "-60.97284000"
+  },
+  {
+    "id": 54919,
+    "name": "Hill 20/Babonneau",
+    "stateId": 743,
+    "latitude": "13.99941000",
+    "longitude": "-60.94988000"
+  },
+  {
+    "id": 54934,
+    "name": "Hillcrest Gardens",
+    "stateId": 743,
+    "latitude": "14.01115000",
+    "longitude": "-60.97083000"
+  },
+  {
+    "id": 55695,
+    "name": "Honeymoon Beach",
+    "stateId": 2634,
+    "latitude": "13.77746000",
+    "longitude": "-60.90493000"
+  },
+  {
+    "id": 55784,
+    "name": "Hope Estate",
+    "stateId": 4618,
+    "latitude": "13.76477000",
+    "longitude": "-60.95831000"
+  },
+  {
+    "id": 56034,
+    "name": "Hospital Road",
+    "stateId": 743,
+    "latitude": "14.00914000",
+    "longitude": "-60.99906000"
+  },
+  {
+    "id": 58197,
+    "name": "Independence City",
+    "stateId": 743,
+    "latitude": "14.00199000",
+    "longitude": "-60.97879000"
+  },
+  {
+    "id": 58270,
+    "name": "Industrial Estate",
+    "stateId": 4618,
+    "latitude": "13.74096000",
+    "longitude": "-60.97393000"
+  },
+  {
+    "id": 58271,
+    "name": "Industry",
+    "stateId": 864,
+    "latitude": "13.79127000",
+    "longitude": "-61.05992000"
+  },
+  {
+    "id": 59673,
+    "name": "Jacmel",
+    "stateId": 187,
+    "latitude": "13.94796000",
+    "longitude": "-61.01297000"
+  },
+  {
+    "id": 59850,
+    "name": "Jalousie",
+    "stateId": 4091,
+    "latitude": "13.82811000",
+    "longitude": "-61.05891000"
+  },
+  {
+    "id": 60290,
+    "name": "Jean Baptiste",
+    "stateId": 187,
+    "latitude": "13.94704000",
+    "longitude": "-61.01578000"
+  },
+  {
+    "id": 60886,
+    "name": "John Compton Highway",
+    "stateId": 743,
+    "latitude": "14.01909000",
+    "longitude": "-60.99110000"
+  },
+  {
+    "id": 61149,
+    "name": "Joyeux",
+    "stateId": 4618,
+    "latitude": "13.78313000",
+    "longitude": "-60.96068000"
+  },
+  {
+    "id": 63836,
+    "name": "Kennedy Highway/Laborie Bypass",
+    "stateId": 2183,
+    "latitude": "13.75380000",
+    "longitude": "-60.99594000"
+  },
+  {
+    "id": 67922,
+    "name": "L'Anse Road",
+    "stateId": 743,
+    "latitude": "14.01875000",
+    "longitude": "-60.98799000"
+  },
+  {
+    "id": 67926,
+    "name": "L'Eau Mineau",
+    "stateId": 2634,
+    "latitude": "13.80672000",
+    "longitude": "-60.92103000"
+  },
+  {
+    "id": 67930,
+    "name": "L'Hermitage",
+    "stateId": 1455,
+    "latitude": "14.06521000",
+    "longitude": "-60.93967000"
+  },
+  {
+    "id": 68071,
+    "name": "La Carierre",
+    "stateId": 743,
+    "latitude": "14.01806000",
+    "longitude": "-60.98723000"
+  },
+  {
+    "id": 68081,
+    "name": "La Caye",
+    "stateId": 1049,
+    "latitude": "13.93290000",
+    "longitude": "-60.90434000"
+  },
+  {
+    "id": 68157,
+    "name": "La Clery",
+    "stateId": 743,
+    "latitude": "14.01846000",
+    "longitude": "-60.98422000"
+  },
+  {
+    "id": 68218,
+    "name": "La Courville",
+    "stateId": 2634,
+    "latitude": "13.81056000",
+    "longitude": "-60.92766000"
+  },
+  {
+    "id": 68228,
+    "name": "La Croix Chabourgh",
+    "stateId": 1455,
+    "latitude": "14.01147000",
+    "longitude": "-60.94025000"
+  },
+  {
+    "id": 68229,
+    "name": "La Croix Maingot",
+    "stateId": 743,
+    "latitude": "13.96569000",
+    "longitude": "-61.00582000"
+  },
+  {
+    "id": 68337,
+    "name": "La Fargue",
+    "stateId": 864,
+    "latitude": "13.77197000",
+    "longitude": "-61.04124000"
+  },
+  {
+    "id": 68457,
+    "name": "La Guerre",
+    "stateId": 1455,
+    "latitude": "14.02191000",
+    "longitude": "-60.92491000"
+  },
+  {
+    "id": 68458,
+    "name": "La Guerre/Chicken Back Street",
+    "stateId": 1455,
+    "latitude": "14.02387000",
+    "longitude": "-60.93108000"
+  },
+  {
+    "id": 68473,
+    "name": "La Haut",
+    "stateId": 2183,
+    "latitude": "13.79207000",
+    "longitude": "-61.00014000"
+  },
+  {
+    "id": 68474,
+    "name": "La Haut",
+    "stateId": 4091,
+    "latitude": "13.86276000",
+    "longitude": "-61.05584000"
+  },
+  {
+    "id": 68783,
+    "name": "La Pansee",
+    "stateId": 743,
+    "latitude": "14.01368000",
+    "longitude": "-60.98187000"
+  },
+  {
+    "id": 68821,
+    "name": "La Pearle",
+    "stateId": 4091,
+    "latitude": "13.85740000",
+    "longitude": "-61.04760000"
+  },
+  {
+    "id": 68826,
+    "name": "La Pelle",
+    "stateId": 1049,
+    "latitude": "13.94096000",
+    "longitude": "-60.90569000"
+  },
+  {
+    "id": 68832,
+    "name": "La Perle",
+    "stateId": 2183,
+    "latitude": "13.76483000",
+    "longitude": "-61.02088000"
+  },
+  {
+    "id": 68876,
+    "name": "La Pointe",
+    "stateId": 864,
+    "latitude": "13.79443000",
+    "longitude": "-61.06497000"
+  },
+  {
+    "id": 68877,
+    "name": "La Pointe",
+    "stateId": 1049,
+    "latitude": "13.91525000",
+    "longitude": "-60.88830000"
+  },
+  {
+    "id": 68878,
+    "name": "La Pointe",
+    "stateId": 2634,
+    "latitude": "13.84593000",
+    "longitude": "-60.89332000"
+  },
+  {
+    "id": 68951,
+    "name": "La Resource",
+    "stateId": 4618,
+    "latitude": "13.74799000",
+    "longitude": "-60.96237000"
+  },
+  {
+    "id": 68952,
+    "name": "La Ressource",
+    "stateId": 1049,
+    "latitude": "13.94293000",
+    "longitude": "-60.91585000"
+  },
+  {
+    "id": 68954,
+    "name": "La Retraite",
+    "stateId": 4618,
+    "latitude": "13.75944000",
+    "longitude": "-60.96632000"
+  },
+  {
+    "id": 69082,
+    "name": "La Tille",
+    "stateId": 2634,
+    "latitude": "13.82744000",
+    "longitude": "-60.91716000"
+  },
+  {
+    "id": 69090,
+    "name": "La Toc",
+    "stateId": 743,
+    "latitude": "14.00824000",
+    "longitude": "-61.00404000"
+  },
+  {
+    "id": 69107,
+    "name": "La Tourney/Cedar Heights",
+    "stateId": 4618,
+    "latitude": "13.74114000",
+    "longitude": "-60.96517000"
+  },
+  {
+    "id": 69110,
+    "name": "La Trielle",
+    "stateId": 187,
+    "latitude": "13.94014000",
+    "longitude": "-60.99729000"
+  },
+  {
+    "id": 69275,
+    "name": "Labayee",
+    "stateId": 743,
+    "latitude": "13.94044000",
+    "longitude": "-60.97316000"
+  },
+  {
+    "id": 69300,
+    "name": "Laborie",
+    "stateId": 2183,
+    "latitude": "13.75000000",
+    "longitude": "-60.98333000"
+  },
+  {
+    "id": 70063,
+    "name": "Lamaze",
+    "stateId": 864,
+    "latitude": "13.80649000",
+    "longitude": "-61.01906000"
+  },
+  {
+    "id": 70948,
+    "name": "Lastic Hill",
+    "stateId": 743,
+    "latitude": "14.00755000",
+    "longitude": "-60.98321000"
+  },
+  {
+    "id": 71511,
+    "name": "Le Riche",
+    "stateId": 864,
+    "latitude": "13.78365000",
+    "longitude": "-61.04815000"
+  },
+  {
+    "id": 71997,
+    "name": "Lenny Hill",
+    "stateId": 4091,
+    "latitude": "13.85059000",
+    "longitude": "-61.05906000"
+  },
+  {
+    "id": 72276,
+    "name": "Leslie Land",
+    "stateId": 743,
+    "latitude": "14.00752000",
+    "longitude": "-60.98674000"
+  },
+  {
+    "id": 72525,
+    "name": "Lezy",
+    "stateId": 2634,
+    "latitude": "13.80372000",
+    "longitude": "-60.93906000"
+  },
+  {
+    "id": 74077,
+    "name": "Lombard",
+    "stateId": 2634,
+    "latitude": "13.85772000",
+    "longitude": "-60.91510000"
+  },
+  {
+    "id": 74135,
+    "name": "Londonderry",
+    "stateId": 2183,
+    "latitude": "13.77623000",
+    "longitude": "-61.01362000"
+  },
+  {
+    "id": 75273,
+    "name": "Lumiere",
+    "stateId": 1049,
+    "latitude": "13.93928000",
+    "longitude": "-60.88889000"
+  },
+  {
+    "id": 76138,
+    "name": "Macdomel",
+    "stateId": 2183,
+    "latitude": "13.77497000",
+    "longitude": "-60.98508000"
+  },
+  {
+    "id": 76510,
+    "name": "Maganier",
+    "stateId": 4618,
+    "latitude": "13.79450000",
+    "longitude": "-60.98513000"
+  },
+  {
+    "id": 76736,
+    "name": "Mahaut",
+    "stateId": 2634,
+    "latitude": "13.84391000",
+    "longitude": "-60.95397000"
+  },
+  {
+    "id": 76849,
+    "name": "Mailly Motete",
+    "stateId": 864,
+    "latitude": "13.81788000",
+    "longitude": "-61.02772000"
+  },
+  {
+    "id": 77236,
+    "name": "Malgretoute",
+    "stateId": 2634,
+    "latitude": "13.84199000",
+    "longitude": "-60.90411000"
+  },
+  {
+    "id": 77237,
+    "name": "Malgretoute",
+    "stateId": 4091,
+    "latitude": "13.84233000",
+    "longitude": "-61.05998000"
+  },
+  {
+    "id": 77527,
+    "name": "Mamiku",
+    "stateId": 2634,
+    "latitude": "13.86744000",
+    "longitude": "-60.90184000"
+  },
+  {
+    "id": 78344,
+    "name": "Marc",
+    "stateId": 743,
+    "latitude": "13.95688000",
+    "longitude": "-60.95724000"
+  },
+  {
+    "id": 78376,
+    "name": "Marchand",
+    "stateId": 743,
+    "latitude": "14.00415000",
+    "longitude": "-60.98532000"
+  },
+  {
+    "id": 78656,
+    "name": "Marigot",
+    "stateId": 743,
+    "latitude": "13.96212000",
+    "longitude": "-61.02205000"
+  },
+  {
+    "id": 78782,
+    "name": "Marisule",
+    "stateId": 1455,
+    "latitude": "14.04621000",
+    "longitude": "-60.97063000"
+  },
+  {
+    "id": 78783,
+    "name": "Marisule/Bon Air",
+    "stateId": 1455,
+    "latitude": "14.05062000",
+    "longitude": "-60.97124000"
+  },
+  {
+    "id": 78784,
+    "name": "Marisule/East Winds",
+    "stateId": 1455,
+    "latitude": "14.05407000",
+    "longitude": "-60.96849000"
+  },
+  {
+    "id": 78785,
+    "name": "Marisule/La Brellotte",
+    "stateId": 1455,
+    "latitude": "14.05710000",
+    "longitude": "-60.97183000"
+  },
+  {
+    "id": 78786,
+    "name": "Marisule/Top Of The World",
+    "stateId": 1455,
+    "latitude": "14.04385000",
+    "longitude": "-60.96885000"
+  },
+  {
+    "id": 79024,
+    "name": "Marquis Estate",
+    "stateId": 1455,
+    "latitude": "14.02960000",
+    "longitude": "-60.90732000"
+  },
+  {
+    "id": 79184,
+    "name": "Martin",
+    "stateId": 864,
+    "latitude": "13.78941000",
+    "longitude": "-61.04542000"
+  },
+  {
+    "id": 79496,
+    "name": "Massacre",
+    "stateId": 187,
+    "latitude": "13.94872000",
+    "longitude": "-61.03544000"
+  },
+  {
+    "id": 79497,
+    "name": "Massade",
+    "stateId": 1455,
+    "latitude": "14.08292000",
+    "longitude": "-60.94946000"
+  },
+  {
+    "id": 80053,
+    "name": "Maynard Hill",
+    "stateId": 743,
+    "latitude": "14.00314000",
+    "longitude": "-60.98966000"
+  },
+  {
+    "id": 81596,
+    "name": "Miami/Bexon",
+    "stateId": 743,
+    "latitude": "13.92295000",
+    "longitude": "-60.96945000"
+  },
+  {
+    "id": 81667,
+    "name": "Micoud",
+    "stateId": 2634,
+    "latitude": "13.81667000",
+    "longitude": "-60.90000000"
+  },
+  {
+    "id": 81861,
+    "name": "Migny",
+    "stateId": 4091,
+    "latitude": "13.84166000",
+    "longitude": "-61.01808000"
+  },
+  {
+    "id": 82136,
+    "name": "Millet",
+    "stateId": 187,
+    "latitude": "13.90985000",
+    "longitude": "-60.98884000"
+  },
+  {
+    "id": 82969,
+    "name": "Mocha",
+    "stateId": 4091,
+    "latitude": "13.83117000",
+    "longitude": "-61.02503000"
+  },
+  {
+    "id": 83364,
+    "name": "Mon Repos",
+    "stateId": 2634,
+    "latitude": "13.85865000",
+    "longitude": "-60.89591000"
+  },
+  {
+    "id": 83427,
+    "name": "Monchy",
+    "stateId": 1455,
+    "latitude": "14.05502000",
+    "longitude": "-60.92623000"
+  },
+  {
+    "id": 83429,
+    "name": "Monchy/Careffe",
+    "stateId": 1455,
+    "latitude": "14.05930000",
+    "longitude": "-60.95069000"
+  },
+  {
+    "id": 83430,
+    "name": "Monchy/Cletus Village",
+    "stateId": 1455,
+    "latitude": "14.05137000",
+    "longitude": "-60.92380000"
+  },
+  {
+    "id": 83431,
+    "name": "Monchy/La Borne",
+    "stateId": 1455,
+    "latitude": "14.04628000",
+    "longitude": "-60.91961000"
+  },
+  {
+    "id": 83432,
+    "name": "Monchy/La Borne/Sans Souci",
+    "stateId": 1455,
+    "latitude": "14.04504000",
+    "longitude": "-60.89961000"
+  },
+  {
+    "id": 83433,
+    "name": "Monchy/La Retraite",
+    "stateId": 1455,
+    "latitude": "14.06421000",
+    "longitude": "-60.94564000"
+  },
+  {
+    "id": 83434,
+    "name": "Monchy/Lafeuillee",
+    "stateId": 1455,
+    "latitude": "14.05950000",
+    "longitude": "-60.94086000"
+  },
+  {
+    "id": 83435,
+    "name": "Monchy/Lawi Fwen",
+    "stateId": 1455,
+    "latitude": "14.05802000",
+    "longitude": "-60.92906000"
+  },
+  {
+    "id": 83436,
+    "name": "Monchy/Malgretoute",
+    "stateId": 1455,
+    "latitude": "14.04108000",
+    "longitude": "-60.91912000"
+  },
+  {
+    "id": 83437,
+    "name": "Monchy/Moulin A Vent",
+    "stateId": 1455,
+    "latitude": "14.06283000",
+    "longitude": "-60.95025000"
+  },
+  {
+    "id": 83438,
+    "name": "Monchy/Ravine Macock",
+    "stateId": 1455,
+    "latitude": "14.04789000",
+    "longitude": "-60.92511000"
+  },
+  {
+    "id": 83439,
+    "name": "Monchy/Riviere Mitan",
+    "stateId": 1455,
+    "latitude": "14.04987000",
+    "longitude": "-60.94029000"
+  },
+  {
+    "id": 83440,
+    "name": "Monchy/Ti Dauphin",
+    "stateId": 1455,
+    "latitude": "14.04081000",
+    "longitude": "-60.93225000"
+  },
+  {
+    "id": 83441,
+    "name": "Monchy/Vieux Sucreic",
+    "stateId": 1455,
+    "latitude": "14.04996000",
+    "longitude": "-60.94992000"
+  },
+  {
+    "id": 83442,
+    "name": "Monchy/Vieux Sucreic/Bois D'Inde",
+    "stateId": 1455,
+    "latitude": "14.05613000",
+    "longitude": "-60.95151000"
+  },
+  {
+    "id": 83443,
+    "name": "Monchy/Vieux Sucreic/Careffe",
+    "stateId": 1455,
+    "latitude": "14.05652000",
+    "longitude": "-60.94948000"
+  },
+  {
+    "id": 83521,
+    "name": "Mongiraud",
+    "stateId": 1455,
+    "latitude": "14.06287000",
+    "longitude": "-60.95722000"
+  },
+  {
+    "id": 83527,
+    "name": "Mongouge",
+    "stateId": 864,
+    "latitude": "13.80301000",
+    "longitude": "-61.04524000"
+  },
+  {
+    "id": 83539,
+    "name": "Monier",
+    "stateId": 1455,
+    "latitude": "14.02951000",
+    "longitude": "-60.94098000"
+  },
+  {
+    "id": 83557,
+    "name": "Monkey Town Ciceron",
+    "stateId": 743,
+    "latitude": "13.98885000",
+    "longitude": "-61.00615000"
+  },
+  {
+    "id": 84473,
+    "name": "Monzie",
+    "stateId": 864,
+    "latitude": "13.80669000",
+    "longitude": "-61.02297000"
+  },
+  {
+    "id": 84678,
+    "name": "Moreau",
+    "stateId": 2634,
+    "latitude": "13.82676000",
+    "longitude": "-60.94238000"
+  },
+  {
+    "id": 84823,
+    "name": "Morne Assau/Babonneau",
+    "stateId": 743,
+    "latitude": "13.99079000",
+    "longitude": "-60.93241000"
+  },
+  {
+    "id": 84824,
+    "name": "Morne Bonin",
+    "stateId": 4091,
+    "latitude": "13.83174000",
+    "longitude": "-61.03285000"
+  },
+  {
+    "id": 84825,
+    "name": "Morne Cayenne",
+    "stateId": 4618,
+    "latitude": "13.78349000",
+    "longitude": "-60.95506000"
+  },
+  {
+    "id": 84826,
+    "name": "Morne Ciseaux",
+    "stateId": 187,
+    "latitude": "13.93597000",
+    "longitude": "-61.00330000"
+  },
+  {
+    "id": 84827,
+    "name": "Morne Citon",
+    "stateId": 1455,
+    "latitude": "14.03004000",
+    "longitude": "-60.92813000"
+  },
+  {
+    "id": 84828,
+    "name": "Morne D'Or",
+    "stateId": 187,
+    "latitude": "13.94931000",
+    "longitude": "-61.00601000"
+  },
+  {
+    "id": 84829,
+    "name": "Morne Dudon",
+    "stateId": 743,
+    "latitude": "14.01194000",
+    "longitude": "-60.96378000"
+  },
+  {
+    "id": 84830,
+    "name": "Morne Gomier",
+    "stateId": 2183,
+    "latitude": "13.76552000",
+    "longitude": "-60.99524000"
+  },
+  {
+    "id": 84831,
+    "name": "Morne Jacques",
+    "stateId": 864,
+    "latitude": "13.81162000",
+    "longitude": "-61.03165000"
+  },
+  {
+    "id": 84832,
+    "name": "Morne La Croix",
+    "stateId": 4091,
+    "latitude": "13.81762000",
+    "longitude": "-61.06146000"
+  },
+  {
+    "id": 84833,
+    "name": "Morne Lastic/Desruisseaux",
+    "stateId": 4091,
+    "latitude": "13.86628000",
+    "longitude": "-61.05894000"
+  },
+  {
+    "id": 84834,
+    "name": "Morne Le Blanc",
+    "stateId": 2183,
+    "latitude": "13.75868000",
+    "longitude": "-60.99913000"
+  },
+  {
+    "id": 84835,
+    "name": "Morne Panache",
+    "stateId": 1049,
+    "latitude": "13.92167000",
+    "longitude": "-60.93654000"
+  },
+  {
+    "id": 84836,
+    "name": "Morne Road",
+    "stateId": 743,
+    "latitude": "14.00544000",
+    "longitude": "-60.99693000"
+  },
+  {
+    "id": 84837,
+    "name": "Morne Rouge/Marc",
+    "stateId": 743,
+    "latitude": "13.95838000",
+    "longitude": "-60.96972000"
+  },
+  {
+    "id": 84838,
+    "name": "Morne Sion",
+    "stateId": 864,
+    "latitude": "13.79246000",
+    "longitude": "-61.05467000"
+  },
+  {
+    "id": 84839,
+    "name": "Morne Vert",
+    "stateId": 4618,
+    "latitude": "13.77899000",
+    "longitude": "-60.97617000"
+  },
+  {
+    "id": 84840,
+    "name": "Morne Vient",
+    "stateId": 2634,
+    "latitude": "13.80646000",
+    "longitude": "-60.95241000"
+  },
+  {
+    "id": 85129,
+    "name": "Motete",
+    "stateId": 864,
+    "latitude": "13.81325000",
+    "longitude": "-61.02320000"
+  },
+  {
+    "id": 85198,
+    "name": "Moule A Chique",
+    "stateId": 4618,
+    "latitude": "13.71458000",
+    "longitude": "-60.94835000"
+  },
+  {
+    "id": 85339,
+    "name": "Mount Pleasant",
+    "stateId": 743,
+    "latitude": "14.01494000",
+    "longitude": "-60.98576000"
+  },
+  {
+    "id": 86580,
+    "name": "Myette Gardens",
+    "stateId": 2634,
+    "latitude": "13.81862000",
+    "longitude": "-60.90440000"
+  },
+  {
+    "id": 88868,
+    "name": "New Development",
+    "stateId": 4091,
+    "latitude": "13.86176000",
+    "longitude": "-61.04791000"
+  },
+  {
+    "id": 88878,
+    "name": "New Field/Fiette",
+    "stateId": 864,
+    "latitude": "13.78815000",
+    "longitude": "-61.05216000"
+  },
+  {
+    "id": 89021,
+    "name": "New Village",
+    "stateId": 743,
+    "latitude": "14.01104000",
+    "longitude": "-60.98456000"
+  },
+  {
+    "id": 89022,
+    "name": "New Village",
+    "stateId": 2634,
+    "latitude": "13.82446000",
+    "longitude": "-60.89864000"
+  },
+  {
+    "id": 92229,
+    "name": "Obrier",
+    "stateId": 4618,
+    "latitude": "13.76831000",
+    "longitude": "-60.97313000"
+  },
+  {
+    "id": 92696,
+    "name": "Odsan",
+    "stateId": 743,
+    "latitude": "13.97479000",
+    "longitude": "-60.98319000"
+  },
+  {
+    "id": 93296,
+    "name": "Olibo",
+    "stateId": 2183,
+    "latitude": "13.77628000",
+    "longitude": "-60.99931000"
+  },
+  {
+    "id": 95640,
+    "name": "Paix Bouche",
+    "stateId": 1455,
+    "latitude": "14.01755000",
+    "longitude": "-60.93852000"
+  },
+  {
+    "id": 95641,
+    "name": "Paix Bouche",
+    "stateId": 2634,
+    "latitude": "13.81556000",
+    "longitude": "-60.94073000"
+  },
+  {
+    "id": 96026,
+    "name": "Palmiste",
+    "stateId": 4091,
+    "latitude": "13.85843000",
+    "longitude": "-61.05575000"
+  },
+  {
+    "id": 96027,
+    "name": "Palmiste Estate",
+    "stateId": 2634,
+    "latitude": "13.85377000",
+    "longitude": "-60.96007000"
+  },
+  {
+    "id": 96690,
+    "name": "Parc Estate",
+    "stateId": 2183,
+    "latitude": "13.79639000",
+    "longitude": "-61.01613000"
+  },
+  {
+    "id": 96839,
+    "name": "Parker'S Hill",
+    "stateId": 743,
+    "latitude": "14.00378000",
+    "longitude": "-60.99049000"
+  },
+  {
+    "id": 97248,
+    "name": "Patience",
+    "stateId": 2634,
+    "latitude": "13.85000000",
+    "longitude": "-60.90874000"
+  },
+  {
+    "id": 97320,
+    "name": "Patterson'S Gap",
+    "stateId": 743,
+    "latitude": "14.00655000",
+    "longitude": "-60.98473000"
+  },
+  {
+    "id": 97414,
+    "name": "Pavee",
+    "stateId": 743,
+    "latitude": "14.00282000",
+    "longitude": "-60.99191000"
+  },
+  {
+    "id": 97605,
+    "name": "Peart'S Gap",
+    "stateId": 743,
+    "latitude": "14.01035000",
+    "longitude": "-60.98598000"
+  },
+  {
+    "id": 98274,
+    "name": "Perou",
+    "stateId": 743,
+    "latitude": "13.95960000",
+    "longitude": "-61.00726000"
+  },
+  {
+    "id": 98998,
+    "name": "Piaye",
+    "stateId": 2183,
+    "latitude": "13.75628000",
+    "longitude": "-61.02279000"
+  },
+  {
+    "id": 99193,
+    "name": "Pierrot",
+    "stateId": 4618,
+    "latitude": "13.76857000",
+    "longitude": "-60.94381000"
+  },
+  {
+    "id": 99293,
+    "name": "Pigeon Island",
+    "stateId": 1455,
+    "latitude": "14.08965000",
+    "longitude": "-60.95724000"
+  },
+  {
+    "id": 100110,
+    "name": "Planard",
+    "stateId": 2634,
+    "latitude": "13.80521000",
+    "longitude": "-60.91540000"
+  },
+  {
+    "id": 100159,
+    "name": "Plat Pays",
+    "stateId": 4091,
+    "latitude": "13.84085000",
+    "longitude": "-61.05571000"
+  },
+  {
+    "id": 100167,
+    "name": "Plateau",
+    "stateId": 1455,
+    "latitude": "14.02612000",
+    "longitude": "-60.93474000"
+  },
+  {
+    "id": 100454,
+    "name": "Plut",
+    "stateId": 4618,
+    "latitude": "13.77417000",
+    "longitude": "-60.96076000"
+  },
+  {
+    "id": 100805,
+    "name": "Pointe Seraphine",
+    "stateId": 743,
+    "latitude": "14.01575000",
+    "longitude": "-60.99305000"
+  },
+  {
+    "id": 101135,
+    "name": "Pomme",
+    "stateId": 4618,
+    "latitude": "13.75792000",
+    "longitude": "-60.98147000"
+  },
+  {
+    "id": 101424,
+    "name": "Ponyon",
+    "stateId": 864,
+    "latitude": "13.79639000",
+    "longitude": "-61.04360000"
+  },
+  {
+    "id": 102714,
+    "name": "Praslin",
+    "stateId": 2634,
+    "latitude": "13.87545000",
+    "longitude": "-60.89717000"
+  },
+  {
+    "id": 105208,
+    "name": "Quarte Chemins",
+    "stateId": 743,
+    "latitude": "13.99136000",
+    "longitude": "-60.97630000"
+  },
+  {
+    "id": 105667,
+    "name": "Rabot",
+    "stateId": 4091,
+    "latitude": "13.83380000",
+    "longitude": "-61.04540000"
+  },
+  {
+    "id": 106069,
+    "name": "Rameau",
+    "stateId": 2634,
+    "latitude": "13.83055000",
+    "longitude": "-60.92375000"
+  },
+  {
+    "id": 106508,
+    "name": "Raveneau",
+    "stateId": 864,
+    "latitude": "13.81018000",
+    "longitude": "-61.04642000"
+  },
+  {
+    "id": 106530,
+    "name": "Ravine Chabot",
+    "stateId": 743,
+    "latitude": "14.00051000",
+    "longitude": "-60.97617000"
+  },
+  {
+    "id": 106531,
+    "name": "Ravine Claire",
+    "stateId": 4091,
+    "latitude": "13.85262000",
+    "longitude": "-61.02892000"
+  },
+  {
+    "id": 106532,
+    "name": "Ravine Poisson",
+    "stateId": 743,
+    "latitude": "13.93156000",
+    "longitude": "-60.96849000"
+  },
+  {
+    "id": 106533,
+    "name": "Ravine Touterelle",
+    "stateId": 743,
+    "latitude": "14.00325000",
+    "longitude": "-60.98806000"
+  },
+  {
+    "id": 106838,
+    "name": "Reduit",
+    "stateId": 1455,
+    "latitude": "14.06829000",
+    "longitude": "-60.96145000"
+  },
+  {
+    "id": 106839,
+    "name": "Reduit Orchard",
+    "stateId": 1455,
+    "latitude": "14.06594000",
+    "longitude": "-60.95340000"
+  },
+  {
+    "id": 106840,
+    "name": "Reduit Park",
+    "stateId": 1455,
+    "latitude": "14.06622000",
+    "longitude": "-60.95560000"
+  },
+  {
+    "id": 107251,
+    "name": "Resinard/Babonneau",
+    "stateId": 743,
+    "latitude": "14.00289000",
+    "longitude": "-60.94200000"
+  },
+  {
+    "id": 107318,
+    "name": "Reunion",
+    "stateId": 864,
+    "latitude": "13.77861000",
+    "longitude": "-61.04531000"
+  },
+  {
+    "id": 107604,
+    "name": "Riche Fond",
+    "stateId": 1049,
+    "latitude": "13.93644000",
+    "longitude": "-60.92026000"
+  },
+  {
+    "id": 107605,
+    "name": "Riche Fond/La Belle Vie",
+    "stateId": 1049,
+    "latitude": "13.93782000",
+    "longitude": "-60.92908000"
+  },
+  {
+    "id": 107606,
+    "name": "Riche Fond/New Village",
+    "stateId": 1049,
+    "latitude": "13.93648000",
+    "longitude": "-60.92394000"
+  },
+  {
+    "id": 108181,
+    "name": "River Doree",
+    "stateId": 864,
+    "latitude": "13.76769000",
+    "longitude": "-61.03646000"
+  },
+  {
+    "id": 108228,
+    "name": "Riverside Road",
+    "stateId": 691,
+    "latitude": "13.89408000",
+    "longitude": "-61.04989000"
+  },
+  {
+    "id": 108400,
+    "name": "Roblot",
+    "stateId": 864,
+    "latitude": "13.80323000",
+    "longitude": "-61.02297000"
+  },
+  {
+    "id": 108551,
+    "name": "Rock Hall",
+    "stateId": 743,
+    "latitude": "14.00009000",
+    "longitude": "-60.98928000"
+  },
+  {
+    "id": 108682,
+    "name": "Rodney Bay",
+    "stateId": 1455,
+    "latitude": "14.07292000",
+    "longitude": "-60.95443000"
+  },
+  {
+    "id": 108683,
+    "name": "Rodney Heights",
+    "stateId": 1455,
+    "latitude": "14.06731000",
+    "longitude": "-60.94906000"
+  },
+  {
+    "id": 109162,
+    "name": "Rose Hill",
+    "stateId": 743,
+    "latitude": "14.00816000",
+    "longitude": "-60.98560000"
+  },
+  {
+    "id": 109173,
+    "name": "Roseau Valley",
+    "stateId": 187,
+    "latitude": "13.95317000",
+    "longitude": "-61.02676000"
+  },
+  {
+    "id": 109719,
+    "name": "Ruby Estate",
+    "stateId": 4091,
+    "latitude": "13.85812000",
+    "longitude": "-61.04983000"
+  },
+  {
+    "id": 111022,
+    "name": "Saint Marie Road",
+    "stateId": 2634,
+    "latitude": "13.85444000",
+    "longitude": "-60.91803000"
+  },
+  {
+    "id": 112643,
+    "name": "Saltibus",
+    "stateId": 2183,
+    "latitude": "13.81211000",
+    "longitude": "-61.00982000"
+  },
+  {
+    "id": 115665,
+    "name": "San Soucis",
+    "stateId": 743,
+    "latitude": "14.01695000",
+    "longitude": "-60.98985000"
+  },
+  {
+    "id": 115842,
+    "name": "Sand De Feu",
+    "stateId": 743,
+    "latitude": "13.92781000",
+    "longitude": "-60.98026000"
+  },
+  {
+    "id": 117947,
+    "name": "Saphire",
+    "stateId": 2183,
+    "latitude": "13.75670000",
+    "longitude": "-61.01209000"
+  },
+  {
+    "id": 118163,
+    "name": "Sarot",
+    "stateId": 743,
+    "latitude": "13.94212000",
+    "longitude": "-60.98489000"
+  },
+  {
+    "id": 118438,
+    "name": "Saut",
+    "stateId": 2634,
+    "latitude": "13.81272000",
+    "longitude": "-60.94375000"
+  },
+  {
+    "id": 118456,
+    "name": "Sauzay",
+    "stateId": 864,
+    "latitude": "13.77743000",
+    "longitude": "-61.03368000"
+  },
+  {
+    "id": 118476,
+    "name": "Savannes",
+    "stateId": 2634,
+    "latitude": "13.77098000",
+    "longitude": "-60.92017000"
+  },
+  {
+    "id": 118477,
+    "name": "Savannesgeorge/Constitution",
+    "stateId": 864,
+    "latitude": "13.77855000",
+    "longitude": "-61.05139000"
+  },
+  {
+    "id": 123746,
+    "name": "Soufriere Estate",
+    "stateId": 4091,
+    "latitude": "13.85174000",
+    "longitude": "-61.05420000"
+  },
+  {
+    "id": 123748,
+    "name": "Soufrière",
+    "stateId": 4091,
+    "latitude": "13.85616000",
+    "longitude": "-61.05660000"
+  },
+  {
+    "id": 124644,
+    "name": "St Helen Estate",
+    "stateId": 2634,
+    "latitude": "13.78735000",
+    "longitude": "-60.90726000"
+  },
+  {
+    "id": 124655,
+    "name": "St Jude'S Highway",
+    "stateId": 4618,
+    "latitude": "13.75867000",
+    "longitude": "-60.97360000"
+  },
+  {
+    "id": 124659,
+    "name": "St Lawrence",
+    "stateId": 187,
+    "latitude": "13.93852000",
+    "longitude": "-61.02503000"
+  },
+  {
+    "id": 124660,
+    "name": "St Lawrence Estate",
+    "stateId": 187,
+    "latitude": "13.94236000",
+    "longitude": "-61.04248000"
+  },
+  {
+    "id": 124668,
+    "name": "St Phillip",
+    "stateId": 4091,
+    "latitude": "13.84432000",
+    "longitude": "-61.02766000"
+  },
+  {
+    "id": 124687,
+    "name": "St. Joseph Estate",
+    "stateId": 1049,
+    "latitude": "13.90066000",
+    "longitude": "-60.91444000"
+  },
+  {
+    "id": 125508,
+    "name": "Stonefield",
+    "stateId": 4091,
+    "latitude": "13.84513000",
+    "longitude": "-61.05990000"
+  },
+  {
+    "id": 126225,
+    "name": "Sulphur Springs",
+    "stateId": 4091,
+    "latitude": "13.84002000",
+    "longitude": "-61.04512000"
+  },
+  {
+    "id": 126328,
+    "name": "Summersdale",
+    "stateId": 743,
+    "latitude": "14.02582000",
+    "longitude": "-60.97644000"
+  },
+  {
+    "id": 126389,
+    "name": "Sunbilt",
+    "stateId": 743,
+    "latitude": "14.00561000",
+    "longitude": "-60.97922000"
+  },
+  {
+    "id": 126444,
+    "name": "Sunny Acres",
+    "stateId": 743,
+    "latitude": "14.02810000",
+    "longitude": "-60.97361000"
+  },
+  {
+    "id": 128531,
+    "name": "Talvern",
+    "stateId": 743,
+    "latitude": "13.99578000",
+    "longitude": "-60.94410000"
+  },
+  {
+    "id": 128933,
+    "name": "Tapion",
+    "stateId": 743,
+    "latitude": "14.01383000",
+    "longitude": "-61.00489000"
+  },
+  {
+    "id": 130239,
+    "name": "Tete Chemin",
+    "stateId": 187,
+    "latitude": "13.89092000",
+    "longitude": "-60.99785000"
+  },
+  {
+    "id": 130240,
+    "name": "Tete Morne",
+    "stateId": 2183,
+    "latitude": "13.76160000",
+    "longitude": "-61.03397000"
+  },
+  {
+    "id": 130241,
+    "name": "Tete Morne/Morne Andrew",
+    "stateId": 4618,
+    "latitude": "13.77114000",
+    "longitude": "-60.95194000"
+  },
+  {
+    "id": 130417,
+    "name": "Thamazo",
+    "stateId": 1049,
+    "latitude": "13.93245000",
+    "longitude": "-60.94786000"
+  },
+  {
+    "id": 130486,
+    "name": "The Morne",
+    "stateId": 743,
+    "latitude": "13.99778000",
+    "longitude": "-60.99620000"
+  },
+  {
+    "id": 130524,
+    "name": "Theodrine",
+    "stateId": 691,
+    "latitude": "13.92878000",
+    "longitude": "-61.04972000"
+  },
+  {
+    "id": 130802,
+    "name": "Ti Boug",
+    "stateId": 4091,
+    "latitude": "13.83744000",
+    "longitude": "-61.02460000"
+  },
+  {
+    "id": 130803,
+    "name": "Ti Colon",
+    "stateId": 743,
+    "latitude": "13.97071000",
+    "longitude": "-61.00229000"
+  },
+  {
+    "id": 130804,
+    "name": "Ti Delcer",
+    "stateId": 4091,
+    "latitude": "13.83386000",
+    "longitude": "-61.06410000"
+  },
+  {
+    "id": 130806,
+    "name": "Ti Riviere",
+    "stateId": 2634,
+    "latitude": "13.83006000",
+    "longitude": "-60.93774000"
+  },
+  {
+    "id": 130807,
+    "name": "Ti Rocher",
+    "stateId": 743,
+    "latitude": "13.99490000",
+    "longitude": "-60.97110000"
+  },
+  {
+    "id": 130808,
+    "name": "Ti Rocher",
+    "stateId": 2634,
+    "latitude": "13.81734000",
+    "longitude": "-60.92858000"
+  },
+  {
+    "id": 132008,
+    "name": "Toraille",
+    "stateId": 4091,
+    "latitude": "13.85704000",
+    "longitude": "-61.03296000"
+  },
+  {
+    "id": 132507,
+    "name": "Town",
+    "stateId": 4091,
+    "latitude": "13.85491000",
+    "longitude": "-61.05764000"
+  },
+  {
+    "id": 132508,
+    "name": "Town",
+    "stateId": 4618,
+    "latitude": "13.72835000",
+    "longitude": "-60.95408000"
+  },
+  {
+    "id": 133091,
+    "name": "Trois Piton",
+    "stateId": 743,
+    "latitude": "13.98890000",
+    "longitude": "-60.97259000"
+  },
+  {
+    "id": 133151,
+    "name": "Trou Cochan/Marc",
+    "stateId": 743,
+    "latitude": "13.94220000",
+    "longitude": "-60.96199000"
+  },
+  {
+    "id": 133152,
+    "name": "Trou Florent/Marc",
+    "stateId": 743,
+    "latitude": "13.94525000",
+    "longitude": "-60.95382000"
+  },
+  {
+    "id": 133153,
+    "name": "Trou Rouge",
+    "stateId": 743,
+    "latitude": "14.00602000",
+    "longitude": "-60.98950000"
+  },
+  {
+    "id": 133159,
+    "name": "Troumassee",
+    "stateId": 2634,
+    "latitude": "13.80892000",
+    "longitude": "-60.90341000"
+  },
+  {
+    "id": 134931,
+    "name": "Union",
+    "stateId": 1455,
+    "latitude": "14.02907000",
+    "longitude": "-60.96480000"
+  },
+  {
+    "id": 134977,
+    "name": "Union Terrace",
+    "stateId": 1455,
+    "latitude": "14.02654000",
+    "longitude": "-60.95710000"
+  },
+  {
+    "id": 134978,
+    "name": "Union Vale",
+    "stateId": 4091,
+    "latitude": "13.81103000",
+    "longitude": "-61.05686000"
+  },
+  {
+    "id": 134979,
+    "name": "Union/Ti Morne",
+    "stateId": 1455,
+    "latitude": "14.02283000",
+    "longitude": "-60.95272000"
+  },
+  {
+    "id": 136533,
+    "name": "Vanard",
+    "stateId": 187,
+    "latitude": "13.93558000",
+    "longitude": "-60.99363000"
+  },
+  {
+    "id": 137226,
+    "name": "Venus",
+    "stateId": 187,
+    "latitude": "13.91558000",
+    "longitude": "-61.01676000"
+  },
+  {
+    "id": 137782,
+    "name": "Victoria",
+    "stateId": 864,
+    "latitude": "13.81116000",
+    "longitude": "-61.03963000"
+  },
+  {
+    "id": 137819,
+    "name": "Vide Bouteille",
+    "stateId": 743,
+    "latitude": "14.02439000",
+    "longitude": "-60.98066000"
+  },
+  {
+    "id": 137907,
+    "name": "Vieux Fort",
+    "stateId": 4618,
+    "latitude": "13.71667000",
+    "longitude": "-60.95000000"
+  },
+  {
+    "id": 137908,
+    "name": "Vieux Fort/Laborie Highway",
+    "stateId": 4618,
+    "latitude": "13.73197000",
+    "longitude": "-60.95477000"
+  },
+  {
+    "id": 137936,
+    "name": "Vige'",
+    "stateId": 4618,
+    "latitude": "13.78692000",
+    "longitude": "-60.93550000"
+  },
+  {
+    "id": 137947,
+    "name": "Vigie",
+    "stateId": 743,
+    "latitude": "14.02053000",
+    "longitude": "-60.99611000"
+  },
+  {
+    "id": 138544,
+    "name": "Village",
+    "stateId": 187,
+    "latitude": "13.93939000",
+    "longitude": "-61.04150000"
+  },
+  {
+    "id": 138545,
+    "name": "Village",
+    "stateId": 691,
+    "latitude": "13.90526000",
+    "longitude": "-61.06108000"
+  },
+  {
+    "id": 138546,
+    "name": "Village",
+    "stateId": 864,
+    "latitude": "13.77464000",
+    "longitude": "-61.05020000"
+  },
+  {
+    "id": 138547,
+    "name": "Village",
+    "stateId": 2183,
+    "latitude": "13.74927000",
+    "longitude": "-60.99375000"
+  },
+  {
+    "id": 138548,
+    "name": "Village",
+    "stateId": 2634,
+    "latitude": "13.81904000",
+    "longitude": "-60.89692000"
+  },
+  {
+    "id": 138559,
+    "name": "Village/Petite Bourgh",
+    "stateId": 187,
+    "latitude": "13.93801000",
+    "longitude": "-61.04184000"
+  },
+  {
+    "id": 139745,
+    "name": "Volet",
+    "stateId": 2634,
+    "latitude": "13.82626000",
+    "longitude": "-60.90789000"
+  },
+  {
+    "id": 141126,
+    "name": "Warwick/Daban",
+    "stateId": 2183,
+    "latitude": "13.81084000",
+    "longitude": "-61.00047000"
+  },
+  {
+    "id": 141306,
+    "name": "Waterworks",
+    "stateId": 743,
+    "latitude": "14.00498000",
+    "longitude": "-60.97635000"
+  },
+  {
+    "id": 142221,
+    "name": "Westall Group/The Mangue",
+    "stateId": 4618,
+    "latitude": "13.72707000",
+    "longitude": "-60.95312000"
+  },
+  {
+    "id": 143009,
+    "name": "Wilton'S Yard/Grave Yard",
+    "stateId": 743,
+    "latitude": "14.00968000",
+    "longitude": "-60.98639000"
+  },
+  {
+    "id": 144992,
+    "name": "Yorke Hill",
+    "stateId": 743,
+    "latitude": "14.01694000",
+    "longitude": "-60.97919000"
+  },
+  {
+    "id": 145853,
+    "name": "Zenon",
+    "stateId": 4091,
+    "latitude": "13.85953000",
+    "longitude": "-61.03394000"
+  }
+]

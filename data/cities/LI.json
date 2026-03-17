@@ -1,0 +1,79 @@
+[
+  {
+    "id": 9984,
+    "name": "Balzers",
+    "stateId": 345,
+    "latitude": "47.06665000",
+    "longitude": "9.50251000"
+  },
+  {
+    "id": 42503,
+    "name": "Eschen",
+    "stateId": 1234,
+    "latitude": "47.21071000",
+    "longitude": "9.52223000"
+  },
+  {
+    "id": 46929,
+    "name": "Gamprin",
+    "stateId": 1344,
+    "latitude": "47.22038000",
+    "longitude": "9.50935000"
+  },
+  {
+    "id": 79907,
+    "name": "Mauren",
+    "stateId": 2568,
+    "latitude": "47.21805000",
+    "longitude": "9.54420000"
+  },
+  {
+    "id": 100122,
+    "name": "Planken",
+    "stateId": 3314,
+    "latitude": "47.18516000",
+    "longitude": "9.54437000"
+  },
+  {
+    "id": 109819,
+    "name": "Ruggell",
+    "stateId": 3690,
+    "latitude": "47.23799000",
+    "longitude": "9.52540000"
+  },
+  {
+    "id": 118695,
+    "name": "Schaan",
+    "stateId": 3924,
+    "latitude": "47.16498000",
+    "longitude": "9.50867000"
+  },
+  {
+    "id": 118758,
+    "name": "Schellenberg",
+    "stateId": 3926,
+    "latitude": "47.23123000",
+    "longitude": "9.54678000"
+  },
+  {
+    "id": 132962,
+    "name": "Triesen",
+    "stateId": 4447,
+    "latitude": "47.10752000",
+    "longitude": "9.52815000"
+  },
+  {
+    "id": 132963,
+    "name": "Triesenberg",
+    "stateId": 4448,
+    "latitude": "47.11815000",
+    "longitude": "9.54197000"
+  },
+  {
+    "id": 135771,
+    "name": "Vaduz",
+    "stateId": 4551,
+    "latitude": "47.14151000",
+    "longitude": "9.52154000"
+  }
+]

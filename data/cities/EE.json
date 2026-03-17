@@ -1,0 +1,1136 @@
+[
+  {
+    "id": 251,
+    "name": "Abja-Paluoja",
+    "stateId": 4621,
+    "latitude": "58.12528000",
+    "longitude": "25.34972000"
+  },
+  {
+    "id": 2192,
+    "name": "Alatskivi",
+    "stateId": 4325,
+    "latitude": "58.59806000",
+    "longitude": "27.13361000"
+  },
+  {
+    "id": 5347,
+    "name": "Anija vald",
+    "stateId": 1535,
+    "latitude": "59.27644000",
+    "longitude": "25.48168000"
+  },
+  {
+    "id": 5626,
+    "name": "Antsla",
+    "stateId": 4668,
+    "latitude": "57.82556000",
+    "longitude": "26.54056000"
+  },
+  {
+    "id": 5627,
+    "name": "Antsla vald",
+    "stateId": 4668,
+    "latitude": "57.77738000",
+    "longitude": "26.59520000"
+  },
+  {
+    "id": 7006,
+    "name": "Aruküla",
+    "stateId": 1535,
+    "latitude": "59.36686000",
+    "longitude": "25.07618000"
+  },
+  {
+    "id": 7201,
+    "name": "Aseri",
+    "stateId": 2411,
+    "latitude": "59.45056000",
+    "longitude": "26.86750000"
+  },
+  {
+    "id": 7934,
+    "name": "Audru",
+    "stateId": 3510,
+    "latitude": "58.40861000",
+    "longitude": "24.37389000"
+  },
+  {
+    "id": 41762,
+    "name": "Elva",
+    "stateId": 4325,
+    "latitude": "58.22250000",
+    "longitude": "26.42111000"
+  },
+  {
+    "id": 52492,
+    "name": "Haabneeme",
+    "stateId": 1535,
+    "latitude": "59.51358000",
+    "longitude": "24.82225000"
+  },
+  {
+    "id": 52510,
+    "name": "Haapsalu",
+    "stateId": 2410,
+    "latitude": "58.94306000",
+    "longitude": "23.54139000"
+  },
+  {
+    "id": 52511,
+    "name": "Haapsalu linn",
+    "stateId": 2410,
+    "latitude": "58.93580000",
+    "longitude": "23.53005000"
+  },
+  {
+    "id": 52859,
+    "name": "Haljala",
+    "stateId": 2411,
+    "latitude": "59.43361000",
+    "longitude": "26.26139000"
+  },
+  {
+    "id": 52860,
+    "name": "Haljala vald",
+    "stateId": 2411,
+    "latitude": "59.45427000",
+    "longitude": "26.22015000"
+  },
+  {
+    "id": 53357,
+    "name": "Harku",
+    "stateId": 1535,
+    "latitude": "59.38641000",
+    "longitude": "24.57176000"
+  },
+  {
+    "id": 53358,
+    "name": "Harku vald",
+    "stateId": 1535,
+    "latitude": "59.39157000",
+    "longitude": "24.46206000"
+  },
+  {
+    "id": 56560,
+    "name": "Hullo",
+    "stateId": 2410,
+    "latitude": "58.99004000",
+    "longitude": "23.24441000"
+  },
+  {
+    "id": 57816,
+    "name": "Iisaku",
+    "stateId": 1646,
+    "latitude": "59.10139000",
+    "longitude": "27.30806000"
+  },
+  {
+    "id": 61479,
+    "name": "Järva-Jaani",
+    "stateId": 1797,
+    "latitude": "59.03861000",
+    "longitude": "25.88639000"
+  },
+  {
+    "id": 61480,
+    "name": "Järvakandi",
+    "stateId": 3581,
+    "latitude": "58.77889000",
+    "longitude": "24.82583000"
+  },
+  {
+    "id": 61499,
+    "name": "Jõelähtme vald",
+    "stateId": 1535,
+    "latitude": "59.43996000",
+    "longitude": "25.13535000"
+  },
+  {
+    "id": 61500,
+    "name": "Jõgeva",
+    "stateId": 1798,
+    "latitude": "58.74667000",
+    "longitude": "26.39389000"
+  },
+  {
+    "id": 61501,
+    "name": "Jõgeva vald",
+    "stateId": 1798,
+    "latitude": "58.78732000",
+    "longitude": "26.38122000"
+  },
+  {
+    "id": 61502,
+    "name": "Jõhvi",
+    "stateId": 1646,
+    "latitude": "59.35917000",
+    "longitude": "27.42111000"
+  },
+  {
+    "id": 61503,
+    "name": "Jõhvi vald",
+    "stateId": 1646,
+    "latitude": "59.35653000",
+    "longitude": "27.39304000"
+  },
+  {
+    "id": 61522,
+    "name": "Jüri",
+    "stateId": 1535,
+    "latitude": "59.35417000",
+    "longitude": "24.89417000"
+  },
+  {
+    "id": 62034,
+    "name": "Kadrina",
+    "stateId": 2411,
+    "latitude": "59.33472000",
+    "longitude": "26.14500000"
+  },
+  {
+    "id": 62035,
+    "name": "Kadrina vald",
+    "stateId": 2411,
+    "latitude": "59.37463000",
+    "longitude": "26.04150000"
+  },
+  {
+    "id": 62352,
+    "name": "Kallaste",
+    "stateId": 4325,
+    "latitude": "58.66312000",
+    "longitude": "27.16164000"
+  },
+  {
+    "id": 62485,
+    "name": "Kambja vald",
+    "stateId": 4325,
+    "latitude": "58.20255000",
+    "longitude": "26.68996000"
+  },
+  {
+    "id": 62719,
+    "name": "Kanepi",
+    "stateId": 3514,
+    "latitude": "57.98306000",
+    "longitude": "26.75639000"
+  },
+  {
+    "id": 62720,
+    "name": "Kanepi vald",
+    "stateId": 3514,
+    "latitude": "57.98058000",
+    "longitude": "26.76151000"
+  },
+  {
+    "id": 63083,
+    "name": "Karksi-Nuia",
+    "stateId": 4621,
+    "latitude": "58.10333000",
+    "longitude": "25.56278000"
+  },
+  {
+    "id": 63663,
+    "name": "Kehra",
+    "stateId": 1535,
+    "latitude": "59.33611000",
+    "longitude": "25.32111000"
+  },
+  {
+    "id": 63666,
+    "name": "Kehtna",
+    "stateId": 3581,
+    "latitude": "58.93028000",
+    "longitude": "24.87806000"
+  },
+  {
+    "id": 63667,
+    "name": "Kehtna vald",
+    "stateId": 3581,
+    "latitude": "58.84274000",
+    "longitude": "24.89002000"
+  },
+  {
+    "id": 63671,
+    "name": "Keila",
+    "stateId": 1535,
+    "latitude": "59.30361000",
+    "longitude": "24.41306000"
+  },
+  {
+    "id": 64515,
+    "name": "Kihnu vald",
+    "stateId": 3510,
+    "latitude": "58.13000000",
+    "longitude": "23.99002000"
+  },
+  {
+    "id": 64521,
+    "name": "Kiili",
+    "stateId": 1535,
+    "latitude": "59.30775000",
+    "longitude": "24.83776000"
+  },
+  {
+    "id": 64522,
+    "name": "Kiili vald",
+    "stateId": 1535,
+    "latitude": "59.29672000",
+    "longitude": "24.85292000"
+  },
+  {
+    "id": 64575,
+    "name": "Kilingi-Nõmme",
+    "stateId": 3510,
+    "latitude": "58.15028000",
+    "longitude": "24.96417000"
+  },
+  {
+    "id": 65227,
+    "name": "Kiviõli",
+    "stateId": 1646,
+    "latitude": "59.35306000",
+    "longitude": "26.97111000"
+  },
+  {
+    "id": 65610,
+    "name": "Koeru",
+    "stateId": 1797,
+    "latitude": "58.96306000",
+    "longitude": "26.03083000"
+  },
+  {
+    "id": 65632,
+    "name": "Kohila",
+    "stateId": 3581,
+    "latitude": "59.16806000",
+    "longitude": "24.75750000"
+  },
+  {
+    "id": 65633,
+    "name": "Kohila vald",
+    "stateId": 3581,
+    "latitude": "59.15283000",
+    "longitude": "24.73337000"
+  },
+  {
+    "id": 65643,
+    "name": "Kohtla-Järve",
+    "stateId": 1646,
+    "latitude": "59.39861000",
+    "longitude": "27.27306000"
+  },
+  {
+    "id": 65644,
+    "name": "Kohtla-Nõmme",
+    "stateId": 1646,
+    "latitude": "59.35167000",
+    "longitude": "27.17500000"
+  },
+  {
+    "id": 66137,
+    "name": "Kose",
+    "stateId": 1535,
+    "latitude": "59.46001000",
+    "longitude": "24.87824000"
+  },
+  {
+    "id": 67257,
+    "name": "Kunda",
+    "stateId": 2411,
+    "latitude": "59.49861000",
+    "longitude": "26.52611000"
+  },
+  {
+    "id": 67364,
+    "name": "Kurepalu",
+    "stateId": 4325,
+    "latitude": "58.31861000",
+    "longitude": "26.84083000"
+  },
+  {
+    "id": 67365,
+    "name": "Kuressaare",
+    "stateId": 3718,
+    "latitude": "58.24806000",
+    "longitude": "22.50389000"
+  },
+  {
+    "id": 67503,
+    "name": "Kuusalu",
+    "stateId": 1535,
+    "latitude": "59.44389000",
+    "longitude": "25.44139000"
+  },
+  {
+    "id": 67693,
+    "name": "Kärdla",
+    "stateId": 1588,
+    "latitude": "58.99778000",
+    "longitude": "22.74917000"
+  },
+  {
+    "id": 67727,
+    "name": "Kõrveküla",
+    "stateId": 4325,
+    "latitude": "58.42417000",
+    "longitude": "26.78222000"
+  },
+  {
+    "id": 69249,
+    "name": "Laagri",
+    "stateId": 1535,
+    "latitude": "59.35083000",
+    "longitude": "24.61418000"
+  },
+  {
+    "id": 72847,
+    "name": "Lihula",
+    "stateId": 3510,
+    "latitude": "58.68139000",
+    "longitude": "23.84528000"
+  },
+  {
+    "id": 72848,
+    "name": "Liiva",
+    "stateId": 3718,
+    "latitude": "58.60194000",
+    "longitude": "23.24694000"
+  },
+  {
+    "id": 73018,
+    "name": "Linaküla",
+    "stateId": 3510,
+    "latitude": "58.13722000",
+    "longitude": "23.97444000"
+  },
+  {
+    "id": 73986,
+    "name": "Loksa",
+    "stateId": 1535,
+    "latitude": "59.57639000",
+    "longitude": "25.72139000"
+  },
+  {
+    "id": 73987,
+    "name": "Loksa linn",
+    "stateId": 1535,
+    "latitude": "59.57844000",
+    "longitude": "25.71667000"
+  },
+  {
+    "id": 74301,
+    "name": "Loo",
+    "stateId": 1535,
+    "latitude": "59.43123000",
+    "longitude": "24.94949000"
+  },
+  {
+    "id": 75532,
+    "name": "Luunja",
+    "stateId": 4325,
+    "latitude": "58.35583000",
+    "longitude": "26.88083000"
+  },
+  {
+    "id": 75533,
+    "name": "Luunja vald",
+    "stateId": 4325,
+    "latitude": "58.39178000",
+    "longitude": "26.95574000"
+  },
+  {
+    "id": 75802,
+    "name": "Lääne-Nigula vald",
+    "stateId": 2410,
+    "latitude": "58.96045000",
+    "longitude": "23.74489000"
+  },
+  {
+    "id": 75912,
+    "name": "Lüganuse vald",
+    "stateId": 1646,
+    "latitude": "59.39262000",
+    "longitude": "27.07641000"
+  },
+  {
+    "id": 75991,
+    "name": "Maardu",
+    "stateId": 1535,
+    "latitude": "59.46529000",
+    "longitude": "24.98215000"
+  },
+  {
+    "id": 75992,
+    "name": "Maardu linn",
+    "stateId": 1535,
+    "latitude": "59.46385000",
+    "longitude": "24.97350000"
+  },
+  {
+    "id": 85757,
+    "name": "Muhu vald",
+    "stateId": 3718,
+    "latitude": "58.58486000",
+    "longitude": "23.25609000"
+  },
+  {
+    "id": 86455,
+    "name": "Mustvee",
+    "stateId": 1798,
+    "latitude": "58.84861000",
+    "longitude": "26.93972000"
+  },
+  {
+    "id": 86701,
+    "name": "Märjamaa",
+    "stateId": 3581,
+    "latitude": "58.90389000",
+    "longitude": "24.43056000"
+  },
+  {
+    "id": 86702,
+    "name": "Märjamaa vald",
+    "stateId": 3581,
+    "latitude": "58.90262000",
+    "longitude": "24.39423000"
+  },
+  {
+    "id": 86784,
+    "name": "Mõisaküla",
+    "stateId": 4621,
+    "latitude": "58.09222000",
+    "longitude": "25.18639000"
+  },
+  {
+    "id": 87781,
+    "name": "Narva",
+    "stateId": 1646,
+    "latitude": "59.37722000",
+    "longitude": "28.19028000"
+  },
+  {
+    "id": 87782,
+    "name": "Narva-Jõesuu",
+    "stateId": 1646,
+    "latitude": "59.45889000",
+    "longitude": "28.04083000"
+  },
+  {
+    "id": 87783,
+    "name": "Narva-Jõesuu linn",
+    "stateId": 1646,
+    "latitude": "59.44127000",
+    "longitude": "28.02142000"
+  },
+  {
+    "id": 91766,
+    "name": "Nõo",
+    "stateId": 4325,
+    "latitude": "58.27556000",
+    "longitude": "26.53750000"
+  },
+  {
+    "id": 91767,
+    "name": "Nõo vald",
+    "stateId": 4325,
+    "latitude": "58.24199000",
+    "longitude": "26.52499000"
+  },
+  {
+    "id": 94250,
+    "name": "Orissaare",
+    "stateId": 3718,
+    "latitude": "58.55917000",
+    "longitude": "23.08262000"
+  },
+  {
+    "id": 94827,
+    "name": "Otepää vald",
+    "stateId": 4562,
+    "latitude": "58.02177000",
+    "longitude": "26.45306000"
+  },
+  {
+    "id": 95587,
+    "name": "Paide",
+    "stateId": 1797,
+    "latitude": "58.88556000",
+    "longitude": "25.55722000"
+  },
+  {
+    "id": 95588,
+    "name": "Paide linn",
+    "stateId": 1797,
+    "latitude": "58.88504000",
+    "longitude": "25.56021000"
+  },
+  {
+    "id": 95597,
+    "name": "Paikuse",
+    "stateId": 3510,
+    "latitude": "58.37917000",
+    "longitude": "24.63444000"
+  },
+  {
+    "id": 95664,
+    "name": "Pajusti",
+    "stateId": 2411,
+    "latitude": "59.27444000",
+    "longitude": "26.42333000"
+  },
+  {
+    "id": 95806,
+    "name": "Paldiski",
+    "stateId": 1535,
+    "latitude": "59.35667000",
+    "longitude": "24.05306000"
+  },
+  {
+    "id": 97799,
+    "name": "Peipsiääre vald",
+    "stateId": 4325,
+    "latitude": "58.51559000",
+    "longitude": "27.18444000"
+  },
+  {
+    "id": 103102,
+    "name": "Pringi",
+    "stateId": 1535,
+    "latitude": "59.53459000",
+    "longitude": "24.79726000"
+  },
+  {
+    "id": 104280,
+    "name": "Puhja",
+    "stateId": 4325,
+    "latitude": "58.34194000",
+    "longitude": "26.31472000"
+  },
+  {
+    "id": 104789,
+    "name": "Pärnu",
+    "stateId": 3510,
+    "latitude": "58.38588000",
+    "longitude": "24.49711000"
+  },
+  {
+    "id": 104790,
+    "name": "Pärnu linn",
+    "stateId": 3510,
+    "latitude": "58.37901000",
+    "longitude": "24.52784000"
+  },
+  {
+    "id": 104791,
+    "name": "Pärnu-Jaagupi",
+    "stateId": 3510,
+    "latitude": "58.61052000",
+    "longitude": "24.50689000"
+  },
+  {
+    "id": 104884,
+    "name": "Põltsamaa",
+    "stateId": 1798,
+    "latitude": "58.65250000",
+    "longitude": "25.97056000"
+  },
+  {
+    "id": 104885,
+    "name": "Põltsamaa vald",
+    "stateId": 1798,
+    "latitude": "58.64067000",
+    "longitude": "26.00957000"
+  },
+  {
+    "id": 104886,
+    "name": "Põlva",
+    "stateId": 3514,
+    "latitude": "58.06028000",
+    "longitude": "27.06944000"
+  },
+  {
+    "id": 104887,
+    "name": "Põlva vald",
+    "stateId": 3514,
+    "latitude": "58.08368000",
+    "longitude": "26.98242000"
+  },
+  {
+    "id": 104914,
+    "name": "Püssi",
+    "stateId": 1646,
+    "latitude": "59.36000000",
+    "longitude": "27.04972000"
+  },
+  {
+    "id": 105639,
+    "name": "Raasiku",
+    "stateId": 1535,
+    "latitude": "59.36639000",
+    "longitude": "25.18306000"
+  },
+  {
+    "id": 105833,
+    "name": "Rae vald",
+    "stateId": 1535,
+    "latitude": "59.33202000",
+    "longitude": "24.93932000"
+  },
+  {
+    "id": 106011,
+    "name": "Rakke",
+    "stateId": 2411,
+    "latitude": "58.98167000",
+    "longitude": "26.25444000"
+  },
+  {
+    "id": 106020,
+    "name": "Rakvere",
+    "stateId": 2411,
+    "latitude": "59.34639000",
+    "longitude": "26.35583000"
+  },
+  {
+    "id": 106021,
+    "name": "Rakvere vald",
+    "stateId": 2411,
+    "latitude": "59.32457000",
+    "longitude": "26.29757000"
+  },
+  {
+    "id": 106348,
+    "name": "Rapla",
+    "stateId": 3581,
+    "latitude": "59.00722000",
+    "longitude": "24.79278000"
+  },
+  {
+    "id": 106349,
+    "name": "Rapla vald",
+    "stateId": 3581,
+    "latitude": "59.03309000",
+    "longitude": "24.71793000"
+  },
+  {
+    "id": 107820,
+    "name": "Riisipere",
+    "stateId": 1535,
+    "latitude": "59.11417000",
+    "longitude": "24.31056000"
+  },
+  {
+    "id": 109829,
+    "name": "Ruhnu",
+    "stateId": 3718,
+    "latitude": "57.80028000",
+    "longitude": "23.24833000"
+  },
+  {
+    "id": 109830,
+    "name": "Ruhnu vald",
+    "stateId": 3718,
+    "latitude": "57.80309000",
+    "longitude": "23.24250000"
+  },
+  {
+    "id": 109873,
+    "name": "Rummu",
+    "stateId": 1535,
+    "latitude": "59.53528000",
+    "longitude": "24.79972000"
+  },
+  {
+    "id": 110226,
+    "name": "Räpina",
+    "stateId": 3514,
+    "latitude": "58.09806000",
+    "longitude": "27.46361000"
+  },
+  {
+    "id": 110227,
+    "name": "Räpina vald",
+    "stateId": 3514,
+    "latitude": "58.10777000",
+    "longitude": "27.38580000"
+  },
+  {
+    "id": 110346,
+    "name": "Rõuge",
+    "stateId": 4668,
+    "latitude": "57.72778000",
+    "longitude": "26.90972000"
+  },
+  {
+    "id": 110347,
+    "name": "Rõuge vald",
+    "stateId": 4668,
+    "latitude": "57.72780000",
+    "longitude": "26.88033000"
+  },
+  {
+    "id": 110514,
+    "name": "Saarde vald",
+    "stateId": 3510,
+    "latitude": "58.13802000",
+    "longitude": "24.95564000"
+  },
+  {
+    "id": 112273,
+    "name": "Saku",
+    "stateId": 1535,
+    "latitude": "59.30354000",
+    "longitude": "24.66382000"
+  },
+  {
+    "id": 112277,
+    "name": "Saku vald",
+    "stateId": 1535,
+    "latitude": "59.28069000",
+    "longitude": "24.71649000"
+  },
+  {
+    "id": 118383,
+    "name": "Saue",
+    "stateId": 1535,
+    "latitude": "59.32258000",
+    "longitude": "24.54967000"
+  },
+  {
+    "id": 118384,
+    "name": "Saue vald",
+    "stateId": 1535,
+    "latitude": "59.29255000",
+    "longitude": "24.52503000"
+  },
+  {
+    "id": 118387,
+    "name": "Sauga",
+    "stateId": 3510,
+    "latitude": "58.42720000",
+    "longitude": "24.49496000"
+  },
+  {
+    "id": 121961,
+    "name": "Sillamäe",
+    "stateId": 1646,
+    "latitude": "59.39697000",
+    "longitude": "27.76331000"
+  },
+  {
+    "id": 122192,
+    "name": "Sindi",
+    "stateId": 3510,
+    "latitude": "58.40056000",
+    "longitude": "24.66750000"
+  },
+  {
+    "id": 126701,
+    "name": "Suure-Jaani",
+    "stateId": 4621,
+    "latitude": "58.53611000",
+    "longitude": "25.47056000"
+  },
+  {
+    "id": 127641,
+    "name": "Särevere",
+    "stateId": 1797,
+    "latitude": "58.79000000",
+    "longitude": "25.42806000"
+  },
+  {
+    "id": 127710,
+    "name": "Sõmeru",
+    "stateId": 2411,
+    "latitude": "59.36111000",
+    "longitude": "26.43750000"
+  },
+  {
+    "id": 127947,
+    "name": "Tabasalu",
+    "stateId": 1535,
+    "latitude": "59.42607000",
+    "longitude": "24.55330000"
+  },
+  {
+    "id": 128091,
+    "name": "Taebla",
+    "stateId": 2410,
+    "latitude": "58.95389000",
+    "longitude": "23.75222000"
+  },
+  {
+    "id": 128480,
+    "name": "Tallinn",
+    "stateId": 1535,
+    "latitude": "59.43696000",
+    "longitude": "24.75353000"
+  },
+  {
+    "id": 128682,
+    "name": "Tamsalu",
+    "stateId": 2411,
+    "latitude": "59.15861000",
+    "longitude": "26.11528000"
+  },
+  {
+    "id": 128897,
+    "name": "Tapa",
+    "stateId": 2411,
+    "latitude": "59.26056000",
+    "longitude": "25.95861000"
+  },
+  {
+    "id": 128898,
+    "name": "Tapa vald",
+    "stateId": 2411,
+    "latitude": "59.23821000",
+    "longitude": "25.84572000"
+  },
+  {
+    "id": 129144,
+    "name": "Tartu",
+    "stateId": 4325,
+    "latitude": "58.38062000",
+    "longitude": "26.72509000"
+  },
+  {
+    "id": 129145,
+    "name": "Tartu linn",
+    "stateId": 4325,
+    "latitude": "58.37498000",
+    "longitude": "26.73256000"
+  },
+  {
+    "id": 129146,
+    "name": "Tartu vald",
+    "stateId": 4325,
+    "latitude": "58.47800000",
+    "longitude": "26.74956000"
+  },
+  {
+    "id": 129584,
+    "name": "Tehumardi",
+    "stateId": 3718,
+    "latitude": "58.18027000",
+    "longitude": "22.24646000"
+  },
+  {
+    "id": 131646,
+    "name": "Toila",
+    "stateId": 1646,
+    "latitude": "59.42127000",
+    "longitude": "27.50807000"
+  },
+  {
+    "id": 131949,
+    "name": "Tootsi",
+    "stateId": 3510,
+    "latitude": "58.57806000",
+    "longitude": "24.79250000"
+  },
+  {
+    "id": 132058,
+    "name": "Tori vald",
+    "stateId": 3510,
+    "latitude": "58.48663000",
+    "longitude": "24.88961000"
+  },
+  {
+    "id": 133802,
+    "name": "Turba",
+    "stateId": 1535,
+    "latitude": "59.08306000",
+    "longitude": "24.22500000"
+  },
+  {
+    "id": 134267,
+    "name": "Tõrva",
+    "stateId": 4562,
+    "latitude": "58.00278000",
+    "longitude": "25.93500000"
+  },
+  {
+    "id": 134299,
+    "name": "Türi",
+    "stateId": 1797,
+    "latitude": "58.80861000",
+    "longitude": "25.43250000"
+  },
+  {
+    "id": 134300,
+    "name": "Türi vald",
+    "stateId": 1797,
+    "latitude": "58.74143000",
+    "longitude": "25.46443000"
+  },
+  {
+    "id": 135623,
+    "name": "Uuemõisa",
+    "stateId": 2410,
+    "latitude": "58.93944000",
+    "longitude": "23.58944000"
+  },
+  {
+    "id": 135624,
+    "name": "Uulu",
+    "stateId": 3510,
+    "latitude": "58.28361000",
+    "longitude": "24.58722000"
+  },
+  {
+    "id": 135800,
+    "name": "Vaiatu",
+    "stateId": 2411,
+    "latitude": "59.35556000",
+    "longitude": "25.99528000"
+  },
+  {
+    "id": 135801,
+    "name": "Vaida",
+    "stateId": 1535,
+    "latitude": "59.28546000",
+    "longitude": "24.97897000"
+  },
+  {
+    "id": 136185,
+    "name": "Valga",
+    "stateId": 4562,
+    "latitude": "57.77781000",
+    "longitude": "26.04730000"
+  },
+  {
+    "id": 136528,
+    "name": "Vana-Antsla",
+    "stateId": 4668,
+    "latitude": "57.86611000",
+    "longitude": "26.53222000"
+  },
+  {
+    "id": 138003,
+    "name": "Viimsi",
+    "stateId": 1535,
+    "latitude": "59.50502000",
+    "longitude": "24.84807000"
+  },
+  {
+    "id": 138004,
+    "name": "Viimsi vald",
+    "stateId": 1535,
+    "latitude": "59.50204000",
+    "longitude": "24.84833000"
+  },
+  {
+    "id": 138005,
+    "name": "Viiratsi",
+    "stateId": 4621,
+    "latitude": "58.36000000",
+    "longitude": "25.63722000"
+  },
+  {
+    "id": 138174,
+    "name": "Viljandi",
+    "stateId": 4621,
+    "latitude": "58.36389000",
+    "longitude": "25.59000000"
+  },
+  {
+    "id": 138175,
+    "name": "Viljandi vald",
+    "stateId": 4621,
+    "latitude": "58.36392000",
+    "longitude": "25.49103000"
+  },
+  {
+    "id": 139280,
+    "name": "Vinni",
+    "stateId": 2411,
+    "latitude": "59.29583000",
+    "longitude": "26.43222000"
+  },
+  {
+    "id": 139281,
+    "name": "Vinni vald",
+    "stateId": 2411,
+    "latitude": "59.23744000",
+    "longitude": "26.62261000"
+  },
+  {
+    "id": 139395,
+    "name": "Viru-Nigula vald",
+    "stateId": 2411,
+    "latitude": "59.46387000",
+    "longitude": "26.58585000"
+  },
+  {
+    "id": 139726,
+    "name": "Voka",
+    "stateId": 1646,
+    "latitude": "59.40776000",
+    "longitude": "27.58263000"
+  },
+  {
+    "id": 139876,
+    "name": "Vormsi vald",
+    "stateId": 2410,
+    "latitude": "58.99986000",
+    "longitude": "23.23408000"
+  },
+  {
+    "id": 140239,
+    "name": "Väike-Maarja",
+    "stateId": 2411,
+    "latitude": "59.12639000",
+    "longitude": "26.25000000"
+  },
+  {
+    "id": 140240,
+    "name": "Väike-Maarja vald",
+    "stateId": 2411,
+    "latitude": "59.06556000",
+    "longitude": "26.31417000"
+  },
+  {
+    "id": 140241,
+    "name": "Vändra",
+    "stateId": 3510,
+    "latitude": "58.64806000",
+    "longitude": "25.03611000"
+  },
+  {
+    "id": 140246,
+    "name": "Värska",
+    "stateId": 4668,
+    "latitude": "57.95806000",
+    "longitude": "27.63806000"
+  },
+  {
+    "id": 140296,
+    "name": "Võhma",
+    "stateId": 4621,
+    "latitude": "58.62833000",
+    "longitude": "25.54833000"
+  },
+  {
+    "id": 140297,
+    "name": "Võru",
+    "stateId": 4668,
+    "latitude": "57.83389000",
+    "longitude": "27.01944000"
+  },
+  {
+    "id": 140298,
+    "name": "Võru vald",
+    "stateId": 4668,
+    "latitude": "57.86618000",
+    "longitude": "26.97418000"
+  },
+  {
+    "id": 147208,
+    "name": "Ülenurme",
+    "stateId": 4325,
+    "latitude": "58.31620000",
+    "longitude": "26.72517000"
+  }
+]

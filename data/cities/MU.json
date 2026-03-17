@@ -1,0 +1,681 @@
+[
+  {
+    "id": 2368,
+    "name": "Albion",
+    "stateId": 3655,
+    "latitude": "-20.20814000",
+    "longitude": "57.40766000"
+  },
+  {
+    "id": 3808,
+    "name": "Amaury",
+    "stateId": 3656,
+    "latitude": "-20.13083000",
+    "longitude": "57.65917000"
+  },
+  {
+    "id": 6913,
+    "name": "Arsenal",
+    "stateId": 3210,
+    "latitude": "-20.10556000",
+    "longitude": "57.53528000"
+  },
+  {
+    "id": 9307,
+    "name": "Baie aux Huîtres",
+    "stateId": 3665,
+    "latitude": "-19.69444000",
+    "longitude": "63.40833000"
+  },
+  {
+    "id": 10025,
+    "name": "Bambous",
+    "stateId": 3655,
+    "latitude": "-20.25667000",
+    "longitude": "57.40611000"
+  },
+  {
+    "id": 10026,
+    "name": "Bambous Virieux",
+    "stateId": 1437,
+    "latitude": "-20.34278000",
+    "longitude": "57.75750000"
+  },
+  {
+    "id": 11935,
+    "name": "Beau Bassin-Rose Hill",
+    "stateId": 3312,
+    "latitude": "-20.23325000",
+    "longitude": "57.46609000"
+  },
+  {
+    "id": 11936,
+    "name": "Beau Vallon",
+    "stateId": 1437,
+    "latitude": "-20.41889000",
+    "longitude": "57.69528000"
+  },
+  {
+    "id": 12302,
+    "name": "Bel Air Rivière Sèche",
+    "stateId": 1290,
+    "latitude": "-20.25777000",
+    "longitude": "57.74976000"
+  },
+  {
+    "id": 15607,
+    "name": "Bois des Amourettes",
+    "stateId": 1437,
+    "latitude": "-20.36306000",
+    "longitude": "57.73111000"
+  },
+  {
+    "id": 15924,
+    "name": "Bon Accueil",
+    "stateId": 1290,
+    "latitude": "-20.17083000",
+    "longitude": "57.65639000"
+  },
+  {
+    "id": 17758,
+    "name": "Brisée Verdière",
+    "stateId": 1290,
+    "latitude": "-20.16389000",
+    "longitude": "57.64667000"
+  },
+  {
+    "id": 20785,
+    "name": "Calebasses",
+    "stateId": 3210,
+    "latitude": "-20.11167000",
+    "longitude": "57.55389000"
+  },
+  {
+    "id": 21285,
+    "name": "Camp Diable",
+    "stateId": 3918,
+    "latitude": "-20.46278000",
+    "longitude": "57.57889000"
+  },
+  {
+    "id": 21289,
+    "name": "Camp Ithier",
+    "stateId": 1290,
+    "latitude": "-20.21583000",
+    "longitude": "57.74556000"
+  },
+  {
+    "id": 21298,
+    "name": "Camp Thorel",
+    "stateId": 2684,
+    "latitude": "-20.21472000",
+    "longitude": "57.61611000"
+  },
+  {
+    "id": 21301,
+    "name": "Camp de Masque",
+    "stateId": 1290,
+    "latitude": "-20.23694000",
+    "longitude": "57.66333000"
+  },
+  {
+    "id": 21977,
+    "name": "Cap Malheureux",
+    "stateId": 3656,
+    "latitude": "-19.98417000",
+    "longitude": "57.61417000"
+  },
+  {
+    "id": 22420,
+    "name": "Cargados Carajos",
+    "stateId": 727,
+    "latitude": "-16.60329000",
+    "longitude": "59.65851000"
+  },
+  {
+    "id": 23113,
+    "name": "Cascavelle",
+    "stateId": 3655,
+    "latitude": "-20.28694000",
+    "longitude": "57.40722000"
+  },
+  {
+    "id": 24488,
+    "name": "Centre de Flacq",
+    "stateId": 1290,
+    "latitude": "-20.18972000",
+    "longitude": "57.71444000"
+  },
+  {
+    "id": 25099,
+    "name": "Chamouny",
+    "stateId": 3918,
+    "latitude": "-20.48222000",
+    "longitude": "57.46611000"
+  },
+  {
+    "id": 25743,
+    "name": "Chemin Grenier",
+    "stateId": 3918,
+    "latitude": "-20.48722000",
+    "longitude": "57.46556000"
+  },
+  {
+    "id": 28099,
+    "name": "Cluny",
+    "stateId": 1437,
+    "latitude": "-20.36694000",
+    "longitude": "57.60389000"
+  },
+  {
+    "id": 28126,
+    "name": "Clémencia",
+    "stateId": 1290,
+    "latitude": "-20.26389000",
+    "longitude": "57.70611000"
+  },
+  {
+    "id": 32178,
+    "name": "Congomah",
+    "stateId": 3210,
+    "latitude": "-20.14889000",
+    "longitude": "57.59083000"
+  },
+  {
+    "id": 33113,
+    "name": "Cottage",
+    "stateId": 3656,
+    "latitude": "-20.05972000",
+    "longitude": "57.62917000"
+  },
+  {
+    "id": 33927,
+    "name": "Crève Coeur",
+    "stateId": 3210,
+    "latitude": "-20.19111000",
+    "longitude": "57.55722000"
+  },
+  {
+    "id": 34374,
+    "name": "Curepipe",
+    "stateId": 3312,
+    "latitude": "-20.31628000",
+    "longitude": "57.52594000"
+  },
+  {
+    "id": 34910,
+    "name": "Dagotière",
+    "stateId": 2684,
+    "latitude": "-20.24476000",
+    "longitude": "57.56188000"
+  },
+  {
+    "id": 38697,
+    "name": "Dubreuil",
+    "stateId": 2684,
+    "latitude": "-20.30132000",
+    "longitude": "57.59861000"
+  },
+  {
+    "id": 39880,
+    "name": "Ebene",
+    "stateId": 3312,
+    "latitude": "-20.24494000",
+    "longitude": "57.49163000"
+  },
+  {
+    "id": 39972,
+    "name": "Ecroignard",
+    "stateId": 1290,
+    "latitude": "-20.22611000",
+    "longitude": "57.73611000"
+  },
+  {
+    "id": 42686,
+    "name": "Espérance Trébuchet",
+    "stateId": 3656,
+    "latitude": "-20.06972000",
+    "longitude": "57.64194000"
+  },
+  {
+    "id": 44483,
+    "name": "Flic en Flac",
+    "stateId": 3655,
+    "latitude": "-20.27417000",
+    "longitude": "57.36306000"
+  },
+  {
+    "id": 44766,
+    "name": "Fond du Sac",
+    "stateId": 3210,
+    "latitude": "-20.04732000",
+    "longitude": "57.58400000"
+  },
+  {
+    "id": 49468,
+    "name": "Goodlands",
+    "stateId": 3656,
+    "latitude": "-20.03841000",
+    "longitude": "57.65055000"
+  },
+  {
+    "id": 50152,
+    "name": "Grand Baie",
+    "stateId": 3656,
+    "latitude": "-20.01816000",
+    "longitude": "57.58015000"
+  },
+  {
+    "id": 50156,
+    "name": "Grand Bois",
+    "stateId": 3918,
+    "latitude": "-20.41889000",
+    "longitude": "57.54417000"
+  },
+  {
+    "id": 50170,
+    "name": "Grand Gaube",
+    "stateId": 3656,
+    "latitude": "-20.00639000",
+    "longitude": "57.66083000"
+  },
+  {
+    "id": 50187,
+    "name": "Grand Sable",
+    "stateId": 1437,
+    "latitude": "-20.31417000",
+    "longitude": "57.76444000"
+  },
+  {
+    "id": 50215,
+    "name": "Grande Rivière Noire",
+    "stateId": 3655,
+    "latitude": "-20.36028000",
+    "longitude": "57.36611000"
+  },
+  {
+    "id": 50216,
+    "name": "Grande Rivière Sud Est",
+    "stateId": 1290,
+    "latitude": "-20.28611000",
+    "longitude": "57.77583000"
+  },
+  {
+    "id": 50957,
+    "name": "Gros Cailloux",
+    "stateId": 3655,
+    "latitude": "-20.20722000",
+    "longitude": "57.43000000"
+  },
+  {
+    "id": 70017,
+    "name": "Lalmatie",
+    "stateId": 1290,
+    "latitude": "-20.18972000",
+    "longitude": "57.66111000"
+  },
+  {
+    "id": 71180,
+    "name": "Laventure",
+    "stateId": 1290,
+    "latitude": "-20.14583000",
+    "longitude": "57.67667000"
+  },
+  {
+    "id": 71413,
+    "name": "Le Hochet",
+    "stateId": 3210,
+    "latitude": "-20.13500000",
+    "longitude": "57.52111000"
+  },
+  {
+    "id": 74180,
+    "name": "Long Mountain",
+    "stateId": 3210,
+    "latitude": "-20.14306000",
+    "longitude": "57.56222000"
+  },
+  {
+    "id": 76802,
+    "name": "Mahébourg",
+    "stateId": 1437,
+    "latitude": "-20.40806000",
+    "longitude": "57.70000000"
+  },
+  {
+    "id": 78192,
+    "name": "Mapou",
+    "stateId": 3656,
+    "latitude": "-20.07583000",
+    "longitude": "57.60139000"
+  },
+  {
+    "id": 78447,
+    "name": "Mare La Chaux",
+    "stateId": 1290,
+    "latitude": "-20.19806000",
+    "longitude": "57.74944000"
+  },
+  {
+    "id": 80831,
+    "name": "Melrose",
+    "stateId": 2684,
+    "latitude": "-20.26972000",
+    "longitude": "57.63194000"
+  },
+  {
+    "id": 81766,
+    "name": "Midlands",
+    "stateId": 3312,
+    "latitude": "-20.31907000",
+    "longitude": "57.57016000"
+  },
+  {
+    "id": 83191,
+    "name": "Moka",
+    "stateId": 2684,
+    "latitude": "-20.21889000",
+    "longitude": "57.49583000"
+  },
+  {
+    "id": 84662,
+    "name": "Morcellement Saint André",
+    "stateId": 3210,
+    "latitude": "-20.07199000",
+    "longitude": "57.56833000"
+  },
+  {
+    "id": 88888,
+    "name": "New Grove",
+    "stateId": 1437,
+    "latitude": "-20.40861000",
+    "longitude": "57.61361000"
+  },
+  {
+    "id": 90662,
+    "name": "Notre Dame",
+    "stateId": 3210,
+    "latitude": "-20.14056000",
+    "longitude": "57.55306000"
+  },
+  {
+    "id": 90700,
+    "name": "Nouvelle France",
+    "stateId": 1437,
+    "latitude": "-20.37056000",
+    "longitude": "57.56111000"
+  },
+  {
+    "id": 93362,
+    "name": "Olivia",
+    "stateId": 1290,
+    "latitude": "-20.28778000",
+    "longitude": "57.73097000"
+  },
+  {
+    "id": 95601,
+    "name": "Pailles",
+    "stateId": 2684,
+    "latitude": "-20.19271000",
+    "longitude": "57.48826000"
+  },
+  {
+    "id": 96171,
+    "name": "Pamplemousses",
+    "stateId": 3210,
+    "latitude": "-20.10389000",
+    "longitude": "57.57028000"
+  },
+  {
+    "id": 98524,
+    "name": "Petit Raffray",
+    "stateId": 3656,
+    "latitude": "-20.02022000",
+    "longitude": "57.62296000"
+  },
+  {
+    "id": 98532,
+    "name": "Petite Case Noyale",
+    "stateId": 3655,
+    "latitude": "-20.39306000",
+    "longitude": "57.36500000"
+  },
+  {
+    "id": 98533,
+    "name": "Petite Rivière",
+    "stateId": 3655,
+    "latitude": "-20.19551000",
+    "longitude": "57.44592000"
+  },
+  {
+    "id": 99928,
+    "name": "Piton",
+    "stateId": 3656,
+    "latitude": "-20.09028000",
+    "longitude": "57.63028000"
+  },
+  {
+    "id": 100045,
+    "name": "Plaine Magnien",
+    "stateId": 1437,
+    "latitude": "-20.42967000",
+    "longitude": "57.66968000"
+  },
+  {
+    "id": 100046,
+    "name": "Plaine des Papayes",
+    "stateId": 3210,
+    "latitude": "-20.06500000",
+    "longitude": "57.57250000"
+  },
+  {
+    "id": 100050,
+    "name": "Plaines des Roches",
+    "stateId": 3656,
+    "latitude": "-20.11167000",
+    "longitude": "57.69083000"
+  },
+  {
+    "id": 100806,
+    "name": "Pointe aux Piments",
+    "stateId": 3210,
+    "latitude": "-20.06494000",
+    "longitude": "57.52347000"
+  },
+  {
+    "id": 101628,
+    "name": "Port Louis",
+    "stateId": 3355,
+    "latitude": "-20.16194000",
+    "longitude": "57.49889000"
+  },
+  {
+    "id": 101633,
+    "name": "Port Mathurin",
+    "stateId": 3665,
+    "latitude": "-19.68333000",
+    "longitude": "63.41667000"
+  },
+  {
+    "id": 101979,
+    "name": "Poste de Flacq",
+    "stateId": 1290,
+    "latitude": "-20.16306000",
+    "longitude": "57.73056000"
+  },
+  {
+    "id": 103297,
+    "name": "Providence",
+    "stateId": 2684,
+    "latitude": "-20.24472000",
+    "longitude": "57.61222000"
+  },
+  {
+    "id": 105215,
+    "name": "Quartier Militaire",
+    "stateId": 2684,
+    "latitude": "-20.24790000",
+    "longitude": "57.59737000"
+  },
+  {
+    "id": 105230,
+    "name": "Quatre Bornes",
+    "stateId": 3312,
+    "latitude": "-20.26381000",
+    "longitude": "57.47910000"
+  },
+  {
+    "id": 105231,
+    "name": "Quatre Cocos",
+    "stateId": 1290,
+    "latitude": "-20.20151000",
+    "longitude": "57.77448000"
+  },
+  {
+    "id": 105232,
+    "name": "Quatre Soeurs",
+    "stateId": 1290,
+    "latitude": "-20.29917000",
+    "longitude": "57.77056000"
+  },
+  {
+    "id": 105278,
+    "name": "Queen Victoria",
+    "stateId": 1290,
+    "latitude": "-20.22000000",
+    "longitude": "57.70750000"
+  },
+  {
+    "id": 108261,
+    "name": "Rivière des Anguilles",
+    "stateId": 3918,
+    "latitude": "-20.48528000",
+    "longitude": "57.55083000"
+  },
+  {
+    "id": 108262,
+    "name": "Rivière du Rempart",
+    "stateId": 3656,
+    "latitude": "-20.10306000",
+    "longitude": "57.68472000"
+  },
+  {
+    "id": 108498,
+    "name": "Roche Terre",
+    "stateId": 3656,
+    "latitude": "-20.01861000",
+    "longitude": "57.64472000"
+  },
+  {
+    "id": 108519,
+    "name": "Roches Noire",
+    "stateId": 3656,
+    "latitude": "-20.11111000",
+    "longitude": "57.71222000"
+  },
+  {
+    "id": 109157,
+    "name": "Rose Belle",
+    "stateId": 1437,
+    "latitude": "-20.40028000",
+    "longitude": "57.59667000"
+  },
+  {
+    "id": 110910,
+    "name": "Saint Aubin",
+    "stateId": 3918,
+    "latitude": "-20.49600000",
+    "longitude": "57.55000000"
+  },
+  {
+    "id": 110974,
+    "name": "Saint Hubert",
+    "stateId": 1437,
+    "latitude": "-20.36417000",
+    "longitude": "57.63833000"
+  },
+  {
+    "id": 111007,
+    "name": "Saint Julien",
+    "stateId": 1290,
+    "latitude": "-20.22639000",
+    "longitude": "57.63639000"
+  },
+  {
+    "id": 111059,
+    "name": "Saint Pierre",
+    "stateId": 2684,
+    "latitude": "-20.21750000",
+    "longitude": "57.52083000"
+  },
+  {
+    "id": 119338,
+    "name": "Sebastopol",
+    "stateId": 1290,
+    "latitude": "-20.29070000",
+    "longitude": "57.68779000"
+  },
+  {
+    "id": 123751,
+    "name": "Souillac",
+    "stateId": 3918,
+    "latitude": "-20.51667000",
+    "longitude": "57.51667000"
+  },
+  {
+    "id": 126576,
+    "name": "Surinam",
+    "stateId": 3918,
+    "latitude": "-20.50972000",
+    "longitude": "57.50528000"
+  },
+  {
+    "id": 128574,
+    "name": "Tamarin",
+    "stateId": 3655,
+    "latitude": "-20.32556000",
+    "longitude": "57.37056000"
+  },
+  {
+    "id": 130152,
+    "name": "Terre Rouge",
+    "stateId": 3210,
+    "latitude": "-20.12611000",
+    "longitude": "57.52444000"
+  },
+  {
+    "id": 130497,
+    "name": "The Vale",
+    "stateId": 3656,
+    "latitude": "-20.03018000",
+    "longitude": "57.60219000"
+  },
+  {
+    "id": 133031,
+    "name": "Triolet",
+    "stateId": 3210,
+    "latitude": "-20.05760000",
+    "longitude": "57.55025000"
+  },
+  {
+    "id": 135720,
+    "name": "Vacoas",
+    "stateId": 3312,
+    "latitude": "-20.29806000",
+    "longitude": "57.47833000"
+  },
+  {
+    "id": 137292,
+    "name": "Verdun",
+    "stateId": 2684,
+    "latitude": "-20.23417000",
+    "longitude": "57.55476000"
+  },
+  {
+    "id": 139262,
+    "name": "Vingt Cinq",
+    "stateId": 42,
+    "latitude": "-10.38803000",
+    "longitude": "56.61795000"
+  }
+]
