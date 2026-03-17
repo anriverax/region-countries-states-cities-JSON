@@ -1,0 +1,7 @@
+{
+  "name": "countries-states-cities-database",
+  "version": "1.0.0",
+  "description": "Open dataset of countries, states and cities in JSON",
+  "main": "data/countries.json",
+  "license": "MIT"
+}
