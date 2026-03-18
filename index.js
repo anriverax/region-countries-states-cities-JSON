@@ -127,13 +127,30 @@ function getLanguages() {
  *
  * @example
  * const country = getCountryByIso2("SV");
- * // { id, name, iso2, iso3, ... }
+ * // { id, name, iso2, iso3, phoneCode, capital, timezones, latlng, emoji, … }
  */
 function getCountryByIso2(iso2) {
   if (!iso2 || typeof iso2 !== 'string') return null;
   const upper = iso2.toUpperCase();
   const countries = getCountries();
   return countries.find((c) => c.iso2 === upper) || null;
+}
+
+/**
+ * Returns the country that matches the given ISO 3166-1 alpha-3 code.
+ *
+ * @param {string} iso3 - Three-letter ISO 3166-1 country code (e.g. "USA", "SLV").
+ * @returns {object|null} The country object, or null if not found.
+ *
+ * @example
+ * const country = getCountryByIso3("SLV");
+ * // { id, name, iso2, iso3, phoneCode, capital, timezones, latlng, emoji, … }
+ */
+function getCountryByIso3(iso3) {
+  if (!iso3 || typeof iso3 !== 'string') return null;
+  const upper = iso3.toUpperCase();
+  const countries = getCountries();
+  return countries.find((c) => c.iso3 === upper) || null;
 }
 
 /**
@@ -257,6 +274,89 @@ function searchCity(query) {
 }
 
 // ---------------------------------------------------------------------------
+// Public API – geo calculations
+// ---------------------------------------------------------------------------
+
+/**
+ * Calculates the great-circle distance in kilometers between two points using
+ * the Haversine formula.
+ *
+ * @param {object} pointA - Object with `latitude` and `longitude` string or number fields.
+ * @param {object} pointB - Object with `latitude` and `longitude` string or number fields.
+ * @returns {number} Distance in kilometers, rounded to two decimal places.
+ *
+ * @example
+ * const cityA = { latitude: "14.0918", longitude: "-89.7220" }; // San Salvador
+ * const cityB = { latitude: "14.6349", longitude: "-90.5069" }; // Guatemala City
+ * const km = calculateDistance(cityA, cityB);
+ * // 102.41
+ */
+function calculateDistance(pointA, pointB) {
+  if (!pointA || !pointB) return null;
+  const lat1 = parseFloat(pointA.latitude);
+  const lon1 = parseFloat(pointA.longitude);
+  const lat2 = parseFloat(pointB.latitude);
+  const lon2 = parseFloat(pointB.longitude);
+  if ([lat1, lon1, lat2, lon2].some(isNaN)) return null;
+
+  const R = 6371; // Earth's radius in km
+  const dLat = ((lat2 - lat1) * Math.PI) / 180;
+  const dLon = ((lon2 - lon1) * Math.PI) / 180;
+  const a =
+    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+    Math.cos((lat1 * Math.PI) / 180) *
+      Math.cos((lat2 * Math.PI) / 180) *
+      Math.sin(dLon / 2) *
+      Math.sin(dLon / 2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  return Math.round(R * c * 100) / 100;
+}
+
+/**
+ * Returns the N nearest cities to a given geographic point.
+ *
+ * The city index (all countries) is built once on the first call and cached.
+ * For country-specific searches pass the optional `iso2` parameter to avoid
+ * loading the full 148k-city index.
+ *
+ * @param {number} lat  - Latitude of the reference point.
+ * @param {number} lng  - Longitude of the reference point.
+ * @param {number} [limit=5] - Maximum number of results to return.
+ * @param {string} [iso2]    - Optional ISO2 country code to restrict the search.
+ * @returns {Array<object & { distance: number }>} Nearest cities sorted by
+ *   distance ascending, each augmented with a `distance` field (km) and
+ *   a `countryIso2` field.
+ *
+ * @example
+ * // 3 nearest cities to San Salvador
+ * const nearest = getNearestCities(13.6929, -89.2182, 3);
+ * // [{ id, name, stateId, latitude, longitude, countryIso2, distance }, …]
+ *
+ * @example
+ * // Restrict search to El Salvador
+ * const nearest = getNearestCities(13.6929, -89.2182, 5, "SV");
+ */
+function getNearestCities(lat, lng, limit, iso2) {
+  if (typeof lat !== 'number' || typeof lng !== 'number') return [];
+  const n = typeof limit === 'number' && limit > 0 ? Math.floor(limit) : 5;
+  const ref = { latitude: String(lat), longitude: String(lng) };
+
+  let pool;
+  if (iso2 && typeof iso2 === 'string') {
+    const cities = _loadCitiesForCountry(iso2.toUpperCase());
+    pool = cities.map((c) => ({ ...c, countryIso2: iso2.toUpperCase() }));
+  } else {
+    pool = _buildCityIndex();
+  }
+
+  return pool
+    .map((city) => ({ ...city, distance: calculateDistance(ref, city) }))
+    .filter((city) => city.distance !== null)
+    .sort((a, b) => a.distance - b.distance)
+    .slice(0, n);
+}
+
+// ---------------------------------------------------------------------------
 // Exports
 // ---------------------------------------------------------------------------
 
@@ -267,8 +367,11 @@ module.exports = {
   getSubregions,
   getLanguages,
   getCountryByIso2,
+  getCountryByIso3,
   getStateByCode,
   getStatesOfCountry,
   getCitiesOfCountry,
   searchCity,
+  calculateDistance,
+  getNearestCities,
 };
