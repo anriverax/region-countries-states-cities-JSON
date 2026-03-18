@@ -120,6 +120,22 @@ function getLanguages() {
 // ---------------------------------------------------------------------------
 
 /**
+ * Returns the country that matches the given numeric ID.
+ *
+ * @param {number} id - Numeric country ID as stored in countries.json.
+ * @returns {object|null} The country object, or null if not found.
+ *
+ * @example
+ * const country = getCountryById(101);
+ * // { id, name, iso2, iso3, ... }
+ */
+function getCountryById(id) {
+  if (id == null || typeof id !== 'number') return null;
+  const countries = getCountries();
+  return countries.find((c) => c.id === id) || null;
+}
+
+/**
  * Returns the country that matches the given ISO 3166-1 alpha-2 code.
  *
  * @param {string} iso2 - Two-letter ISO 3166-1 country code (e.g. "US", "SV").
@@ -181,6 +197,22 @@ function getStatesOfCountry(iso2) {
 }
 
 /**
+ * Returns all states that belong to the country with the given numeric ID.
+ *
+ * @param {number} countryId - Numeric country ID as stored in countries.json.
+ * @returns {object[]} Array of state objects, or an empty array if not found.
+ *
+ * @example
+ * const states = getStatesOfCountryById(101);
+ * // [{ id, name, countryId, stateCode, latitude, longitude }, …]
+ */
+function getStatesOfCountryById(countryId) {
+  if (countryId == null || typeof countryId !== 'number') return [];
+  const states = getStates();
+  return states.filter((s) => s.countryId === countryId);
+}
+
+/**
  * Returns all cities that belong to a given country.
  *
  * @param {string} iso2 - Two-letter ISO 3166-1 country code (e.g. "US", "MX").
@@ -192,6 +224,30 @@ function getStatesOfCountry(iso2) {
 function getCitiesOfCountry(iso2) {
   if (!iso2 || typeof iso2 !== 'string') return [];
   return _loadCitiesForCountry(iso2);
+}
+
+/**
+ * Returns all cities that belong to a given state.
+ *
+ * Internally, this looks up the state to find its country, loads that country's
+ * city file, and then filters by stateId.
+ *
+ * @param {number} stateId - Numeric state ID as stored in states.json.
+ * @returns {object[]} Array of city objects, or an empty array if not found.
+ *
+ * @example
+ * const cities = getCitiesOfState(1462);
+ * // [{ id, name, stateId, latitude, longitude }, …]
+ */
+function getCitiesOfState(stateId) {
+  if (stateId == null || typeof stateId !== 'number') return [];
+  const states = getStates();
+  const state = states.find((s) => s.id === stateId);
+  if (!state) return [];
+  const country = getCountryById(state.countryId);
+  if (!country) return [];
+  const cities = _loadCitiesForCountry(country.iso2);
+  return cities.filter((c) => c.stateId === stateId);
 }
 
 /**
@@ -266,9 +322,12 @@ module.exports = {
   getRegions,
   getSubregions,
   getLanguages,
+  getCountryById,
   getCountryByIso2,
   getStateByCode,
   getStatesOfCountry,
+  getStatesOfCountryById,
   getCitiesOfCountry,
+  getCitiesOfState,
   searchCity,
 };

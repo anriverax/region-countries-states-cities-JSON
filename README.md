@@ -65,12 +65,33 @@ const {
   getRegions,
   getSubregions,
   getLanguages,
+  getCountryById,
   getCountryByIso2,
   getStateByCode,
   getStatesOfCountry,
+  getStatesOfCountryById,
   getCitiesOfCountry,
+  getCitiesOfState,
   searchCity,
 } = require('countries-states-cities-database');
+```
+
+#### `getCountries()`
+
+Returns the full list of all countries (249 records).
+
+```js
+const countries = getCountries();
+// [{ id, name, iso2, iso3, phoneCode, capital, timezones, latlng, emoji, … }, …]
+```
+
+#### `getCountryById(id)`
+
+Returns the country matching the given numeric ID, or `null` if not found.
+
+```js
+const country = getCountryById(101);
+// { id: 101, name: "Indonesia", iso2: "ID", … }
 ```
 
 #### `getCountryByIso2(iso2)`
@@ -102,12 +123,32 @@ const states = getStatesOfCountry('US');
 // [{ id, name, countryId, stateCode, latitude, longitude }, …]
 ```
 
+#### `getStatesOfCountryById(countryId)`
+
+Returns all states/provinces for a given numeric country ID.
+
+```js
+const states = getStatesOfCountryById(101);
+// [{ id, name, countryId, stateCode, latitude, longitude }, …]
+```
+
 #### `getCitiesOfCountry(iso2)`
 
 Returns all cities for a given country ISO2 code (loaded from the per-country file).
 
 ```js
 const cities = getCitiesOfCountry('MX');
+// [{ id, name, stateId, latitude, longitude }, …]
+```
+
+#### `getCitiesOfState(stateId)`
+
+Returns all cities/municipalities that belong to a given state, identified by its numeric ID.
+
+```js
+// First get the state to know its id
+const state = getStateByCode('US-CA'); // { id: 681, … }
+const cities = getCitiesOfState(681);
 // [{ id, name, stateId, latitude, longitude }, …]
 ```
 
@@ -153,6 +194,36 @@ npm run validate
 ```bash
 npm run split-cities
 ```
+
+---
+
+## 🌐 Language Support
+
+The **names** of countries, states and cities in this database are provided in **English only**.
+Full multilingual translation of 150 000+ place names is outside the scope of this dataset.
+
+What the package **does** include is language *metadata*:
+
+- `data/languages.json` - list of 22 languages with ISO 639-1 codes (`en`, `es`, `fr`, ...)
+- Each country record includes a `languages` field that maps ISO codes to language names spoken
+  in that country.
+
+```js
+const { getLanguages, getCountryByIso2 } = require('countries-states-cities-database');
+
+// List all 22 supported language codes
+const langs = getLanguages();
+// [{ name: "English", iso: "en" }, { name: "Spanish", iso: "es" }, …]
+
+// Languages spoken in Mexico
+const mx = getCountryByIso2('MX');
+console.log(mx.languages);
+// { spa: "Spanish" }
+```
+
+If your application needs localised place names, you can use the `id` / `iso2` / `iso3` fields
+from this dataset as keys to look up translations in a third-party i18n library or your own
+translation files.
 
 ---
 
