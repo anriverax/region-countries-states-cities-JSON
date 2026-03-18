@@ -77,11 +77,14 @@ const {
   getSubregions,
   getLanguages,
   // Country lookups
+  getCountriesByLanguage,
+  getCountryById,
   getCountryByIso2,
   getCountryByIso3,
   // State lookups
   getStateByCode,
   getStatesOfCountry,
+  getStatesOfCountryById,
   // City lookups
   getCitiesOfCountry,
   getCitiesOfState,
@@ -186,6 +189,43 @@ const us = getCountryByIso3('USA');
 // { id: 235, name: "United States", iso2: "US", iso3: "USA", … }
 
 getCountryByIso3('XXX'); // null
+```
+
+#### `getCountryById(id)`
+
+Returns the country matching the given numeric ID, or `null` if not found.
+
+```js
+const country = getCountryById(235);
+// { id: 235, name: "United States", iso2: "US", iso3: "USA", … }
+
+getCountryById(9999); // null
+```
+
+#### `getCountriesByLanguage(languageIso)`
+
+Returns all countries where the given language is spoken.  Countries that do not
+list the language are excluded from the result.
+
+The function accepts:
+- An **ISO 639-3** three-letter code (e.g. `"eng"`, `"spa"`) — as stored in the
+  `languages` field of each country record.
+- An **ISO 639-1** two-letter code (e.g. `"en"`, `"es"`) — as stored in
+  `data/languages.json`.
+- A **language name** (e.g. `"English"`, `"Spanish"`) — matched
+  case-insensitively.
+
+```js
+// By ISO 639-3 code (as stored in country records)
+const englishCountries = getCountriesByLanguage('eng');
+// [{ id, name: "United States", … }, { id, name: "United Kingdom", … }, …]
+
+// By ISO 639-1 code (as in languages.json)
+const spanishCountries = getCountriesByLanguage('es');
+// All countries where Spanish is spoken
+
+// By language name
+const frenchCountries = getCountriesByLanguage('French');
 ```
 
 ---
@@ -423,7 +463,7 @@ Country names can optionally include translations keyed by ISO 639-1 language co
 | `data/states.json` | States / provinces / territories | 5,000 + |
 | `data/cities.json` | Cities with coordinates (full flat file) | 150,000 + |
 | `data/cities/{ISO2}.json` | Per-country city files — one file per country | 150,000 + total |
-| `data/languages.json` | Languages with ISO codes | 22 |
+| `data/languages.json` | Languages with ISO codes | 23 |
 
 ### Use the data directly
 
@@ -470,14 +510,14 @@ Full multilingual translation of 150 000+ place names is outside the scope of th
 
 What the package **does** include is language *metadata*:
 
-- `data/languages.json` - list of 22 languages with ISO 639-1 codes (`en`, `es`, `fr`, ...)
-- Each country record includes a `languages` field that maps ISO codes to language names spoken
-  in that country.
+- `data/languages.json` - list of 23 languages with ISO 639-1 codes (`en`, `es`, `fr`, ...)
+- Each country record includes a `languages` field that maps ISO 639-3 codes to language names
+  spoken in that country.
 
 ```js
-const { getLanguages, getCountryByIso2 } = require('countries-states-cities-database');
+const { getLanguages, getCountryByIso2, getCountriesByLanguage } = require('countries-states-cities-database');
 
-// List all 22 supported language codes
+// List all supported language codes
 const langs = getLanguages();
 // [{ name: "English", iso: "en" }, { name: "Spanish", iso: "es" }, …]
 
@@ -485,25 +525,18 @@ const langs = getLanguages();
 const mx = getCountryByIso2('MX');
 console.log(mx.languages);
 // { spa: "Spanish" }
+
+// All English-speaking countries (~91 countries)
+const englishSpeaking = getCountriesByLanguage('eng');  // by ISO 639-3
+// or: getCountriesByLanguage('en')                     // by ISO 639-1
+// or: getCountriesByLanguage('English')                // by name
+console.log(englishSpeaking.map(c => c.name));
+// ["American Samoa", "Anguilla", "Australia", "Belize", "Canada", "United States", …]
 ```
 
 If your application needs localised place names, you can use the `id` / `iso2` / `iso3` fields
 from this dataset as keys to look up translations in a third-party i18n library or your own
 translation files.
-
----
-
-## 📦 Data Files
-
-| File | Description | Records |
-|---|---|---|
-| `data/countries.json` | Countries with ISO2/ISO3, phone code, capital, TLD, timezones, coordinates, emoji flag, languages | 250 |
-| `data/regions.json` | World regions | 8 |
-| `data/subregions.json` | Sub-regions linked to a region | 27 |
-| `data/states.json` | States / provinces / territories | 5,000 + |
-| `data/cities.json` | Cities with coordinates (full flat file) | 150,000 + |
-| `data/cities/{ISO2}.json` | Per-country city files — one file per country | 150,000 + total |
-| `data/languages.json` | Languages with ISO codes | 22 |
 
 ---
 
