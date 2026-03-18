@@ -8,8 +8,12 @@
     "iso": "cs"
   },
   {
-    "name": "Welch",
+    "name": "Welsh",
     "iso": "cy"
+  },
+  {
+    "name": "English",
+    "iso": "en"
   },
   {
     "name": "German",
