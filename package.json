@@ -1,31 +1,31 @@
 {
-  "name": "countries-states-cities-database",
-  "version": "1.0.0",
-  "description": "Open dataset of countries, states and cities in JSON",
-  "main": "index.js",
-  "types": "types/index.d.ts",
-  "license": "MIT",
-  "keywords": [
-    "countries",
-    "states",
-    "cities",
-    "regions",
-    "subregions",
-    "json",
-    "database",
-    "geography"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/anriverax/region-countries-states-cities-JSON.git"
-  },
-  "files": [
-    "data/",
-    "types/",
-    "index.js"
-  ],
-  "scripts": {
-    "validate": "node scripts/validate-data.js",
-    "split-cities": "node scripts/split-cities.js"
-  }
+	"name": "@anrivera/countries-states-cities-database",
+	"version": "1.0.0",
+	"description": "Open dataset of countries, states and cities in JSON",
+	"main": "index.js",
+	"types": "types/index.d.ts",
+	"license": "MIT",
+	"keywords": [
+		"countries",
+		"states",
+		"cities",
+		"regions",
+		"subregions",
+		"json",
+		"database",
+		"geography"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/anrivera/region-countries-states-cities-JSON.git"
+	},
+	"files": [
+		"data/",
+		"types/",
+		"index.js"
+	],
+	"scripts": {
+		"validate": "node scripts/validate-data.js",
+		"split-cities": "node scripts/split-cities.js"
+	}
 }
