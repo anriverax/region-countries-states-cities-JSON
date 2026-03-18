@@ -84,6 +84,7 @@ const {
   getStatesOfCountry,
   // City lookups
   getCitiesOfCountry,
+  getCitiesOfState,
   searchCity,
   // Geo calculations
   calculateDistance,
@@ -216,9 +217,14 @@ const svStates = getStatesOfCountry('SV');
 // All departments of El Salvador
 ```
 
----
+#### `getStatesOfCountryById(countryId)`
 
-### City Lookups
+Returns all states/provinces for a given numeric country ID.
+
+```js
+const states = getStatesOfCountryById(101);
+// [{ id, name, countryId, stateCode, latitude, longitude }, …]
+```
 
 #### `getCitiesOfCountry(iso2)`
 
@@ -230,6 +236,17 @@ const cities = getCitiesOfCountry('SV');
 
 const mxCities = getCitiesOfCountry('MX');
 // ~4,000 cities in Mexico
+```
+
+#### `getCitiesOfState(stateId)`
+
+Returns all cities/municipalities that belong to a given state, identified by its numeric ID.
+
+```js
+// First get the state to know its id
+const state = getStateByCode('US-CA'); // { id: 681, … }
+const cities = getCitiesOfState(681);
+// [{ id, name, stateId, latitude, longitude }, …]
 ```
 
 #### `searchCity(query)`
@@ -443,6 +460,50 @@ npm run validate
 ```bash
 npm run split-cities
 ```
+
+---
+
+## 🌐 Language Support
+
+The **names** of countries, states and cities in this database are provided in **English only**.
+Full multilingual translation of 150 000+ place names is outside the scope of this dataset.
+
+What the package **does** include is language *metadata*:
+
+- `data/languages.json` - list of 22 languages with ISO 639-1 codes (`en`, `es`, `fr`, ...)
+- Each country record includes a `languages` field that maps ISO codes to language names spoken
+  in that country.
+
+```js
+const { getLanguages, getCountryByIso2 } = require('countries-states-cities-database');
+
+// List all 22 supported language codes
+const langs = getLanguages();
+// [{ name: "English", iso: "en" }, { name: "Spanish", iso: "es" }, …]
+
+// Languages spoken in Mexico
+const mx = getCountryByIso2('MX');
+console.log(mx.languages);
+// { spa: "Spanish" }
+```
+
+If your application needs localised place names, you can use the `id` / `iso2` / `iso3` fields
+from this dataset as keys to look up translations in a third-party i18n library or your own
+translation files.
+
+---
+
+## 📦 Data Files
+
+| File | Description | Records |
+|---|---|---|
+| `data/countries.json` | Countries with ISO2/ISO3, phone code, capital, TLD, timezones, coordinates, emoji flag, languages | 250 |
+| `data/regions.json` | World regions | 8 |
+| `data/subregions.json` | Sub-regions linked to a region | 27 |
+| `data/states.json` | States / provinces / territories | 5,000 + |
+| `data/cities.json` | Cities with coordinates (full flat file) | 150,000 + |
+| `data/cities/{ISO2}.json` | Per-country city files — one file per country | 150,000 + total |
+| `data/languages.json` | Languages with ISO codes | 22 |
 
 ---
 
