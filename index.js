@@ -116,6 +116,79 @@ function getLanguages() {
 }
 
 // ---------------------------------------------------------------------------
+// Public API – language lookup helper
+// ---------------------------------------------------------------------------
+
+/**
+ * Returns all countries where the given language is spoken.
+ *
+ * The function accepts:
+ *   - An ISO 639-3 three-letter code (e.g. "eng", "spa") — as stored in the
+ *     `languages` field of each country record.
+ *   - An ISO 639-1 two-letter code (e.g. "en", "es") — as stored in
+ *     `data/languages.json`.  The code is first resolved to a language name
+ *     via that list and then matched against country records.
+ *   - A language name (e.g. "English", "Spanish") — matched
+ *     case-insensitively against the language values in each country record.
+ *
+ * Countries that do not have the requested language in their `languages` map
+ * are excluded from the result.
+ *
+ * @param {string} languageIso - ISO 639-3 code, ISO 639-1 code, or language name.
+ * @returns {object[]} Array of country objects that speak the given language.
+ *
+ * @example
+ * // By ISO 639-3 code (as stored in country data)
+ * const countries = getCountriesByLanguage('eng');
+ * // [{ id, name: "United States", … }, { id, name: "United Kingdom", … }, …]
+ *
+ * @example
+ * // By ISO 639-1 code (as stored in languages.json)
+ * const countries = getCountriesByLanguage('en');
+ *
+ * @example
+ * // By language name
+ * const countries = getCountriesByLanguage('Spanish');
+ */
+function getCountriesByLanguage(languageIso) {
+  if (!languageIso || typeof languageIso !== 'string') return [];
+  const input = languageIso.toLowerCase().trim();
+  if (!input) return [];
+
+  const countries = getCountries();
+
+  // For two-letter ISO 639-1 codes, resolve to a language name first via
+  // languages.json, then fall through to name-based matching below.
+  let resolvedName = null;
+  if (input.length === 2) {
+    const languages = getLanguages();
+    const lang = languages.find((l) => l.iso.toLowerCase() === input);
+    if (lang) resolvedName = lang.name.toLowerCase();
+  }
+
+  return countries.filter((c) => {
+    if (!c.languages || typeof c.languages !== 'object') return false;
+
+    for (const key in c.languages) {
+      // Direct key match — handles ISO 639-3 keys (most countries) as well as
+      // the small number of country records that use ISO 639-1 keys (e.g. "ar", "cs").
+      if (key.toLowerCase() === input) return true;
+
+      // Name match — also handles 2-letter codes resolved to a name above.
+      const valueLower = c.languages[key].toLowerCase();
+      if (resolvedName !== null) {
+        if (valueLower === resolvedName) return true;
+      } else if (input.length !== 2 && input.length !== 3) {
+        // Treat input as a language name — exact case-insensitive match.
+        if (valueLower === input) return true;
+      }
+    }
+
+    return false;
+  });
+}
+
+// ---------------------------------------------------------------------------
 // Public API – helpers
 // ---------------------------------------------------------------------------
 
@@ -422,6 +495,7 @@ module.exports = {
   getRegions,
   getSubregions,
   getLanguages,
+  getCountriesByLanguage,
   getCountryById,
   getCountryByIso2,
   getCountryByIso3,
