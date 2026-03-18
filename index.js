@@ -120,6 +120,47 @@ function getLanguages() {
 // ---------------------------------------------------------------------------
 
 /**
+ * Returns the country that matches the given ISO 3166-1 alpha-2 code.
+ *
+ * @param {string} iso2 - Two-letter ISO 3166-1 country code (e.g. "US", "SV").
+ * @returns {object|null} The country object, or null if not found.
+ *
+ * @example
+ * const country = getCountryByIso2("SV");
+ * // { id, name, iso2, iso3, ... }
+ */
+function getCountryByIso2(iso2) {
+  if (!iso2 || typeof iso2 !== 'string') return null;
+  const upper = iso2.toUpperCase();
+  const countries = getCountries();
+  return countries.find((c) => c.iso2 === upper) || null;
+}
+
+/**
+ * Returns the state that matches the given combined country-state code.
+ * The code must follow the format "<countryIso2>-<stateCode>" (e.g. "US-CA", "MX-JAL").
+ *
+ * @param {string} code - Combined code in the format "COUNTRY-STATE" (e.g. "US-CA").
+ * @returns {object|null} The state object, or null if not found.
+ *
+ * @example
+ * const state = getStateByCode("US-CA");
+ * // { id, name, countryId, stateCode, latitude, longitude }
+ */
+function getStateByCode(code) {
+  if (!code || typeof code !== 'string') return null;
+  const dashIndex = code.indexOf('-');
+  if (dashIndex === -1) return null;
+  const countryIso2 = code.slice(0, dashIndex).toUpperCase();
+  const stateCode = code.slice(dashIndex + 1).toUpperCase();
+  if (!countryIso2 || !stateCode) return null;
+  const country = getCountryByIso2(countryIso2);
+  if (!country) return null;
+  const states = getStates();
+  return states.find((s) => s.countryId === country.id && s.stateCode === stateCode) || null;
+}
+
+/**
  * Returns all states that belong to a given country.
  *
  * @param {string} iso2 - Two-letter ISO 3166-1 country code (e.g. "US", "MX").
@@ -225,6 +266,8 @@ module.exports = {
   getRegions,
   getSubregions,
   getLanguages,
+  getCountryByIso2,
+  getStateByCode,
   getStatesOfCountry,
   getCitiesOfCountry,
   searchCity,

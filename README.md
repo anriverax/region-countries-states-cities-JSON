@@ -1,5 +1,9 @@
 # 🌍 Countries States Cities Database
 
+[![npm](https://img.shields.io/npm/v/countries-states-cities-database)](https://www.npmjs.com/package/countries-states-cities-database)
+[![npm downloads](https://img.shields.io/npm/dm/countries-states-cities-database)](https://www.npmjs.com/package/countries-states-cities-database)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 An open-source dataset containing countries, states, and cities in JSON format.
 
 **Includes:**
@@ -61,10 +65,30 @@ const {
   getRegions,
   getSubregions,
   getLanguages,
+  getCountryByIso2,
+  getStateByCode,
   getStatesOfCountry,
   getCitiesOfCountry,
   searchCity,
 } = require('countries-states-cities-database');
+```
+
+#### `getCountryByIso2(iso2)`
+
+Returns the country matching the given ISO 3166-1 alpha-2 code, or `null` if not found.
+
+```js
+const country = getCountryByIso2('SV');
+// { id, name, iso2, iso3, phoneCode, capital, timezones, latlng, emoji, … }
+```
+
+#### `getStateByCode(code)`
+
+Returns the state matching the given combined `"<countryIso2>-<stateCode>"` code, or `null` if not found.
+
+```js
+const state = getStateByCode('US-CA');
+// { id, name, countryId, stateCode, latitude, longitude }
 ```
 
 #### `getStatesOfCountry(iso2)`
