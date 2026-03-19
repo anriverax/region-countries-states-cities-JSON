@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"subRegionId": 20,
+		"subRegionId": 14,
 		"name": "Afghanistan",
 		"iso2": "AF",
 		"iso3": "AFG",
@@ -16,7 +16,10 @@
 			"abbreviation": "AFT",
 			"tzName": "Afghanistan Time"
 		},
-		"latlng": ["33.00000000", "65.00000000"],
+		"latlng": [
+			"33.00000000",
+			"65.00000000"
+		],
 		"flags": {
 			"png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
 			"svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg"
@@ -58,18 +61,25 @@
 	},
 	{
 		"id": 2,
-		"subRegionId": 14,
+		"subRegionId": 18,
 		"name": "Aland Islands",
 		"iso2": "AX",
 		"iso3": "ALA",
 		"numericCode": "248",
-		"phoneCode": "+35818",
+		"phoneCode": "+358",
 		"capital": "Mariehamn",
 		"tld": ".ax",
 		"timezones": {
-			"gmtOffsetName": "UTC+02:00"
+			"zoneName": "Europe/Mariehamn",
+			"gmtOffset": 7200,
+			"gmtOffsetName": "UTC+02:00",
+			"abbreviation": "EET",
+			"tzName": "Eastern European Time"
 		},
-		"latlng": ["60.11666700", "19.90000000"],
+		"latlng": [
+			"60.11666700",
+			"19.90000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ax.png",
 			"svg": "https://flagcdn.com/ax.svg"
@@ -111,7 +121,7 @@
 	},
 	{
 		"id": 3,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "Albania",
 		"iso2": "AL",
 		"iso3": "ALB",
@@ -126,7 +136,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["41.00000000", "20.00000000"],
+		"latlng": [
+			"41.00000000",
+			"20.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/al.png",
 			"svg": "https://flagcdn.com/al.svg"
@@ -168,7 +181,7 @@
 	},
 	{
 		"id": 4,
-		"subRegionId": 12,
+		"subRegionId": 1,
 		"name": "Algeria",
 		"iso2": "DZ",
 		"iso3": "DZA",
@@ -183,7 +196,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["28.00000000", "3.00000000"],
+		"latlng": [
+			"28.00000000",
+			"3.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/dz.png",
 			"svg": "https://flagcdn.com/dz.svg"
@@ -225,12 +241,12 @@
 	},
 	{
 		"id": 5,
-		"subRegionId": 15,
+		"subRegionId": 22,
 		"name": "American Samoa",
 		"iso2": "AS",
 		"iso3": "ASM",
 		"numericCode": "016",
-		"phoneCode": "+1-684",
+		"phoneCode": "+1",
 		"capital": "Pago Pago",
 		"tld": ".as",
 		"timezones": {
@@ -240,7 +256,10 @@
 			"abbreviation": "SST",
 			"tzName": "Samoa Standard Time"
 		},
-		"latlng": ["-14.33333333", "-170.00000000"],
+		"latlng": [
+			"-14.33333333",
+			"-170.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/as.png",
 			"svg": "https://flagcdn.com/as.svg"
@@ -282,7 +301,7 @@
 	},
 	{
 		"id": 6,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "Andorra",
 		"iso2": "AD",
 		"iso3": "AND",
@@ -297,7 +316,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["42.50000000", "1.50000000"],
+		"latlng": [
+			"42.50000000",
+			"1.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ad.png",
 			"svg": "https://flagcdn.com/ad.svg"
@@ -339,7 +361,7 @@
 	},
 	{
 		"id": 7,
-		"subRegionId": 11,
+		"subRegionId": 2,
 		"name": "Angola",
 		"iso2": "AO",
 		"iso3": "AGO",
@@ -354,7 +376,10 @@
 			"abbreviation": "WAT",
 			"tzName": "West Africa Time"
 		},
-		"latlng": ["-12.50000000", "18.50000000"],
+		"latlng": [
+			"-12.50000000",
+			"18.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ao.png",
 			"svg": "https://flagcdn.com/ao.svg"
@@ -396,12 +421,12 @@
 	},
 	{
 		"id": 8,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Anguilla",
 		"iso2": "AI",
 		"iso3": "AIA",
 		"numericCode": "660",
-		"phoneCode": "+1-264",
+		"phoneCode": "+1",
 		"capital": "The Valley",
 		"tld": ".ai",
 		"timezones": {
@@ -411,7 +436,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["18.25000000", "-63.16666666"],
+		"latlng": [
+			"18.25000000",
+			"-63.16666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ai.png",
 			"svg": "https://flagcdn.com/ai.svg"
@@ -468,7 +496,10 @@
 			"abbreviation": "AWST",
 			"tzName": "Australian Western Standard Time"
 		},
-		"latlng": ["-74.65000000", "4.48000000"],
+		"latlng": [
+			"-74.65000000",
+			"4.48000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/aq.png",
 			"svg": "https://flagcdn.com/aq.svg"
@@ -510,13 +541,13 @@
 	},
 	{
 		"id": 10,
-		"subRegionId": 2,
-		"name": "Antigua And Barbuda",
+		"subRegionId": 7,
+		"name": "Antigua and Barbuda",
 		"iso2": "AG",
 		"iso3": "ATG",
 		"numericCode": "028",
-		"phoneCode": "+1-268",
-		"capital": "St. John\u0027s",
+		"phoneCode": "+1",
+		"capital": "St. John's",
 		"tld": ".ag",
 		"timezones": {
 			"zoneName": "America/Antigua",
@@ -525,7 +556,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["17.05000000", "-61.80000000"],
+		"latlng": [
+			"17.05000000",
+			"-61.80000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ag.png",
 			"svg": "https://flagcdn.com/ag.svg"
@@ -567,7 +601,7 @@
 	},
 	{
 		"id": 11,
-		"subRegionId": 16,
+		"subRegionId": 8,
 		"name": "Argentina",
 		"iso2": "AR",
 		"iso3": "ARG",
@@ -582,7 +616,10 @@
 			"abbreviation": "ART",
 			"tzName": "Argentina Time"
 		},
-		"latlng": ["-34.00000000", "-64.00000000"],
+		"latlng": [
+			"-34.00000000",
+			"-64.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ar.png",
 			"svg": "https://flagcdn.com/ar.svg"
@@ -601,7 +638,7 @@
 			"regex": "^[A-Z]?\\d{4}[A-Z]{0,3}$"
 		},
 		"translations": {
-			"br": "Arc\u0027hantina",
+			"br": "Arc'hantina",
 			"ko": "아르헨티나",
 			"pt-BR": "Argentina",
 			"pt": "Argentina",
@@ -624,7 +661,7 @@
 	},
 	{
 		"id": 12,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Armenia",
 		"iso2": "AM",
 		"iso3": "ARM",
@@ -639,7 +676,10 @@
 			"abbreviation": "AMT",
 			"tzName": "Armenia Time"
 		},
-		"latlng": ["40.00000000", "45.00000000"],
+		"latlng": [
+			"40.00000000",
+			"45.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/am.png",
 			"svg": "https://flagcdn.com/am.svg"
@@ -681,7 +721,7 @@
 	},
 	{
 		"id": 13,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Aruba",
 		"iso2": "AW",
 		"iso3": "ABW",
@@ -696,7 +736,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["12.50000000", "-69.96666666"],
+		"latlng": [
+			"12.50000000",
+			"-69.96666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/aw.png",
 			"svg": "https://flagcdn.com/aw.svg"
@@ -738,7 +781,7 @@
 	},
 	{
 		"id": 14,
-		"subRegionId": 1,
+		"subRegionId": 19,
 		"name": "Australia",
 		"iso2": "AU",
 		"iso3": "AUS",
@@ -753,7 +796,10 @@
 			"abbreviation": "MIST",
 			"tzName": "Macquarie Island Station Time"
 		},
-		"latlng": ["-27.00000000", "133.00000000"],
+		"latlng": [
+			"-27.00000000",
+			"133.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/au.png",
 			"svg": "https://flagcdn.com/au.svg"
@@ -795,7 +841,7 @@
 	},
 	{
 		"id": 15,
-		"subRegionId": 27,
+		"subRegionId": 17,
 		"name": "Austria",
 		"iso2": "AT",
 		"iso3": "AUT",
@@ -810,7 +856,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["47.33333333", "13.33333333"],
+		"latlng": [
+			"47.33333333",
+			"13.33333333"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/at.png",
 			"svg": "https://flagcdn.com/at.svg"
@@ -852,7 +901,7 @@
 	},
 	{
 		"id": 16,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Azerbaijan",
 		"iso2": "AZ",
 		"iso3": "AZE",
@@ -867,7 +916,10 @@
 			"abbreviation": "AZT",
 			"tzName": "Azerbaijan Time"
 		},
-		"latlng": ["40.50000000", "47.50000000"],
+		"latlng": [
+			"40.50000000",
+			"47.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/az.png",
 			"svg": "https://flagcdn.com/az.svg"
@@ -909,7 +961,7 @@
 	},
 	{
 		"id": 18,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Bahrain",
 		"iso2": "BH",
 		"iso3": "BHR",
@@ -924,7 +976,10 @@
 			"abbreviation": "AST",
 			"tzName": "Arabia Standard Time"
 		},
-		"latlng": ["26.00000000", "50.55000000"],
+		"latlng": [
+			"26.00000000",
+			"50.55000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bh.png",
 			"svg": "https://flagcdn.com/bh.svg"
@@ -966,7 +1021,7 @@
 	},
 	{
 		"id": 19,
-		"subRegionId": 20,
+		"subRegionId": 14,
 		"name": "Bangladesh",
 		"iso2": "BD",
 		"iso3": "BGD",
@@ -981,7 +1036,10 @@
 			"abbreviation": "BDT",
 			"tzName": "Bangladesh Standard Time"
 		},
-		"latlng": ["24.00000000", "90.00000000"],
+		"latlng": [
+			"24.00000000",
+			"90.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bd.png",
 			"svg": "https://flagcdn.com/bd.svg"
@@ -1023,12 +1081,12 @@
 	},
 	{
 		"id": 20,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Barbados",
 		"iso2": "BB",
 		"iso3": "BRB",
 		"numericCode": "052",
-		"phoneCode": "+1-246",
+		"phoneCode": "+1",
 		"capital": "Bridgetown",
 		"tld": ".bb",
 		"timezones": {
@@ -1038,7 +1096,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["13.16666666", "-59.53333333"],
+		"latlng": [
+			"13.16666666",
+			"-59.53333333"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bb.png",
 			"svg": "https://flagcdn.com/bb.svg"
@@ -1080,7 +1141,7 @@
 	},
 	{
 		"id": 21,
-		"subRegionId": 8,
+		"subRegionId": 15,
 		"name": "Belarus",
 		"iso2": "BY",
 		"iso3": "BLR",
@@ -1095,7 +1156,10 @@
 			"abbreviation": "MSK",
 			"tzName": "Moscow Time"
 		},
-		"latlng": ["53.00000000", "28.00000000"],
+		"latlng": [
+			"53.00000000",
+			"28.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/by.png",
 			"svg": "https://flagcdn.com/by.svg"
@@ -1137,7 +1201,7 @@
 	},
 	{
 		"id": 22,
-		"subRegionId": 27,
+		"subRegionId": 17,
 		"name": "Belgium",
 		"iso2": "BE",
 		"iso3": "BEL",
@@ -1152,7 +1216,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["50.83333333", "4.00000000"],
+		"latlng": [
+			"50.83333333",
+			"4.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/be.png",
 			"svg": "https://flagcdn.com/be.svg"
@@ -1194,7 +1261,7 @@
 	},
 	{
 		"id": 23,
-		"subRegionId": 3,
+		"subRegionId": 9,
 		"name": "Belize",
 		"iso2": "BZ",
 		"iso3": "BLZ",
@@ -1209,7 +1276,10 @@
 			"abbreviation": "CST",
 			"tzName": "Central Standard Time (North America)"
 		},
-		"latlng": ["17.25000000", "-88.75000000"],
+		"latlng": [
+			"17.25000000",
+			"-88.75000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bz.png",
 			"svg": "https://flagcdn.com/bz.svg"
@@ -1251,7 +1321,7 @@
 	},
 	{
 		"id": 24,
-		"subRegionId": 25,
+		"subRegionId": 3,
 		"name": "Benin",
 		"iso2": "BJ",
 		"iso3": "BEN",
@@ -1266,7 +1336,10 @@
 			"abbreviation": "WAT",
 			"tzName": "West Africa Time"
 		},
-		"latlng": ["9.50000000", "2.25000000"],
+		"latlng": [
+			"9.50000000",
+			"2.25000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bj.png",
 			"svg": "https://flagcdn.com/bj.svg"
@@ -1308,12 +1381,12 @@
 	},
 	{
 		"id": 25,
-		"subRegionId": 13,
+		"subRegionId": 6,
 		"name": "Bermuda",
 		"iso2": "BM",
 		"iso3": "BMU",
 		"numericCode": "060",
-		"phoneCode": "+1-441",
+		"phoneCode": "+1",
 		"capital": "Hamilton",
 		"tld": ".bm",
 		"timezones": {
@@ -1323,7 +1396,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["32.33333333", "-64.75000000"],
+		"latlng": [
+			"32.33333333",
+			"-64.75000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bm.png",
 			"svg": "https://flagcdn.com/bm.svg"
@@ -1365,7 +1441,7 @@
 	},
 	{
 		"id": 26,
-		"subRegionId": 20,
+		"subRegionId": 14,
 		"name": "Bhutan",
 		"iso2": "BT",
 		"iso3": "BTN",
@@ -1380,7 +1456,10 @@
 			"abbreviation": "BTT",
 			"tzName": "Bhutan Time"
 		},
-		"latlng": ["27.50000000", "90.50000000"],
+		"latlng": [
+			"27.50000000",
+			"90.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bt.png",
 			"svg": "https://flagcdn.com/bt.svg"
@@ -1422,7 +1501,7 @@
 	},
 	{
 		"id": 27,
-		"subRegionId": 16,
+		"subRegionId": 8,
 		"name": "Bolivia",
 		"iso2": "BO",
 		"iso3": "BOL",
@@ -1437,7 +1516,10 @@
 			"abbreviation": "BOT",
 			"tzName": "Bolivia Time"
 		},
-		"latlng": ["-17.00000000", "-65.00000000"],
+		"latlng": [
+			"-17.00000000",
+			"-65.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bo.png",
 			"svg": "https://flagcdn.com/bo.svg"
@@ -1479,7 +1561,7 @@
 	},
 	{
 		"id": 155,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Bonaire, Sint Eustatius and Saba",
 		"iso2": "BQ",
 		"iso3": "BES",
@@ -1488,13 +1570,16 @@
 		"capital": "Kralendijk",
 		"tld": ".an",
 		"timezones": {
-			"zoneName": "America/Anguilla",
+			"zoneName": "America/Curacao",
 			"gmtOffset": -14400,
 			"gmtOffsetName": "UTC-04:00",
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["12.15000000", "-68.26666700"],
+		"latlng": [
+			"12.15000000",
+			"-68.26666700"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bq.png",
 			"svg": "https://flagcdn.com/bq.svg"
@@ -1513,7 +1598,7 @@
 			"regex": null
 		},
 		"translations": {
-			"br": "Izelvroioù ar C\u0027harib",
+			"br": "Izelvroioù ar C'harib",
 			"ko": "보네르 섬",
 			"pt-BR": "Bonaire",
 			"pt": "Bonaire",
@@ -1532,7 +1617,7 @@
 	},
 	{
 		"id": 28,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "Bosnia and Herzegovina",
 		"iso2": "BA",
 		"iso3": "BIH",
@@ -1547,7 +1632,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["44.00000000", "18.00000000"],
+		"latlng": [
+			"44.00000000",
+			"18.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ba.png",
 			"svg": "https://flagcdn.com/ba.svg"
@@ -1589,7 +1677,7 @@
 	},
 	{
 		"id": 29,
-		"subRegionId": 19,
+		"subRegionId": 5,
 		"name": "Botswana",
 		"iso2": "BW",
 		"iso3": "BWA",
@@ -1604,7 +1692,10 @@
 			"abbreviation": "CAT",
 			"tzName": "Central Africa Time"
 		},
-		"latlng": ["-22.00000000", "24.00000000"],
+		"latlng": [
+			"-22.00000000",
+			"24.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bw.png",
 			"svg": "https://flagcdn.com/bw.svg"
@@ -1661,7 +1752,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["-54.43333333", "3.40000000"],
+		"latlng": [
+			"-54.43333333",
+			"3.40000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bv.png",
 			"svg": "https://flagcdn.com/bv.svg"
@@ -1703,7 +1797,7 @@
 	},
 	{
 		"id": 31,
-		"subRegionId": 16,
+		"subRegionId": 8,
 		"name": "Brazil",
 		"iso2": "BR",
 		"iso3": "BRA",
@@ -1718,7 +1812,10 @@
 			"abbreviation": "BRT",
 			"tzName": "Brasília Time"
 		},
-		"latlng": ["-10.00000000", "-55.00000000"],
+		"latlng": [
+			"-10.00000000",
+			"-55.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/br.png",
 			"svg": "https://flagcdn.com/br.svg"
@@ -1760,7 +1857,7 @@
 	},
 	{
 		"id": 32,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "British Indian Ocean Territory",
 		"iso2": "IO",
 		"iso3": "IOT",
@@ -1775,7 +1872,10 @@
 			"abbreviation": "IOT",
 			"tzName": "Indian Ocean Time"
 		},
-		"latlng": ["-6.00000000", "71.50000000"],
+		"latlng": [
+			"-6.00000000",
+			"71.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/io.png",
 			"svg": "https://flagcdn.com/io.svg"
@@ -1803,9 +1903,9 @@
 			"fa": "قلمرو بریتانیا در اقیانوس هند",
 			"de": "Britisches Territorium im Indischen Ozean",
 			"es": "Territorio Británico del Océano Índico",
-			"fr": "Territoire britannique de l\u0027océan Indien",
+			"fr": "Territoire britannique de l'océan Indien",
 			"ja": "イギリス領インド洋地域",
-			"it": "Territorio britannico dell\u0027oceano indiano",
+			"it": "Territorio britannico dell'oceano indiano",
 			"zh-CN": "英属印度洋领地",
 			"tr": "Britanya Hint Okyanusu Topraklari",
 			"ru": "Британская территория в Индийском океане",
@@ -1817,7 +1917,7 @@
 	},
 	{
 		"id": 33,
-		"subRegionId": 17,
+		"subRegionId": 13,
 		"name": "Brunei",
 		"iso2": "BN",
 		"iso3": "BRN",
@@ -1832,7 +1932,10 @@
 			"abbreviation": "BNT",
 			"tzName": "Brunei Darussalam Time"
 		},
-		"latlng": ["4.50000000", "114.66666666"],
+		"latlng": [
+			"4.50000000",
+			"114.66666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bn.png",
 			"svg": "https://flagcdn.com/bn.svg"
@@ -1874,7 +1977,7 @@
 	},
 	{
 		"id": 34,
-		"subRegionId": 8,
+		"subRegionId": 15,
 		"name": "Bulgaria",
 		"iso2": "BG",
 		"iso3": "BGR",
@@ -1889,7 +1992,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["43.00000000", "25.00000000"],
+		"latlng": [
+			"43.00000000",
+			"25.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bg.png",
 			"svg": "https://flagcdn.com/bg.svg"
@@ -1931,12 +2037,12 @@
 	},
 	{
 		"id": 35,
-		"subRegionId": 25,
+		"subRegionId": 3,
 		"name": "Burkina Faso",
 		"iso2": "BF",
 		"iso3": "BFA",
 		"numericCode": "854",
-		"phoneCode": "226",
+		"phoneCode": "+226",
 		"capital": "Ouagadougou",
 		"tld": ".bf",
 		"timezones": {
@@ -1946,7 +2052,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["13.00000000", "-2.00000000"],
+		"latlng": [
+			"13.00000000",
+			"-2.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bf.png",
 			"svg": "https://flagcdn.com/bf.svg"
@@ -1988,7 +2097,7 @@
 	},
 	{
 		"id": 36,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Burundi",
 		"iso2": "BI",
 		"iso3": "BDI",
@@ -2003,7 +2112,10 @@
 			"abbreviation": "CAT",
 			"tzName": "Central Africa Time"
 		},
-		"latlng": ["-3.50000000", "30.00000000"],
+		"latlng": [
+			"-3.50000000",
+			"30.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bi.png",
 			"svg": "https://flagcdn.com/bi.svg"
@@ -2045,7 +2157,7 @@
 	},
 	{
 		"id": 37,
-		"subRegionId": 17,
+		"subRegionId": 13,
 		"name": "Cambodia",
 		"iso2": "KH",
 		"iso3": "KHM",
@@ -2060,7 +2172,10 @@
 			"abbreviation": "ICT",
 			"tzName": "Indochina Time"
 		},
-		"latlng": ["13.00000000", "105.00000000"],
+		"latlng": [
+			"13.00000000",
+			"105.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/kh.png",
 			"svg": "https://flagcdn.com/kh.svg"
@@ -2102,7 +2217,7 @@
 	},
 	{
 		"id": 38,
-		"subRegionId": 11,
+		"subRegionId": 2,
 		"name": "Cameroon",
 		"iso2": "CM",
 		"iso3": "CMR",
@@ -2117,7 +2232,10 @@
 			"abbreviation": "WAT",
 			"tzName": "West Africa Time"
 		},
-		"latlng": ["6.00000000", "12.00000000"],
+		"latlng": [
+			"6.00000000",
+			"12.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/cm.png",
 			"svg": "https://flagcdn.com/cm.svg"
@@ -2159,7 +2277,7 @@
 	},
 	{
 		"id": 39,
-		"subRegionId": 13,
+		"subRegionId": 6,
 		"name": "Canada",
 		"iso2": "CA",
 		"iso3": "CAN",
@@ -2174,7 +2292,10 @@
 			"abbreviation": "EST",
 			"tzName": "Eastern Standard Time (North America)"
 		},
-		"latlng": ["60.00000000", "-95.00000000"],
+		"latlng": [
+			"60.00000000",
+			"-95.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ca.png",
 			"svg": "https://flagcdn.com/ca.svg"
@@ -2216,7 +2337,7 @@
 	},
 	{
 		"id": 40,
-		"subRegionId": 25,
+		"subRegionId": 3,
 		"name": "Cape Verde",
 		"iso2": "CV",
 		"iso3": "CPV",
@@ -2231,7 +2352,10 @@
 			"abbreviation": "CVT",
 			"tzName": "Cape Verde Time"
 		},
-		"latlng": ["16.00000000", "-24.00000000"],
+		"latlng": [
+			"16.00000000",
+			"-24.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/cv.png",
 			"svg": "https://flagcdn.com/cv.svg"
@@ -2273,12 +2397,12 @@
 	},
 	{
 		"id": 41,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Cayman Islands",
 		"iso2": "KY",
 		"iso3": "CYM",
 		"numericCode": "136",
-		"phoneCode": "+1-345",
+		"phoneCode": "+1",
 		"capital": "George Town",
 		"tld": ".ky",
 		"timezones": {
@@ -2288,7 +2412,10 @@
 			"abbreviation": "EST",
 			"tzName": "Eastern Standard Time (North America"
 		},
-		"latlng": ["19.50000000", "-80.50000000"],
+		"latlng": [
+			"19.50000000",
+			"-80.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ky.png",
 			"svg": "https://flagcdn.com/ky.svg"
@@ -2330,7 +2457,7 @@
 	},
 	{
 		"id": 42,
-		"subRegionId": 11,
+		"subRegionId": 2,
 		"name": "Central African Republic",
 		"iso2": "CF",
 		"iso3": "CAF",
@@ -2345,7 +2472,10 @@
 			"abbreviation": "WAT",
 			"tzName": "West Africa Time"
 		},
-		"latlng": ["7.00000000", "21.00000000"],
+		"latlng": [
+			"7.00000000",
+			"21.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/cf.png",
 			"svg": "https://flagcdn.com/cf.svg"
@@ -2387,13 +2517,13 @@
 	},
 	{
 		"id": 43,
-		"subRegionId": 11,
+		"subRegionId": 2,
 		"name": "Chad",
 		"iso2": "TD",
 		"iso3": "TCD",
 		"numericCode": "148",
 		"phoneCode": "+235",
-		"capital": "N\u0027Djamena",
+		"capital": "N'Djamena",
 		"tld": ".td",
 		"timezones": {
 			"zoneName": "Africa/Ndjamena",
@@ -2402,7 +2532,10 @@
 			"abbreviation": "WAT",
 			"tzName": "West Africa Time"
 		},
-		"latlng": ["15.00000000", "19.00000000"],
+		"latlng": [
+			"15.00000000",
+			"19.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/td.png",
 			"svg": "https://flagcdn.com/td.svg"
@@ -2444,7 +2577,7 @@
 	},
 	{
 		"id": 44,
-		"subRegionId": 16,
+		"subRegionId": 8,
 		"name": "Chile",
 		"iso2": "CL",
 		"iso3": "CHL",
@@ -2459,7 +2592,10 @@
 			"abbreviation": "CLST",
 			"tzName": "Chile Summer Time"
 		},
-		"latlng": ["-30.00000000", "-71.00000000"],
+		"latlng": [
+			"-30.00000000",
+			"-71.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/cl.png",
 			"svg": "https://flagcdn.com/cl.svg"
@@ -2501,7 +2637,7 @@
 	},
 	{
 		"id": 45,
-		"subRegionId": 7,
+		"subRegionId": 12,
 		"name": "China",
 		"iso2": "CN",
 		"iso3": "CHN",
@@ -2516,7 +2652,10 @@
 			"abbreviation": "CST",
 			"tzName": "China Standard Time"
 		},
-		"latlng": ["35.00000000", "105.00000000"],
+		"latlng": [
+			"35.00000000",
+			"105.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/cn.png",
 			"svg": "https://flagcdn.com/cn.svg"
@@ -2558,7 +2697,7 @@
 	},
 	{
 		"id": 46,
-		"subRegionId": 1,
+		"subRegionId": 19,
 		"name": "Christmas Island",
 		"iso2": "CX",
 		"iso3": "CXR",
@@ -2573,7 +2712,10 @@
 			"abbreviation": "CXT",
 			"tzName": "Christmas Island Time"
 		},
-		"latlng": ["-10.50000000", "105.66666666"],
+		"latlng": [
+			"-10.50000000",
+			"105.66666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/cx.png",
 			"svg": "https://flagcdn.com/cx.svg"
@@ -2615,7 +2757,7 @@
 	},
 	{
 		"id": 47,
-		"subRegionId": 1,
+		"subRegionId": 19,
 		"name": "Cocos (Keeling) Islands",
 		"iso2": "CC",
 		"iso3": "CCK",
@@ -2630,7 +2772,10 @@
 			"abbreviation": "CCT",
 			"tzName": "Cocos Islands Time"
 		},
-		"latlng": ["-12.50000000", "96.83333333"],
+		"latlng": [
+			"-12.50000000",
+			"96.83333333"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/cc.png",
 			"svg": "https://flagcdn.com/cc.svg"
@@ -2672,7 +2817,7 @@
 	},
 	{
 		"id": 48,
-		"subRegionId": 16,
+		"subRegionId": 8,
 		"name": "Colombia",
 		"iso2": "CO",
 		"iso3": "COL",
@@ -2687,7 +2832,10 @@
 			"abbreviation": "COT",
 			"tzName": "Colombia Time"
 		},
-		"latlng": ["4.00000000", "-72.00000000"],
+		"latlng": [
+			"4.00000000",
+			"-72.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/co.png",
 			"svg": "https://flagcdn.com/co.svg"
@@ -2729,7 +2877,7 @@
 	},
 	{
 		"id": 49,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Comoros",
 		"iso2": "KM",
 		"iso3": "COM",
@@ -2744,7 +2892,10 @@
 			"abbreviation": "EAT",
 			"tzName": "East Africa Time"
 		},
-		"latlng": ["-12.16666666", "44.25000000"],
+		"latlng": [
+			"-12.16666666",
+			"44.25000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/km.png",
 			"svg": "https://flagcdn.com/km.svg"
@@ -2785,8 +2936,68 @@
 		}
 	},
 	{
+		"id": 50,
+		"subRegionId": 2,
+		"name": "Congo",
+		"iso2": "CG",
+		"iso3": "COG",
+		"numericCode": "178",
+		"phoneCode": "+242",
+		"capital": "Brazzaville",
+		"tld": ".cg",
+		"timezones": {
+			"zoneName": "Africa/Brazzaville",
+			"gmtOffset": 3600,
+			"gmtOffsetName": "UTC+01:00",
+			"abbreviation": "WAT",
+			"tzName": "West Africa Time"
+		},
+		"latlng": [
+			"-1.00000000",
+			"15.00000000"
+		],
+		"flags": {
+			"png": "https://flagcdn.com/w320/cg.png",
+			"svg": "https://flagcdn.com/cg.svg"
+		},
+		"maps": {
+			"googleMaps": "https://goo.gl/maps/Phf5dDDKdfCtuBTb6",
+			"openStreetMaps": "https://www.openstreetmap.org/relation/192794"
+		},
+		"currency": {
+			"name": "Congolese Franc",
+			"symbol": "FC"
+		},
+		"nationality": "Congolese",
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
+		"translations": {
+			"br": "Republik Kongo",
+			"ko": "콩고",
+			"pt-BR": "Congo",
+			"pt": "Congo",
+			"nl": "Congo [Republiek]",
+			"hr": "Kongo",
+			"fa": "کنگو",
+			"de": "Kongo",
+			"es": "Congo",
+			"fr": "Congo",
+			"ja": "コンゴ共和国",
+			"it": "Congo",
+			"zh-CN": "刚果",
+			"tr": "Kongo",
+			"ru": "Конго",
+			"uk": "Конго",
+			"pl": "Kongo",
+			"hi": "कांगो",
+			"ar": "الكونغو"
+		}
+	},
+	{
 		"id": 52,
-		"subRegionId": 15,
+		"subRegionId": 22,
 		"name": "Cook Islands",
 		"iso2": "CK",
 		"iso3": "COK",
@@ -2801,7 +3012,10 @@
 			"abbreviation": "CKT",
 			"tzName": "Cook Island Time"
 		},
-		"latlng": ["-21.23333333", "-159.76666666"],
+		"latlng": [
+			"-21.23333333",
+			"-159.76666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ck.png",
 			"svg": "https://flagcdn.com/ck.svg"
@@ -2843,7 +3057,7 @@
 	},
 	{
 		"id": 53,
-		"subRegionId": 3,
+		"subRegionId": 9,
 		"name": "Costa Rica",
 		"iso2": "CR",
 		"iso3": "CRI",
@@ -2858,7 +3072,10 @@
 			"abbreviation": "CST",
 			"tzName": "Central Standard Time (North America"
 		},
-		"latlng": ["10.00000000", "-84.00000000"],
+		"latlng": [
+			"10.00000000",
+			"-84.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/cr.png",
 			"svg": "https://flagcdn.com/cr.svg"
@@ -2899,65 +3116,8 @@
 		}
 	},
 	{
-		"id": 54,
-		"subRegionId": 25,
-		"name": "Cote D\u0027Ivoire (Ivory Coast)",
-		"iso2": "CI",
-		"iso3": "CIV",
-		"numericCode": "384",
-		"phoneCode": "+225",
-		"capital": "Yamoussoukro",
-		"tld": ".ci",
-		"timezones": {
-			"zoneName": "Africa/Abidjan",
-			"gmtOffset": 0,
-			"gmtOffsetName": "UTC±00",
-			"abbreviation": "GMT",
-			"tzName": "Greenwich Mean Time"
-		},
-		"latlng": ["8.00000000", "-5.00000000"],
-		"flags": {
-			"png": "https://flagcdn.com/w320/ci.png",
-			"svg": "https://flagcdn.com/ci.svg"
-		},
-		"maps": {
-			"googleMaps": "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
-			"openStreetMaps": "https://www.openstreetmap.org/relation/192779"
-		},
-		"currency": {
-			"name": "West African CFA franc",
-			"symbol": "CFA"
-		},
-		"nationality": "Ivorian",
-		"postalCode": {
-			"format": null,
-			"regex": null
-		},
-		"translations": {
-			"br": "Aod an Olifant",
-			"ko": "코트디부아르",
-			"pt-BR": "Costa do Marfim",
-			"pt": "Costa do Marfim",
-			"nl": "Ivoorkust",
-			"hr": "Obala Bjelokosti",
-			"fa": "ساحل عاج",
-			"de": "Elfenbeinküste",
-			"es": "Costa de Marfil",
-			"fr": "Côte d\u0027Ivoire",
-			"ja": "コートジボワール",
-			"it": "Costa D\u0027Avorio",
-			"zh-CN": "科特迪瓦",
-			"tr": "Kotdivuar",
-			"ru": "Кот-д\u0027Ивуар (Берег Слоновой Кости)",
-			"uk": "Кот-д\u0027Івуар (Берег Слонової Кістки)",
-			"pl": "Cote D\u0027Ivoire (Wybrzeże Kości Słoniowej)",
-			"hi": "कोटे डी इवोइरे (आइवरी कोस्ट)",
-			"ar": "كوت ديفوار (ساحل العاج)"
-		}
-	},
-	{
 		"id": 55,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "Croatia",
 		"iso2": "HR",
 		"iso3": "HRV",
@@ -2972,7 +3132,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["45.16666666", "15.50000000"],
+		"latlng": [
+			"45.16666666",
+			"15.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/hr.png",
 			"svg": "https://flagcdn.com/hr.svg"
@@ -3014,7 +3177,7 @@
 	},
 	{
 		"id": 56,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Cuba",
 		"iso2": "CU",
 		"iso3": "CUB",
@@ -3029,7 +3192,10 @@
 			"abbreviation": "CST",
 			"tzName": "Cuba Standard Time"
 		},
-		"latlng": ["21.50000000", "-80.00000000"],
+		"latlng": [
+			"21.50000000",
+			"-80.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/cu.png",
 			"svg": "https://flagcdn.com/cu.svg"
@@ -3071,7 +3237,7 @@
 	},
 	{
 		"id": 249,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Curaçao",
 		"iso2": "CW",
 		"iso3": "CUW",
@@ -3086,7 +3252,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["12.11666700", "-68.93333300"],
+		"latlng": [
+			"12.11666700",
+			"-68.93333300"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/cw.png",
 			"svg": "https://flagcdn.com/cw.svg"
@@ -3125,12 +3294,12 @@
 	},
 	{
 		"id": 57,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "Cyprus",
 		"iso2": "CY",
 		"iso3": "CYP",
 		"numericCode": "196",
-		"phoneCode": "357",
+		"phoneCode": "+357",
 		"capital": "Nicosia",
 		"tld": ".cy",
 		"timezones": {
@@ -3140,7 +3309,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["35.00000000", "33.00000000"],
+		"latlng": [
+			"35.00000000",
+			"33.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/cy.png",
 			"svg": "https://flagcdn.com/cy.svg"
@@ -3182,7 +3354,7 @@
 	},
 	{
 		"id": 58,
-		"subRegionId": 8,
+		"subRegionId": 15,
 		"name": "Czech Republic",
 		"iso2": "CZ",
 		"iso3": "CZE",
@@ -3197,7 +3369,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["49.75000000", "15.50000000"],
+		"latlng": [
+			"49.75000000",
+			"15.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/cz.png",
 			"svg": "https://flagcdn.com/cz.svg"
@@ -3238,8 +3413,60 @@
 		}
 	},
 	{
+		"id": 51,
+		"subRegionId": 2,
+		"name": "Democratic Republic of the Congo",
+		"iso2": "CD",
+		"iso3": "COD",
+		"numericCode": "180",
+		"phoneCode": "+243",
+		"capital": "Kinshasa",
+		"tld": ".cd",
+		"timezones": {
+			"zoneName": "Africa/Kinshasa",
+			"gmtOffset": 3600,
+			"gmtOffsetName": "UTC+01:00",
+			"abbreviation": "WAT",
+			"tzName": "West Africa Time"
+		},
+		"latlng": [
+			"0.00000000",
+			"25.00000000"
+		],
+		"currency": {
+			"name": "Congolese Franc",
+			"symbol": "FC"
+		},
+		"nationality": "Congolese",
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
+		"translations": {
+			"br": "Kongo (RD)",
+			"ko": "콩고 민주 공화국",
+			"pt-BR": "RD Congo",
+			"pt": "RD Congo",
+			"nl": "Congo [DRC]",
+			"hr": "Kongo, Demokratska Republika",
+			"fa": "جمهوری کنگو",
+			"de": "Kongo (Dem. Rep.)",
+			"es": "Congo (Rep. Dem.)",
+			"fr": "Congo (Rép. dém.)",
+			"ja": "コンゴ民主共和国",
+			"it": "Congo (Rep. Dem.)",
+			"zh-CN": "刚果（金）",
+			"tr": "Kongo Demokratik Cumhuriyeti",
+			"ru": "Демократическая Республика Конго",
+			"uk": "Демократична Республіка Конго",
+			"pl": "Demokratyczna Republika Konga",
+			"hi": "कांगो लोकतांत्रिक गणराज्य",
+			"ar": "جمهورية الكونغو الديمقراطية"
+		}
+	},
+	{
 		"id": 59,
-		"subRegionId": 14,
+		"subRegionId": 18,
 		"name": "Denmark",
 		"iso2": "DK",
 		"iso3": "DNK",
@@ -3254,7 +3481,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["56.00000000", "10.00000000"],
+		"latlng": [
+			"56.00000000",
+			"10.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/dk.png",
 			"svg": "https://flagcdn.com/dk.svg"
@@ -3296,7 +3526,7 @@
 	},
 	{
 		"id": 60,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Djibouti",
 		"iso2": "DJ",
 		"iso3": "DJI",
@@ -3311,7 +3541,10 @@
 			"abbreviation": "EAT",
 			"tzName": "East Africa Time"
 		},
-		"latlng": ["11.50000000", "43.00000000"],
+		"latlng": [
+			"11.50000000",
+			"43.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/dj.png",
 			"svg": "https://flagcdn.com/dj.svg"
@@ -3353,12 +3586,12 @@
 	},
 	{
 		"id": 61,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Dominica",
 		"iso2": "DM",
 		"iso3": "DMA",
 		"numericCode": "212",
-		"phoneCode": "+1-767",
+		"phoneCode": "+1",
 		"capital": "Roseau",
 		"tld": ".dm",
 		"timezones": {
@@ -3368,7 +3601,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["15.41666666", "-61.33333333"],
+		"latlng": [
+			"15.41666666",
+			"-61.33333333"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/dm.png",
 			"svg": "https://flagcdn.com/dm.svg"
@@ -3410,12 +3646,12 @@
 	},
 	{
 		"id": 62,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Dominican Republic",
 		"iso2": "DO",
 		"iso3": "DOM",
 		"numericCode": "214",
-		"phoneCode": "+1-809 and 1-829",
+		"phoneCode": "+1",
 		"capital": "Santo Domingo",
 		"tld": ".do",
 		"timezones": {
@@ -3425,7 +3661,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["19.00000000", "-70.66666666"],
+		"latlng": [
+			"19.00000000",
+			"-70.66666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/do.png",
 			"svg": "https://flagcdn.com/do.svg"
@@ -3466,65 +3705,8 @@
 		}
 	},
 	{
-		"id": 63,
-		"subRegionId": 17,
-		"name": "East Timor",
-		"iso2": "TL",
-		"iso3": "TLS",
-		"numericCode": "626",
-		"phoneCode": "+670",
-		"capital": "Dili",
-		"tld": ".tl",
-		"timezones": {
-			"zoneName": "Asia/Dili",
-			"gmtOffset": 32400,
-			"gmtOffsetName": "UTC+09:00",
-			"abbreviation": "TLT",
-			"tzName": "Timor Leste Time"
-		},
-		"latlng": ["-8.83333333", "125.91666666"],
-		"flags": {
-			"png": "https://flagcdn.com/w320/tl.png",
-			"svg": "https://flagcdn.com/tl.svg"
-		},
-		"maps": {
-			"googleMaps": "https://goo.gl/maps/sFqBC9zjgUXPR1iTA",
-			"openStreetMaps": "https://www.openstreetmap.org/relation/305142"
-		},
-		"currency": {
-			"name": "United States dollar",
-			"symbol": "$"
-		},
-		"nationality": "Timorese",
-		"postalCode": {
-			"format": null,
-			"regex": null
-		},
-		"translations": {
-			"br": "Timor ar Reter",
-			"ko": "동티모르",
-			"pt-BR": "Timor Leste",
-			"pt": "Timor Leste",
-			"nl": "Oost-Timor",
-			"hr": "Istočni Timor",
-			"fa": "تیمور شرقی",
-			"de": "Timor-Leste",
-			"es": "Timor Oriental",
-			"fr": "Timor oriental",
-			"ja": "東ティモール",
-			"it": "Timor Est",
-			"zh-CN": "东帝汶",
-			"tr": "Doğu Timor",
-			"ru": "Тимор-Лешти",
-			"uk": "Тимор-Лешті",
-			"pl": "Timor Wschodni",
-			"hi": "तिमोर-लेस्ते",
-			"ar": "تيمور قراءة"
-		}
-	},
-	{
 		"id": 64,
-		"subRegionId": 16,
+		"subRegionId": 8,
 		"name": "Ecuador",
 		"iso2": "EC",
 		"iso3": "ECU",
@@ -3539,7 +3721,10 @@
 			"abbreviation": "ECT",
 			"tzName": "Ecuador Time"
 		},
-		"latlng": ["-2.00000000", "-77.50000000"],
+		"latlng": [
+			"-2.00000000",
+			"-77.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ec.png",
 			"svg": "https://flagcdn.com/ec.svg"
@@ -3581,7 +3766,7 @@
 	},
 	{
 		"id": 65,
-		"subRegionId": 12,
+		"subRegionId": 1,
 		"name": "Egypt",
 		"iso2": "EG",
 		"iso3": "EGY",
@@ -3596,7 +3781,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["27.00000000", "30.00000000"],
+		"latlng": [
+			"27.00000000",
+			"30.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/eg.png",
 			"svg": "https://flagcdn.com/eg.svg"
@@ -3638,7 +3826,7 @@
 	},
 	{
 		"id": 66,
-		"subRegionId": 3,
+		"subRegionId": 9,
 		"name": "El Salvador",
 		"iso2": "SV",
 		"iso3": "SLV",
@@ -3653,7 +3841,10 @@
 			"abbreviation": "CST",
 			"tzName": "Central Standard Time (North America"
 		},
-		"latlng": ["13.83333333", "-88.91666666"],
+		"latlng": [
+			"13.83333333",
+			"-88.91666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sv.png",
 			"svg": "https://flagcdn.com/sv.svg"
@@ -3695,7 +3886,7 @@
 	},
 	{
 		"id": 67,
-		"subRegionId": 11,
+		"subRegionId": 2,
 		"name": "Equatorial Guinea",
 		"iso2": "GQ",
 		"iso3": "GNQ",
@@ -3710,7 +3901,10 @@
 			"abbreviation": "WAT",
 			"tzName": "West Africa Time"
 		},
-		"latlng": ["2.00000000", "10.00000000"],
+		"latlng": [
+			"2.00000000",
+			"10.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gq.png",
 			"svg": "https://flagcdn.com/gq.svg"
@@ -3729,7 +3923,7 @@
 			"regex": null
 		},
 		"translations": {
-			"br": "Ginea ar C\u0027heheder",
+			"br": "Ginea ar C'heheder",
 			"ko": "적도 기니",
 			"pt-BR": "Guiné Equatorial",
 			"pt": "Guiné Equatorial",
@@ -3752,12 +3946,12 @@
 	},
 	{
 		"id": 68,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Eritrea",
 		"iso2": "ER",
 		"iso3": "ERI",
 		"numericCode": "232",
-		"phoneCode": "291",
+		"phoneCode": "+291",
 		"capital": "Asmara",
 		"tld": ".er",
 		"timezones": {
@@ -3767,7 +3961,10 @@
 			"abbreviation": "EAT",
 			"tzName": "East Africa Time"
 		},
-		"latlng": ["15.00000000", "39.00000000"],
+		"latlng": [
+			"15.00000000",
+			"39.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/er.png",
 			"svg": "https://flagcdn.com/er.svg"
@@ -3809,7 +4006,7 @@
 	},
 	{
 		"id": 69,
-		"subRegionId": 14,
+		"subRegionId": 18,
 		"name": "Estonia",
 		"iso2": "EE",
 		"iso3": "EST",
@@ -3824,7 +4021,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["59.00000000", "26.00000000"],
+		"latlng": [
+			"59.00000000",
+			"26.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ee.png",
 			"svg": "https://flagcdn.com/ee.svg"
@@ -3865,8 +4065,68 @@
 		}
 	},
 	{
+		"id": 212,
+		"subRegionId": 5,
+		"name": "Eswatini",
+		"iso2": "SZ",
+		"iso3": "SWZ",
+		"numericCode": "748",
+		"phoneCode": "+268",
+		"capital": "Mbabane",
+		"tld": ".sz",
+		"timezones": {
+			"zoneName": "Africa/Mbabane",
+			"gmtOffset": 7200,
+			"gmtOffsetName": "UTC+02:00",
+			"abbreviation": "SAST",
+			"tzName": "South African Standard Time"
+		},
+		"latlng": [
+			"-26.50000000",
+			"31.50000000"
+		],
+		"flags": {
+			"png": "https://flagcdn.com/w320/sz.png",
+			"svg": "https://flagcdn.com/sz.svg"
+		},
+		"maps": {
+			"googleMaps": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
+			"openStreetMaps": "https://www.openstreetmap.org/relation/88210"
+		},
+		"currency": {
+			"name": "Lilangeni",
+			"symbol": "E"
+		},
+		"nationality": "Swazi",
+		"postalCode": {
+			"format": "@###",
+			"regex": "^([A-Z]\\d{3})$"
+		},
+		"translations": {
+			"br": "Eswatini",
+			"ko": "에스와티니",
+			"pt-BR": "Suazilândia",
+			"pt": "Suazilândia",
+			"nl": "Swaziland",
+			"hr": "Svazi",
+			"fa": "سوازیلند",
+			"de": "Swasiland",
+			"es": "Suazilandia",
+			"fr": "Swaziland",
+			"ja": "スワジランド",
+			"it": "Swaziland",
+			"zh-CN": "斯威士兰",
+			"tr": "Esvatini",
+			"ru": "Эсватини",
+			"uk": "Есватіні",
+			"pl": "Eswatini",
+			"hi": "एस्वातिन",
+			"ar": "الإسواتين"
+		}
+	},
+	{
 		"id": 70,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Ethiopia",
 		"iso2": "ET",
 		"iso3": "ETH",
@@ -3881,7 +4141,10 @@
 			"abbreviation": "EAT",
 			"tzName": "East Africa Time"
 		},
-		"latlng": ["8.00000000", "38.00000000"],
+		"latlng": [
+			"8.00000000",
+			"38.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/et.png",
 			"svg": "https://flagcdn.com/et.svg"
@@ -3923,7 +4186,7 @@
 	},
 	{
 		"id": 71,
-		"subRegionId": 16,
+		"subRegionId": 8,
 		"name": "Falkland Islands",
 		"iso2": "FK",
 		"iso3": "FLK",
@@ -3938,7 +4201,10 @@
 			"abbreviation": "FKST",
 			"tzName": "Falkland Islands Summer Time"
 		},
-		"latlng": ["-51.75000000", "-59.00000000"],
+		"latlng": [
+			"-51.75000000",
+			"-59.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/fk.png",
 			"svg": "https://flagcdn.com/fk.svg"
@@ -3980,7 +4246,7 @@
 	},
 	{
 		"id": 72,
-		"subRegionId": 14,
+		"subRegionId": 18,
 		"name": "Faroe Islands",
 		"iso2": "FO",
 		"iso3": "FRO",
@@ -3995,7 +4261,10 @@
 			"abbreviation": "WET",
 			"tzName": "Western European Time"
 		},
-		"latlng": ["62.00000000", "-7.00000000"],
+		"latlng": [
+			"62.00000000",
+			"-7.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/fo.png",
 			"svg": "https://flagcdn.com/fo.svg"
@@ -4037,7 +4306,7 @@
 	},
 	{
 		"id": 73,
-		"subRegionId": 9,
+		"subRegionId": 20,
 		"name": "Fiji Islands",
 		"iso2": "FJ",
 		"iso3": "FJI",
@@ -4052,7 +4321,10 @@
 			"abbreviation": "FJT",
 			"tzName": "Fiji Time"
 		},
-		"latlng": ["-18.00000000", "175.00000000"],
+		"latlng": [
+			"-18.00000000",
+			"175.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/fj.png",
 			"svg": "https://flagcdn.com/fj.svg"
@@ -4094,7 +4366,7 @@
 	},
 	{
 		"id": 74,
-		"subRegionId": 14,
+		"subRegionId": 18,
 		"name": "Finland",
 		"iso2": "FI",
 		"iso3": "FIN",
@@ -4109,7 +4381,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["64.00000000", "26.00000000"],
+		"latlng": [
+			"64.00000000",
+			"26.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/fi.png",
 			"svg": "https://flagcdn.com/fi.svg"
@@ -4151,7 +4426,7 @@
 	},
 	{
 		"id": 75,
-		"subRegionId": 27,
+		"subRegionId": 17,
 		"name": "France",
 		"iso2": "FR",
 		"iso3": "FRA",
@@ -4166,7 +4441,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["46.00000000", "2.00000000"],
+		"latlng": [
+			"46.00000000",
+			"2.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/fr.png",
 			"svg": "https://flagcdn.com/fr.svg"
@@ -4208,7 +4486,7 @@
 	},
 	{
 		"id": 76,
-		"subRegionId": 16,
+		"subRegionId": 8,
 		"name": "French Guiana",
 		"iso2": "GF",
 		"iso3": "GUF",
@@ -4223,7 +4501,10 @@
 			"abbreviation": "GFT",
 			"tzName": "French Guiana Time"
 		},
-		"latlng": ["4.00000000", "-53.00000000"],
+		"latlng": [
+			"4.00000000",
+			"-53.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gf.png",
 			"svg": "https://flagcdn.com/gf.svg"
@@ -4265,7 +4546,7 @@
 	},
 	{
 		"id": 77,
-		"subRegionId": 15,
+		"subRegionId": 22,
 		"name": "French Polynesia",
 		"iso2": "PF",
 		"iso3": "PYF",
@@ -4280,7 +4561,10 @@
 			"abbreviation": "GAMT",
 			"tzName": "Gambier Islands Time"
 		},
-		"latlng": ["-15.00000000", "-140.00000000"],
+		"latlng": [
+			"-15.00000000",
+			"-140.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/pf.png",
 			"svg": "https://flagcdn.com/pf.svg"
@@ -4299,7 +4583,7 @@
 			"regex": "^((97|98)7\\d{2})$"
 		},
 		"translations": {
-			"br": "Polinezia C\u0027hall",
+			"br": "Polinezia C'hall",
 			"ko": "프랑스령 폴리네시아",
 			"pt-BR": "Polinésia Francesa",
 			"pt": "Polinésia Francesa",
@@ -4322,7 +4606,7 @@
 	},
 	{
 		"id": 78,
-		"subRegionId": 19,
+		"subRegionId": 5,
 		"name": "French Southern Territories",
 		"iso2": "TF",
 		"iso3": "ATF",
@@ -4337,7 +4621,10 @@
 			"abbreviation": "TFT",
 			"tzName": "French Southern and Antarctic Time"
 		},
-		"latlng": ["-49.25000000", "69.16700000"],
+		"latlng": [
+			"-49.25000000",
+			"69.16700000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/tf.png",
 			"svg": "https://flagcdn.com/tf.svg"
@@ -4379,7 +4666,7 @@
 	},
 	{
 		"id": 79,
-		"subRegionId": 11,
+		"subRegionId": 2,
 		"name": "Gabon",
 		"iso2": "GA",
 		"iso3": "GAB",
@@ -4394,7 +4681,10 @@
 			"abbreviation": "WAT",
 			"tzName": "West Africa Time"
 		},
-		"latlng": ["-1.00000000", "11.75000000"],
+		"latlng": [
+			"-1.00000000",
+			"11.75000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ga.png",
 			"svg": "https://flagcdn.com/ga.svg"
@@ -4435,65 +4725,8 @@
 		}
 	},
 	{
-		"id": 80,
-		"subRegionId": 25,
-		"name": "Gambia",
-		"iso2": "GM",
-		"iso3": "GMB",
-		"numericCode": "270",
-		"phoneCode": "+220",
-		"capital": "Banjul",
-		"tld": ".gm",
-		"timezones": {
-			"zoneName": "Africa/Banjul",
-			"gmtOffset": 0,
-			"gmtOffsetName": "UTC±00",
-			"abbreviation": "GMT",
-			"tzName": "Greenwich Mean Time"
-		},
-		"latlng": ["13.46666666", "-16.56666666"],
-		"flags": {
-			"png": "https://flagcdn.com/w320/gm.png",
-			"svg": "https://flagcdn.com/gm.svg"
-		},
-		"maps": {
-			"googleMaps": "https://goo.gl/maps/bbGBCxxtfD2A9Z4m6",
-			"openStreetMaps": "https://www.openstreetmap.org/relation/192774"
-		},
-		"currency": {
-			"name": "Gambian dalasi",
-			"symbol": "D"
-		},
-		"nationality": "Gambian",
-		"postalCode": {
-			"format": null,
-			"regex": null
-		},
-		"translations": {
-			"br": "Gambia",
-			"ko": "감비아",
-			"pt-BR": "Gâmbia",
-			"pt": "Gâmbia",
-			"nl": "Gambia",
-			"hr": "Gambija",
-			"fa": "گامبیا",
-			"de": "Gambia",
-			"es": "Gambia",
-			"fr": "Gambie",
-			"ja": "ガンビア",
-			"it": "Gambia",
-			"zh-CN": "冈比亚",
-			"tr": "Gambiya",
-			"ru": "Гамбия",
-			"uk": "Гамбія The",
-			"pl": "Gambia The",
-			"hi": "गाम्बिया",
-			"ar": "غامبيا"
-		}
-	},
-	{
 		"id": 81,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Georgia",
 		"iso2": "GE",
 		"iso3": "GEO",
@@ -4508,7 +4741,10 @@
 			"abbreviation": "GET",
 			"tzName": "Georgia Standard Time"
 		},
-		"latlng": ["42.00000000", "43.50000000"],
+		"latlng": [
+			"42.00000000",
+			"43.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ge.png",
 			"svg": "https://flagcdn.com/ge.svg"
@@ -4550,7 +4786,7 @@
 	},
 	{
 		"id": 82,
-		"subRegionId": 27,
+		"subRegionId": 17,
 		"name": "Germany",
 		"iso2": "DE",
 		"iso3": "DEU",
@@ -4565,7 +4801,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["51.00000000", "9.00000000"],
+		"latlng": [
+			"51.00000000",
+			"9.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/de.png",
 			"svg": "https://flagcdn.com/de.svg"
@@ -4607,7 +4846,7 @@
 	},
 	{
 		"id": 83,
-		"subRegionId": 25,
+		"subRegionId": 3,
 		"name": "Ghana",
 		"iso2": "GH",
 		"iso3": "GHA",
@@ -4622,7 +4861,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["8.00000000", "-2.00000000"],
+		"latlng": [
+			"8.00000000",
+			"-2.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gh.png",
 			"svg": "https://flagcdn.com/gh.svg"
@@ -4664,7 +4906,7 @@
 	},
 	{
 		"id": 84,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "Gibraltar",
 		"iso2": "GI",
 		"iso3": "GIB",
@@ -4679,7 +4921,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["36.13333333", "-5.35000000"],
+		"latlng": [
+			"36.13333333",
+			"-5.35000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gi.png",
 			"svg": "https://flagcdn.com/gi.svg"
@@ -4721,7 +4966,7 @@
 	},
 	{
 		"id": 85,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "Greece",
 		"iso2": "GR",
 		"iso3": "GRC",
@@ -4736,7 +4981,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["39.00000000", "22.00000000"],
+		"latlng": [
+			"39.00000000",
+			"22.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gr.png",
 			"svg": "https://flagcdn.com/gr.svg"
@@ -4778,7 +5026,7 @@
 	},
 	{
 		"id": 86,
-		"subRegionId": 13,
+		"subRegionId": 6,
 		"name": "Greenland",
 		"iso2": "GL",
 		"iso3": "GRL",
@@ -4793,7 +5041,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["72.00000000", "-40.00000000"],
+		"latlng": [
+			"72.00000000",
+			"-40.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gl.png",
 			"svg": "https://flagcdn.com/gl.svg"
@@ -4835,13 +5086,13 @@
 	},
 	{
 		"id": 87,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Grenada",
 		"iso2": "GD",
 		"iso3": "GRD",
 		"numericCode": "308",
-		"phoneCode": "+1-473",
-		"capital": "St. George\u0027s",
+		"phoneCode": "+1",
+		"capital": "St. George's",
 		"tld": ".gd",
 		"timezones": {
 			"zoneName": "America/Grenada",
@@ -4850,7 +5101,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["12.11666666", "-61.66666666"],
+		"latlng": [
+			"12.11666666",
+			"-61.66666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gd.png",
 			"svg": "https://flagcdn.com/gd.svg"
@@ -4892,7 +5146,7 @@
 	},
 	{
 		"id": 88,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Guadeloupe",
 		"iso2": "GP",
 		"iso3": "GLP",
@@ -4907,7 +5161,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["16.25000000", "-61.58333300"],
+		"latlng": [
+			"16.25000000",
+			"-61.58333300"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gp.png",
 			"svg": "https://flagcdn.com/gp.svg"
@@ -4949,12 +5206,12 @@
 	},
 	{
 		"id": 89,
-		"subRegionId": 10,
+		"subRegionId": 21,
 		"name": "Guam",
 		"iso2": "GU",
 		"iso3": "GUM",
 		"numericCode": "316",
-		"phoneCode": "+1-671",
+		"phoneCode": "+1",
 		"capital": "Hagatna",
 		"tld": ".gu",
 		"timezones": {
@@ -4964,7 +5221,10 @@
 			"abbreviation": "CHST",
 			"tzName": "Chamorro Standard Time"
 		},
-		"latlng": ["13.46666666", "144.78333333"],
+		"latlng": [
+			"13.46666666",
+			"144.78333333"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gu.png",
 			"svg": "https://flagcdn.com/gu.svg"
@@ -5006,7 +5266,7 @@
 	},
 	{
 		"id": 90,
-		"subRegionId": 3,
+		"subRegionId": 9,
 		"name": "Guatemala",
 		"iso2": "GT",
 		"iso3": "GTM",
@@ -5021,7 +5281,10 @@
 			"abbreviation": "CST",
 			"tzName": "Central Standard Time (North America"
 		},
-		"latlng": ["15.50000000", "-90.25000000"],
+		"latlng": [
+			"15.50000000",
+			"-90.25000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gt.png",
 			"svg": "https://flagcdn.com/gt.svg"
@@ -5063,12 +5326,12 @@
 	},
 	{
 		"id": 91,
-		"subRegionId": 14,
-		"name": "Guernsey and Alderney",
+		"subRegionId": 18,
+		"name": "Guernsey",
 		"iso2": "GG",
 		"iso3": "GGY",
 		"numericCode": "831",
-		"phoneCode": "+44-1481",
+		"phoneCode": "+44",
 		"capital": "St Peter Port",
 		"tld": ".gg",
 		"timezones": {
@@ -5078,7 +5341,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["49.46666666", "-2.58333333"],
+		"latlng": [
+			"49.46666666",
+			"-2.58333333"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gg.png",
 			"svg": "https://flagcdn.com/gg.svg"
@@ -5120,7 +5386,7 @@
 	},
 	{
 		"id": 92,
-		"subRegionId": 25,
+		"subRegionId": 3,
 		"name": "Guinea",
 		"iso2": "GN",
 		"iso3": "GIN",
@@ -5135,7 +5401,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["11.00000000", "-10.00000000"],
+		"latlng": [
+			"11.00000000",
+			"-10.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gn.png",
 			"svg": "https://flagcdn.com/gn.svg"
@@ -5177,7 +5446,7 @@
 	},
 	{
 		"id": 93,
-		"subRegionId": 25,
+		"subRegionId": 3,
 		"name": "Guinea-Bissau",
 		"iso2": "GW",
 		"iso3": "GNB",
@@ -5192,7 +5461,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["12.00000000", "-15.00000000"],
+		"latlng": [
+			"12.00000000",
+			"-15.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gw.png",
 			"svg": "https://flagcdn.com/gw.svg"
@@ -5234,7 +5506,7 @@
 	},
 	{
 		"id": 94,
-		"subRegionId": 16,
+		"subRegionId": 8,
 		"name": "Guyana",
 		"iso2": "GY",
 		"iso3": "GUY",
@@ -5249,7 +5521,10 @@
 			"abbreviation": "GYT",
 			"tzName": "Guyana Time"
 		},
-		"latlng": ["5.00000000", "-59.00000000"],
+		"latlng": [
+			"5.00000000",
+			"-59.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gy.png",
 			"svg": "https://flagcdn.com/gy.svg"
@@ -5291,7 +5566,7 @@
 	},
 	{
 		"id": 95,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Haiti",
 		"iso2": "HT",
 		"iso3": "HTI",
@@ -5306,7 +5581,10 @@
 			"abbreviation": "EST",
 			"tzName": "Eastern Standard Time (North America"
 		},
-		"latlng": ["19.00000000", "-72.41666666"],
+		"latlng": [
+			"19.00000000",
+			"-72.41666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ht.png",
 			"svg": "https://flagcdn.com/ht.svg"
@@ -5354,7 +5632,7 @@
 		"iso3": "HMD",
 		"numericCode": "334",
 		"phoneCode": "+672",
-		"capital": null,
+		"capital": "",
 		"tld": ".hm",
 		"timezones": {
 			"zoneName": "Indian/Kerguelen",
@@ -5363,7 +5641,10 @@
 			"abbreviation": "TFT",
 			"tzName": "French Southern and Antarctic Time"
 		},
-		"latlng": ["-53.10000000", "72.51666666"],
+		"latlng": [
+			"-53.10000000",
+			"72.51666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/hm.png",
 			"svg": "https://flagcdn.com/hm.svg"
@@ -5405,7 +5686,7 @@
 	},
 	{
 		"id": 97,
-		"subRegionId": 3,
+		"subRegionId": 9,
 		"name": "Honduras",
 		"iso2": "HN",
 		"iso3": "HND",
@@ -5420,7 +5701,10 @@
 			"abbreviation": "CST",
 			"tzName": "Central Standard Time (North America"
 		},
-		"latlng": ["15.00000000", "-86.50000000"],
+		"latlng": [
+			"15.00000000",
+			"-86.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/hn.png",
 			"svg": "https://flagcdn.com/hn.svg"
@@ -5462,8 +5746,8 @@
 	},
 	{
 		"id": 98,
-		"subRegionId": 7,
-		"name": "Hong Kong",
+		"subRegionId": 12,
+		"name": "Hong Kong S.A.R.",
 		"iso2": "HK",
 		"iso3": "HKG",
 		"numericCode": "344",
@@ -5477,7 +5761,10 @@
 			"abbreviation": "HKT",
 			"tzName": "Hong Kong Time"
 		},
-		"latlng": ["22.25000000", "114.16666666"],
+		"latlng": [
+			"22.25000000",
+			"114.16666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/hk.png",
 			"svg": "https://flagcdn.com/hk.svg"
@@ -5519,7 +5806,7 @@
 	},
 	{
 		"id": 99,
-		"subRegionId": 8,
+		"subRegionId": 15,
 		"name": "Hungary",
 		"iso2": "HU",
 		"iso3": "HUN",
@@ -5534,7 +5821,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["47.00000000", "20.00000000"],
+		"latlng": [
+			"47.00000000",
+			"20.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/hu.png",
 			"svg": "https://flagcdn.com/hu.svg"
@@ -5576,7 +5866,7 @@
 	},
 	{
 		"id": 100,
-		"subRegionId": 14,
+		"subRegionId": 18,
 		"name": "Iceland",
 		"iso2": "IS",
 		"iso3": "ISL",
@@ -5591,7 +5881,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["65.00000000", "-18.00000000"],
+		"latlng": [
+			"65.00000000",
+			"-18.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/is.png",
 			"svg": "https://flagcdn.com/is.svg"
@@ -5633,7 +5926,7 @@
 	},
 	{
 		"id": 101,
-		"subRegionId": 20,
+		"subRegionId": 14,
 		"name": "India",
 		"iso2": "IN",
 		"iso3": "IND",
@@ -5648,7 +5941,10 @@
 			"abbreviation": "IST",
 			"tzName": "Indian Standard Time"
 		},
-		"latlng": ["20.00000000", "77.00000000"],
+		"latlng": [
+			"20.00000000",
+			"77.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/in.png",
 			"svg": "https://flagcdn.com/in.svg"
@@ -5690,7 +5986,7 @@
 	},
 	{
 		"id": 102,
-		"subRegionId": 17,
+		"subRegionId": 13,
 		"name": "Indonesia",
 		"iso2": "ID",
 		"iso3": "IDN",
@@ -5705,7 +6001,10 @@
 			"abbreviation": "WIB",
 			"tzName": "Western Indonesian Time"
 		},
-		"latlng": ["-5.00000000", "120.00000000"],
+		"latlng": [
+			"-5.00000000",
+			"120.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/id.png",
 			"svg": "https://flagcdn.com/id.svg"
@@ -5747,7 +6046,7 @@
 	},
 	{
 		"id": 103,
-		"subRegionId": 20,
+		"subRegionId": 14,
 		"name": "Iran",
 		"iso2": "IR",
 		"iso3": "IRN",
@@ -5762,7 +6061,10 @@
 			"abbreviation": "IRDT",
 			"tzName": "Iran Daylight Time"
 		},
-		"latlng": ["32.00000000", "53.00000000"],
+		"latlng": [
+			"32.00000000",
+			"53.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ir.png",
 			"svg": "https://flagcdn.com/ir.svg"
@@ -5803,7 +6105,7 @@
 	},
 	{
 		"id": 104,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Iraq",
 		"iso2": "IQ",
 		"iso3": "IRQ",
@@ -5818,7 +6120,10 @@
 			"abbreviation": "AST",
 			"tzName": "Arabia Standard Time"
 		},
-		"latlng": ["33.00000000", "44.00000000"],
+		"latlng": [
+			"33.00000000",
+			"44.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/iq.png",
 			"svg": "https://flagcdn.com/iq.svg"
@@ -5860,7 +6165,7 @@
 	},
 	{
 		"id": 105,
-		"subRegionId": 14,
+		"subRegionId": 18,
 		"name": "Ireland",
 		"iso2": "IE",
 		"iso3": "IRL",
@@ -5875,7 +6180,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["53.00000000", "-8.00000000"],
+		"latlng": [
+			"53.00000000",
+			"-8.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ie.png",
 			"svg": "https://flagcdn.com/ie.svg"
@@ -5917,7 +6225,7 @@
 	},
 	{
 		"id": 106,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Israel",
 		"iso2": "IL",
 		"iso3": "ISR",
@@ -5932,7 +6240,10 @@
 			"abbreviation": "IST",
 			"tzName": "Israel Standard Time"
 		},
-		"latlng": ["31.50000000", "34.75000000"],
+		"latlng": [
+			"31.50000000",
+			"34.75000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/il.png",
 			"svg": "https://flagcdn.com/il.svg"
@@ -5974,7 +6285,7 @@
 	},
 	{
 		"id": 107,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "Italy",
 		"iso2": "IT",
 		"iso3": "ITA",
@@ -5989,7 +6300,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["42.83333333", "12.83333333"],
+		"latlng": [
+			"42.83333333",
+			"12.83333333"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/it.png",
 			"svg": "https://flagcdn.com/it.svg"
@@ -6030,13 +6344,73 @@
 		}
 	},
 	{
+		"id": 54,
+		"subRegionId": 3,
+		"name": "Ivory Coast",
+		"iso2": "CI",
+		"iso3": "CIV",
+		"numericCode": "384",
+		"phoneCode": "+225",
+		"capital": "Yamoussoukro",
+		"tld": ".ci",
+		"timezones": {
+			"zoneName": "Africa/Abidjan",
+			"gmtOffset": 0,
+			"gmtOffsetName": "UTC±00",
+			"abbreviation": "GMT",
+			"tzName": "Greenwich Mean Time"
+		},
+		"latlng": [
+			"8.00000000",
+			"-5.00000000"
+		],
+		"flags": {
+			"png": "https://flagcdn.com/w320/ci.png",
+			"svg": "https://flagcdn.com/ci.svg"
+		},
+		"maps": {
+			"googleMaps": "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
+			"openStreetMaps": "https://www.openstreetmap.org/relation/192779"
+		},
+		"currency": {
+			"name": "West African CFA franc",
+			"symbol": "CFA"
+		},
+		"nationality": "Ivorian",
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
+		"translations": {
+			"br": "Aod an Olifant",
+			"ko": "코트디부아르",
+			"pt-BR": "Costa do Marfim",
+			"pt": "Costa do Marfim",
+			"nl": "Ivoorkust",
+			"hr": "Obala Bjelokosti",
+			"fa": "ساحل عاج",
+			"de": "Elfenbeinküste",
+			"es": "Costa de Marfil",
+			"fr": "Côte d'Ivoire",
+			"ja": "コートジボワール",
+			"it": "Costa D'Avorio",
+			"zh-CN": "科特迪瓦",
+			"tr": "Kotdivuar",
+			"ru": "Кот-д'Ивуар (Берег Слоновой Кости)",
+			"uk": "Кот-д'Івуар (Берег Слонової Кістки)",
+			"pl": "Cote D'Ivoire (Wybrzeże Kości Słoniowej)",
+			"hi": "कोटे डी इवोइरे (आइवरी कोस्ट)",
+			"ar": "كوت ديفوار (ساحل العاج)"
+		}
+	},
+	{
 		"id": 108,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Jamaica",
 		"iso2": "JM",
 		"iso3": "JAM",
 		"numericCode": "388",
-		"phoneCode": "+1-876",
+		"phoneCode": "+1",
 		"capital": "Kingston",
 		"tld": ".jm",
 		"timezones": {
@@ -6046,7 +6420,10 @@
 			"abbreviation": "EST",
 			"tzName": "Eastern Standard Time (North America"
 		},
-		"latlng": ["18.25000000", "-77.50000000"],
+		"latlng": [
+			"18.25000000",
+			"-77.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/jm.png",
 			"svg": "https://flagcdn.com/jm.svg"
@@ -6088,7 +6465,7 @@
 	},
 	{
 		"id": 109,
-		"subRegionId": 7,
+		"subRegionId": 12,
 		"name": "Japan",
 		"iso2": "JP",
 		"iso3": "JPN",
@@ -6103,7 +6480,10 @@
 			"abbreviation": "JST",
 			"tzName": "Japan Standard Time"
 		},
-		"latlng": ["36.00000000", "138.00000000"],
+		"latlng": [
+			"36.00000000",
+			"138.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/jp.png",
 			"svg": "https://flagcdn.com/jp.svg"
@@ -6145,12 +6525,12 @@
 	},
 	{
 		"id": 110,
-		"subRegionId": 14,
+		"subRegionId": 18,
 		"name": "Jersey",
 		"iso2": "JE",
 		"iso3": "JEY",
 		"numericCode": "832",
-		"phoneCode": "+44-1534",
+		"phoneCode": "+44",
 		"capital": "Saint Helier",
 		"tld": ".je",
 		"timezones": {
@@ -6160,7 +6540,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["49.25000000", "-2.16666666"],
+		"latlng": [
+			"49.25000000",
+			"-2.16666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/je.png",
 			"svg": "https://flagcdn.com/je.svg"
@@ -6202,7 +6585,7 @@
 	},
 	{
 		"id": 111,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Jordan",
 		"iso2": "JO",
 		"iso3": "JOR",
@@ -6217,7 +6600,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["31.00000000", "36.00000000"],
+		"latlng": [
+			"31.00000000",
+			"36.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/jo.png",
 			"svg": "https://flagcdn.com/jo.svg"
@@ -6259,7 +6645,7 @@
 	},
 	{
 		"id": 112,
-		"subRegionId": 4,
+		"subRegionId": 10,
 		"name": "Kazakhstan",
 		"iso2": "KZ",
 		"iso3": "KAZ",
@@ -6274,7 +6660,10 @@
 			"abbreviation": "ALMT",
 			"tzName": "Alma-Ata Time[1"
 		},
-		"latlng": ["48.00000000", "68.00000000"],
+		"latlng": [
+			"48.00000000",
+			"68.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/kz.png",
 			"svg": "https://flagcdn.com/kz.svg"
@@ -6316,7 +6705,7 @@
 	},
 	{
 		"id": 113,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Kenya",
 		"iso2": "KE",
 		"iso3": "KEN",
@@ -6331,7 +6720,10 @@
 			"abbreviation": "EAT",
 			"tzName": "East Africa Time"
 		},
-		"latlng": ["1.00000000", "38.00000000"],
+		"latlng": [
+			"1.00000000",
+			"38.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ke.png",
 			"svg": "https://flagcdn.com/ke.svg"
@@ -6373,7 +6765,7 @@
 	},
 	{
 		"id": 114,
-		"subRegionId": 10,
+		"subRegionId": 21,
 		"name": "Kiribati",
 		"iso2": "KI",
 		"iso3": "KIR",
@@ -6388,7 +6780,10 @@
 			"abbreviation": "PHOT",
 			"tzName": "Phoenix Island Time"
 		},
-		"latlng": ["1.41666666", "173.00000000"],
+		"latlng": [
+			"1.41666666",
+			"173.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ki.png",
 			"svg": "https://flagcdn.com/ki.svg"
@@ -6430,7 +6825,7 @@
 	},
 	{
 		"id": 248,
-		"subRegionId": 8,
+		"subRegionId": 15,
 		"name": "Kosovo",
 		"iso2": "XK",
 		"iso3": "XKX",
@@ -6445,7 +6840,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["42.56129090", "20.34030350"],
+		"latlng": [
+			"42.56129090",
+			"20.34030350"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/xk.png",
 			"svg": "https://flagcdn.com/xk.svg"
@@ -6477,7 +6875,7 @@
 	},
 	{
 		"id": 117,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Kuwait",
 		"iso2": "KW",
 		"iso3": "KWT",
@@ -6492,7 +6890,10 @@
 			"abbreviation": "AST",
 			"tzName": "Arabia Standard Time"
 		},
-		"latlng": ["29.50000000", "45.75000000"],
+		"latlng": [
+			"29.50000000",
+			"45.75000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/kw.png",
 			"svg": "https://flagcdn.com/kw.svg"
@@ -6534,7 +6935,7 @@
 	},
 	{
 		"id": 118,
-		"subRegionId": 4,
+		"subRegionId": 10,
 		"name": "Kyrgyzstan",
 		"iso2": "KG",
 		"iso3": "KGZ",
@@ -6549,7 +6950,10 @@
 			"abbreviation": "KGT",
 			"tzName": "Kyrgyzstan Time"
 		},
-		"latlng": ["41.00000000", "75.00000000"],
+		"latlng": [
+			"41.00000000",
+			"75.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/kg.png",
 			"svg": "https://flagcdn.com/kg.svg"
@@ -6591,7 +6995,7 @@
 	},
 	{
 		"id": 119,
-		"subRegionId": 17,
+		"subRegionId": 13,
 		"name": "Laos",
 		"iso2": "LA",
 		"iso3": "LAO",
@@ -6606,7 +7010,10 @@
 			"abbreviation": "ICT",
 			"tzName": "Indochina Time"
 		},
-		"latlng": ["18.00000000", "105.00000000"],
+		"latlng": [
+			"18.00000000",
+			"105.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/la.png",
 			"svg": "https://flagcdn.com/la.svg"
@@ -6648,7 +7055,7 @@
 	},
 	{
 		"id": 120,
-		"subRegionId": 14,
+		"subRegionId": 18,
 		"name": "Latvia",
 		"iso2": "LV",
 		"iso3": "LVA",
@@ -6663,7 +7070,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["57.00000000", "25.00000000"],
+		"latlng": [
+			"57.00000000",
+			"25.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/lv.png",
 			"svg": "https://flagcdn.com/lv.svg"
@@ -6705,7 +7115,7 @@
 	},
 	{
 		"id": 121,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Lebanon",
 		"iso2": "LB",
 		"iso3": "LBN",
@@ -6720,7 +7130,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["33.83333333", "35.83333333"],
+		"latlng": [
+			"33.83333333",
+			"35.83333333"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/lb.png",
 			"svg": "https://flagcdn.com/lb.svg"
@@ -6762,7 +7175,7 @@
 	},
 	{
 		"id": 122,
-		"subRegionId": 19,
+		"subRegionId": 5,
 		"name": "Lesotho",
 		"iso2": "LS",
 		"iso3": "LSO",
@@ -6777,7 +7190,10 @@
 			"abbreviation": "SAST",
 			"tzName": "South African Standard Time"
 		},
-		"latlng": ["-29.50000000", "28.50000000"],
+		"latlng": [
+			"-29.50000000",
+			"28.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ls.png",
 			"svg": "https://flagcdn.com/ls.svg"
@@ -6819,7 +7235,7 @@
 	},
 	{
 		"id": 123,
-		"subRegionId": 25,
+		"subRegionId": 3,
 		"name": "Liberia",
 		"iso2": "LR",
 		"iso3": "LBR",
@@ -6834,7 +7250,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["6.50000000", "-9.50000000"],
+		"latlng": [
+			"6.50000000",
+			"-9.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/lr.png",
 			"svg": "https://flagcdn.com/lr.svg"
@@ -6876,7 +7295,7 @@
 	},
 	{
 		"id": 124,
-		"subRegionId": 12,
+		"subRegionId": 1,
 		"name": "Libya",
 		"iso2": "LY",
 		"iso3": "LBY",
@@ -6891,7 +7310,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["25.00000000", "17.00000000"],
+		"latlng": [
+			"25.00000000",
+			"17.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ly.png",
 			"svg": "https://flagcdn.com/ly.svg"
@@ -6933,7 +7355,7 @@
 	},
 	{
 		"id": 125,
-		"subRegionId": 27,
+		"subRegionId": 17,
 		"name": "Liechtenstein",
 		"iso2": "LI",
 		"iso3": "LIE",
@@ -6948,7 +7370,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["47.26666666", "9.53333333"],
+		"latlng": [
+			"47.26666666",
+			"9.53333333"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/li.png",
 			"svg": "https://flagcdn.com/li.svg"
@@ -6990,7 +7415,7 @@
 	},
 	{
 		"id": 126,
-		"subRegionId": 14,
+		"subRegionId": 18,
 		"name": "Lithuania",
 		"iso2": "LT",
 		"iso3": "LTU",
@@ -7005,7 +7430,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["56.00000000", "24.00000000"],
+		"latlng": [
+			"56.00000000",
+			"24.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/lt.png",
 			"svg": "https://flagcdn.com/lt.svg"
@@ -7047,7 +7475,7 @@
 	},
 	{
 		"id": 127,
-		"subRegionId": 27,
+		"subRegionId": 17,
 		"name": "Luxembourg",
 		"iso2": "LU",
 		"iso3": "LUX",
@@ -7062,7 +7490,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["49.75000000", "6.16666666"],
+		"latlng": [
+			"49.75000000",
+			"6.16666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/lu.png",
 			"svg": "https://flagcdn.com/lu.svg"
@@ -7104,8 +7535,8 @@
 	},
 	{
 		"id": 128,
-		"subRegionId": 7,
-		"name": "Macau",
+		"subRegionId": 12,
+		"name": "Macau S.A.R.",
 		"iso2": "MO",
 		"iso3": "MAC",
 		"numericCode": "446",
@@ -7119,7 +7550,10 @@
 			"abbreviation": "CST",
 			"tzName": "China Standard Time"
 		},
-		"latlng": ["22.16666666", "113.55000000"],
+		"latlng": [
+			"22.16666666",
+			"113.55000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mo.png",
 			"svg": "https://flagcdn.com/mo.svg"
@@ -7160,65 +7594,8 @@
 		}
 	},
 	{
-		"id": 129,
-		"subRegionId": 21,
-		"name": "Macedonia",
-		"iso2": "MK",
-		"iso3": "MKD",
-		"numericCode": "807",
-		"phoneCode": "+389",
-		"capital": "Skopje",
-		"tld": ".mk",
-		"timezones": {
-			"zoneName": "Europe/Skopje",
-			"gmtOffset": 3600,
-			"gmtOffsetName": "UTC+01:00",
-			"abbreviation": "CET",
-			"tzName": "Central European Time"
-		},
-		"latlng": ["41.83333333", "22.00000000"],
-		"flags": {
-			"png": "https://flagcdn.com/w320/mk.png",
-			"svg": "https://flagcdn.com/mk.svg"
-		},
-		"maps": {
-			"googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
-			"openStreetMaps": "https://www.openstreetmap.org/relation/53293"
-		},
-		"currency": {
-			"name": "Denar",
-			"symbol": "ден"
-		},
-		"nationality": "Macedonian",
-		"postalCode": {
-			"format": "####",
-			"regex": "^(\\d{4})$"
-		},
-		"translations": {
-			"br": "Makedonia an Norzh",
-			"ko": "북마케도니아",
-			"pt-BR": "Macedônia do Norte",
-			"pt": "Macedónia do Norte",
-			"nl": "Noord-Macedonië",
-			"hr": "Sjeverna Makedonija",
-			"fa": "ﻢﻗﺩﻮﻨﯿﻫ ﺶﻣﺎﻠﯾ",
-			"de": "Nordmazedonien",
-			"es": "Macedonia del Norte",
-			"fr": "Macédoine du Nord",
-			"ja": "北マケドニア",
-			"it": "Macedonia del Nord",
-			"zh-CN": "北馬其頓",
-			"tr": "Kuzey Makedonya",
-			"ru": "Северная Македония",
-			"uk": "Північна Македонія",
-			"pl": "Macedonia Północna",
-			"hi": "नॉर्थ मैसेडोनिया",
-			"ar": "شمال مقدونيا"
-		}
-	},
-	{
 		"id": 130,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Madagascar",
 		"iso2": "MG",
 		"iso3": "MDG",
@@ -7233,7 +7610,10 @@
 			"abbreviation": "EAT",
 			"tzName": "East Africa Time"
 		},
-		"latlng": ["-20.00000000", "47.00000000"],
+		"latlng": [
+			"-20.00000000",
+			"47.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mg.png",
 			"svg": "https://flagcdn.com/mg.svg"
@@ -7275,7 +7655,7 @@
 	},
 	{
 		"id": 131,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Malawi",
 		"iso2": "MW",
 		"iso3": "MWI",
@@ -7290,7 +7670,10 @@
 			"abbreviation": "CAT",
 			"tzName": "Central Africa Time"
 		},
-		"latlng": ["-13.50000000", "34.00000000"],
+		"latlng": [
+			"-13.50000000",
+			"34.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mw.png",
 			"svg": "https://flagcdn.com/mw.svg"
@@ -7332,7 +7715,7 @@
 	},
 	{
 		"id": 132,
-		"subRegionId": 17,
+		"subRegionId": 13,
 		"name": "Malaysia",
 		"iso2": "MY",
 		"iso3": "MYS",
@@ -7347,7 +7730,10 @@
 			"abbreviation": "MYT",
 			"tzName": "Malaysia Time"
 		},
-		"latlng": ["2.50000000", "112.50000000"],
+		"latlng": [
+			"2.50000000",
+			"112.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/my.png",
 			"svg": "https://flagcdn.com/my.svg"
@@ -7389,7 +7775,7 @@
 	},
 	{
 		"id": 133,
-		"subRegionId": 20,
+		"subRegionId": 14,
 		"name": "Maldives",
 		"iso2": "MV",
 		"iso3": "MDV",
@@ -7404,7 +7790,10 @@
 			"abbreviation": "MVT",
 			"tzName": "Maldives Time"
 		},
-		"latlng": ["3.25000000", "73.00000000"],
+		"latlng": [
+			"3.25000000",
+			"73.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mv.png",
 			"svg": "https://flagcdn.com/mv.svg"
@@ -7446,7 +7835,7 @@
 	},
 	{
 		"id": 134,
-		"subRegionId": 25,
+		"subRegionId": 3,
 		"name": "Mali",
 		"iso2": "ML",
 		"iso3": "MLI",
@@ -7461,7 +7850,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["17.00000000", "-4.00000000"],
+		"latlng": [
+			"17.00000000",
+			"-4.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ml.png",
 			"svg": "https://flagcdn.com/ml.svg"
@@ -7503,7 +7895,7 @@
 	},
 	{
 		"id": 135,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "Malta",
 		"iso2": "MT",
 		"iso3": "MLT",
@@ -7518,7 +7910,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["35.83333333", "14.58333333"],
+		"latlng": [
+			"35.83333333",
+			"14.58333333"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mt.png",
 			"svg": "https://flagcdn.com/mt.svg"
@@ -7560,12 +7955,12 @@
 	},
 	{
 		"id": 136,
-		"subRegionId": 14,
+		"subRegionId": 18,
 		"name": "Man (Isle of)",
 		"iso2": "IM",
 		"iso3": "IMN",
 		"numericCode": "833",
-		"phoneCode": "+44-1624",
+		"phoneCode": "+44",
 		"capital": "Douglas, Isle of Man",
 		"tld": ".im",
 		"timezones": {
@@ -7575,7 +7970,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["54.25000000", "-4.50000000"],
+		"latlng": [
+			"54.25000000",
+			"-4.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/im.png",
 			"svg": "https://flagcdn.com/im.svg"
@@ -7617,7 +8015,7 @@
 	},
 	{
 		"id": 137,
-		"subRegionId": 10,
+		"subRegionId": 21,
 		"name": "Marshall Islands",
 		"iso2": "MH",
 		"iso3": "MHL",
@@ -7632,7 +8030,10 @@
 			"abbreviation": "MHT",
 			"tzName": "Marshall Islands Time"
 		},
-		"latlng": ["9.00000000", "168.00000000"],
+		"latlng": [
+			"9.00000000",
+			"168.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mh.png",
 			"svg": "https://flagcdn.com/mh.svg"
@@ -7674,7 +8075,7 @@
 	},
 	{
 		"id": 138,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Martinique",
 		"iso2": "MQ",
 		"iso3": "MTQ",
@@ -7689,7 +8090,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["14.66666700", "-61.00000000"],
+		"latlng": [
+			"14.66666700",
+			"-61.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mq.png",
 			"svg": "https://flagcdn.com/mq.svg"
@@ -7731,7 +8135,7 @@
 	},
 	{
 		"id": 139,
-		"subRegionId": 25,
+		"subRegionId": 3,
 		"name": "Mauritania",
 		"iso2": "MR",
 		"iso3": "MRT",
@@ -7746,7 +8150,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["20.00000000", "-12.00000000"],
+		"latlng": [
+			"20.00000000",
+			"-12.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mr.png",
 			"svg": "https://flagcdn.com/mr.svg"
@@ -7788,7 +8195,7 @@
 	},
 	{
 		"id": 140,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Mauritius",
 		"iso2": "MU",
 		"iso3": "MUS",
@@ -7803,7 +8210,10 @@
 			"abbreviation": "MUT",
 			"tzName": "Mauritius Time"
 		},
-		"latlng": ["-20.28333333", "57.55000000"],
+		"latlng": [
+			"-20.28333333",
+			"57.55000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mu.png",
 			"svg": "https://flagcdn.com/mu.svg"
@@ -7845,7 +8255,7 @@
 	},
 	{
 		"id": 141,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Mayotte",
 		"iso2": "YT",
 		"iso3": "MYT",
@@ -7860,7 +8270,10 @@
 			"abbreviation": "EAT",
 			"tzName": "East Africa Time"
 		},
-		"latlng": ["-12.83333333", "45.16666666"],
+		"latlng": [
+			"-12.83333333",
+			"45.16666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/yt.png",
 			"svg": "https://flagcdn.com/yt.svg"
@@ -7902,7 +8315,7 @@
 	},
 	{
 		"id": 142,
-		"subRegionId": 3,
+		"subRegionId": 6,
 		"name": "Mexico",
 		"iso2": "MX",
 		"iso3": "MEX",
@@ -7917,7 +8330,10 @@
 			"abbreviation": "CST",
 			"tzName": "Central Standard Time (North America"
 		},
-		"latlng": ["23.00000000", "-102.00000000"],
+		"latlng": [
+			"23.00000000",
+			"-102.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mx.png",
 			"svg": "https://flagcdn.com/mx.svg"
@@ -7958,7 +8374,7 @@
 	},
 	{
 		"id": 143,
-		"subRegionId": 10,
+		"subRegionId": 21,
 		"name": "Micronesia",
 		"iso2": "FM",
 		"iso3": "FSM",
@@ -7973,7 +8389,10 @@
 			"abbreviation": "CHUT",
 			"tzName": "Chuuk Time"
 		},
-		"latlng": ["6.91666666", "158.25000000"],
+		"latlng": [
+			"6.91666666",
+			"158.25000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/fm.png",
 			"svg": "https://flagcdn.com/fm.svg"
@@ -8015,7 +8434,7 @@
 	},
 	{
 		"id": 144,
-		"subRegionId": 8,
+		"subRegionId": 15,
 		"name": "Moldova",
 		"iso2": "MD",
 		"iso3": "MDA",
@@ -8030,7 +8449,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["47.00000000", "29.00000000"],
+		"latlng": [
+			"47.00000000",
+			"29.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/md.png",
 			"svg": "https://flagcdn.com/md.svg"
@@ -8072,7 +8494,7 @@
 	},
 	{
 		"id": 145,
-		"subRegionId": 27,
+		"subRegionId": 17,
 		"name": "Monaco",
 		"iso2": "MC",
 		"iso3": "MCO",
@@ -8087,7 +8509,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["43.73333333", "7.40000000"],
+		"latlng": [
+			"43.73333333",
+			"7.40000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mc.png",
 			"svg": "https://flagcdn.com/mc.svg"
@@ -8128,7 +8553,7 @@
 	},
 	{
 		"id": 146,
-		"subRegionId": 7,
+		"subRegionId": 12,
 		"name": "Mongolia",
 		"iso2": "MN",
 		"iso3": "MNG",
@@ -8143,7 +8568,10 @@
 			"abbreviation": "CHOT",
 			"tzName": "Choibalsan Standard Time"
 		},
-		"latlng": ["46.00000000", "105.00000000"],
+		"latlng": [
+			"46.00000000",
+			"105.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mn.png",
 			"svg": "https://flagcdn.com/mn.svg"
@@ -8185,7 +8613,7 @@
 	},
 	{
 		"id": 147,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "Montenegro",
 		"iso2": "ME",
 		"iso3": "MNE",
@@ -8200,7 +8628,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["42.50000000", "19.30000000"],
+		"latlng": [
+			"42.50000000",
+			"19.30000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/me.png",
 			"svg": "https://flagcdn.com/me.svg"
@@ -8242,12 +8673,12 @@
 	},
 	{
 		"id": 148,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Montserrat",
 		"iso2": "MS",
 		"iso3": "MSR",
 		"numericCode": "500",
-		"phoneCode": "+1-664",
+		"phoneCode": "+1",
 		"capital": "Plymouth",
 		"tld": ".ms",
 		"timezones": {
@@ -8257,7 +8688,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["16.75000000", "-62.20000000"],
+		"latlng": [
+			"16.75000000",
+			"-62.20000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ms.png",
 			"svg": "https://flagcdn.com/ms.svg"
@@ -8299,7 +8733,7 @@
 	},
 	{
 		"id": 149,
-		"subRegionId": 12,
+		"subRegionId": 1,
 		"name": "Morocco",
 		"iso2": "MA",
 		"iso3": "MAR",
@@ -8314,7 +8748,10 @@
 			"abbreviation": "WEST",
 			"tzName": "Western European Summer Time"
 		},
-		"latlng": ["32.00000000", "-5.00000000"],
+		"latlng": [
+			"32.00000000",
+			"-5.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ma.png",
 			"svg": "https://flagcdn.com/ma.svg"
@@ -8355,7 +8792,7 @@
 	},
 	{
 		"id": 150,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Mozambique",
 		"iso2": "MZ",
 		"iso3": "MOZ",
@@ -8370,7 +8807,10 @@
 			"abbreviation": "CAT",
 			"tzName": "Central Africa Time"
 		},
-		"latlng": ["-18.25000000", "35.00000000"],
+		"latlng": [
+			"-18.25000000",
+			"35.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mz.png",
 			"svg": "https://flagcdn.com/mz.svg"
@@ -8412,7 +8852,7 @@
 	},
 	{
 		"id": 151,
-		"subRegionId": 17,
+		"subRegionId": 13,
 		"name": "Myanmar",
 		"iso2": "MM",
 		"iso3": "MMR",
@@ -8427,7 +8867,10 @@
 			"abbreviation": "MMT",
 			"tzName": "Myanmar Standard Time"
 		},
-		"latlng": ["22.00000000", "98.00000000"],
+		"latlng": [
+			"22.00000000",
+			"98.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mm.png",
 			"svg": "https://flagcdn.com/mm.svg"
@@ -8461,7 +8904,7 @@
 			"zh-CN": "缅甸",
 			"tr": "Myanmar",
 			"ru": "Мьянма",
-			"uk": "М\u0027янма",
+			"uk": "М'янма",
 			"pl": "Birma",
 			"hi": "म्यांमार",
 			"ar": "ميانمار"
@@ -8469,7 +8912,7 @@
 	},
 	{
 		"id": 152,
-		"subRegionId": 19,
+		"subRegionId": 5,
 		"name": "Namibia",
 		"iso2": "NA",
 		"iso3": "NAM",
@@ -8484,7 +8927,10 @@
 			"abbreviation": "WAST",
 			"tzName": "West Africa Summer Time"
 		},
-		"latlng": ["-22.00000000", "17.00000000"],
+		"latlng": [
+			"-22.00000000",
+			"17.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/na.png",
 			"svg": "https://flagcdn.com/na.svg"
@@ -8526,7 +8972,7 @@
 	},
 	{
 		"id": 153,
-		"subRegionId": 10,
+		"subRegionId": 21,
 		"name": "Nauru",
 		"iso2": "NR",
 		"iso3": "NRU",
@@ -8541,7 +8987,10 @@
 			"abbreviation": "NRT",
 			"tzName": "Nauru Time"
 		},
-		"latlng": ["-0.53333333", "166.91666666"],
+		"latlng": [
+			"-0.53333333",
+			"166.91666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/nr.png",
 			"svg": "https://flagcdn.com/nr.svg"
@@ -8583,7 +9032,7 @@
 	},
 	{
 		"id": 154,
-		"subRegionId": 20,
+		"subRegionId": 14,
 		"name": "Nepal",
 		"iso2": "NP",
 		"iso3": "NPL",
@@ -8598,7 +9047,10 @@
 			"abbreviation": "NPT",
 			"tzName": "Nepal Time"
 		},
-		"latlng": ["28.00000000", "84.00000000"],
+		"latlng": [
+			"28.00000000",
+			"84.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/np.png",
 			"svg": "https://flagcdn.com/np.svg"
@@ -8640,7 +9092,7 @@
 	},
 	{
 		"id": 156,
-		"subRegionId": 27,
+		"subRegionId": 17,
 		"name": "Netherlands",
 		"iso2": "NL",
 		"iso3": "NLD",
@@ -8655,7 +9107,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["52.50000000", "5.75000000"],
+		"latlng": [
+			"52.50000000",
+			"5.75000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/nl.png",
 			"svg": "https://flagcdn.com/nl.svg"
@@ -8697,7 +9152,7 @@
 	},
 	{
 		"id": 157,
-		"subRegionId": 9,
+		"subRegionId": 20,
 		"name": "New Caledonia",
 		"iso2": "NC",
 		"iso3": "NCL",
@@ -8712,7 +9167,10 @@
 			"abbreviation": "NCT",
 			"tzName": "New Caledonia Time"
 		},
-		"latlng": ["-21.50000000", "165.50000000"],
+		"latlng": [
+			"-21.50000000",
+			"165.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/nc.png",
 			"svg": "https://flagcdn.com/nc.svg"
@@ -8754,7 +9212,7 @@
 	},
 	{
 		"id": 158,
-		"subRegionId": 1,
+		"subRegionId": 19,
 		"name": "New Zealand",
 		"iso2": "NZ",
 		"iso3": "NZL",
@@ -8769,7 +9227,10 @@
 			"abbreviation": "NZDT",
 			"tzName": "New Zealand Daylight Time"
 		},
-		"latlng": ["-41.00000000", "174.00000000"],
+		"latlng": [
+			"-41.00000000",
+			"174.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/nz.png",
 			"svg": "https://flagcdn.com/nz.svg"
@@ -8811,7 +9272,7 @@
 	},
 	{
 		"id": 159,
-		"subRegionId": 3,
+		"subRegionId": 9,
 		"name": "Nicaragua",
 		"iso2": "NI",
 		"iso3": "NIC",
@@ -8826,7 +9287,10 @@
 			"abbreviation": "CST",
 			"tzName": "Central Standard Time (North America"
 		},
-		"latlng": ["13.00000000", "-85.00000000"],
+		"latlng": [
+			"13.00000000",
+			"-85.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ni.png",
 			"svg": "https://flagcdn.com/ni.svg"
@@ -8868,7 +9332,7 @@
 	},
 	{
 		"id": 160,
-		"subRegionId": 25,
+		"subRegionId": 3,
 		"name": "Niger",
 		"iso2": "NE",
 		"iso3": "NER",
@@ -8883,7 +9347,10 @@
 			"abbreviation": "WAT",
 			"tzName": "West Africa Time"
 		},
-		"latlng": ["16.00000000", "8.00000000"],
+		"latlng": [
+			"16.00000000",
+			"8.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ne.png",
 			"svg": "https://flagcdn.com/ne.svg"
@@ -8925,7 +9392,7 @@
 	},
 	{
 		"id": 161,
-		"subRegionId": 25,
+		"subRegionId": 3,
 		"name": "Nigeria",
 		"iso2": "NG",
 		"iso3": "NGA",
@@ -8940,7 +9407,10 @@
 			"abbreviation": "WAT",
 			"tzName": "West Africa Time"
 		},
-		"latlng": ["10.00000000", "8.00000000"],
+		"latlng": [
+			"10.00000000",
+			"8.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ng.png",
 			"svg": "https://flagcdn.com/ng.svg"
@@ -8982,7 +9452,7 @@
 	},
 	{
 		"id": 162,
-		"subRegionId": 15,
+		"subRegionId": 22,
 		"name": "Niue",
 		"iso2": "NU",
 		"iso3": "NIU",
@@ -8997,7 +9467,10 @@
 			"abbreviation": "NUT",
 			"tzName": "Niue Time"
 		},
-		"latlng": ["-19.03333333", "-169.86666666"],
+		"latlng": [
+			"-19.03333333",
+			"-169.86666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/nu.png",
 			"svg": "https://flagcdn.com/nu.svg"
@@ -9039,7 +9512,7 @@
 	},
 	{
 		"id": 163,
-		"subRegionId": 1,
+		"subRegionId": 19,
 		"name": "Norfolk Island",
 		"iso2": "NF",
 		"iso3": "NFK",
@@ -9054,7 +9527,10 @@
 			"abbreviation": "NFT",
 			"tzName": "Norfolk Time"
 		},
-		"latlng": ["-29.03333333", "167.95000000"],
+		"latlng": [
+			"-29.03333333",
+			"167.95000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/nf.png",
 			"svg": "https://flagcdn.com/nf.svg"
@@ -9096,7 +9572,7 @@
 	},
 	{
 		"id": 115,
-		"subRegionId": 7,
+		"subRegionId": 12,
 		"name": "North Korea",
 		"iso2": "KP",
 		"iso3": "PRK",
@@ -9111,7 +9587,10 @@
 			"abbreviation": "KST",
 			"tzName": "Korea Standard Time"
 		},
-		"latlng": ["40.00000000", "127.00000000"],
+		"latlng": [
+			"40.00000000",
+			"127.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/kp.png",
 			"svg": "https://flagcdn.com/kp.svg"
@@ -9152,13 +9631,73 @@
 		}
 	},
 	{
+		"id": 129,
+		"subRegionId": 16,
+		"name": "North Macedonia",
+		"iso2": "MK",
+		"iso3": "MKD",
+		"numericCode": "807",
+		"phoneCode": "+389",
+		"capital": "Skopje",
+		"tld": ".mk",
+		"timezones": {
+			"zoneName": "Europe/Skopje",
+			"gmtOffset": 3600,
+			"gmtOffsetName": "UTC+01:00",
+			"abbreviation": "CET",
+			"tzName": "Central European Time"
+		},
+		"latlng": [
+			"41.83333333",
+			"22.00000000"
+		],
+		"flags": {
+			"png": "https://flagcdn.com/w320/mk.png",
+			"svg": "https://flagcdn.com/mk.svg"
+		},
+		"maps": {
+			"googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
+			"openStreetMaps": "https://www.openstreetmap.org/relation/53293"
+		},
+		"currency": {
+			"name": "Denar",
+			"symbol": "ден"
+		},
+		"nationality": "Macedonian",
+		"postalCode": {
+			"format": "####",
+			"regex": "^(\\d{4})$"
+		},
+		"translations": {
+			"br": "Makedonia an Norzh",
+			"ko": "북마케도니아",
+			"pt-BR": "Macedônia do Norte",
+			"pt": "Macedónia do Norte",
+			"nl": "Noord-Macedonië",
+			"hr": "Sjeverna Makedonija",
+			"fa": "ﻢﻗﺩﻮﻨﯿﻫ ﺶﻣﺎﻠﯾ",
+			"de": "Nordmazedonien",
+			"es": "Macedonia del Norte",
+			"fr": "Macédoine du Nord",
+			"ja": "北マケドニア",
+			"it": "Macedonia del Nord",
+			"zh-CN": "北馬其頓",
+			"tr": "Kuzey Makedonya",
+			"ru": "Северная Македония",
+			"uk": "Північна Македонія",
+			"pl": "Macedonia Północna",
+			"hi": "नॉर्थ मैसेडोनिया",
+			"ar": "شمال مقدونيا"
+		}
+	},
+	{
 		"id": 164,
-		"subRegionId": 10,
+		"subRegionId": 21,
 		"name": "Northern Mariana Islands",
 		"iso2": "MP",
 		"iso3": "MNP",
 		"numericCode": "580",
-		"phoneCode": "+1-670",
+		"phoneCode": "+1",
 		"capital": "Saipan",
 		"tld": ".mp",
 		"timezones": {
@@ -9168,7 +9707,10 @@
 			"abbreviation": "ChST",
 			"tzName": "Chamorro Standard Time"
 		},
-		"latlng": ["15.20000000", "145.75000000"],
+		"latlng": [
+			"15.20000000",
+			"145.75000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mp.png",
 			"svg": "https://flagcdn.com/mp.svg"
@@ -9210,7 +9752,7 @@
 	},
 	{
 		"id": 165,
-		"subRegionId": 14,
+		"subRegionId": 18,
 		"name": "Norway",
 		"iso2": "NO",
 		"iso3": "NOR",
@@ -9225,7 +9767,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["62.00000000", "10.00000000"],
+		"latlng": [
+			"62.00000000",
+			"10.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/no.png",
 			"svg": "https://flagcdn.com/no.svg"
@@ -9267,7 +9812,7 @@
 	},
 	{
 		"id": 166,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Oman",
 		"iso2": "OM",
 		"iso3": "OMN",
@@ -9282,7 +9827,10 @@
 			"abbreviation": "GST",
 			"tzName": "Gulf Standard Time"
 		},
-		"latlng": ["21.00000000", "57.00000000"],
+		"latlng": [
+			"21.00000000",
+			"57.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/om.png",
 			"svg": "https://flagcdn.com/om.svg"
@@ -9324,7 +9872,7 @@
 	},
 	{
 		"id": 167,
-		"subRegionId": 20,
+		"subRegionId": 14,
 		"name": "Pakistan",
 		"iso2": "PK",
 		"iso3": "PAK",
@@ -9339,7 +9887,10 @@
 			"abbreviation": "PKT",
 			"tzName": "Pakistan Standard Time"
 		},
-		"latlng": ["30.00000000", "70.00000000"],
+		"latlng": [
+			"30.00000000",
+			"70.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/pk.png",
 			"svg": "https://flagcdn.com/pk.svg"
@@ -9381,7 +9932,7 @@
 	},
 	{
 		"id": 168,
-		"subRegionId": 10,
+		"subRegionId": 21,
 		"name": "Palau",
 		"iso2": "PW",
 		"iso3": "PLW",
@@ -9396,7 +9947,10 @@
 			"abbreviation": "PWT",
 			"tzName": "Palau Time"
 		},
-		"latlng": ["7.50000000", "134.50000000"],
+		"latlng": [
+			"7.50000000",
+			"134.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/pw.png",
 			"svg": "https://flagcdn.com/pw.svg"
@@ -9438,7 +9992,7 @@
 	},
 	{
 		"id": 169,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Palestinian Territory Occupied",
 		"iso2": "PS",
 		"iso3": "PSE",
@@ -9453,7 +10007,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["31.90000000", "35.20000000"],
+		"latlng": [
+			"31.90000000",
+			"35.20000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ps.png",
 			"svg": "https://flagcdn.com/ps.svg"
@@ -9495,7 +10052,7 @@
 	},
 	{
 		"id": 170,
-		"subRegionId": 3,
+		"subRegionId": 9,
 		"name": "Panama",
 		"iso2": "PA",
 		"iso3": "PAN",
@@ -9510,7 +10067,10 @@
 			"abbreviation": "EST",
 			"tzName": "Eastern Standard Time (North America"
 		},
-		"latlng": ["9.00000000", "-80.00000000"],
+		"latlng": [
+			"9.00000000",
+			"-80.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/pa.png",
 			"svg": "https://flagcdn.com/pa.svg"
@@ -9552,8 +10112,8 @@
 	},
 	{
 		"id": 171,
-		"subRegionId": 9,
-		"name": "Papua new Guinea",
+		"subRegionId": 20,
+		"name": "Papua New Guinea",
 		"iso2": "PG",
 		"iso3": "PNG",
 		"numericCode": "598",
@@ -9567,7 +10127,10 @@
 			"abbreviation": "BST",
 			"tzName": "Bougainville Standard Time[6"
 		},
-		"latlng": ["-6.00000000", "147.00000000"],
+		"latlng": [
+			"-6.00000000",
+			"147.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/pg.png",
 			"svg": "https://flagcdn.com/pg.svg"
@@ -9609,13 +10172,13 @@
 	},
 	{
 		"id": 172,
-		"subRegionId": 16,
+		"subRegionId": 8,
 		"name": "Paraguay",
 		"iso2": "PY",
 		"iso3": "PRY",
 		"numericCode": "600",
 		"phoneCode": "+595",
-		"capital": "Asuncion",
+		"capital": "Asunción",
 		"tld": ".py",
 		"timezones": {
 			"zoneName": "America/Asuncion",
@@ -9624,7 +10187,10 @@
 			"abbreviation": "PYST",
 			"tzName": "Paraguay Summer Time"
 		},
-		"latlng": ["-23.00000000", "-58.00000000"],
+		"latlng": [
+			"-23.00000000",
+			"-58.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/py.png",
 			"svg": "https://flagcdn.com/py.svg"
@@ -9666,7 +10232,7 @@
 	},
 	{
 		"id": 173,
-		"subRegionId": 16,
+		"subRegionId": 8,
 		"name": "Peru",
 		"iso2": "PE",
 		"iso3": "PER",
@@ -9681,7 +10247,10 @@
 			"abbreviation": "PET",
 			"tzName": "Peru Time"
 		},
-		"latlng": ["-10.00000000", "-76.00000000"],
+		"latlng": [
+			"-10.00000000",
+			"-76.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/pe.png",
 			"svg": "https://flagcdn.com/pe.svg"
@@ -9723,7 +10292,7 @@
 	},
 	{
 		"id": 174,
-		"subRegionId": 17,
+		"subRegionId": 13,
 		"name": "Philippines",
 		"iso2": "PH",
 		"iso3": "PHL",
@@ -9738,7 +10307,10 @@
 			"abbreviation": "PHT",
 			"tzName": "Philippine Time"
 		},
-		"latlng": ["13.00000000", "122.00000000"],
+		"latlng": [
+			"13.00000000",
+			"122.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ph.png",
 			"svg": "https://flagcdn.com/ph.svg"
@@ -9780,7 +10352,7 @@
 	},
 	{
 		"id": 175,
-		"subRegionId": 15,
+		"subRegionId": 22,
 		"name": "Pitcairn Island",
 		"iso2": "PN",
 		"iso3": "PCN",
@@ -9795,7 +10367,10 @@
 			"abbreviation": "PST",
 			"tzName": "Pacific Standard Time (North America"
 		},
-		"latlng": ["-25.06666666", "-130.10000000"],
+		"latlng": [
+			"-25.06666666",
+			"-130.10000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/pn.png",
 			"svg": "https://flagcdn.com/pn.svg"
@@ -9837,7 +10412,7 @@
 	},
 	{
 		"id": 176,
-		"subRegionId": 8,
+		"subRegionId": 15,
 		"name": "Poland",
 		"iso2": "PL",
 		"iso3": "POL",
@@ -9852,7 +10427,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["52.00000000", "20.00000000"],
+		"latlng": [
+			"52.00000000",
+			"20.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/pl.png",
 			"svg": "https://flagcdn.com/pl.svg"
@@ -9894,7 +10472,7 @@
 	},
 	{
 		"id": 177,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "Portugal",
 		"iso2": "PT",
 		"iso3": "PRT",
@@ -9909,7 +10487,10 @@
 			"abbreviation": "AZOT",
 			"tzName": "Azores Standard Time"
 		},
-		"latlng": ["39.50000000", "-8.00000000"],
+		"latlng": [
+			"39.50000000",
+			"-8.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/pt.png",
 			"svg": "https://flagcdn.com/pt.svg"
@@ -9951,12 +10532,12 @@
 	},
 	{
 		"id": 178,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Puerto Rico",
 		"iso2": "PR",
 		"iso3": "PRI",
 		"numericCode": "630",
-		"phoneCode": "+1-787 and 1-939",
+		"phoneCode": "+1",
 		"capital": "San Juan",
 		"tld": ".pr",
 		"timezones": {
@@ -9966,7 +10547,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["18.25000000", "-66.50000000"],
+		"latlng": [
+			"18.25000000",
+			"-66.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/pr.png",
 			"svg": "https://flagcdn.com/pr.svg"
@@ -10007,7 +10591,7 @@
 	},
 	{
 		"id": 179,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Qatar",
 		"iso2": "QA",
 		"iso3": "QAT",
@@ -10022,7 +10606,10 @@
 			"abbreviation": "AST",
 			"tzName": "Arabia Standard Time"
 		},
-		"latlng": ["25.50000000", "51.25000000"],
+		"latlng": [
+			"25.50000000",
+			"51.25000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/qa.png",
 			"svg": "https://flagcdn.com/qa.svg"
@@ -10063,65 +10650,8 @@
 		}
 	},
 	{
-		"id": 50,
-		"subRegionId": 11,
-		"name": "Congo",
-		"iso2": "CG",
-		"iso3": "COG",
-		"numericCode": "178",
-		"phoneCode": "+242",
-		"capital": "Brazzaville",
-		"tld": ".cg",
-		"timezones": {
-			"zoneName": "Africa/Brazzaville",
-			"gmtOffset": 3600,
-			"gmtOffsetName": "UTC+01:00",
-			"abbreviation": "WAT",
-			"tzName": "West Africa Time"
-		},
-		"latlng": ["-1.00000000", "15.00000000"],
-		"flags": {
-			"png": "https://flagcdn.com/w320/cg.png",
-			"svg": "https://flagcdn.com/cg.svg"
-		},
-		"maps": {
-			"googleMaps": "https://goo.gl/maps/Phf5dDDKdfCtuBTb6",
-			"openStreetMaps": "https://www.openstreetmap.org/relation/192794"
-		},
-		"currency": {
-			"name": "Congolese Franc",
-			"symbol": "FC"
-		},
-		"nationality": "Congolese",
-		"postalCode": {
-			"format": null,
-			"regex": null
-		},
-		"translations": {
-			"br": "Republik Kongo",
-			"ko": "콩고",
-			"pt-BR": "Congo",
-			"pt": "Congo",
-			"nl": "Congo [Republiek]",
-			"hr": "Kongo",
-			"fa": "کنگو",
-			"de": "Kongo",
-			"es": "Congo",
-			"fr": "Congo",
-			"ja": "コンゴ共和国",
-			"it": "Congo",
-			"zh-CN": "刚果",
-			"tr": "Kongo",
-			"ru": "Конго",
-			"uk": "Конго",
-			"pl": "Kongo",
-			"hi": "कांगो",
-			"ar": "الكونغو"
-		}
-	},
-	{
 		"id": 180,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Reunion",
 		"iso2": "RE",
 		"iso3": "REU",
@@ -10136,7 +10666,10 @@
 			"abbreviation": "RET",
 			"tzName": "Réunion Time"
 		},
-		"latlng": ["-21.15000000", "55.50000000"],
+		"latlng": [
+			"-21.15000000",
+			"55.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/re.png",
 			"svg": "https://flagcdn.com/re.svg"
@@ -10170,7 +10703,7 @@
 			"zh-CN": "留尼汪岛",
 			"tr": "Réunion",
 			"ru": "Воссоединение",
-			"uk": "Возз\u0027єднання",
+			"uk": "Возз'єднання",
 			"pl": "Reunion",
 			"hi": "रीयूनियन",
 			"ar": "جمع شمل"
@@ -10178,7 +10711,7 @@
 	},
 	{
 		"id": 181,
-		"subRegionId": 8,
+		"subRegionId": 15,
 		"name": "Romania",
 		"iso2": "RO",
 		"iso3": "ROU",
@@ -10193,7 +10726,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["46.00000000", "25.00000000"],
+		"latlng": [
+			"46.00000000",
+			"25.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ro.png",
 			"svg": "https://flagcdn.com/ro.svg"
@@ -10235,7 +10771,7 @@
 	},
 	{
 		"id": 182,
-		"subRegionId": 8,
+		"subRegionId": 15,
 		"name": "Russia",
 		"iso2": "RU",
 		"iso3": "RUS",
@@ -10250,7 +10786,10 @@
 			"abbreviation": "ANAT",
 			"tzName": "Anadyr Time[4"
 		},
-		"latlng": ["60.00000000", "100.00000000"],
+		"latlng": [
+			"60.00000000",
+			"100.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ru.png",
 			"svg": "https://flagcdn.com/ru.svg"
@@ -10292,7 +10831,7 @@
 	},
 	{
 		"id": 183,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Rwanda",
 		"iso2": "RW",
 		"iso3": "RWA",
@@ -10307,7 +10846,10 @@
 			"abbreviation": "CAT",
 			"tzName": "Central Africa Time"
 		},
-		"latlng": ["-2.00000000", "30.00000000"],
+		"latlng": [
+			"-2.00000000",
+			"30.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/rw.png",
 			"svg": "https://flagcdn.com/rw.svg"
@@ -10349,8 +10891,8 @@
 	},
 	{
 		"id": 184,
-		"subRegionId": 25,
-		"name": "Saint Helena, Ascension and Tristan da Cunha",
+		"subRegionId": 3,
+		"name": "Saint Helena",
 		"iso2": "SH",
 		"iso3": "SHN",
 		"numericCode": "654",
@@ -10364,7 +10906,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["-15.95000000", "-5.70000000"],
+		"latlng": [
+			"-15.95000000",
+			"-5.70000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sh.png",
 			"svg": "https://flagcdn.com/sh.svg"
@@ -10394,7 +10939,7 @@
 			"es": "Santa Helena",
 			"fr": "Sainte-Hélène",
 			"ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
-			"it": "Sant\u0027Elena",
+			"it": "Sant'Elena",
 			"zh-CN": "圣赫勒拿",
 			"tr": "Saint Helena",
 			"ru": "Святая Елена",
@@ -10406,12 +10951,12 @@
 	},
 	{
 		"id": 185,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Saint Kitts and Nevis",
 		"iso2": "KN",
 		"iso3": "KNA",
 		"numericCode": "659",
-		"phoneCode": "+1-869",
+		"phoneCode": "+1",
 		"capital": "Basseterre",
 		"tld": ".kn",
 		"timezones": {
@@ -10421,7 +10966,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["17.33333333", "-62.75000000"],
+		"latlng": [
+			"17.33333333",
+			"-62.75000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/kn.png",
 			"svg": "https://flagcdn.com/kn.svg"
@@ -10463,12 +11011,12 @@
 	},
 	{
 		"id": 186,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Saint Lucia",
 		"iso2": "LC",
 		"iso3": "LCA",
 		"numericCode": "662",
-		"phoneCode": "+1-758",
+		"phoneCode": "+1",
 		"capital": "Castries",
 		"tld": ".lc",
 		"timezones": {
@@ -10478,7 +11026,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["13.88333333", "-60.96666666"],
+		"latlng": [
+			"13.88333333",
+			"-60.96666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/lc.png",
 			"svg": "https://flagcdn.com/lc.svg"
@@ -10520,7 +11071,7 @@
 	},
 	{
 		"id": 187,
-		"subRegionId": 13,
+		"subRegionId": 6,
 		"name": "Saint Pierre and Miquelon",
 		"iso2": "PM",
 		"iso3": "SPM",
@@ -10533,9 +11084,12 @@
 			"gmtOffset": -10800,
 			"gmtOffsetName": "UTC-03:00",
 			"abbreviation": "PMDT",
-			"tzName": "Pierre \u0026 Miquelon Daylight Time"
+			"tzName": "Pierre & Miquelon Daylight Time"
 		},
-		"latlng": ["46.83333333", "-56.33333333"],
+		"latlng": [
+			"46.83333333",
+			"-56.33333333"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/pm.png",
 			"svg": "https://flagcdn.com/pm.svg"
@@ -10569,7 +11123,7 @@
 			"zh-CN": "圣皮埃尔和密克隆",
 			"tr": "Saint Pierre Ve Miquelon",
 			"ru": "Сен-Пьер и Микелон",
-			"uk": "Сен-П\u0027єр і Мікелон",
+			"uk": "Сен-П'єр і Мікелон",
 			"pl": "Saint-Pierre i Miquelon",
 			"hi": "सेंट पियरे और मिकेलोन",
 			"ar": "القديس بيير وميكلون"
@@ -10577,12 +11131,12 @@
 	},
 	{
 		"id": 188,
-		"subRegionId": 2,
-		"name": "Saint Vincent and The Grenadines",
+		"subRegionId": 7,
+		"name": "Saint Vincent and the Grenadines",
 		"iso2": "VC",
 		"iso3": "VCT",
 		"numericCode": "670",
-		"phoneCode": "+1-784",
+		"phoneCode": "+1",
 		"capital": "Kingstown",
 		"tld": ".vc",
 		"timezones": {
@@ -10592,7 +11146,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["13.25000000", "-61.20000000"],
+		"latlng": [
+			"13.25000000",
+			"-61.20000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/vc.png",
 			"svg": "https://flagcdn.com/vc.svg"
@@ -10634,7 +11191,7 @@
 	},
 	{
 		"id": 189,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Saint-Barthelemy",
 		"iso2": "BL",
 		"iso3": "BLM",
@@ -10649,7 +11206,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["18.50000000", "-63.41666666"],
+		"latlng": [
+			"18.50000000",
+			"-63.41666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bl.png",
 			"svg": "https://flagcdn.com/bl.svg"
@@ -10691,7 +11251,7 @@
 	},
 	{
 		"id": 190,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Saint-Martin (French part)",
 		"iso2": "MF",
 		"iso3": "MAF",
@@ -10706,7 +11266,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["18.08333333", "-63.95000000"],
+		"latlng": [
+			"18.08333333",
+			"-63.95000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/mf.png",
 			"svg": "https://flagcdn.com/mf.svg"
@@ -10748,7 +11311,7 @@
 	},
 	{
 		"id": 191,
-		"subRegionId": 15,
+		"subRegionId": 22,
 		"name": "Samoa",
 		"iso2": "WS",
 		"iso3": "WSM",
@@ -10763,7 +11326,10 @@
 			"abbreviation": "WST",
 			"tzName": "West Samoa Time"
 		},
-		"latlng": ["-13.58333333", "-172.33333333"],
+		"latlng": [
+			"-13.58333333",
+			"-172.33333333"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ws.png",
 			"svg": "https://flagcdn.com/ws.svg"
@@ -10805,7 +11371,7 @@
 	},
 	{
 		"id": 192,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "San Marino",
 		"iso2": "SM",
 		"iso3": "SMR",
@@ -10820,7 +11386,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["43.76666666", "12.41666666"],
+		"latlng": [
+			"43.76666666",
+			"12.41666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sm.png",
 			"svg": "https://flagcdn.com/sm.svg"
@@ -10861,8 +11430,68 @@
 		}
 	},
 	{
+		"id": 193,
+		"subRegionId": 2,
+		"name": "Sao Tome and Principe",
+		"iso2": "ST",
+		"iso3": "STP",
+		"numericCode": "678",
+		"phoneCode": "+239",
+		"capital": "Sao Tome",
+		"tld": ".st",
+		"timezones": {
+			"zoneName": "Africa/Sao_Tome",
+			"gmtOffset": 0,
+			"gmtOffsetName": "UTC±00",
+			"abbreviation": "GMT",
+			"tzName": "Greenwich Mean Time"
+		},
+		"latlng": [
+			"1.00000000",
+			"7.00000000"
+		],
+		"flags": {
+			"png": "https://flagcdn.com/w320/st.png",
+			"svg": "https://flagcdn.com/st.svg"
+		},
+		"maps": {
+			"googleMaps": "https://goo.gl/maps/9EUppm13RtPX9oF46",
+			"openStreetMaps": "https://www.openstreetmap.org/relation/535880"
+		},
+		"currency": {
+			"name": "Dobra",
+			"symbol": "Db"
+		},
+		"nationality": "Sao Tomean",
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
+		"translations": {
+			"br": "São Tomé ha Príncipe",
+			"ko": "상투메 프린시페",
+			"pt-BR": "São Tomé e Príncipe",
+			"pt": "São Tomé e Príncipe",
+			"nl": "Sao Tomé en Principe",
+			"hr": "Sveti Toma i Princip",
+			"fa": "کواترو دو فرویرو",
+			"de": "São Tomé und Príncipe",
+			"es": "Santo Tomé y Príncipe",
+			"fr": "Sao Tomé-et-Principe",
+			"ja": "サントメ・プリンシペ",
+			"it": "São Tomé e Príncipe",
+			"zh-CN": "圣多美和普林西比",
+			"tr": "Sao Tome Ve Prinsipe",
+			"ru": "Сан-Томе и Принсипи",
+			"uk": "Сан-Томе і Принсіпі",
+			"pl": "Wyspy Świętego Tomasza i Książęca",
+			"hi": "साओ टोम और प्रिंसिप",
+			"ar": "ساو تومي وبرينسيبي"
+		}
+	},
+	{
 		"id": 194,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Saudi Arabia",
 		"iso2": "SA",
 		"iso3": "SAU",
@@ -10877,7 +11506,10 @@
 			"abbreviation": "AST",
 			"tzName": "Arabia Standard Time"
 		},
-		"latlng": ["25.00000000", "45.00000000"],
+		"latlng": [
+			"25.00000000",
+			"45.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sa.png",
 			"svg": "https://flagcdn.com/sa.svg"
@@ -10919,7 +11551,7 @@
 	},
 	{
 		"id": 195,
-		"subRegionId": 25,
+		"subRegionId": 3,
 		"name": "Senegal",
 		"iso2": "SN",
 		"iso3": "SEN",
@@ -10934,7 +11566,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["14.00000000", "-14.00000000"],
+		"latlng": [
+			"14.00000000",
+			"-14.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sn.png",
 			"svg": "https://flagcdn.com/sn.svg"
@@ -10976,7 +11611,7 @@
 	},
 	{
 		"id": 196,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "Serbia",
 		"iso2": "RS",
 		"iso3": "SRB",
@@ -10991,7 +11626,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["44.00000000", "21.00000000"],
+		"latlng": [
+			"44.00000000",
+			"21.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/rs.png",
 			"svg": "https://flagcdn.com/rs.svg"
@@ -11033,7 +11671,7 @@
 	},
 	{
 		"id": 197,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Seychelles",
 		"iso2": "SC",
 		"iso3": "SYC",
@@ -11048,7 +11686,10 @@
 			"abbreviation": "SCT",
 			"tzName": "Seychelles Time"
 		},
-		"latlng": ["-4.58333333", "55.66666666"],
+		"latlng": [
+			"-4.65749770",
+			"55.45401460"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sc.png",
 			"svg": "https://flagcdn.com/sc.svg"
@@ -11090,7 +11731,7 @@
 	},
 	{
 		"id": 198,
-		"subRegionId": 25,
+		"subRegionId": 3,
 		"name": "Sierra Leone",
 		"iso2": "SL",
 		"iso3": "SLE",
@@ -11105,7 +11746,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["8.50000000", "-11.50000000"],
+		"latlng": [
+			"8.50000000",
+			"-11.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sl.png",
 			"svg": "https://flagcdn.com/sl.svg"
@@ -11147,7 +11791,7 @@
 	},
 	{
 		"id": 199,
-		"subRegionId": 17,
+		"subRegionId": 13,
 		"name": "Singapore",
 		"iso2": "SG",
 		"iso3": "SGP",
@@ -11162,7 +11806,10 @@
 			"abbreviation": "SGT",
 			"tzName": "Singapore Time"
 		},
-		"latlng": ["1.36666666", "103.80000000"],
+		"latlng": [
+			"1.36666666",
+			"103.80000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sg.png",
 			"svg": "https://flagcdn.com/sg.svg"
@@ -11204,7 +11851,7 @@
 	},
 	{
 		"id": 250,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Sint Maarten (Dutch part)",
 		"iso2": "SX",
 		"iso3": "SXM",
@@ -11219,7 +11866,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["18.03333300", "-63.05000000"],
+		"latlng": [
+			"18.03333300",
+			"-63.05000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sx.png",
 			"svg": "https://flagcdn.com/sx.svg"
@@ -11258,7 +11908,7 @@
 	},
 	{
 		"id": 200,
-		"subRegionId": 8,
+		"subRegionId": 15,
 		"name": "Slovakia",
 		"iso2": "SK",
 		"iso3": "SVK",
@@ -11273,7 +11923,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["48.66666666", "19.50000000"],
+		"latlng": [
+			"48.66666666",
+			"19.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sk.png",
 			"svg": "https://flagcdn.com/sk.svg"
@@ -11315,7 +11968,7 @@
 	},
 	{
 		"id": 201,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "Slovenia",
 		"iso2": "SI",
 		"iso3": "SVN",
@@ -11330,7 +11983,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["46.11666666", "14.81666666"],
+		"latlng": [
+			"46.11666666",
+			"14.81666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/si.png",
 			"svg": "https://flagcdn.com/si.svg"
@@ -11372,7 +12028,7 @@
 	},
 	{
 		"id": 202,
-		"subRegionId": 9,
+		"subRegionId": 20,
 		"name": "Solomon Islands",
 		"iso2": "SB",
 		"iso3": "SLB",
@@ -11387,7 +12043,10 @@
 			"abbreviation": "SBT",
 			"tzName": "Solomon Islands Time"
 		},
-		"latlng": ["-8.00000000", "159.00000000"],
+		"latlng": [
+			"-8.00000000",
+			"159.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sb.png",
 			"svg": "https://flagcdn.com/sb.svg"
@@ -11429,7 +12088,7 @@
 	},
 	{
 		"id": 203,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Somalia",
 		"iso2": "SO",
 		"iso3": "SOM",
@@ -11444,7 +12103,10 @@
 			"abbreviation": "EAT",
 			"tzName": "East Africa Time"
 		},
-		"latlng": ["10.00000000", "49.00000000"],
+		"latlng": [
+			"10.00000000",
+			"49.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/so.png",
 			"svg": "https://flagcdn.com/so.svg"
@@ -11486,7 +12148,7 @@
 	},
 	{
 		"id": 204,
-		"subRegionId": 19,
+		"subRegionId": 5,
 		"name": "South Africa",
 		"iso2": "ZA",
 		"iso3": "ZAF",
@@ -11501,7 +12163,10 @@
 			"abbreviation": "SAST",
 			"tzName": "South African Standard Time"
 		},
-		"latlng": ["-29.00000000", "24.00000000"],
+		"latlng": [
+			"-29.00000000",
+			"24.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/za.png",
 			"svg": "https://flagcdn.com/za.svg"
@@ -11543,7 +12208,7 @@
 	},
 	{
 		"id": 205,
-		"subRegionId": 23,
+		"subRegionId": 8,
 		"name": "South Georgia",
 		"iso2": "GS",
 		"iso3": "SGS",
@@ -11558,7 +12223,10 @@
 			"abbreviation": "GST",
 			"tzName": "South Georgia and the South Sandwich Islands Time"
 		},
-		"latlng": ["-54.50000000", "-37.00000000"],
+		"latlng": [
+			"-54.50000000",
+			"-37.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gs.png",
 			"svg": "https://flagcdn.com/gs.svg"
@@ -11600,7 +12268,7 @@
 	},
 	{
 		"id": 116,
-		"subRegionId": 7,
+		"subRegionId": 12,
 		"name": "South Korea",
 		"iso2": "KR",
 		"iso3": "KOR",
@@ -11615,7 +12283,10 @@
 			"abbreviation": "KST",
 			"tzName": "Korea Standard Time"
 		},
-		"latlng": ["37.00000000", "127.50000000"],
+		"latlng": [
+			"37.00000000",
+			"127.50000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/kr.png",
 			"svg": "https://flagcdn.com/kr.svg"
@@ -11657,7 +12328,7 @@
 	},
 	{
 		"id": 206,
-		"subRegionId": 11,
+		"subRegionId": 2,
 		"name": "South Sudan",
 		"iso2": "SS",
 		"iso3": "SSD",
@@ -11672,7 +12343,10 @@
 			"abbreviation": "EAT",
 			"tzName": "East Africa Time"
 		},
-		"latlng": ["7.00000000", "30.00000000"],
+		"latlng": [
+			"7.00000000",
+			"30.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ss.png",
 			"svg": "https://flagcdn.com/ss.svg"
@@ -11714,7 +12388,7 @@
 	},
 	{
 		"id": 207,
-		"subRegionId": 21,
+		"subRegionId": 16,
 		"name": "Spain",
 		"iso2": "ES",
 		"iso3": "ESP",
@@ -11729,7 +12403,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["40.00000000", "-4.00000000"],
+		"latlng": [
+			"40.00000000",
+			"-4.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/es.png",
 			"svg": "https://flagcdn.com/es.svg"
@@ -11771,7 +12448,7 @@
 	},
 	{
 		"id": 208,
-		"subRegionId": 20,
+		"subRegionId": 14,
 		"name": "Sri Lanka",
 		"iso2": "LK",
 		"iso3": "LKA",
@@ -11786,7 +12463,10 @@
 			"abbreviation": "IST",
 			"tzName": "Indian Standard Time"
 		},
-		"latlng": ["7.00000000", "81.00000000"],
+		"latlng": [
+			"7.00000000",
+			"81.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/lk.png",
 			"svg": "https://flagcdn.com/lk.svg"
@@ -11828,7 +12508,7 @@
 	},
 	{
 		"id": 209,
-		"subRegionId": 12,
+		"subRegionId": 1,
 		"name": "Sudan",
 		"iso2": "SD",
 		"iso3": "SDN",
@@ -11843,7 +12523,10 @@
 			"abbreviation": "EAT",
 			"tzName": "Eastern African Time"
 		},
-		"latlng": ["15.00000000", "30.00000000"],
+		"latlng": [
+			"15.00000000",
+			"30.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sd.png",
 			"svg": "https://flagcdn.com/sd.svg"
@@ -11885,7 +12568,7 @@
 	},
 	{
 		"id": 210,
-		"subRegionId": 16,
+		"subRegionId": 8,
 		"name": "Suriname",
 		"iso2": "SR",
 		"iso3": "SUR",
@@ -11900,7 +12583,10 @@
 			"abbreviation": "SRT",
 			"tzName": "Suriname Time"
 		},
-		"latlng": ["4.00000000", "-56.00000000"],
+		"latlng": [
+			"4.00000000",
+			"-56.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sr.png",
 			"svg": "https://flagcdn.com/sr.svg"
@@ -11942,8 +12628,8 @@
 	},
 	{
 		"id": 211,
-		"subRegionId": 14,
-		"name": "Svalbard And Jan Mayen Islands",
+		"subRegionId": 18,
+		"name": "Svalbard and Jan Mayen Islands",
 		"iso2": "SJ",
 		"iso3": "SJM",
 		"numericCode": "744",
@@ -11957,7 +12643,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["78.00000000", "20.00000000"],
+		"latlng": [
+			"78.00000000",
+			"20.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sj.png",
 			"svg": "https://flagcdn.com/sj.svg"
@@ -11998,65 +12687,8 @@
 		}
 	},
 	{
-		"id": 212,
-		"subRegionId": 19,
-		"name": "Swaziland",
-		"iso2": "SZ",
-		"iso3": "SWZ",
-		"numericCode": "748",
-		"phoneCode": "+268",
-		"capital": "Mbabane",
-		"tld": ".sz",
-		"timezones": {
-			"zoneName": "Africa/Mbabane",
-			"gmtOffset": 7200,
-			"gmtOffsetName": "UTC+02:00",
-			"abbreviation": "SAST",
-			"tzName": "South African Standard Time"
-		},
-		"latlng": ["-26.50000000", "31.50000000"],
-		"flags": {
-			"png": "https://flagcdn.com/w320/sz.png",
-			"svg": "https://flagcdn.com/sz.svg"
-		},
-		"maps": {
-			"googleMaps": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
-			"openStreetMaps": "https://www.openstreetmap.org/relation/88210"
-		},
-		"currency": {
-			"name": "Lilangeni",
-			"symbol": "E"
-		},
-		"nationality": "Swazi",
-		"postalCode": {
-			"format": "@###",
-			"regex": "^([A-Z]\\d{3})$"
-		},
-		"translations": {
-			"br": "Eswatini",
-			"ko": "에스와티니",
-			"pt-BR": "Suazilândia",
-			"pt": "Suazilândia",
-			"nl": "Swaziland",
-			"hr": "Svazi",
-			"fa": "سوازیلند",
-			"de": "Swasiland",
-			"es": "Suazilandia",
-			"fr": "Swaziland",
-			"ja": "スワジランド",
-			"it": "Swaziland",
-			"zh-CN": "斯威士兰",
-			"tr": "Esvatini",
-			"ru": "Эсватини",
-			"uk": "Есватіні",
-			"pl": "Eswatini",
-			"hi": "एस्वातिन",
-			"ar": "الإسواتين"
-		}
-	},
-	{
 		"id": 213,
-		"subRegionId": 14,
+		"subRegionId": 18,
 		"name": "Sweden",
 		"iso2": "SE",
 		"iso3": "SWE",
@@ -12071,7 +12703,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["62.00000000", "15.00000000"],
+		"latlng": [
+			"62.00000000",
+			"15.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/se.png",
 			"svg": "https://flagcdn.com/se.svg"
@@ -12113,7 +12748,7 @@
 	},
 	{
 		"id": 214,
-		"subRegionId": 27,
+		"subRegionId": 17,
 		"name": "Switzerland",
 		"iso2": "CH",
 		"iso3": "CHE",
@@ -12128,7 +12763,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["47.00000000", "8.00000000"],
+		"latlng": [
+			"47.00000000",
+			"8.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ch.png",
 			"svg": "https://flagcdn.com/ch.svg"
@@ -12170,7 +12808,7 @@
 	},
 	{
 		"id": 215,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Syria",
 		"iso2": "SY",
 		"iso3": "SYR",
@@ -12185,7 +12823,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["35.00000000", "38.00000000"],
+		"latlng": [
+			"35.00000000",
+			"38.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/sy.png",
 			"svg": "https://flagcdn.com/sy.svg"
@@ -12226,65 +12867,8 @@
 		}
 	},
 	{
-		"id": 193,
-		"subRegionId": 11,
-		"name": "São Tomé and Príncipe",
-		"iso2": "ST",
-		"iso3": "STP",
-		"numericCode": "678",
-		"phoneCode": "+239",
-		"capital": "Sao Tome",
-		"tld": ".st",
-		"timezones": {
-			"zoneName": "Africa/Sao_Tome",
-			"gmtOffset": 0,
-			"gmtOffsetName": "UTC±00",
-			"abbreviation": "GMT",
-			"tzName": "Greenwich Mean Time"
-		},
-		"latlng": ["1.00000000", "7.00000000"],
-		"flags": {
-			"png": "https://flagcdn.com/w320/st.png",
-			"svg": "https://flagcdn.com/st.svg"
-		},
-		"maps": {
-			"googleMaps": "https://goo.gl/maps/9EUppm13RtPX9oF46",
-			"openStreetMaps": "https://www.openstreetmap.org/relation/535880"
-		},
-		"currency": {
-			"name": "Dobra",
-			"symbol": "Db"
-		},
-		"nationality": "Sao Tomean",
-		"postalCode": {
-			"format": null,
-			"regex": null
-		},
-		"translations": {
-			"br": "São Tomé ha Príncipe",
-			"ko": "상투메 프린시페",
-			"pt-BR": "São Tomé e Príncipe",
-			"pt": "São Tomé e Príncipe",
-			"nl": "Sao Tomé en Principe",
-			"hr": "Sveti Toma i Princip",
-			"fa": "کواترو دو فرویرو",
-			"de": "São Tomé und Príncipe",
-			"es": "Santo Tomé y Príncipe",
-			"fr": "Sao Tomé-et-Principe",
-			"ja": "サントメ・プリンシペ",
-			"it": "São Tomé e Príncipe",
-			"zh-CN": "圣多美和普林西比",
-			"tr": "Sao Tome Ve Prinsipe",
-			"ru": "Сан-Томе и Принсипи",
-			"uk": "Сан-Томе і Принсіпі",
-			"pl": "Wyspy Świętego Tomasza i Książęca",
-			"hi": "साओ टोम और प्रिंसिप",
-			"ar": "ساو تومي وبرينسيبي"
-		}
-	},
-	{
 		"id": 216,
-		"subRegionId": 7,
+		"subRegionId": 12,
 		"name": "Taiwan",
 		"iso2": "TW",
 		"iso3": "TWN",
@@ -12299,7 +12883,10 @@
 			"abbreviation": "CST",
 			"tzName": "China Standard Time"
 		},
-		"latlng": ["23.50000000", "121.00000000"],
+		"latlng": [
+			"23.50000000",
+			"121.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/tw.png",
 			"svg": "https://flagcdn.com/tw.svg"
@@ -12341,7 +12928,7 @@
 	},
 	{
 		"id": 217,
-		"subRegionId": 4,
+		"subRegionId": 10,
 		"name": "Tajikistan",
 		"iso2": "TJ",
 		"iso3": "TJK",
@@ -12356,7 +12943,10 @@
 			"abbreviation": "TJT",
 			"tzName": "Tajikistan Time"
 		},
-		"latlng": ["39.00000000", "71.00000000"],
+		"latlng": [
+			"39.00000000",
+			"71.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/tj.png",
 			"svg": "https://flagcdn.com/tj.svg"
@@ -12398,7 +12988,7 @@
 	},
 	{
 		"id": 218,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Tanzania",
 		"iso2": "TZ",
 		"iso3": "TZA",
@@ -12413,7 +13003,10 @@
 			"abbreviation": "EAT",
 			"tzName": "East Africa Time"
 		},
-		"latlng": ["-6.00000000", "35.00000000"],
+		"latlng": [
+			"-6.00000000",
+			"35.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/tz.png",
 			"svg": "https://flagcdn.com/tz.svg"
@@ -12455,7 +13048,7 @@
 	},
 	{
 		"id": 219,
-		"subRegionId": 17,
+		"subRegionId": 13,
 		"name": "Thailand",
 		"iso2": "TH",
 		"iso3": "THA",
@@ -12470,7 +13063,10 @@
 			"abbreviation": "ICT",
 			"tzName": "Indochina Time"
 		},
-		"latlng": ["15.00000000", "100.00000000"],
+		"latlng": [
+			"15.00000000",
+			"100.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/th.png",
 			"svg": "https://flagcdn.com/th.svg"
@@ -12512,12 +13108,12 @@
 	},
 	{
 		"id": 17,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "The Bahamas",
 		"iso2": "BS",
 		"iso3": "BHS",
 		"numericCode": "044",
-		"phoneCode": "+1-242",
+		"phoneCode": "+1",
 		"capital": "Nassau",
 		"tld": ".bs",
 		"timezones": {
@@ -12527,7 +13123,10 @@
 			"abbreviation": "EST",
 			"tzName": "Eastern Standard Time (North America)"
 		},
-		"latlng": ["24.25000000", "-76.00000000"],
+		"latlng": [
+			"24.25000000",
+			"-76.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/bs.png",
 			"svg": "https://flagcdn.com/bs.svg"
@@ -12568,8 +13167,128 @@
 		}
 	},
 	{
+		"id": 80,
+		"subRegionId": 3,
+		"name": "The Gambia",
+		"iso2": "GM",
+		"iso3": "GMB",
+		"numericCode": "270",
+		"phoneCode": "+220",
+		"capital": "Banjul",
+		"tld": ".gm",
+		"timezones": {
+			"zoneName": "Africa/Banjul",
+			"gmtOffset": 0,
+			"gmtOffsetName": "UTC±00",
+			"abbreviation": "GMT",
+			"tzName": "Greenwich Mean Time"
+		},
+		"latlng": [
+			"13.46666666",
+			"-16.56666666"
+		],
+		"flags": {
+			"png": "https://flagcdn.com/w320/gm.png",
+			"svg": "https://flagcdn.com/gm.svg"
+		},
+		"maps": {
+			"googleMaps": "https://goo.gl/maps/bbGBCxxtfD2A9Z4m6",
+			"openStreetMaps": "https://www.openstreetmap.org/relation/192774"
+		},
+		"currency": {
+			"name": "Gambian dalasi",
+			"symbol": "D"
+		},
+		"nationality": "Gambian",
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
+		"translations": {
+			"br": "Gambia",
+			"ko": "감비아",
+			"pt-BR": "Gâmbia",
+			"pt": "Gâmbia",
+			"nl": "Gambia",
+			"hr": "Gambija",
+			"fa": "گامبیا",
+			"de": "Gambia",
+			"es": "Gambia",
+			"fr": "Gambie",
+			"ja": "ガンビア",
+			"it": "Gambia",
+			"zh-CN": "冈比亚",
+			"tr": "Gambiya",
+			"ru": "Гамбия",
+			"uk": "Гамбія The",
+			"pl": "Gambia The",
+			"hi": "गाम्बिया",
+			"ar": "غامبيا"
+		}
+	},
+	{
+		"id": 63,
+		"subRegionId": 13,
+		"name": "Timor-Leste",
+		"iso2": "TL",
+		"iso3": "TLS",
+		"numericCode": "626",
+		"phoneCode": "+670",
+		"capital": "Dili",
+		"tld": ".tl",
+		"timezones": {
+			"zoneName": "Asia/Dili",
+			"gmtOffset": 32400,
+			"gmtOffsetName": "UTC+09:00",
+			"abbreviation": "TLT",
+			"tzName": "Timor Leste Time"
+		},
+		"latlng": [
+			"-8.83333333",
+			"125.91666666"
+		],
+		"flags": {
+			"png": "https://flagcdn.com/w320/tl.png",
+			"svg": "https://flagcdn.com/tl.svg"
+		},
+		"maps": {
+			"googleMaps": "https://goo.gl/maps/sFqBC9zjgUXPR1iTA",
+			"openStreetMaps": "https://www.openstreetmap.org/relation/305142"
+		},
+		"currency": {
+			"name": "United States dollar",
+			"symbol": "$"
+		},
+		"nationality": "Timorese",
+		"postalCode": {
+			"format": null,
+			"regex": null
+		},
+		"translations": {
+			"br": "Timor ar Reter",
+			"ko": "동티모르",
+			"pt-BR": "Timor Leste",
+			"pt": "Timor Leste",
+			"nl": "Oost-Timor",
+			"hr": "Istočni Timor",
+			"fa": "تیمور شرقی",
+			"de": "Timor-Leste",
+			"es": "Timor Oriental",
+			"fr": "Timor oriental",
+			"ja": "東ティモール",
+			"it": "Timor Est",
+			"zh-CN": "东帝汶",
+			"tr": "Doğu Timor",
+			"ru": "Тимор-Лешти",
+			"uk": "Тимор-Лешті",
+			"pl": "Timor Wschodni",
+			"hi": "तिमोर-लेस्ते",
+			"ar": "تيمور قراءة"
+		}
+	},
+	{
 		"id": 220,
-		"subRegionId": 25,
+		"subRegionId": 3,
 		"name": "Togo",
 		"iso2": "TG",
 		"iso3": "TGO",
@@ -12584,7 +13303,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["8.00000000", "1.16666666"],
+		"latlng": [
+			"8.00000000",
+			"1.16666666"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/tg.png",
 			"svg": "https://flagcdn.com/tg.svg"
@@ -12626,13 +13348,13 @@
 	},
 	{
 		"id": 221,
-		"subRegionId": 15,
+		"subRegionId": 22,
 		"name": "Tokelau",
 		"iso2": "TK",
 		"iso3": "TKL",
 		"numericCode": "772",
 		"phoneCode": "+690",
-		"capital": "Fakaofo",
+		"capital": "",
 		"tld": ".tk",
 		"timezones": {
 			"zoneName": "Pacific/Fakaofo",
@@ -12641,7 +13363,10 @@
 			"abbreviation": "TKT",
 			"tzName": "Tokelau Time"
 		},
-		"latlng": ["-9.00000000", "-172.00000000"],
+		"latlng": [
+			"-9.00000000",
+			"-172.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/tk.png",
 			"svg": "https://flagcdn.com/tk.svg"
@@ -12683,13 +13408,13 @@
 	},
 	{
 		"id": 222,
-		"subRegionId": 15,
+		"subRegionId": 22,
 		"name": "Tonga",
 		"iso2": "TO",
 		"iso3": "TON",
 		"numericCode": "776",
 		"phoneCode": "+676",
-		"capital": "Nuku\u0027alofa",
+		"capital": "Nuku'alofa",
 		"tld": ".to",
 		"timezones": {
 			"zoneName": "Pacific/Tongatapu",
@@ -12698,7 +13423,10 @@
 			"abbreviation": "TOT",
 			"tzName": "Tonga Time"
 		},
-		"latlng": ["-20.00000000", "-175.00000000"],
+		"latlng": [
+			"-20.00000000",
+			"-175.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/to.png",
 			"svg": "https://flagcdn.com/to.svg"
@@ -12740,12 +13468,12 @@
 	},
 	{
 		"id": 223,
-		"subRegionId": 2,
-		"name": "Trinidad And Tobago",
+		"subRegionId": 7,
+		"name": "Trinidad and Tobago",
 		"iso2": "TT",
 		"iso3": "TTO",
 		"numericCode": "780",
-		"phoneCode": "+1-868",
+		"phoneCode": "+1",
 		"capital": "Port of Spain",
 		"tld": ".tt",
 		"timezones": {
@@ -12755,7 +13483,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["11.00000000", "-61.00000000"],
+		"latlng": [
+			"11.00000000",
+			"-61.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/tt.png",
 			"svg": "https://flagcdn.com/tt.svg"
@@ -12797,7 +13528,7 @@
 	},
 	{
 		"id": 224,
-		"subRegionId": 12,
+		"subRegionId": 1,
 		"name": "Tunisia",
 		"iso2": "TN",
 		"iso3": "TUN",
@@ -12812,7 +13543,10 @@
 			"abbreviation": "CET",
 			"tzName": "Central European Time"
 		},
-		"latlng": ["34.00000000", "9.00000000"],
+		"latlng": [
+			"34.00000000",
+			"9.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/tn.png",
 			"svg": "https://flagcdn.com/tn.svg"
@@ -12854,7 +13588,7 @@
 	},
 	{
 		"id": 225,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Turkey",
 		"iso2": "TR",
 		"iso3": "TUR",
@@ -12869,7 +13603,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["39.00000000", "35.00000000"],
+		"latlng": [
+			"39.00000000",
+			"35.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/tr.png",
 			"svg": "https://flagcdn.com/tr.svg"
@@ -12911,7 +13648,7 @@
 	},
 	{
 		"id": 226,
-		"subRegionId": 4,
+		"subRegionId": 10,
 		"name": "Turkmenistan",
 		"iso2": "TM",
 		"iso3": "TKM",
@@ -12926,7 +13663,10 @@
 			"abbreviation": "TMT",
 			"tzName": "Turkmenistan Time"
 		},
-		"latlng": ["40.00000000", "60.00000000"],
+		"latlng": [
+			"40.00000000",
+			"60.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/tm.png",
 			"svg": "https://flagcdn.com/tm.svg"
@@ -12968,12 +13708,12 @@
 	},
 	{
 		"id": 227,
-		"subRegionId": 2,
-		"name": "Turks And Caicos Islands",
+		"subRegionId": 7,
+		"name": "Turks and Caicos Islands",
 		"iso2": "TC",
 		"iso3": "TCA",
 		"numericCode": "796",
-		"phoneCode": "+1-649",
+		"phoneCode": "+1",
 		"capital": "Cockburn Town",
 		"tld": ".tc",
 		"timezones": {
@@ -12983,7 +13723,10 @@
 			"abbreviation": "EST",
 			"tzName": "Eastern Standard Time (North America"
 		},
-		"latlng": ["21.75000000", "-71.58333333"],
+		"latlng": [
+			"21.75000000",
+			"-71.58333333"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/tc.png",
 			"svg": "https://flagcdn.com/tc.svg"
@@ -13025,7 +13768,7 @@
 	},
 	{
 		"id": 228,
-		"subRegionId": 15,
+		"subRegionId": 22,
 		"name": "Tuvalu",
 		"iso2": "TV",
 		"iso3": "TUV",
@@ -13040,7 +13783,10 @@
 			"abbreviation": "TVT",
 			"tzName": "Tuvalu Time"
 		},
-		"latlng": ["-8.00000000", "178.00000000"],
+		"latlng": [
+			"-8.00000000",
+			"178.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/tv.png",
 			"svg": "https://flagcdn.com/tv.svg"
@@ -13082,7 +13828,7 @@
 	},
 	{
 		"id": 229,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Uganda",
 		"iso2": "UG",
 		"iso3": "UGA",
@@ -13097,7 +13843,10 @@
 			"abbreviation": "EAT",
 			"tzName": "East Africa Time"
 		},
-		"latlng": ["1.00000000", "32.00000000"],
+		"latlng": [
+			"1.00000000",
+			"32.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ug.png",
 			"svg": "https://flagcdn.com/ug.svg"
@@ -13139,13 +13888,13 @@
 	},
 	{
 		"id": 230,
-		"subRegionId": 8,
+		"subRegionId": 15,
 		"name": "Ukraine",
 		"iso2": "UA",
 		"iso3": "UKR",
 		"numericCode": "804",
 		"phoneCode": "+380",
-		"capital": "Kiev",
+		"capital": "Kyiv",
 		"tld": ".ua",
 		"timezones": {
 			"zoneName": "Europe/Kiev",
@@ -13154,7 +13903,10 @@
 			"abbreviation": "EET",
 			"tzName": "Eastern European Time"
 		},
-		"latlng": ["49.00000000", "32.00000000"],
+		"latlng": [
+			"49.00000000",
+			"32.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ua.png",
 			"svg": "https://flagcdn.com/ua.svg"
@@ -13196,7 +13948,7 @@
 	},
 	{
 		"id": 231,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "United Arab Emirates",
 		"iso2": "AE",
 		"iso3": "ARE",
@@ -13211,7 +13963,10 @@
 			"abbreviation": "GST",
 			"tzName": "Gulf Standard Time"
 		},
-		"latlng": ["24.00000000", "54.00000000"],
+		"latlng": [
+			"24.00000000",
+			"54.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ae.png",
 			"svg": "https://flagcdn.com/ae.svg"
@@ -13245,7 +14000,7 @@
 			"zh-CN": "阿拉伯联合酋长国",
 			"tr": "Birleşik Arap Emirlikleri",
 			"ru": "Объединенные Арабские Эмираты",
-			"uk": "Об\u0027єднані Арабські Емірати",
+			"uk": "Об'єднані Арабські Емірати",
 			"pl": "Zjednoczone Emiraty Arabskie",
 			"hi": "संयुक्त अरब अमीरात",
 			"ar": "الإمارات العربية المتحدة"
@@ -13253,7 +14008,7 @@
 	},
 	{
 		"id": 232,
-		"subRegionId": 14,
+		"subRegionId": 18,
 		"name": "United Kingdom",
 		"iso2": "GB",
 		"iso3": "GBR",
@@ -13268,7 +14023,10 @@
 			"abbreviation": "GMT",
 			"tzName": "Greenwich Mean Time"
 		},
-		"latlng": ["54.00000000", "-2.00000000"],
+		"latlng": [
+			"54.00000000",
+			"-2.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/gb.png",
 			"svg": "https://flagcdn.com/gb.svg"
@@ -13310,7 +14068,7 @@
 	},
 	{
 		"id": 233,
-		"subRegionId": 13,
+		"subRegionId": 6,
 		"name": "United States",
 		"iso2": "US",
 		"iso3": "USA",
@@ -13325,7 +14083,10 @@
 			"abbreviation": "HST",
 			"tzName": "Hawaii–Aleutian Standard Time"
 		},
-		"latlng": ["38.00000000", "-97.00000000"],
+		"latlng": [
+			"38.00000000",
+			"-97.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/us.png",
 			"svg": "https://flagcdn.com/us.svg"
@@ -13355,7 +14116,7 @@
 			"es": "Estados Unidos",
 			"fr": "États-Unis",
 			"ja": "アメリカ合衆国",
-			"it": "Stati Uniti D\u0027America",
+			"it": "Stati Uniti D'America",
 			"zh-CN": "美国",
 			"tr": "Amerika",
 			"ru": "Соединенные Штаты",
@@ -13367,7 +14128,7 @@
 	},
 	{
 		"id": 234,
-		"subRegionId": 13,
+		"subRegionId": 6,
 		"name": "United States Minor Outlying Islands",
 		"iso2": "UM",
 		"iso3": "UMI",
@@ -13382,7 +14143,10 @@
 			"abbreviation": "SST",
 			"tzName": "Samoa Standard Time"
 		},
-		"latlng": ["0.00000000", "0.00000000"],
+		"latlng": [
+			"0.00000000",
+			"0.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/um.png",
 			"svg": "https://flagcdn.com/um.svg"
@@ -13412,7 +14176,7 @@
 			"es": "Islas Ultramarinas Menores de Estados Unidos",
 			"fr": "Îles mineures éloignées des États-Unis",
 			"ja": "合衆国領有小離島",
-			"it": "Isole minori esterne degli Stati Uniti d\u0027America",
+			"it": "Isole minori esterne degli Stati Uniti d'America",
 			"zh-CN": "美国本土外小岛屿",
 			"tr": "Abd Küçük Harici Adalari",
 			"ru": "Малые отдаленные острова Соединенных Штатов",
@@ -13424,7 +14188,7 @@
 	},
 	{
 		"id": 235,
-		"subRegionId": 16,
+		"subRegionId": 8,
 		"name": "Uruguay",
 		"iso2": "UY",
 		"iso3": "URY",
@@ -13439,7 +14203,10 @@
 			"abbreviation": "UYT",
 			"tzName": "Uruguay Standard Time"
 		},
-		"latlng": ["-33.00000000", "-56.00000000"],
+		"latlng": [
+			"-33.00000000",
+			"-56.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/uy.png",
 			"svg": "https://flagcdn.com/uy.svg"
@@ -13481,7 +14248,7 @@
 	},
 	{
 		"id": 236,
-		"subRegionId": 4,
+		"subRegionId": 10,
 		"name": "Uzbekistan",
 		"iso2": "UZ",
 		"iso3": "UZB",
@@ -13496,7 +14263,10 @@
 			"abbreviation": "UZT",
 			"tzName": "Uzbekistan Time"
 		},
-		"latlng": ["41.00000000", "64.00000000"],
+		"latlng": [
+			"41.00000000",
+			"64.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/uz.png",
 			"svg": "https://flagcdn.com/uz.svg"
@@ -13538,7 +14308,7 @@
 	},
 	{
 		"id": 237,
-		"subRegionId": 9,
+		"subRegionId": 20,
 		"name": "Vanuatu",
 		"iso2": "VU",
 		"iso3": "VUT",
@@ -13553,7 +14323,10 @@
 			"abbreviation": "VUT",
 			"tzName": "Vanuatu Time"
 		},
-		"latlng": ["-16.00000000", "167.00000000"],
+		"latlng": [
+			"-16.00000000",
+			"167.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/vu.png",
 			"svg": "https://flagcdn.com/vu.svg"
@@ -13595,18 +14368,25 @@
 	},
 	{
 		"id": 238,
-		"subRegionId": 21,
-		"name": "Vatican City",
+		"subRegionId": 16,
+		"name": "Vatican City State (Holy See)",
 		"iso2": "VA",
 		"iso3": "VAT",
 		"numericCode": "336",
-		"phoneCode": "+3906698",
+		"phoneCode": "+379",
 		"capital": "Vatican City",
 		"tld": ".va",
 		"timezones": {
-			"gmtOffsetName": "UTC+01:00"
+			"zoneName": "Europe/Vatican",
+			"gmtOffset": 3600,
+			"gmtOffsetName": "UTC+01:00",
+			"abbreviation": "CET",
+			"tzName": "Central European Time"
 		},
-		"latlng": ["41.90000000", "12.45000000"],
+		"latlng": [
+			"41.90000000",
+			"12.45000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/va.png",
 			"svg": "https://flagcdn.com/va.svg"
@@ -13648,7 +14428,7 @@
 	},
 	{
 		"id": 239,
-		"subRegionId": 16,
+		"subRegionId": 8,
 		"name": "Venezuela",
 		"iso2": "VE",
 		"iso3": "VEN",
@@ -13663,7 +14443,10 @@
 			"abbreviation": "VET",
 			"tzName": "Venezuelan Standard Time"
 		},
-		"latlng": ["8.00000000", "-66.00000000"],
+		"latlng": [
+			"8.00000000",
+			"-66.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ve.png",
 			"svg": "https://flagcdn.com/ve.svg"
@@ -13705,7 +14488,7 @@
 	},
 	{
 		"id": 240,
-		"subRegionId": 17,
+		"subRegionId": 13,
 		"name": "Vietnam",
 		"iso2": "VN",
 		"iso3": "VNM",
@@ -13720,7 +14503,10 @@
 			"abbreviation": "ICT",
 			"tzName": "Indochina Time"
 		},
-		"latlng": ["16.16666666", "107.83333333"],
+		"latlng": [
+			"16.16666666",
+			"107.83333333"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/vn.png",
 			"svg": "https://flagcdn.com/vn.svg"
@@ -13754,7 +14540,7 @@
 			"zh-CN": "越南",
 			"tr": "Vietnam",
 			"ru": "Вьетнам",
-			"uk": "В\u0027єтнам",
+			"uk": "В'єтнам",
 			"pl": "Wietnam",
 			"hi": "वियतनाम",
 			"ar": "فيتنام"
@@ -13762,12 +14548,12 @@
 	},
 	{
 		"id": 241,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Virgin Islands (British)",
 		"iso2": "VG",
 		"iso3": "VGB",
 		"numericCode": "092",
-		"phoneCode": "+1-284",
+		"phoneCode": "+1",
 		"capital": "Road Town",
 		"tld": ".vg",
 		"timezones": {
@@ -13777,7 +14563,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["18.43138300", "-64.62305000"],
+		"latlng": [
+			"18.43138300",
+			"-64.62305000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/vg.png",
 			"svg": "https://flagcdn.com/vg.svg"
@@ -13796,7 +14585,7 @@
 			"regex": null
 		},
 		"translations": {
-			"br": "Inizi Gwerc\u0027h Breizhveurat",
+			"br": "Inizi Gwerc'h Breizhveurat",
 			"ko": "영국령 버진아일랜드",
 			"pt-BR": "Ilhas Virgens Britânicas",
 			"pt": "Ilhas Virgens Britânicas",
@@ -13819,12 +14608,12 @@
 	},
 	{
 		"id": 242,
-		"subRegionId": 2,
+		"subRegionId": 7,
 		"name": "Virgin Islands (US)",
 		"iso2": "VI",
 		"iso3": "VIR",
 		"numericCode": "850",
-		"phoneCode": "+1-340",
+		"phoneCode": "+1",
 		"capital": "Charlotte Amalie",
 		"tld": ".vi",
 		"timezones": {
@@ -13834,7 +14623,10 @@
 			"abbreviation": "AST",
 			"tzName": "Atlantic Standard Time"
 		},
-		"latlng": ["18.34000000", "-64.93000000"],
+		"latlng": [
+			"18.34000000",
+			"-64.93000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/vi.png",
 			"svg": "https://flagcdn.com/vi.svg"
@@ -13853,7 +14645,7 @@
 			"regex": "^008\\d{2}(?:-\\d{4})?$"
 		},
 		"translations": {
-			"br": "Inizi Gwerc\u0027h ar Stadoù-Unanet",
+			"br": "Inizi Gwerc'h ar Stadoù-Unanet",
 			"ko": "미국령 버진아일랜드",
 			"pt-BR": "Ilhas Virgens Americanas",
 			"pt": "Ilhas Virgens Americanas",
@@ -13875,8 +14667,8 @@
 	},
 	{
 		"id": 243,
-		"subRegionId": 15,
-		"name": "Wallis And Futuna Islands",
+		"subRegionId": 22,
+		"name": "Wallis and Futuna Islands",
 		"iso2": "WF",
 		"iso3": "WLF",
 		"numericCode": "876",
@@ -13888,9 +14680,12 @@
 			"gmtOffset": 43200,
 			"gmtOffsetName": "UTC+12:00",
 			"abbreviation": "WFT",
-			"tzName": "Wallis \u0026 Futuna Time"
+			"tzName": "Wallis & Futuna Time"
 		},
-		"latlng": ["-13.30000000", "-176.20000000"],
+		"latlng": [
+			"-13.30000000",
+			"-176.20000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/wf.png",
 			"svg": "https://flagcdn.com/wf.svg"
@@ -13932,7 +14727,7 @@
 	},
 	{
 		"id": 244,
-		"subRegionId": 12,
+		"subRegionId": 1,
 		"name": "Western Sahara",
 		"iso2": "EH",
 		"iso3": "ESH",
@@ -13947,7 +14742,10 @@
 			"abbreviation": "WEST",
 			"tzName": "Western European Summer Time"
 		},
-		"latlng": ["24.50000000", "-13.00000000"],
+		"latlng": [
+			"24.50000000",
+			"-13.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/eh.png",
 			"svg": "https://flagcdn.com/eh.svg"
@@ -13966,7 +14764,7 @@
 			"regex": null
 		},
 		"translations": {
-			"br": "Sahara ar C\u0027hornôg",
+			"br": "Sahara ar C'hornôg",
 			"ko": "서사하라",
 			"pt-BR": "Saara Ocidental",
 			"pt": "Saara Ocidental",
@@ -13989,7 +14787,7 @@
 	},
 	{
 		"id": 245,
-		"subRegionId": 26,
+		"subRegionId": 11,
 		"name": "Yemen",
 		"iso2": "YE",
 		"iso3": "YEM",
@@ -14004,7 +14802,10 @@
 			"abbreviation": "AST",
 			"tzName": "Arabia Standard Time"
 		},
-		"latlng": ["15.00000000", "48.00000000"],
+		"latlng": [
+			"15.00000000",
+			"48.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/ye.png",
 			"svg": "https://flagcdn.com/ye.svg"
@@ -14046,7 +14847,7 @@
 	},
 	{
 		"id": 246,
-		"subRegionId": 6,
+		"subRegionId": 5,
 		"name": "Zambia",
 		"iso2": "ZM",
 		"iso3": "ZMB",
@@ -14061,7 +14862,10 @@
 			"abbreviation": "CAT",
 			"tzName": "Central Africa Time"
 		},
-		"latlng": ["-15.00000000", "30.00000000"],
+		"latlng": [
+			"-15.00000000",
+			"30.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/zm.png",
 			"svg": "https://flagcdn.com/zm.svg"
@@ -14103,7 +14907,7 @@
 	},
 	{
 		"id": 247,
-		"subRegionId": 6,
+		"subRegionId": 4,
 		"name": "Zimbabwe",
 		"iso2": "ZW",
 		"iso3": "ZWE",
@@ -14118,7 +14922,10 @@
 			"abbreviation": "CAT",
 			"tzName": "Central Africa Time"
 		},
-		"latlng": ["-20.00000000", "30.00000000"],
+		"latlng": [
+			"-20.00000000",
+			"30.00000000"
+		],
 		"flags": {
 			"png": "https://flagcdn.com/w320/zw.png",
 			"svg": "https://flagcdn.com/zw.svg"

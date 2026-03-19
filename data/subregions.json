@@ -481,5 +481,29 @@
 			"uk": "Західна Європа",
 			"pl": "Europa Zachodnia"
 		}
+	},
+	{
+		"id": 23,
+		"name": "Antarctica",
+		"regionId": 6,
+		"translations": {
+			"br": "Antartika",
+			"ko": "남극",
+			"pt-BR": "Antártida",
+			"pt": "Antártida",
+			"nl": "Antarctica",
+			"hr": "Antarktika",
+			"fa": "جنوبگان",
+			"de": "Antarktika",
+			"es": "Antártida",
+			"fr": "Antarctique",
+			"ja": "南極大陸",
+			"it": "Antartide",
+			"zh-CN": "南極洲",
+			"tr": "Antarktika",
+			"ru": "Антарктика",
+			"uk": "Антарктика",
+			"pl": "Antarktyka"
+		}
 	}
 ]
