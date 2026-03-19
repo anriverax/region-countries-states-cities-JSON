@@ -1,7 +1,7 @@
 # 🌍 Countries States Cities Database
 
-[![npm](https://img.shields.io/npm/v/countries-states-cities-database)](https://www.npmjs.com/package/countries-states-cities-database)
-[![npm downloads](https://img.shields.io/npm/dm/countries-states-cities-database)](https://www.npmjs.com/package/countries-states-cities-database)
+[![npm](https://img.shields.io/npm/v/@anrivera/countries-states-cities-database)](https://www.npmjs.com/package/@anrivera/countries-states-cities-database)
+[![npm downloads](https://img.shields.io/npm/dm/@anrivera/countries-states-cities-database)](https://www.npmjs.com/package/@anrivera/countries-states-cities-database)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An open-source dataset containing countries, states, and cities in JSON format.
@@ -16,7 +16,8 @@ An open-source dataset containing countries, states, and cities in JSON format.
 - ✔ Regions and subregions
 - ✔ Timezones
 - ✔ Phone / dial codes
-- ✔ Emoji flags
+- ✔ Flag images (PNG / SVG)
+- ✔ Translations in 19+ languages
 
 ---
 
@@ -44,7 +45,10 @@ countries-states-cities-database
 │   ├── index.d.ts        — TypeScript function declarations
 │   ├── country.d.ts      — TypeScript interface for a Country record
 │   ├── state.d.ts        — TypeScript interface for a State record
-│   └── city.d.ts         — TypeScript interface for a City record
+│   ├── city.d.ts         — TypeScript interface for a City record
+│   ├── region.d.ts       — TypeScript interface for a Region record
+│   ├── subregion.d.ts    — TypeScript interface for a Subregion record
+│   └── language.d.ts     — TypeScript interface for a Language record
 │
 ├── scripts
 │   ├── validate-data.js  — Node.js script to validate all data files
@@ -64,7 +68,7 @@ countries-states-cities-database
 ### Install
 
 ```bash
-npm install countries-states-cities-database
+npm install @anrivera/countries-states-cities-database
 ```
 
 ### Use the helper API (recommended)
@@ -101,7 +105,7 @@ const {
 	// Geo calculations
 	calculateDistance,
 	getNearestCities,
-} = require('countries-states-cities-database');
+} = require('@anrivera/countries-states-cities-database');
 ```
 
 ---
@@ -117,11 +121,11 @@ Returns the full list of all countries.
 ```js
 const countries = getCountries();
 // [
-//   { id, name, iso2, iso3, numericCode, phoneCode, capital, tld,
-//     timezones, latlng, emoji, languages, flag, flags, maps, coatOfArms },
+//   { id, subRegionId, name, iso2, iso3, numericCode, phoneCode, capital, tld,
+//     timezones, latlng, flags, maps, currency, nationality, postalCode, translations },
 //   …
 // ]
-console.log(countries.length); // 249
+console.log(countries.length); // 250
 ```
 
 #### `getStates()`
@@ -130,17 +134,17 @@ Returns the full list of states / provinces / territories.
 
 ```js
 const states = getStates();
-// [{ id, name, countryId, iso2, latitude, longitude, timezone, translations }, …]
+// [{ id, name, countryId, iso2, latitude, longitude, translations }, …]
 console.log(states.length); // ~5000
 ```
 
 #### `getRegions()`
 
-Returns the 8 world regions.
+Returns the 6 world regions.
 
 ```js
 const regions = getRegions();
-// [{ id: 1, name: "Africa" }, { id: 2, name: "Americas" }, …]
+// [{ id: 1, name: "Africa", translations: { … } }, { id: 2, name: "Americas", translations: { … } }, …]
 ```
 
 #### `getSubregions()`
@@ -149,7 +153,7 @@ Returns all sub-regions, each linked to a region via `regionId`.
 
 ```js
 const subregions = getSubregions();
-// [{ id, regionId, name }, …]
+// [{ id, regionId, name, translations: { … } }, …]
 ```
 
 #### `getLanguages()`
@@ -341,10 +345,10 @@ Returns the state matching the given combined `"<countryIso2>-<stateIso2>"` code
 ```js
 const state = getStateByCode('US-CA');
 // { id: 681, name: "California", countryId: 235, iso2: "CA",
-//   latitude: "36.77826100", longitude: "-119.41793240", timezone: "America/Los_Angeles", translations: { … } }
+//   latitude: "36.77826100", longitude: "-119.41793240", translations: { … } }
 
 const jalisco = getStateByCode('MX-JAL');
-// { id, name: "Jalisco", countryId, iso2: "JAL", latitude, longitude, timezone, translations }
+// { id, name: "Jalisco", countryId, iso2: "JAL", latitude, longitude, translations }
 ```
 
 #### `getStatesOfCountry(iso2)`
@@ -353,7 +357,7 @@ Returns all states/provinces for a given country ISO2 code.
 
 ```js
 const states = getStatesOfCountry('US');
-// [{ id, name, countryId, iso2, latitude, longitude, timezone, translations }, …]  (~50 entries)
+// [{ id, name, countryId, iso2, latitude, longitude, translations }, …]  (~50 entries)
 
 const svStates = getStatesOfCountry('SV');
 // All departments of El Salvador
@@ -365,7 +369,7 @@ Returns all states/provinces for a given numeric country ID.
 
 ```js
 const states = getStatesOfCountryById(101);
-// [{ id, name, countryId, iso2, latitude, longitude, timezone, translations }, …]
+// [{ id, name, countryId, iso2, latitude, longitude, translations }, …]
 ```
 
 #### `getCitiesOfCountry(iso2)`
@@ -374,7 +378,7 @@ Returns all cities for a given country ISO2 code (loaded from the per-country fi
 
 ```js
 const cities = getCitiesOfCountry('SV');
-// [{ id, name, stateId, latitude, longitude }, …]
+// [{ id, name, stateId, latitude, longitude, translations }, …]
 
 const mxCities = getCitiesOfCountry('MX');
 // ~4,000 cities in Mexico
@@ -388,7 +392,7 @@ Returns all cities/municipalities that belong to a given state, identified by it
 // First get the state to know its id
 const state = getStateByCode('US-CA'); // { id: 681, … }
 const cities = getCitiesOfState(681);
-// [{ id, name, stateId, latitude, longitude }, …]
+// [{ id, name, stateId, latitude, longitude, translations }, …]
 ```
 
 #### `searchCity(query)`
@@ -399,10 +403,10 @@ The city index is built once on the first call and cached in memory.
 ```js
 const results = searchCity('san');
 // Each result includes a `countryIso2` field:
-// [{ id, name, stateId, latitude, longitude, countryIso2 }, …]
+// [{ id, name, stateId, latitude, longitude, translations, countryIso2 }, …]
 
 const nyc = searchCity('new york');
-// [{ id, name: "New York City", stateId, latitude, longitude, countryIso2: "US" }]
+// [{ id, name: "New York City", stateId, latitude, longitude, translations, countryIso2: "US" }]
 ```
 
 ---
@@ -468,6 +472,7 @@ Each country object has the following properties:
 | Property       | Type               | Example                                                                    |
 | -------------- | ------------------ | -------------------------------------------------------------------------- |
 | `id`           | `number`           | `65`                                                                       |
+| `subRegionId`  | `number`           | `9` _(links to subregions.json)_                                           |
 | `name`         | `string`           | `"El Salvador"`                                                            |
 | `iso2`         | `string`           | `"SV"`                                                                     |
 | `iso3`         | `string`           | `"SLV"`                                                                    |
@@ -477,14 +482,12 @@ Each country object has the following properties:
 | `tld`          | `string`           | `".sv"`                                                                    |
 | `timezones`    | `object`           | `{ zoneName: "America/El_Salvador", … }`                                   |
 | `latlng`       | `[string, string]` | `["13.83", "-88.91"]`                                                      |
-| `emoji`        | `[string, string]` | `["🇸🇻", "U+1F1F8 U+1F1FB"]`                                                |
-| `languages`    | `object`           | `{ "spa": "Spanish" }`                                                     |
-| `flag`         | `string`           | `"🇸🇻"`                                                                     |
 | `flags`        | `object`           | `{ png: "…", svg: "…" }`                                                   |
 | `maps`         | `object`           | `{ googleMaps: "…", openStreetMaps: "…" }`                                 |
-| `coatOfArms`   | `object`           | `{ png: "…", svg: "…" }`                                                   |
-| `currency`     | `string`           | `"USD"` _(optional — when present)_                                        |
-| `translations` | `object`           | `{ "es": "El Salvador", "fr": "Le Salvador" }` _(optional — when present)_ |
+| `currency`     | `object`           | `{ name: "United States dollar", symbol: "$" }`                            |
+| `nationality`  | `string`           | `"Salvadoran"`                                                             |
+| `postalCode`   | `object`           | `{ format: "#####", regex: "^(\\d{5})$" }` _(values may be `null`)_       |
+| `translations` | `object`           | `{ "es": "El Salvador", "fr": "Le Salvador" }`                             |
 
 #### 🌍 Timezones
 
@@ -501,12 +504,15 @@ Each country object has the following properties:
 }
 ```
 
-#### 💰 Currency _(optional field)_
+#### 💰 Currency
 
 ```json
 {
 	"name": "El Salvador",
-	"currency": "USD"
+	"currency": {
+		"name": "United States dollar",
+		"symbol": "$"
+	}
 }
 ```
 
@@ -519,9 +525,9 @@ Each country object has the following properties:
 }
 ```
 
-#### 🌐 Translations _(optional field)_
+#### 🌐 Translations
 
-Country names can optionally include translations keyed by ISO 639-1 language code:
+Country names include translations keyed by ISO 639-1 language code:
 
 ```json
 {
@@ -537,40 +543,40 @@ Country names can optionally include translations keyed by ISO 639-1 language co
 
 ### State properties
 
-| Property       | Type             | Example                                         |
-| -------------- | ---------------- | ----------------------------------------------- |
-| `id`           | `number`         | `1416`                                          |
-| `name`         | `string`         | `"California"`                                  |
-| `countryId`    | `number`         | `235`                                           |
-| `iso2`         | `string`         | `"CA"`                                          |
-| `latitude`     | `string`         | `"36.77826100"`                                 |
-| `longitude`    | `string`         | `"-119.41793240"`                               |
-| `timezone`     | `string \| null` | `"America/Los_Angeles"`                         |
-| `translations` | `object`         | `{ "es": "California", "fr": "Californie", … }` |
+| Property       | Type     | Example                                         |
+| -------------- | -------- | ----------------------------------------------- |
+| `id`           | `number` | `1416`                                          |
+| `name`         | `string` | `"California"`                                  |
+| `countryId`    | `number` | `235`                                           |
+| `iso2`         | `string` | `"CA"`                                          |
+| `latitude`     | `string` | `"36.77826100"`                                 |
+| `longitude`    | `string` | `"-119.41793240"`                               |
+| `translations` | `object` | `{ "es": "California", "fr": "Californie", … }` |
 
 ### City properties
 
-| Property    | Type     | Example          |
-| ----------- | -------- | ---------------- |
-| `id`        | `number` | `131`            |
-| `name`      | `string` | `"Abbeville"`    |
-| `stateId`   | `number` | `113`            |
-| `latitude`  | `string` | `"31.57184000"`  |
-| `longitude` | `string` | `"-85.25049000"` |
+| Property       | Type     | Example          |
+| -------------- | -------- | ---------------- |
+| `id`           | `number` | `131`            |
+| `name`         | `string` | `"Abbeville"`    |
+| `stateId`      | `number` | `113`            |
+| `latitude`     | `string` | `"31.57184000"`  |
+| `longitude`    | `string` | `"-85.25049000"` |
+| `translations` | `object` | `{ "es": "Abbeville", "fr": "Abbeville", … }` |
 
 ---
 
 ## 📦 Data Files
 
-| File                      | Description                                                                                       | Records         |
-| ------------------------- | ------------------------------------------------------------------------------------------------- | --------------- |
-| `data/countries.json`     | Countries with ISO2/ISO3, phone code, capital, TLD, timezones, coordinates, emoji flag, languages | 250             |
-| `data/regions.json`       | World regions                                                                                     | 8               |
-| `data/subregions.json`    | Sub-regions linked to a region                                                                    | 27              |
-| `data/states.json`        | States / provinces / territories                                                                  | 5,000 +         |
-| `data/cities.json`        | Cities with coordinates (full flat file)                                                          | 150,000 +       |
-| `data/cities/{ISO2}.json` | Per-country city files — one file per country                                                     | 150,000 + total |
-| `data/languages.json`     | Languages with ISO codes                                                                          | 23              |
+| File                      | Description                                                                                    | Records         |
+| ------------------------- | ---------------------------------------------------------------------------------------------- | --------------- |
+| `data/countries.json`     | Countries with ISO2/ISO3, phone code, capital, TLD, timezones, coordinates, flags, translations | 250             |
+| `data/regions.json`       | World regions with translations                                                                | 6               |
+| `data/subregions.json`    | Sub-regions linked to a region, with translations                                              | 23              |
+| `data/states.json`        | States / provinces / territories with translations                                             | 5,000 +         |
+| `data/cities.json`        | Cities with coordinates (full flat file)                                                       | 150,000 +       |
+| `data/cities/{ISO2}.json` | Per-country city files — one file per country                                                  | 150,000 + total |
+| `data/languages.json`     | Languages with ISO codes                                                                       | 23              |
 
 ### Use the data directly
 
@@ -614,40 +620,31 @@ npm run split-cities
 
 ## 🌐 Language Support
 
-The **names** of countries, states and cities in this database are provided in **English only**.
-Full multilingual translation of 150 000+ place names is outside the scope of this dataset.
+Countries, states, cities, regions, and subregions include a `translations` field with names
+translated into multiple languages, keyed by ISO 639-1 language code.
 
-What the package **does** include is language _metadata_:
+What the package **does** include:
 
-- `data/languages.json` - list of 23 languages with ISO 639-1 codes (`en`, `es`, `fr`, ...)
-- Each country record includes a `languages` field that maps ISO 639-3 codes to language names
-  spoken in that country.
+- `data/languages.json` — list of 23 languages with ISO 639-1 codes (`en`, `es`, `fr`, …)
+- `translations` fields on countries, states, cities, regions, and subregions
 
 ```js
 const {
 	getLanguages,
 	getCountryByIso2,
-	getCountriesByLanguage,
-} = require('countries-states-cities-database');
+} = require('@anrivera/countries-states-cities-database');
 
 // List all supported language codes
 const langs = getLanguages();
 // [{ name: "English", iso: "en" }, { name: "Spanish", iso: "es" }, …]
 
-// Languages spoken in Mexico
+// Translated country name
 const mx = getCountryByIso2('MX');
-console.log(mx.languages);
-// { spa: "Spanish" }
-
-// All English-speaking countries (~91 countries)
-const englishSpeaking = getCountriesByLanguage('eng'); // by ISO 639-3
-// or: getCountriesByLanguage('en')                     // by ISO 639-1
-// or: getCountriesByLanguage('English')                // by name
-console.log(englishSpeaking.map((c) => c.name));
-// ["American Samoa", "Anguilla", "Australia", "Belize", "Canada", "United States", …]
+console.log(mx.translations);
+// { "es": "México", "fr": "Mexique", "de": "Mexiko", … }
 ```
 
-If your application needs localised place names, you can use the `id` / `iso2` / `iso3` fields
+If your application needs additional localised place names, you can use the `id` / `iso2` / `iso3` fields
 from this dataset as keys to look up translations in a third-party i18n library or your own
 translation files.
 
