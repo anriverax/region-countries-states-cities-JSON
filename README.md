@@ -82,6 +82,14 @@ const {
 	getCountryById,
 	getCountryByIso2,
 	getCountryByIso3,
+	getAllCountries,
+	getCountryByCode,
+	getCountriesBySubregion,
+	getCountriesByTranslation,
+	getCountriesByRegion,
+	getCountriesByCodes,
+	getCountryByFullName,
+	getCountriesByName,
 	// State lookups
 	getStateByCode,
 	getStatesOfCountry,
@@ -228,6 +236,98 @@ const spanishCountries = getCountriesByLanguage('es');
 
 // By language name
 const frenchCountries = getCountriesByLanguage('French');
+```
+
+#### `getAllCountries(fields?)`
+
+Returns all countries. When `fields` is provided, only those properties are included in each object.
+
+```js
+// All countries, all fields
+const all = getAllCountries();
+
+// All countries, only name and flags
+const summary = getAllCountries(['name', 'flags']);
+// [{ name: "Afghanistan", flags: { png: "…", svg: "…" } }, …]
+```
+
+#### `getCountryByCode(code)`
+
+Returns the country matching the given code. The function tries ISO 3166-1 alpha-2 (`iso2`), alpha-3 (`iso3`), and numeric (`numericCode`) codes.
+
+```js
+getCountryByCode('co');  // Colombia (iso2)
+getCountryByCode('col'); // Colombia (iso3)
+getCountryByCode('170'); // Colombia (numericCode)
+
+getCountryByCode('ZZZ'); // null
+```
+
+#### `getCountriesByRegion(region)`
+
+Returns all countries that belong to a given region (case-insensitive).
+
+```js
+const european = getCountriesByRegion('europe');
+// [{ name: "Aland Islands", … }, { name: "Albania", … }, …]
+
+const asian = getCountriesByRegion('Asia');
+```
+
+#### `getCountriesBySubregion(subregion)`
+
+Returns all countries belonging to a given subregion (case-insensitive exact match).
+
+```js
+const nordic = getCountriesBySubregion('Northern Europe');
+// [{ name: "Aland Islands", … }, { name: "Denmark", … }, …]
+```
+
+#### `getCountriesByTranslation(translation)`
+
+Returns all countries whose translated name (in any language) matches the given value (case-insensitive).
+
+```js
+const result = getCountriesByTranslation('alemania');
+// [{ name: "Germany", … }]
+
+const col = getCountriesByTranslation('Colombie');
+// [{ name: "Colombia", … }]
+```
+
+#### `getCountriesByCodes(codes)`
+
+Returns countries matching any of the given codes. Each code is resolved using the same logic as `getCountryByCode`. Unmatched codes are skipped.
+
+```js
+const countries = getCountriesByCodes(['170', 'no', 'est', 'pe']);
+// [Colombia, Norway, Estonia, Peru]
+```
+
+#### `getCountryByFullName(name)`
+
+Returns the country whose common name or any translation is an exact match (case-insensitive). Returns `null` if not found.
+
+```js
+const aruba = getCountryByFullName('aruba');
+// { id, name: "Aruba", iso2: "AW", … }
+
+const germany = getCountryByFullName('Alemania');
+// { id, name: "Germany", … } — matched via Spanish translation
+
+getCountryByFullName('aru'); // null (partial match not allowed)
+```
+
+#### `getCountriesByName(name)`
+
+Returns all countries whose common name or any translation contains the query string (case-insensitive substring match).
+
+```js
+const united = getCountriesByName('united');
+// [{ name: "United Arab Emirates" }, { name: "United Kingdom" }, { name: "United States" }, …]
+
+const estland = getCountriesByName('estland');
+// [{ name: "Estonia", … }] — matched via German/Dutch translation
 ```
 
 ---

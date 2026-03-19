@@ -189,6 +189,211 @@ function getCountriesByLanguage(languageIso) {
 }
 
 // ---------------------------------------------------------------------------
+// Public API – country query helpers (REST Countries v3.1-style)
+// ---------------------------------------------------------------------------
+
+/**
+ * Returns all countries, optionally picking only the specified fields.
+ *
+ * When `fields` is omitted or empty the full country objects are returned.
+ *
+ * @param {string[]} [fields] - Optional list of field names to include
+ *   (e.g. `["name", "flags"]`).
+ * @returns {object[]} Array of country objects (filtered when `fields` is given).
+ *
+ * @example
+ * const all = getAllCountries(["name", "flags"]);
+ * // [{ name: "Afghanistan", flags: { … } }, …]
+ */
+function getAllCountries(fields) {
+  const countries = getCountries();
+  if (!fields || !Array.isArray(fields) || fields.length === 0) return countries;
+  return countries.map((c) => {
+    const obj = {};
+    for (const f of fields) {
+      if (f in c) obj[f] = c[f];
+    }
+    return obj;
+  });
+}
+
+/**
+ * Returns the country that matches the given code.
+ *
+ * The function tries to match the code against:
+ *   - ISO 3166-1 alpha-2 (cca2, e.g. "CO")
+ *   - ISO 3166-1 alpha-3 (cca3, e.g. "COL")
+ *   - ISO 3166-1 numeric  (ccn3, e.g. "170")
+ *
+ * @param {string} code - Country code (alpha-2, alpha-3, or numeric).
+ * @returns {object|null} The country object, or null if not found.
+ *
+ * @example
+ * getCountryByCode("co");  // Colombia (iso2)
+ * getCountryByCode("col"); // Colombia (iso3)
+ * getCountryByCode("170"); // Colombia (numericCode)
+ */
+function getCountryByCode(code) {
+  if (!code || typeof code !== 'string') return null;
+  const input = code.trim();
+  if (!input) return null;
+  const upper = input.toUpperCase();
+  const countries = getCountries();
+  return (
+    countries.find(
+      (c) => c.iso2 === upper || c.iso3 === upper || c.numericCode === input
+    ) || null
+  );
+}
+
+/**
+ * Returns all countries that match the given subregion name
+ * (case-insensitive exact match).
+ *
+ * @param {string} subregion - Subregion name (e.g. "Northern Europe").
+ * @returns {object[]} Array of country objects.
+ *
+ * @example
+ * const countries = getCountriesBySubregion("Northern Europe");
+ */
+function getCountriesBySubregion(subregion) {
+  if (!subregion || typeof subregion !== 'string') return [];
+  const input = subregion.toLowerCase().trim();
+  if (!input) return [];
+  const subregions = getSubregions();
+  const matched = subregions.find((s) => s.name.toLowerCase() === input);
+  if (!matched) return [];
+  const countries = getCountries();
+  return countries.filter((c) => c.subRegionId === matched.id);
+}
+
+/**
+ * Returns all countries whose translated name matches the given value
+ * (case-insensitive exact match across all translation keys).
+ *
+ * @param {string} translation - Translated country name (e.g. "alemania").
+ * @returns {object[]} Array of matching country objects.
+ *
+ * @example
+ * const countries = getCountriesByTranslation("alemania");
+ * // [{ id, name: "Germany", … }]
+ */
+function getCountriesByTranslation(translation) {
+  if (!translation || typeof translation !== 'string') return [];
+  const input = translation.toLowerCase().trim();
+  if (!input) return [];
+  const countries = getCountries();
+  return countries.filter((c) => {
+    if (!c.translations || typeof c.translations !== 'object') return false;
+    for (const key in c.translations) {
+      if (c.translations[key].toLowerCase() === input) return true;
+    }
+    return false;
+  });
+}
+
+/**
+ * Returns all countries that belong to the given region
+ * (case-insensitive exact match on region name).
+ *
+ * Countries are linked to regions through their subregion:
+ * country.subRegionId → subregion.regionId → region.id.
+ *
+ * @param {string} region - Region name (e.g. "europe", "Asia").
+ * @returns {object[]} Array of country objects.
+ *
+ * @example
+ * const countries = getCountriesByRegion("europe");
+ */
+function getCountriesByRegion(region) {
+  if (!region || typeof region !== 'string') return [];
+  const input = region.toLowerCase().trim();
+  if (!input) return [];
+  const regions = getRegions();
+  const matched = regions.find((r) => r.name.toLowerCase() === input);
+  if (!matched) return [];
+  const subregions = getSubregions();
+  const subregionIds = new Set(
+    subregions.filter((s) => s.regionId === matched.id).map((s) => s.id)
+  );
+  const countries = getCountries();
+  return countries.filter((c) => subregionIds.has(c.subRegionId));
+}
+
+/**
+ * Returns countries that match any of the given codes.
+ *
+ * Each code is resolved using the same logic as `getCountryByCode`
+ * (iso2, iso3, or numericCode).  Codes that do not resolve are silently
+ * skipped.
+ *
+ * @param {string[]} codes - Array of country codes.
+ * @returns {object[]} Array of matched country objects (order follows `codes`).
+ *
+ * @example
+ * const countries = getCountriesByCodes(["170", "no", "est", "pe"]);
+ */
+function getCountriesByCodes(codes) {
+  if (!codes || !Array.isArray(codes) || codes.length === 0) return [];
+  return codes.map((c) => getCountryByCode(String(c))).filter(Boolean);
+}
+
+/**
+ * Returns the country whose common name or any translation is an exact match
+ * (case-insensitive).
+ *
+ * @param {string} name - Full country name (e.g. "aruba").
+ * @returns {object|null} The country object, or null if not found.
+ *
+ * @example
+ * const country = getCountryByFullName("aruba");
+ * // { id, name: "Aruba", iso2: "AW", … }
+ */
+function getCountryByFullName(name) {
+  if (!name || typeof name !== 'string') return null;
+  const input = name.toLowerCase().trim();
+  if (!input) return null;
+  const countries = getCountries();
+  return (
+    countries.find((c) => {
+      if (c.name.toLowerCase() === input) return true;
+      if (c.translations && typeof c.translations === 'object') {
+        for (const key in c.translations) {
+          if (c.translations[key].toLowerCase() === input) return true;
+        }
+      }
+      return false;
+    }) || null
+  );
+}
+
+/**
+ * Returns all countries whose common name or any translation contains the
+ * given query string (case-insensitive substring match).
+ *
+ * @param {string} name - Search term (e.g. "eesti", "united").
+ * @returns {object[]} Array of matching country objects.
+ *
+ * @example
+ * const countries = getCountriesByName("united");
+ */
+function getCountriesByName(name) {
+  if (!name || typeof name !== 'string') return [];
+  const input = name.toLowerCase().trim();
+  if (!input) return [];
+  const countries = getCountries();
+  return countries.filter((c) => {
+    if (c.name.toLowerCase().includes(input)) return true;
+    if (c.translations && typeof c.translations === 'object') {
+      for (const key in c.translations) {
+        if (c.translations[key].toLowerCase().includes(input)) return true;
+      }
+    }
+    return false;
+  });
+}
+
+// ---------------------------------------------------------------------------
 // Public API – helpers
 // ---------------------------------------------------------------------------
 
@@ -499,6 +704,14 @@ module.exports = {
   getCountryById,
   getCountryByIso2,
   getCountryByIso3,
+  getAllCountries,
+  getCountryByCode,
+  getCountriesBySubregion,
+  getCountriesByTranslation,
+  getCountriesByRegion,
+  getCountriesByCodes,
+  getCountryByFullName,
+  getCountriesByName,
   getStateByCode,
   getStatesOfCountry,
   getStatesOfCountryById,
