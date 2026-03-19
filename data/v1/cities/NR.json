@@ -1,0 +1,51 @@
+[
+  {
+    "id": 4963,
+    "name": "Anabar",
+    "stateId": 165,
+    "latitude": "-0.50845000",
+    "longitude": "166.95326000"
+  },
+  {
+    "id": 6546,
+    "name": "Arijejen",
+    "stateId": 65,
+    "latitude": "-0.52545000",
+    "longitude": "166.91247000"
+  },
+  {
+    "id": 9388,
+    "name": "Baiti",
+    "stateId": 324,
+    "latitude": "-0.50803000",
+    "longitude": "166.92945000"
+  },
+  {
+    "id": 57833,
+    "name": "Ijuw",
+    "stateId": 1656,
+    "latitude": "-0.52100000",
+    "longitude": "166.95813000"
+  },
+  {
+    "id": 80946,
+    "name": "Menen",
+    "stateId": 2604,
+    "latitude": "-0.54539000",
+    "longitude": "166.94871000"
+  },
+  {
+    "id": 134400,
+    "name": "Uaboe",
+    "stateId": 4500,
+    "latitude": "-0.51393000",
+    "longitude": "166.92384000"
+  },
+  {
+    "id": 144512,
+    "name": "Yaren",
+    "stateId": 4780,
+    "latitude": "-0.55085000",
+    "longitude": "166.92520000"
+  }
+]

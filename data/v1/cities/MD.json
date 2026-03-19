@@ -1,0 +1,506 @@
+[
+  {
+    "id": 5222,
+    "name": "Anenii Noi",
+    "stateId": 173,
+    "latitude": "46.87839000",
+    "longitude": "29.23483000"
+  },
+  {
+    "id": 11213,
+    "name": "Basarabeasca",
+    "stateId": 382,
+    "latitude": "46.33170000",
+    "longitude": "28.96365000"
+  },
+  {
+    "id": 12870,
+    "name": "Bender",
+    "stateId": 428,
+    "latitude": "46.83156000",
+    "longitude": "29.47769000"
+  },
+  {
+    "id": 14339,
+    "name": "Bilicenii Vechi",
+    "stateId": 4255,
+    "latitude": "47.65580000",
+    "longitude": "28.04734000"
+  },
+  {
+    "id": 14614,
+    "name": "Biruinţa",
+    "stateId": 4255,
+    "latitude": "47.81353000",
+    "longitude": "28.07004000"
+  },
+  {
+    "id": 17563,
+    "name": "Briceni",
+    "stateId": 575,
+    "latitude": "48.36289000",
+    "longitude": "27.07787000"
+  },
+  {
+    "id": 17564,
+    "name": "Briceni",
+    "stateId": 1111,
+    "latitude": "48.35628000",
+    "longitude": "27.70293000"
+  },
+  {
+    "id": 18494,
+    "name": "Bucovăţ",
+    "stateId": 4178,
+    "latitude": "47.19064000",
+    "longitude": "28.45802000"
+  },
+  {
+    "id": 18746,
+    "name": "Bugeac",
+    "stateId": 1334,
+    "latitude": "46.36554000",
+    "longitude": "28.66250000"
+  },
+  {
+    "id": 20010,
+    "name": "Bălţi",
+    "stateId": 657,
+    "latitude": "47.76314000",
+    "longitude": "27.92932000"
+  },
+  {
+    "id": 20514,
+    "name": "Cahul",
+    "stateId": 673,
+    "latitude": "45.90425000",
+    "longitude": "28.19929000"
+  },
+  {
+    "id": 21211,
+    "name": "Camenca",
+    "stateId": 4436,
+    "latitude": "48.03233000",
+    "longitude": "28.69899000"
+  },
+  {
+    "id": 21880,
+    "name": "Cantemir",
+    "stateId": 700,
+    "latitude": "46.27743000",
+    "longitude": "28.20270000"
+  },
+  {
+    "id": 24172,
+    "name": "Ceadîr-Lunga",
+    "stateId": 1334,
+    "latitude": "46.06169000",
+    "longitude": "28.83078000"
+  },
+  {
+    "id": 26554,
+    "name": "Chisinau",
+    "stateId": 860,
+    "latitude": "47.00556000",
+    "longitude": "28.85750000"
+  },
+  {
+    "id": 26644,
+    "name": "Chiţcani",
+    "stateId": 993,
+    "latitude": "46.78296000",
+    "longitude": "29.61682000"
+  },
+  {
+    "id": 27264,
+    "name": "Cimişlia",
+    "stateId": 887,
+    "latitude": "46.52685000",
+    "longitude": "28.76441000"
+  },
+  {
+    "id": 27332,
+    "name": "Ciorescu",
+    "stateId": 860,
+    "latitude": "47.13000000",
+    "longitude": "28.88937000"
+  },
+  {
+    "id": 28273,
+    "name": "Cocieri",
+    "stateId": 1138,
+    "latitude": "47.30170000",
+    "longitude": "29.11755000"
+  },
+  {
+    "id": 29199,
+    "name": "Comrat",
+    "stateId": 1334,
+    "latitude": "46.29456000",
+    "longitude": "28.65650000"
+  },
+  {
+    "id": 33480,
+    "name": "Crasnoe",
+    "stateId": 4436,
+    "latitude": "46.64844000",
+    "longitude": "29.80403000"
+  },
+  {
+    "id": 33637,
+    "name": "Cricova",
+    "stateId": 860,
+    "latitude": "47.13835000",
+    "longitude": "28.86156000"
+  },
+  {
+    "id": 33703,
+    "name": "Criuleni",
+    "stateId": 970,
+    "latitude": "47.21307000",
+    "longitude": "29.15926000"
+  },
+  {
+    "id": 34764,
+    "name": "Călăraşi",
+    "stateId": 992,
+    "latitude": "47.25560000",
+    "longitude": "28.30987000"
+  },
+  {
+    "id": 34806,
+    "name": "Căuşeni",
+    "stateId": 993,
+    "latitude": "46.63674000",
+    "longitude": "29.41114000"
+  },
+  {
+    "id": 35215,
+    "name": "Dancu",
+    "stateId": 1631,
+    "latitude": "46.75818000",
+    "longitude": "28.20716000"
+  },
+  {
+    "id": 37423,
+    "name": "Dnestrovsc",
+    "stateId": 4436,
+    "latitude": "46.61640000",
+    "longitude": "29.91926000"
+  },
+  {
+    "id": 37925,
+    "name": "Donduşeni",
+    "stateId": 1111,
+    "latitude": "48.24268000",
+    "longitude": "27.61010000"
+  },
+  {
+    "id": 38510,
+    "name": "Drochia",
+    "stateId": 1128,
+    "latitude": "48.03555000",
+    "longitude": "27.81293000"
+  },
+  {
+    "id": 38713,
+    "name": "Dubăsari",
+    "stateId": 4436,
+    "latitude": "47.26562000",
+    "longitude": "29.16667000"
+  },
+  {
+    "id": 40089,
+    "name": "Edineţ",
+    "stateId": 1191,
+    "latitude": "48.17215000",
+    "longitude": "27.30337000"
+  },
+  {
+    "id": 44597,
+    "name": "Floreşti",
+    "stateId": 1296,
+    "latitude": "47.89137000",
+    "longitude": "28.29312000"
+  },
+  {
+    "id": 46492,
+    "name": "Fălești",
+    "stateId": 1325,
+    "latitude": "47.57667000",
+    "longitude": "27.71264000"
+  },
+  {
+    "id": 48395,
+    "name": "Ghindești",
+    "stateId": 1296,
+    "latitude": "47.85482000",
+    "longitude": "28.37679000"
+  },
+  {
+    "id": 48745,
+    "name": "Giurgiuleşti",
+    "stateId": 673,
+    "latitude": "45.48167000",
+    "longitude": "28.19722000"
+  },
+  {
+    "id": 49019,
+    "name": "Glodeni",
+    "stateId": 1396,
+    "latitude": "47.77513000",
+    "longitude": "27.51891000"
+  },
+  {
+    "id": 56233,
+    "name": "Hryhoriopol",
+    "stateId": 4436,
+    "latitude": "47.15413000",
+    "longitude": "29.30008000"
+  },
+  {
+    "id": 57278,
+    "name": "Hînceşti",
+    "stateId": 1631,
+    "latitude": "46.83047000",
+    "longitude": "28.59064000"
+  },
+  {
+    "id": 57442,
+    "name": "Ialoveni",
+    "stateId": 1640,
+    "latitude": "46.94346000",
+    "longitude": "28.78233000"
+  },
+  {
+    "id": 57454,
+    "name": "Iargara",
+    "stateId": 700,
+    "latitude": "46.42520000",
+    "longitude": "28.42676000"
+  },
+  {
+    "id": 76809,
+    "name": "Maiac",
+    "stateId": 4436,
+    "latitude": "47.23727000",
+    "longitude": "29.38498000"
+  },
+  {
+    "id": 86772,
+    "name": "Mîndreşti",
+    "stateId": 4348,
+    "latitude": "47.50525000",
+    "longitude": "28.27687000"
+  },
+  {
+    "id": 86980,
+    "name": "Mărculeşti",
+    "stateId": 1296,
+    "latitude": "47.86897000",
+    "longitude": "28.24109000"
+  },
+  {
+    "id": 89738,
+    "name": "Nisporeni",
+    "stateId": 2938,
+    "latitude": "47.08159000",
+    "longitude": "28.17138000"
+  },
+  {
+    "id": 92575,
+    "name": "Ocniţa",
+    "stateId": 3096,
+    "latitude": "48.38274000",
+    "longitude": "27.43805000"
+  },
+  {
+    "id": 94207,
+    "name": "Orhei",
+    "stateId": 3144,
+    "latitude": "47.38494000",
+    "longitude": "28.82446000"
+  },
+  {
+    "id": 94806,
+    "name": "Otaci",
+    "stateId": 3096,
+    "latitude": "48.43285000",
+    "longitude": "27.79912000"
+  },
+  {
+    "id": 98376,
+    "name": "Pervomaisc",
+    "stateId": 4436,
+    "latitude": "46.73253000",
+    "longitude": "29.96170000"
+  },
+  {
+    "id": 107391,
+    "name": "Rezina",
+    "stateId": 3628,
+    "latitude": "47.74928000",
+    "longitude": "28.96583000"
+  },
+  {
+    "id": 110338,
+    "name": "Rîbniţa",
+    "stateId": 4436,
+    "latitude": "47.76817000",
+    "longitude": "29.01000000"
+  },
+  {
+    "id": 110339,
+    "name": "Rîşcani",
+    "stateId": 3712,
+    "latitude": "47.94792000",
+    "longitude": "27.56376000"
+  },
+  {
+    "id": 110844,
+    "name": "Saharna",
+    "stateId": 3628,
+    "latitude": "47.69107000",
+    "longitude": "28.97458000"
+  },
+  {
+    "id": 122802,
+    "name": "Slobozia",
+    "stateId": 4436,
+    "latitude": "46.72927000",
+    "longitude": "29.70446000"
+  },
+  {
+    "id": 123622,
+    "name": "Soroca",
+    "stateId": 4087,
+    "latitude": "48.15659000",
+    "longitude": "28.28489000"
+  },
+  {
+    "id": 125843,
+    "name": "Strășeni",
+    "stateId": 4178,
+    "latitude": "47.14216000",
+    "longitude": "28.60774000"
+  },
+  {
+    "id": 125940,
+    "name": "Stăuceni",
+    "stateId": 860,
+    "latitude": "47.09643000",
+    "longitude": "28.86791000"
+  },
+  {
+    "id": 127702,
+    "name": "Sîngera",
+    "stateId": 860,
+    "latitude": "46.91557000",
+    "longitude": "28.96673000"
+  },
+  {
+    "id": 127703,
+    "name": "Sîngerei",
+    "stateId": 4255,
+    "latitude": "47.63632000",
+    "longitude": "28.14296000"
+  },
+  {
+    "id": 128976,
+    "name": "Taraclia",
+    "stateId": 4312,
+    "latitude": "45.90273000",
+    "longitude": "28.66816000"
+  },
+  {
+    "id": 129666,
+    "name": "Teleneşti",
+    "stateId": 4348,
+    "latitude": "47.50110000",
+    "longitude": "28.36536000"
+  },
+  {
+    "id": 131231,
+    "name": "Tiraspol",
+    "stateId": 4436,
+    "latitude": "46.84274000",
+    "longitude": "29.62909000"
+  },
+  {
+    "id": 131232,
+    "name": "Tiraspolul Nou",
+    "stateId": 4436,
+    "latitude": "46.82874000",
+    "longitude": "29.52174000"
+  },
+  {
+    "id": 134022,
+    "name": "Tvardița",
+    "stateId": 4312,
+    "latitude": "46.14826000",
+    "longitude": "28.96491000"
+  },
+  {
+    "id": 134881,
+    "name": "Ungheni",
+    "stateId": 4517,
+    "latitude": "47.21079000",
+    "longitude": "27.80047000"
+  },
+  {
+    "id": 135496,
+    "name": "Ustia",
+    "stateId": 1138,
+    "latitude": "47.25524000",
+    "longitude": "29.12406000"
+  },
+  {
+    "id": 135769,
+    "name": "Vadul lui Vodă",
+    "stateId": 860,
+    "latitude": "47.09009000",
+    "longitude": "29.07570000"
+  },
+  {
+    "id": 136687,
+    "name": "Varniţa",
+    "stateId": 173,
+    "latitude": "46.86606000",
+    "longitude": "29.46636000"
+  },
+  {
+    "id": 136784,
+    "name": "Vatra",
+    "stateId": 860,
+    "latitude": "47.07460000",
+    "longitude": "28.73685000"
+  },
+  {
+    "id": 139587,
+    "name": "Vişniovca",
+    "stateId": 700,
+    "latitude": "46.33260000",
+    "longitude": "28.44797000"
+  },
+  {
+    "id": 140077,
+    "name": "Vulcăneşti",
+    "stateId": 1334,
+    "latitude": "45.68492000",
+    "longitude": "28.40613000"
+  },
+  {
+    "id": 147647,
+    "name": "Şoldăneşti",
+    "stateId": 4962,
+    "latitude": "47.81608000",
+    "longitude": "28.79718000"
+  },
+  {
+    "id": 147657,
+    "name": "Ştefan Vodă",
+    "stateId": 4963,
+    "latitude": "46.51287000",
+    "longitude": "29.66193000"
+  }
+]

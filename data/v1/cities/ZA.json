@@ -1,0 +1,2200 @@
+[
+  {
+    "id": 708,
+    "name": "Adelaide",
+    "stateId": 1173,
+    "latitude": "-32.70747000",
+    "longitude": "26.29564000"
+  },
+  {
+    "id": 2314,
+    "name": "Albertina",
+    "stateId": 4725,
+    "latitude": "-34.20544000",
+    "longitude": "21.58001000"
+  },
+  {
+    "id": 2319,
+    "name": "Alberton",
+    "stateId": 1358,
+    "latitude": "-26.26786000",
+    "longitude": "28.12225000"
+  },
+  {
+    "id": 2811,
+    "name": "Alfred Nzo District Municipality",
+    "stateId": 1173,
+    "latitude": "-30.66803000",
+    "longitude": "29.15490000"
+  },
+  {
+    "id": 2931,
+    "name": "Alice",
+    "stateId": 1173,
+    "latitude": "-32.78749000",
+    "longitude": "26.83440000"
+  },
+  {
+    "id": 2984,
+    "name": "Aliwal North",
+    "stateId": 1173,
+    "latitude": "-30.69366000",
+    "longitude": "26.71141000"
+  },
+  {
+    "id": 3021,
+    "name": "Allanridge",
+    "stateId": 1305,
+    "latitude": "-27.75431000",
+    "longitude": "26.64382000"
+  },
+  {
+    "id": 3734,
+    "name": "Amajuba District Municipality",
+    "stateId": 2127,
+    "latitude": "-27.73558000",
+    "longitude": "30.13537000"
+  },
+  {
+    "id": 3793,
+    "name": "Amathole District Municipality",
+    "stateId": 1173,
+    "latitude": "-32.55895000",
+    "longitude": "27.45919000"
+  },
+  {
+    "id": 6734,
+    "name": "Arniston",
+    "stateId": 4725,
+    "latitude": "-34.66739000",
+    "longitude": "20.23086000"
+  },
+  {
+    "id": 7721,
+    "name": "Atlantis",
+    "stateId": 4725,
+    "latitude": "-33.56668000",
+    "longitude": "18.48335000"
+  },
+  {
+    "id": 9698,
+    "name": "Balfour",
+    "stateId": 2748,
+    "latitude": "-26.66331000",
+    "longitude": "28.59016000"
+  },
+  {
+    "id": 9818,
+    "name": "Ballito",
+    "stateId": 2127,
+    "latitude": "-29.53897000",
+    "longitude": "31.21439000"
+  },
+  {
+    "id": 10599,
+    "name": "Barberton",
+    "stateId": 2748,
+    "latitude": "-25.78842000",
+    "longitude": "31.05319000"
+  },
+  {
+    "id": 10791,
+    "name": "Barkly West",
+    "stateId": 3020,
+    "latitude": "-28.53537000",
+    "longitude": "24.52151000"
+  },
+  {
+    "id": 11960,
+    "name": "Beaufort West",
+    "stateId": 4725,
+    "latitude": "-32.35671000",
+    "longitude": "22.58295000"
+  },
+  {
+    "id": 12374,
+    "name": "Belfast",
+    "stateId": 2748,
+    "latitude": "-25.68991000",
+    "longitude": "30.03504000"
+  },
+  {
+    "id": 13020,
+    "name": "Benoni",
+    "stateId": 1358,
+    "latitude": "-26.18848000",
+    "longitude": "28.32078000"
+  },
+  {
+    "id": 13155,
+    "name": "Berea",
+    "stateId": 2127,
+    "latitude": "-29.85185000",
+    "longitude": "30.99337000"
+  },
+  {
+    "id": 13286,
+    "name": "Bergvliet",
+    "stateId": 4725,
+    "latitude": "-34.04746000",
+    "longitude": "18.45250000"
+  },
+  {
+    "id": 13626,
+    "name": "Bethal",
+    "stateId": 2748,
+    "latitude": "-26.45794000",
+    "longitude": "29.46553000"
+  },
+  {
+    "id": 13655,
+    "name": "Bethlehem",
+    "stateId": 1305,
+    "latitude": "-28.23078000",
+    "longitude": "28.30707000"
+  },
+  {
+    "id": 13962,
+    "name": "Bhisho",
+    "stateId": 1173,
+    "latitude": "-32.84721000",
+    "longitude": "27.44218000"
+  },
+  {
+    "id": 15106,
+    "name": "Bloemfontein",
+    "stateId": 1305,
+    "latitude": "-29.12107000",
+    "longitude": "26.21400000"
+  },
+  {
+    "id": 15108,
+    "name": "Bloemhof",
+    "stateId": 3008,
+    "latitude": "-27.64685000",
+    "longitude": "25.60697000"
+  },
+  {
+    "id": 15377,
+    "name": "Bochum",
+    "stateId": 2283,
+    "latitude": "-23.28609000",
+    "longitude": "29.13964000"
+  },
+  {
+    "id": 15642,
+    "name": "Bojanala Platinum District Municipality",
+    "stateId": 3008,
+    "latitude": "-25.42612000",
+    "longitude": "27.22430000"
+  },
+  {
+    "id": 15679,
+    "name": "Boksburg",
+    "stateId": 1358,
+    "latitude": "-26.21197000",
+    "longitude": "28.25958000"
+  },
+  {
+    "id": 16586,
+    "name": "Bothaville",
+    "stateId": 1305,
+    "latitude": "-27.38870000",
+    "longitude": "26.61701000"
+  },
+  {
+    "id": 16616,
+    "name": "Botshabelo",
+    "stateId": 1305,
+    "latitude": "-29.26737000",
+    "longitude": "26.72595000"
+  },
+  {
+    "id": 17085,
+    "name": "Brakpan",
+    "stateId": 1358,
+    "latitude": "-26.23656000",
+    "longitude": "28.36938000"
+  },
+  {
+    "id": 17119,
+    "name": "Brandfort",
+    "stateId": 1305,
+    "latitude": "-28.70008000",
+    "longitude": "26.45968000"
+  },
+  {
+    "id": 17137,
+    "name": "Brandvlei",
+    "stateId": 3020,
+    "latitude": "-30.46532000",
+    "longitude": "20.48659000"
+  },
+  {
+    "id": 17315,
+    "name": "Bredasdorp",
+    "stateId": 4725,
+    "latitude": "-34.53215000",
+    "longitude": "20.04031000"
+  },
+  {
+    "id": 17513,
+    "name": "Breyten",
+    "stateId": 2748,
+    "latitude": "-26.30176000",
+    "longitude": "29.98696000"
+  },
+  {
+    "id": 17762,
+    "name": "Brits",
+    "stateId": 3008,
+    "latitude": "-25.63473000",
+    "longitude": "27.78022000"
+  },
+  {
+    "id": 17906,
+    "name": "Bronkhorstspruit",
+    "stateId": 1358,
+    "latitude": "-25.81015000",
+    "longitude": "28.74248000"
+  },
+  {
+    "id": 18717,
+    "name": "Buffalo City Metropolitan Municipality",
+    "stateId": 1173,
+    "latitude": "-32.95141000",
+    "longitude": "27.61164000"
+  },
+  {
+    "id": 19147,
+    "name": "Burgersdorp",
+    "stateId": 1173,
+    "latitude": "-30.99766000",
+    "longitude": "26.32862000"
+  },
+  {
+    "id": 19530,
+    "name": "Butterworth",
+    "stateId": 1173,
+    "latitude": "-32.33083000",
+    "longitude": "28.14981000"
+  },
+  {
+    "id": 20327,
+    "name": "Cacadu District Municipality",
+    "stateId": 1173,
+    "latitude": "-33.06583000",
+    "longitude": "24.77583000"
+  },
+  {
+    "id": 20786,
+    "name": "Caledon",
+    "stateId": 4725,
+    "latitude": "-34.22997000",
+    "longitude": "19.42650000"
+  },
+  {
+    "id": 20886,
+    "name": "Calitzdorp",
+    "stateId": 4725,
+    "latitude": "-33.52755000",
+    "longitude": "21.67620000"
+  },
+  {
+    "id": 21025,
+    "name": "Calvinia",
+    "stateId": 3020,
+    "latitude": "-31.47069000",
+    "longitude": "19.77601000"
+  },
+  {
+    "id": 22028,
+    "name": "Cape Town",
+    "stateId": 4725,
+    "latitude": "-33.92584000",
+    "longitude": "18.42322000"
+  },
+  {
+    "id": 22029,
+    "name": "Cape Winelands District Municipality",
+    "stateId": 4725,
+    "latitude": "-33.32249000",
+    "longitude": "19.68998000"
+  },
+  {
+    "id": 22163,
+    "name": "Capricorn District Municipality",
+    "stateId": 2283,
+    "latitude": "-23.48163000",
+    "longitude": "29.18350000"
+  },
+  {
+    "id": 22486,
+    "name": "Carletonville",
+    "stateId": 1358,
+    "latitude": "-26.36094000",
+    "longitude": "27.39767000"
+  },
+  {
+    "id": 22596,
+    "name": "Carnarvon",
+    "stateId": 3020,
+    "latitude": "-30.96827000",
+    "longitude": "22.13303000"
+  },
+  {
+    "id": 22644,
+    "name": "Carolina",
+    "stateId": 2748,
+    "latitude": "-26.06927000",
+    "longitude": "30.11489000"
+  },
+  {
+    "id": 24467,
+    "name": "Central Karoo District Municipality",
+    "stateId": 4725,
+    "latitude": "-32.62812000",
+    "longitude": "22.21192000"
+  },
+  {
+    "id": 24507,
+    "name": "Centurion",
+    "stateId": 1358,
+    "latitude": "-25.85891000",
+    "longitude": "28.18577000"
+  },
+  {
+    "id": 24586,
+    "name": "Ceres",
+    "stateId": 4725,
+    "latitude": "-33.36889000",
+    "longitude": "19.31095000"
+  },
+  {
+    "id": 26823,
+    "name": "Chris Hani District Municipality",
+    "stateId": 1173,
+    "latitude": "-31.79033000",
+    "longitude": "26.43965000"
+  },
+  {
+    "id": 26833,
+    "name": "Christiana",
+    "stateId": 3008,
+    "latitude": "-27.91402000",
+    "longitude": "25.16111000"
+  },
+  {
+    "id": 27471,
+    "name": "City of Cape Town",
+    "stateId": 4725,
+    "latitude": "-33.91667000",
+    "longitude": "18.41667000"
+  },
+  {
+    "id": 27490,
+    "name": "City of Johannesburg Metropolitan Municipality",
+    "stateId": 1358,
+    "latitude": "-26.17673000",
+    "longitude": "27.96353000"
+  },
+  {
+    "id": 27529,
+    "name": "City of Tshwane Metropolitan Municipality",
+    "stateId": 1358,
+    "latitude": "-25.65985000",
+    "longitude": "28.44343000"
+  },
+  {
+    "id": 27716,
+    "name": "Clanwilliam",
+    "stateId": 4725,
+    "latitude": "-32.18173000",
+    "longitude": "18.89217000"
+  },
+  {
+    "id": 27734,
+    "name": "Claremont",
+    "stateId": 4725,
+    "latitude": "-33.98056000",
+    "longitude": "18.46528000"
+  },
+  {
+    "id": 28051,
+    "name": "Clocolan",
+    "stateId": 1305,
+    "latitude": "-28.91367000",
+    "longitude": "27.56555000"
+  },
+  {
+    "id": 28507,
+    "name": "Colesberg",
+    "stateId": 3020,
+    "latitude": "-30.71999000",
+    "longitude": "25.09718000"
+  },
+  {
+    "id": 32262,
+    "name": "Constantia",
+    "stateId": 4725,
+    "latitude": "-34.03139000",
+    "longitude": "18.41833000"
+  },
+  {
+    "id": 33414,
+    "name": "Cradock",
+    "stateId": 1173,
+    "latitude": "-32.16422000",
+    "longitude": "25.61918000"
+  },
+  {
+    "id": 34244,
+    "name": "Cullinan",
+    "stateId": 1358,
+    "latitude": "-25.67088000",
+    "longitude": "28.52364000"
+  },
+  {
+    "id": 35249,
+    "name": "Daniëlskuil",
+    "stateId": 3020,
+    "latitude": "-28.18873000",
+    "longitude": "23.53951000"
+  },
+  {
+    "id": 35676,
+    "name": "De Aar",
+    "stateId": 3020,
+    "latitude": "-30.64966000",
+    "longitude": "24.01230000"
+  },
+  {
+    "id": 35721,
+    "name": "De Rust",
+    "stateId": 4725,
+    "latitude": "-33.49035000",
+    "longitude": "22.53523000"
+  },
+  {
+    "id": 36054,
+    "name": "Delmas",
+    "stateId": 2748,
+    "latitude": "-26.14660000",
+    "longitude": "28.68322000"
+  },
+  {
+    "id": 36140,
+    "name": "Deneysville",
+    "stateId": 1305,
+    "latitude": "-26.89080000",
+    "longitude": "28.09707000"
+  },
+  {
+    "id": 36963,
+    "name": "Diepsloot",
+    "stateId": 1358,
+    "latitude": "-25.93312000",
+    "longitude": "28.01213000"
+  },
+  {
+    "id": 38071,
+    "name": "Dordrecht",
+    "stateId": 1173,
+    "latitude": "-31.37200000",
+    "longitude": "27.04878000"
+  },
+  {
+    "id": 38361,
+    "name": "Dr Kenneth Kaunda District Municipality",
+    "stateId": 3008,
+    "latitude": "-26.80678000",
+    "longitude": "26.56926000"
+  },
+  {
+    "id": 38362,
+    "name": "Dr Ruth Segomotsi Mompati District Municipality",
+    "stateId": 3008,
+    "latitude": "-26.63765000",
+    "longitude": "24.27462000"
+  },
+  {
+    "id": 38490,
+    "name": "Driefontein",
+    "stateId": 2748,
+    "latitude": "-27.01770000",
+    "longitude": "30.44979000"
+  },
+  {
+    "id": 38785,
+    "name": "Duiwelskloof",
+    "stateId": 2283,
+    "latitude": "-23.69339000",
+    "longitude": "30.14002000"
+  },
+  {
+    "id": 38949,
+    "name": "Dundee",
+    "stateId": 2127,
+    "latitude": "-28.16678000",
+    "longitude": "30.23371000"
+  },
+  {
+    "id": 39069,
+    "name": "Durban",
+    "stateId": 2127,
+    "latitude": "-29.85790000",
+    "longitude": "31.02920000"
+  },
+  {
+    "id": 39699,
+    "name": "East London",
+    "stateId": 1173,
+    "latitude": "-33.01529000",
+    "longitude": "27.91162000"
+  },
+  {
+    "id": 39816,
+    "name": "Eastleigh",
+    "stateId": 1358,
+    "latitude": "-26.12965000",
+    "longitude": "28.15541000"
+  },
+  {
+    "id": 40013,
+    "name": "Eden District Municipality",
+    "stateId": 4725,
+    "latitude": "-33.82139000",
+    "longitude": "22.01263000"
+  },
+  {
+    "id": 40014,
+    "name": "Eden Glen",
+    "stateId": 1358,
+    "latitude": "-26.13230000",
+    "longitude": "28.16859000"
+  },
+  {
+    "id": 40015,
+    "name": "Eden Glen Ext 60",
+    "stateId": 1358,
+    "latitude": "-26.12593000",
+    "longitude": "28.16500000"
+  },
+  {
+    "id": 40029,
+    "name": "Edenvale",
+    "stateId": 1358,
+    "latitude": "-26.14095000",
+    "longitude": "28.15247000"
+  },
+  {
+    "id": 40241,
+    "name": "Ehlanzeni District",
+    "stateId": 2748,
+    "latitude": "-25.35100000",
+    "longitude": "31.36100000"
+  },
+  {
+    "id": 40426,
+    "name": "Ekangala",
+    "stateId": 1358,
+    "latitude": "-25.69619000",
+    "longitude": "28.74918000"
+  },
+  {
+    "id": 40447,
+    "name": "Ekurhuleni Metropolitan Municipality",
+    "stateId": 1358,
+    "latitude": "-26.19890000",
+    "longitude": "28.31262000"
+  },
+  {
+    "id": 40448,
+    "name": "Ekuvukeni",
+    "stateId": 2127,
+    "latitude": "-28.46752000",
+    "longitude": "30.15513000"
+  },
+  {
+    "id": 41643,
+    "name": "Elliot",
+    "stateId": 1173,
+    "latitude": "-31.33333000",
+    "longitude": "27.85000000"
+  },
+  {
+    "id": 41915,
+    "name": "Empangeni",
+    "stateId": 2127,
+    "latitude": "-28.76197000",
+    "longitude": "31.89329000"
+  },
+  {
+    "id": 42362,
+    "name": "Ermelo",
+    "stateId": 2748,
+    "latitude": "-26.53333000",
+    "longitude": "29.98333000"
+  },
+  {
+    "id": 42550,
+    "name": "Eshowe",
+    "stateId": 2127,
+    "latitude": "-28.88649000",
+    "longitude": "31.46990000"
+  },
+  {
+    "id": 44088,
+    "name": "Fezile Dabi District Municipality",
+    "stateId": 1305,
+    "latitude": "-27.33918000",
+    "longitude": "27.71927000"
+  },
+  {
+    "id": 44686,
+    "name": "Fochville",
+    "stateId": 3008,
+    "latitude": "-26.48862000",
+    "longitude": "27.49387000"
+  },
+  {
+    "id": 45070,
+    "name": "Fort Beaufort",
+    "stateId": 1173,
+    "latitude": "-32.77477000",
+    "longitude": "26.63376000"
+  },
+  {
+    "id": 45421,
+    "name": "Frances Baard District Municipality",
+    "stateId": 3020,
+    "latitude": "-28.30003000",
+    "longitude": "24.38188000"
+  },
+  {
+    "id": 45498,
+    "name": "Frankfort",
+    "stateId": 1305,
+    "latitude": "-27.27888000",
+    "longitude": "28.49696000"
+  },
+  {
+    "id": 45596,
+    "name": "Fraserburg",
+    "stateId": 3020,
+    "latitude": "-31.91566000",
+    "longitude": "21.51335000"
+  },
+  {
+    "id": 46512,
+    "name": "Ga-Kgapane",
+    "stateId": 2283,
+    "latitude": "-23.64378000",
+    "longitude": "30.22324000"
+  },
+  {
+    "id": 46513,
+    "name": "Ga-Rankuwa",
+    "stateId": 3008,
+    "latitude": "-25.61692000",
+    "longitude": "27.99471000"
+  },
+  {
+    "id": 48100,
+    "name": "George",
+    "stateId": 4725,
+    "latitude": "-33.96300000",
+    "longitude": "22.46173000"
+  },
+  {
+    "id": 48259,
+    "name": "Gert Sibande District Municipality",
+    "stateId": 2748,
+    "latitude": "-26.67100000",
+    "longitude": "29.92953000"
+  },
+  {
+    "id": 48767,
+    "name": "Giyani",
+    "stateId": 2283,
+    "latitude": "-23.30246000",
+    "longitude": "30.71868000"
+  },
+  {
+    "id": 48912,
+    "name": "Glencoe",
+    "stateId": 2127,
+    "latitude": "-28.17827000",
+    "longitude": "30.14702000"
+  },
+  {
+    "id": 49916,
+    "name": "Graaff-Reinet",
+    "stateId": 1173,
+    "latitude": "-32.25215000",
+    "longitude": "24.53075000"
+  },
+  {
+    "id": 49927,
+    "name": "Grabouw",
+    "stateId": 4725,
+    "latitude": "-34.15152000",
+    "longitude": "19.01509000"
+  },
+  {
+    "id": 50083,
+    "name": "Grahamstown",
+    "stateId": 1173,
+    "latitude": "-33.30422000",
+    "longitude": "26.53276000"
+  },
+  {
+    "id": 50794,
+    "name": "Greytown",
+    "stateId": 2127,
+    "latitude": "-29.06415000",
+    "longitude": "30.59279000"
+  },
+  {
+    "id": 53323,
+    "name": "Hardys Memories of Africa",
+    "stateId": 4725,
+    "latitude": "-33.90539000",
+    "longitude": "20.71690000"
+  },
+  {
+    "id": 53439,
+    "name": "Harrismith",
+    "stateId": 1305,
+    "latitude": "-28.27276000",
+    "longitude": "29.12946000"
+  },
+  {
+    "id": 54099,
+    "name": "Heidelberg",
+    "stateId": 1358,
+    "latitude": "-26.50476000",
+    "longitude": "28.35921000"
+  },
+  {
+    "id": 54121,
+    "name": "Heilbron",
+    "stateId": 1305,
+    "latitude": "-27.28115000",
+    "longitude": "27.97090000"
+  },
+  {
+    "id": 54311,
+    "name": "Hendrina",
+    "stateId": 2748,
+    "latitude": "-26.15881000",
+    "longitude": "29.71528000"
+  },
+  {
+    "id": 54343,
+    "name": "Hennenman",
+    "stateId": 1305,
+    "latitude": "-27.97654000",
+    "longitude": "27.02423000"
+  },
+  {
+    "id": 54469,
+    "name": "Hermanus",
+    "stateId": 4725,
+    "latitude": "-34.41870000",
+    "longitude": "19.23446000"
+  },
+  {
+    "id": 55230,
+    "name": "Hluhluwe",
+    "stateId": 2127,
+    "latitude": "-28.01895000",
+    "longitude": "32.26762000"
+  },
+  {
+    "id": 55769,
+    "name": "Hoopstad",
+    "stateId": 1305,
+    "latitude": "-27.83273000",
+    "longitude": "25.90833000"
+  },
+  {
+    "id": 56157,
+    "name": "Howick",
+    "stateId": 2127,
+    "latitude": "-29.47795000",
+    "longitude": "30.23057000"
+  },
+  {
+    "id": 57941,
+    "name": "Ilinge",
+    "stateId": 1173,
+    "latitude": "-31.97676000",
+    "longitude": "27.04267000"
+  },
+  {
+    "id": 59950,
+    "name": "Jan Kempdorp",
+    "stateId": 3008,
+    "latitude": "-27.92246000",
+    "longitude": "24.83051000"
+  },
+  {
+    "id": 60869,
+    "name": "Joe Gqabi District Municipality",
+    "stateId": 1173,
+    "latitude": "-30.94178000",
+    "longitude": "27.06053000"
+  },
+  {
+    "id": 60881,
+    "name": "Johannesburg",
+    "stateId": 1358,
+    "latitude": "-26.20227000",
+    "longitude": "28.04363000"
+  },
+  {
+    "id": 60888,
+    "name": "John Taolo Gaetsewe District Municipality",
+    "stateId": 3020,
+    "latitude": "-27.04549000",
+    "longitude": "23.04706000"
+  },
+  {
+    "id": 63333,
+    "name": "Kathu",
+    "stateId": 3020,
+    "latitude": "-27.69569000",
+    "longitude": "23.04929000"
+  },
+  {
+    "id": 63812,
+    "name": "Kenhardt",
+    "stateId": 3020,
+    "latitude": "-29.34574000",
+    "longitude": "21.15786000"
+  },
+  {
+    "id": 64647,
+    "name": "Kimberley",
+    "stateId": 3020,
+    "latitude": "-28.73226000",
+    "longitude": "24.76232000"
+  },
+  {
+    "id": 65024,
+    "name": "Kirkwood",
+    "stateId": 1173,
+    "latitude": "-33.39829000",
+    "longitude": "25.44279000"
+  },
+  {
+    "id": 65346,
+    "name": "Klerksdorp",
+    "stateId": 3008,
+    "latitude": "-26.85213000",
+    "longitude": "26.66672000"
+  },
+  {
+    "id": 65508,
+    "name": "Knysna",
+    "stateId": 4725,
+    "latitude": "-34.03627000",
+    "longitude": "23.04713000"
+  },
+  {
+    "id": 65679,
+    "name": "Kokstad",
+    "stateId": 2127,
+    "latitude": "-30.54723000",
+    "longitude": "29.42412000"
+  },
+  {
+    "id": 65798,
+    "name": "Komatipoort",
+    "stateId": 2748,
+    "latitude": "-25.43321000",
+    "longitude": "31.95478000"
+  },
+  {
+    "id": 66000,
+    "name": "Koppies",
+    "stateId": 1305,
+    "latitude": "-27.24179000",
+    "longitude": "27.57422000"
+  },
+  {
+    "id": 66179,
+    "name": "Koster",
+    "stateId": 3008,
+    "latitude": "-25.86301000",
+    "longitude": "26.89756000"
+  },
+  {
+    "id": 66537,
+    "name": "Kraaifontein",
+    "stateId": 4725,
+    "latitude": "-33.84808000",
+    "longitude": "18.71723000"
+  },
+  {
+    "id": 66809,
+    "name": "Kriel",
+    "stateId": 2748,
+    "latitude": "-26.27391000",
+    "longitude": "29.22530000"
+  },
+  {
+    "id": 66874,
+    "name": "Kroonstad",
+    "stateId": 1305,
+    "latitude": "-27.65036000",
+    "longitude": "27.23488000"
+  },
+  {
+    "id": 66902,
+    "name": "Krugersdorp",
+    "stateId": 1358,
+    "latitude": "-26.08577000",
+    "longitude": "27.77515000"
+  },
+  {
+    "id": 66908,
+    "name": "Kruisfontein",
+    "stateId": 1173,
+    "latitude": "-34.00333000",
+    "longitude": "24.73142000"
+  },
+  {
+    "id": 67419,
+    "name": "Kuruman",
+    "stateId": 3020,
+    "latitude": "-27.45240000",
+    "longitude": "23.43246000"
+  },
+  {
+    "id": 67489,
+    "name": "Kutloanong",
+    "stateId": 1305,
+    "latitude": "-27.83333000",
+    "longitude": "26.75000000"
+  },
+  {
+    "id": 67572,
+    "name": "KwaDukuza",
+    "stateId": 2127,
+    "latitude": "-29.32816000",
+    "longitude": "31.28954000"
+  },
+  {
+    "id": 69418,
+    "name": "Ladismith",
+    "stateId": 4725,
+    "latitude": "-33.49331000",
+    "longitude": "21.26755000"
+  },
+  {
+    "id": 69436,
+    "name": "Lady Frere",
+    "stateId": 1173,
+    "latitude": "-31.70312000",
+    "longitude": "27.23290000"
+  },
+  {
+    "id": 69439,
+    "name": "Ladybrand",
+    "stateId": 1305,
+    "latitude": "-29.19448000",
+    "longitude": "27.45739000"
+  },
+  {
+    "id": 70485,
+    "name": "Lansdowne",
+    "stateId": 4725,
+    "latitude": "-33.98735000",
+    "longitude": "18.49746000"
+  },
+  {
+    "id": 71620,
+    "name": "Lebowakgomo",
+    "stateId": 2283,
+    "latitude": "-24.20000000",
+    "longitude": "29.50000000"
+  },
+  {
+    "id": 71855,
+    "name": "Lejweleputswa District Municipality",
+    "stateId": 1305,
+    "latitude": "-28.23982000",
+    "longitude": "26.12649000"
+  },
+  {
+    "id": 72716,
+    "name": "Lichtenburg",
+    "stateId": 3008,
+    "latitude": "-26.15200000",
+    "longitude": "26.15968000"
+  },
+  {
+    "id": 73150,
+    "name": "Lindley",
+    "stateId": 1305,
+    "latitude": "-27.87910000",
+    "longitude": "27.91348000"
+  },
+  {
+    "id": 74715,
+    "name": "Louis Trichardt",
+    "stateId": 2283,
+    "latitude": "-23.04385000",
+    "longitude": "29.90319000"
+  },
+  {
+    "id": 75626,
+    "name": "Lydenburg",
+    "stateId": 2748,
+    "latitude": "-25.09598000",
+    "longitude": "30.44393000"
+  },
+  {
+    "id": 76063,
+    "name": "Mabopane",
+    "stateId": 1358,
+    "latitude": "-25.49768000",
+    "longitude": "28.10065000"
+  },
+  {
+    "id": 76762,
+    "name": "Mahikeng",
+    "stateId": 3008,
+    "latitude": "-25.86522000",
+    "longitude": "25.64421000"
+  },
+  {
+    "id": 76845,
+    "name": "Maile",
+    "stateId": 3008,
+    "latitude": "-25.44152000",
+    "longitude": "27.28165000"
+  },
+  {
+    "id": 77350,
+    "name": "Malmesbury",
+    "stateId": 4725,
+    "latitude": "-33.46080000",
+    "longitude": "18.72714000"
+  },
+  {
+    "id": 77793,
+    "name": "Mangaung Metropolitan Municipality",
+    "stateId": 1305,
+    "latitude": "-29.15627000",
+    "longitude": "26.35116000"
+  },
+  {
+    "id": 77914,
+    "name": "Mankoeng",
+    "stateId": 2283,
+    "latitude": "-23.90000000",
+    "longitude": "29.81667000"
+  },
+  {
+    "id": 78500,
+    "name": "Margate",
+    "stateId": 2127,
+    "latitude": "-30.86360000",
+    "longitude": "30.37052000"
+  },
+  {
+    "id": 79009,
+    "name": "Marquard",
+    "stateId": 1305,
+    "latitude": "-28.66449000",
+    "longitude": "27.43048000"
+  },
+  {
+    "id": 81678,
+    "name": "Middelburg",
+    "stateId": 1173,
+    "latitude": "-31.49285000",
+    "longitude": "25.00633000"
+  },
+  {
+    "id": 81679,
+    "name": "Middelburg",
+    "stateId": 2748,
+    "latitude": "-25.77507000",
+    "longitude": "29.46482000"
+  },
+  {
+    "id": 81776,
+    "name": "Midrand",
+    "stateId": 1358,
+    "latitude": "-25.98953000",
+    "longitude": "28.12843000"
+  },
+  {
+    "id": 81782,
+    "name": "Midstream",
+    "stateId": 1358,
+    "latitude": "-25.91849000",
+    "longitude": "28.19881000"
+  },
+  {
+    "id": 82913,
+    "name": "Mmabatho",
+    "stateId": 3008,
+    "latitude": "-25.85000000",
+    "longitude": "25.63333000"
+  },
+  {
+    "id": 83007,
+    "name": "Modderfontein",
+    "stateId": 1358,
+    "latitude": "-26.08909000",
+    "longitude": "28.16534000"
+  },
+  {
+    "id": 83015,
+    "name": "Modimolle",
+    "stateId": 2283,
+    "latitude": "-24.70000000",
+    "longitude": "28.40000000"
+  },
+  {
+    "id": 83203,
+    "name": "Mokopane",
+    "stateId": 2283,
+    "latitude": "-24.19436000",
+    "longitude": "29.00974000"
+  },
+  {
+    "id": 83321,
+    "name": "Molteno",
+    "stateId": 1173,
+    "latitude": "-31.39675000",
+    "longitude": "26.36246000"
+  },
+  {
+    "id": 83470,
+    "name": "Mondlo",
+    "stateId": 2127,
+    "latitude": "-27.98299000",
+    "longitude": "30.71769000"
+  },
+  {
+    "id": 83709,
+    "name": "Montagu",
+    "stateId": 4725,
+    "latitude": "-33.78664000",
+    "longitude": "20.12106000"
+  },
+  {
+    "id": 84489,
+    "name": "Mooirivier",
+    "stateId": 2127,
+    "latitude": "-29.20824000",
+    "longitude": "29.99460000"
+  },
+  {
+    "id": 84534,
+    "name": "Moorreesburg",
+    "stateId": 4725,
+    "latitude": "-33.15388000",
+    "longitude": "18.66031000"
+  },
+  {
+    "id": 84557,
+    "name": "Mopani District Municipality",
+    "stateId": 2283,
+    "latitude": "-23.76661000",
+    "longitude": "30.83600000"
+  },
+  {
+    "id": 85088,
+    "name": "Mossel Bay",
+    "stateId": 4725,
+    "latitude": "-34.18307000",
+    "longitude": "22.14605000"
+  },
+  {
+    "id": 85564,
+    "name": "Mpophomeni",
+    "stateId": 2127,
+    "latitude": "-29.56822000",
+    "longitude": "30.18618000"
+  },
+  {
+    "id": 85569,
+    "name": "Mpumalanga",
+    "stateId": 2127,
+    "latitude": "-29.81292000",
+    "longitude": "30.63646000"
+  },
+  {
+    "id": 85608,
+    "name": "Mthatha",
+    "stateId": 1173,
+    "latitude": "-31.58893000",
+    "longitude": "28.78443000"
+  },
+  {
+    "id": 85616,
+    "name": "Mtubatuba",
+    "stateId": 2127,
+    "latitude": "-28.41789000",
+    "longitude": "32.18483000"
+  },
+  {
+    "id": 85817,
+    "name": "Muldersdriseloop",
+    "stateId": 1358,
+    "latitude": "-26.03673000",
+    "longitude": "27.83798000"
+  },
+  {
+    "id": 86425,
+    "name": "Musina",
+    "stateId": 2283,
+    "latitude": "-22.34881000",
+    "longitude": "30.04074000"
+  },
+  {
+    "id": 87411,
+    "name": "Namakwa District Municipality",
+    "stateId": 3020,
+    "latitude": "-30.53561000",
+    "longitude": "19.42892000"
+  },
+  {
+    "id": 88144,
+    "name": "Ndwedwe",
+    "stateId": 2127,
+    "latitude": "-29.51686000",
+    "longitude": "30.92687000"
+  },
+  {
+    "id": 88352,
+    "name": "Nelson Mandela Bay Metropolitan Municipality",
+    "stateId": 1173,
+    "latitude": "-33.80399000",
+    "longitude": "25.49213000"
+  },
+  {
+    "id": 88354,
+    "name": "Nelspruit",
+    "stateId": 2748,
+    "latitude": "-25.47448000",
+    "longitude": "30.97033000"
+  },
+  {
+    "id": 89079,
+    "name": "Newcastle",
+    "stateId": 2127,
+    "latitude": "-27.75796000",
+    "longitude": "29.93180000"
+  },
+  {
+    "id": 89112,
+    "name": "Newlands",
+    "stateId": 4725,
+    "latitude": "-33.97846000",
+    "longitude": "18.44810000"
+  },
+  {
+    "id": 89237,
+    "name": "Ngaka Modiri Molema District Municipality",
+    "stateId": 3008,
+    "latitude": "-25.95559000",
+    "longitude": "25.80782000"
+  },
+  {
+    "id": 89550,
+    "name": "Nigel",
+    "stateId": 1358,
+    "latitude": "-26.43138000",
+    "longitude": "28.47713000"
+  },
+  {
+    "id": 89851,
+    "name": "Nkangala District Municipality",
+    "stateId": 2748,
+    "latitude": "-25.71222000",
+    "longitude": "29.42431000"
+  },
+  {
+    "id": 89864,
+    "name": "Nkowakowa",
+    "stateId": 2283,
+    "latitude": "-23.88782000",
+    "longitude": "30.28708000"
+  },
+  {
+    "id": 90697,
+    "name": "Noupoort",
+    "stateId": 3020,
+    "latitude": "-31.18736000",
+    "longitude": "24.94991000"
+  },
+  {
+    "id": 91838,
+    "name": "OR Tambo District Municipality",
+    "stateId": 1173,
+    "latitude": "-31.46740000",
+    "longitude": "29.05247000"
+  },
+  {
+    "id": 93852,
+    "name": "Orange Farm",
+    "stateId": 1358,
+    "latitude": "-26.48333000",
+    "longitude": "27.86667000"
+  },
+  {
+    "id": 93871,
+    "name": "Orania",
+    "stateId": 3020,
+    "latitude": "-29.81381000",
+    "longitude": "24.41205000"
+  },
+  {
+    "id": 94265,
+    "name": "Orkney",
+    "stateId": 3008,
+    "latitude": "-26.98023000",
+    "longitude": "26.67272000"
+  },
+  {
+    "id": 95004,
+    "name": "Oudtshoorn",
+    "stateId": 4725,
+    "latitude": "-33.60047000",
+    "longitude": "22.19955000"
+  },
+  {
+    "id": 95123,
+    "name": "Overberg District Municipality",
+    "stateId": 4725,
+    "latitude": "-34.26131000",
+    "longitude": "19.93985000"
+  },
+  {
+    "id": 95340,
+    "name": "Paarl",
+    "stateId": 4725,
+    "latitude": "-33.73378000",
+    "longitude": "18.97523000"
+  },
+  {
+    "id": 96167,
+    "name": "Pampierstad",
+    "stateId": 3020,
+    "latitude": "-27.78324000",
+    "longitude": "24.68768000"
+  },
+  {
+    "id": 96993,
+    "name": "Parys",
+    "stateId": 1305,
+    "latitude": "-26.90330000",
+    "longitude": "27.45727000"
+  },
+  {
+    "id": 98801,
+    "name": "Phalaborwa",
+    "stateId": 2283,
+    "latitude": "-23.94299000",
+    "longitude": "31.14107000"
+  },
+  {
+    "id": 98902,
+    "name": "Phuthaditjhaba",
+    "stateId": 1305,
+    "latitude": "-28.52423000",
+    "longitude": "28.81582000"
+  },
+  {
+    "id": 99204,
+    "name": "Piet Retief",
+    "stateId": 2748,
+    "latitude": "-27.00706000",
+    "longitude": "30.81323000"
+  },
+  {
+    "id": 99206,
+    "name": "Pietermaritzburg",
+    "stateId": 2127,
+    "latitude": "-29.61679000",
+    "longitude": "30.39278000"
+  },
+  {
+    "id": 99336,
+    "name": "Piketberg",
+    "stateId": 4725,
+    "latitude": "-32.90323000",
+    "longitude": "18.75704000"
+  },
+  {
+    "id": 99975,
+    "name": "Pixley ka Seme District Municipality",
+    "stateId": 3020,
+    "latitude": "-30.28920000",
+    "longitude": "23.25818000"
+  },
+  {
+    "id": 100293,
+    "name": "Plettenberg Bay",
+    "stateId": 4725,
+    "latitude": "-34.05274000",
+    "longitude": "23.37160000"
+  },
+  {
+    "id": 100674,
+    "name": "Pofadder",
+    "stateId": 3020,
+    "latitude": "-29.12830000",
+    "longitude": "19.39492000"
+  },
+  {
+    "id": 101042,
+    "name": "Polokwane",
+    "stateId": 2283,
+    "latitude": "-23.90449000",
+    "longitude": "29.46885000"
+  },
+  {
+    "id": 101571,
+    "name": "Port Alfred",
+    "stateId": 1173,
+    "latitude": "-33.58601000",
+    "longitude": "26.88329000"
+  },
+  {
+    "id": 101602,
+    "name": "Port Elizabeth",
+    "stateId": 1173,
+    "latitude": "-33.96109000",
+    "longitude": "25.61494000"
+  },
+  {
+    "id": 101665,
+    "name": "Port Saint John’s",
+    "stateId": 1173,
+    "latitude": "-31.62291000",
+    "longitude": "29.54477000"
+  },
+  {
+    "id": 101668,
+    "name": "Port Shepstone",
+    "stateId": 2127,
+    "latitude": "-30.74137000",
+    "longitude": "30.45499000"
+  },
+  {
+    "id": 101984,
+    "name": "Postmasburg",
+    "stateId": 3020,
+    "latitude": "-28.33392000",
+    "longitude": "23.06541000"
+  },
+  {
+    "id": 102002,
+    "name": "Potchefstroom",
+    "stateId": 3008,
+    "latitude": "-26.71667000",
+    "longitude": "27.10000000"
+  },
+  {
+    "id": 102939,
+    "name": "Pretoria",
+    "stateId": 1358,
+    "latitude": "-25.74486000",
+    "longitude": "28.18783000"
+  },
+  {
+    "id": 102994,
+    "name": "Prieska",
+    "stateId": 3020,
+    "latitude": "-29.66803000",
+    "longitude": "22.74251000"
+  },
+  {
+    "id": 103062,
+    "name": "Prince Albert",
+    "stateId": 4725,
+    "latitude": "-33.22476000",
+    "longitude": "22.02673000"
+  },
+  {
+    "id": 105292,
+    "name": "Queensdale",
+    "stateId": 1173,
+    "latitude": "-31.87101000",
+    "longitude": "26.97862000"
+  },
+  {
+    "id": 105297,
+    "name": "Queenstown",
+    "stateId": 1173,
+    "latitude": "-31.89756000",
+    "longitude": "26.87533000"
+  },
+  {
+    "id": 106233,
+    "name": "Randburg",
+    "stateId": 1358,
+    "latitude": "-26.09410000",
+    "longitude": "28.00123000"
+  },
+  {
+    "id": 106239,
+    "name": "Randfontein",
+    "stateId": 1358,
+    "latitude": "-26.18440000",
+    "longitude": "27.70203000"
+  },
+  {
+    "id": 107061,
+    "name": "Reitz",
+    "stateId": 1305,
+    "latitude": "-27.80138000",
+    "longitude": "28.42726000"
+  },
+  {
+    "id": 107300,
+    "name": "Retreat",
+    "stateId": 4725,
+    "latitude": "-34.05515000",
+    "longitude": "18.47617000"
+  },
+  {
+    "id": 107599,
+    "name": "Richards Bay",
+    "stateId": 2127,
+    "latitude": "-28.78301000",
+    "longitude": "32.03768000"
+  },
+  {
+    "id": 107652,
+    "name": "Richmond",
+    "stateId": 2127,
+    "latitude": "-29.87196000",
+    "longitude": "30.27235000"
+  },
+  {
+    "id": 108130,
+    "name": "Ritchie",
+    "stateId": 3020,
+    "latitude": "-29.03801000",
+    "longitude": "24.60278000"
+  },
+  {
+    "id": 108215,
+    "name": "Riversdale",
+    "stateId": 4725,
+    "latitude": "-34.09345000",
+    "longitude": "21.25725000"
+  },
+  {
+    "id": 108364,
+    "name": "Robertson",
+    "stateId": 4725,
+    "latitude": "-33.80342000",
+    "longitude": "19.88537000"
+  },
+  {
+    "id": 109034,
+    "name": "Rondebosch",
+    "stateId": 4725,
+    "latitude": "-33.96333000",
+    "longitude": "18.47639000"
+  },
+  {
+    "id": 109058,
+    "name": "Roodepoort",
+    "stateId": 1358,
+    "latitude": "-26.16250000",
+    "longitude": "27.87250000"
+  },
+  {
+    "id": 109175,
+    "name": "Rosebank",
+    "stateId": 4725,
+    "latitude": "-33.95556000",
+    "longitude": "18.47417000"
+  },
+  {
+    "id": 110017,
+    "name": "Rustenburg",
+    "stateId": 3008,
+    "latitude": "-25.66756000",
+    "longitude": "27.24208000"
+  },
+  {
+    "id": 112387,
+    "name": "Saldanha",
+    "stateId": 4725,
+    "latitude": "-33.01167000",
+    "longitude": "17.94420000"
+  },
+  {
+    "id": 118263,
+    "name": "Sasolburg",
+    "stateId": 1305,
+    "latitude": "-26.81358000",
+    "longitude": "27.81695000"
+  },
+  {
+    "id": 119056,
+    "name": "Schweizer-Reneke",
+    "stateId": 3008,
+    "latitude": "-27.18871000",
+    "longitude": "25.32931000"
+  },
+  {
+    "id": 119212,
+    "name": "Scottburgh",
+    "stateId": 2127,
+    "latitude": "-30.28666000",
+    "longitude": "30.75316000"
+  },
+  {
+    "id": 119398,
+    "name": "Secunda",
+    "stateId": 2748,
+    "latitude": "-26.55000000",
+    "longitude": "29.16667000"
+  },
+  {
+    "id": 119426,
+    "name": "Sedibeng District Municipality",
+    "stateId": 1358,
+    "latitude": "-26.56686000",
+    "longitude": "28.18277000"
+  },
+  {
+    "id": 119594,
+    "name": "Sekhukhune District Municipality",
+    "stateId": 2283,
+    "latitude": "-24.82806000",
+    "longitude": "29.83803000"
+  },
+  {
+    "id": 119832,
+    "name": "Senekal",
+    "stateId": 1305,
+    "latitude": "-28.31971000",
+    "longitude": "27.62082000"
+  },
+  {
+    "id": 122431,
+    "name": "Sisonke District Municipality",
+    "stateId": 2127,
+    "latitude": "-30.11082000",
+    "longitude": "29.66009000"
+  },
+  {
+    "id": 122515,
+    "name": "Siyabuswa",
+    "stateId": 2748,
+    "latitude": "-25.11319000",
+    "longitude": "29.04454000"
+  },
+  {
+    "id": 122516,
+    "name": "Siyanda District Municipality",
+    "stateId": 3020,
+    "latitude": "-28.00013000",
+    "longitude": "21.18459000"
+  },
+  {
+    "id": 123409,
+    "name": "Somerset East",
+    "stateId": 1173,
+    "latitude": "-32.72173000",
+    "longitude": "25.58804000"
+  },
+  {
+    "id": 124150,
+    "name": "Soweto",
+    "stateId": 1358,
+    "latitude": "-26.26781000",
+    "longitude": "27.85849000"
+  },
+  {
+    "id": 124448,
+    "name": "Springbok",
+    "stateId": 3020,
+    "latitude": "-29.66434000",
+    "longitude": "17.88650000"
+  },
+  {
+    "id": 124488,
+    "name": "Springs",
+    "stateId": 1358,
+    "latitude": "-26.25000000",
+    "longitude": "28.40000000"
+  },
+  {
+    "id": 124833,
+    "name": "Standerton",
+    "stateId": 2748,
+    "latitude": "-26.93366000",
+    "longitude": "29.24152000"
+  },
+  {
+    "id": 125252,
+    "name": "Stellenbosch",
+    "stateId": 4725,
+    "latitude": "-33.93462000",
+    "longitude": "18.86676000"
+  },
+  {
+    "id": 125385,
+    "name": "Stilfontein",
+    "stateId": 3008,
+    "latitude": "-26.84493000",
+    "longitude": "26.76829000"
+  },
+  {
+    "id": 125899,
+    "name": "Stutterheim",
+    "stateId": 1173,
+    "latitude": "-32.57076000",
+    "longitude": "27.42396000"
+  },
+  {
+    "id": 126420,
+    "name": "Sundumbili",
+    "stateId": 2127,
+    "latitude": "-29.13371000",
+    "longitude": "31.39752000"
+  },
+  {
+    "id": 126469,
+    "name": "Sunset Beach",
+    "stateId": 4725,
+    "latitude": "-33.85395000",
+    "longitude": "18.49231000"
+  },
+  {
+    "id": 126918,
+    "name": "Swellendam",
+    "stateId": 4725,
+    "latitude": "-34.02262000",
+    "longitude": "20.44171000"
+  },
+  {
+    "id": 129737,
+    "name": "Tembisa",
+    "stateId": 1358,
+    "latitude": "-25.99636000",
+    "longitude": "28.22680000"
+  },
+  {
+    "id": 130384,
+    "name": "Thaba Nchu",
+    "stateId": 1305,
+    "latitude": "-29.20932000",
+    "longitude": "26.83898000"
+  },
+  {
+    "id": 130386,
+    "name": "Thabazimbi",
+    "stateId": 2283,
+    "latitude": "-24.59165000",
+    "longitude": "27.41155000"
+  },
+  {
+    "id": 130388,
+    "name": "Thabo Mofutsanyana District Municipality",
+    "stateId": 1305,
+    "latitude": "-28.24378000",
+    "longitude": "28.34077000"
+  },
+  {
+    "id": 130539,
+    "name": "Theunissen",
+    "stateId": 1305,
+    "latitude": "-28.41098000",
+    "longitude": "26.70107000"
+  },
+  {
+    "id": 130593,
+    "name": "Thohoyandou",
+    "stateId": 2283,
+    "latitude": "-22.94564000",
+    "longitude": "30.48497000"
+  },
+  {
+    "id": 130720,
+    "name": "Thulamahashi",
+    "stateId": 2283,
+    "latitude": "-24.72459000",
+    "longitude": "31.19939000"
+  },
+  {
+    "id": 134153,
+    "name": "Tzaneen",
+    "stateId": 2283,
+    "latitude": "-23.83322000",
+    "longitude": "30.16351000"
+  },
+  {
+    "id": 134593,
+    "name": "Ugu District Municipality",
+    "stateId": 2127,
+    "latitude": "-30.54365000",
+    "longitude": "30.27480000"
+  },
+  {
+    "id": 134624,
+    "name": "Uitenhage",
+    "stateId": 1173,
+    "latitude": "-33.75757000",
+    "longitude": "25.39710000"
+  },
+  {
+    "id": 134752,
+    "name": "Ulundi",
+    "stateId": 2127,
+    "latitude": "-28.33523000",
+    "longitude": "31.41617000"
+  },
+  {
+    "id": 135145,
+    "name": "Upington",
+    "stateId": 3020,
+    "latitude": "-28.44776000",
+    "longitude": "21.25612000"
+  },
+  {
+    "id": 135590,
+    "name": "Utrecht",
+    "stateId": 2127,
+    "latitude": "-27.65862000",
+    "longitude": "30.32166000"
+  },
+  {
+    "id": 136526,
+    "name": "Van Wyksvlei",
+    "stateId": 3020,
+    "latitude": "-30.35101000",
+    "longitude": "21.82498000"
+  },
+  {
+    "id": 136551,
+    "name": "Vanderbijlpark",
+    "stateId": 1358,
+    "latitude": "-26.71171000",
+    "longitude": "27.83795000"
+  },
+  {
+    "id": 137203,
+    "name": "Ventersburg",
+    "stateId": 1305,
+    "latitude": "-28.08561000",
+    "longitude": "27.13814000"
+  },
+  {
+    "id": 137302,
+    "name": "Vereeniging",
+    "stateId": 1358,
+    "latitude": "-26.67313000",
+    "longitude": "27.92615000"
+  },
+  {
+    "id": 137658,
+    "name": "Vhembe District Municipality",
+    "stateId": 2283,
+    "latitude": "-22.75467000",
+    "longitude": "30.19360000"
+  },
+  {
+    "id": 138177,
+    "name": "Viljoenskroon",
+    "stateId": 1305,
+    "latitude": "-27.20841000",
+    "longitude": "26.94855000"
+  },
+  {
+    "id": 139126,
+    "name": "Villiers",
+    "stateId": 1305,
+    "latitude": "-27.03026000",
+    "longitude": "28.60061000"
+  },
+  {
+    "id": 139363,
+    "name": "Virginia",
+    "stateId": 1305,
+    "latitude": "-28.10391000",
+    "longitude": "26.86593000"
+  },
+  {
+    "id": 139764,
+    "name": "Volksrust",
+    "stateId": 2748,
+    "latitude": "-27.36541000",
+    "longitude": "29.88175000"
+  },
+  {
+    "id": 140014,
+    "name": "Vrede",
+    "stateId": 1305,
+    "latitude": "-27.42573000",
+    "longitude": "29.16585000"
+  },
+  {
+    "id": 140015,
+    "name": "Vredefort",
+    "stateId": 1305,
+    "latitude": "-27.00805000",
+    "longitude": "27.36460000"
+  },
+  {
+    "id": 140018,
+    "name": "Vredenburg",
+    "stateId": 4725,
+    "latitude": "-32.90719000",
+    "longitude": "17.98997000"
+  },
+  {
+    "id": 140019,
+    "name": "Vredendal",
+    "stateId": 4725,
+    "latitude": "-31.66833000",
+    "longitude": "18.50119000"
+  },
+  {
+    "id": 140046,
+    "name": "Vryburg",
+    "stateId": 3008,
+    "latitude": "-26.95659000",
+    "longitude": "24.72840000"
+  },
+  {
+    "id": 140047,
+    "name": "Vryheid",
+    "stateId": 2127,
+    "latitude": "-27.76952000",
+    "longitude": "30.79165000"
+  },
+  {
+    "id": 141007,
+    "name": "Warmbaths",
+    "stateId": 2283,
+    "latitude": "-24.88333000",
+    "longitude": "28.28333000"
+  },
+  {
+    "id": 141073,
+    "name": "Warrenton",
+    "stateId": 3020,
+    "latitude": "-28.11396000",
+    "longitude": "24.84753000"
+  },
+  {
+    "id": 141252,
+    "name": "Waterberg District Municipality",
+    "stateId": 2283,
+    "latitude": "-24.20514000",
+    "longitude": "27.97870000"
+  },
+  {
+    "id": 141699,
+    "name": "Welkom",
+    "stateId": 1305,
+    "latitude": "-27.97742000",
+    "longitude": "26.73506000"
+  },
+  {
+    "id": 141726,
+    "name": "Wellington",
+    "stateId": 4725,
+    "latitude": "-33.63981000",
+    "longitude": "19.01120000"
+  },
+  {
+    "id": 141906,
+    "name": "Wesselsbron",
+    "stateId": 1305,
+    "latitude": "-27.85490000",
+    "longitude": "26.36583000"
+  },
+  {
+    "id": 141963,
+    "name": "West Coast District Municipality",
+    "stateId": 4725,
+    "latitude": "-32.09506000",
+    "longitude": "18.62695000"
+  },
+  {
+    "id": 142149,
+    "name": "West Rand District Municipality",
+    "stateId": 1358,
+    "latitude": "-26.24565000",
+    "longitude": "27.55538000"
+  },
+  {
+    "id": 142349,
+    "name": "Westonaria",
+    "stateId": 1358,
+    "latitude": "-26.31905000",
+    "longitude": "27.64860000"
+  },
+  {
+    "id": 142519,
+    "name": "White River",
+    "stateId": 2748,
+    "latitude": "-25.33177000",
+    "longitude": "31.01166000"
+  },
+  {
+    "id": 142608,
+    "name": "Whittlesea",
+    "stateId": 1173,
+    "latitude": "-32.17588000",
+    "longitude": "26.82437000"
+  },
+  {
+    "id": 142950,
+    "name": "Willowmore",
+    "stateId": 1173,
+    "latitude": "-33.29265000",
+    "longitude": "23.48954000"
+  },
+  {
+    "id": 143030,
+    "name": "Winburg",
+    "stateId": 1305,
+    "latitude": "-28.51805000",
+    "longitude": "27.00933000"
+  },
+  {
+    "id": 143292,
+    "name": "Witbank",
+    "stateId": 2748,
+    "latitude": "-25.87133000",
+    "longitude": "29.23323000"
+  },
+  {
+    "id": 143482,
+    "name": "Wolmaransstad",
+    "stateId": 3008,
+    "latitude": "-27.19740000",
+    "longitude": "25.98311000"
+  },
+  {
+    "id": 143696,
+    "name": "Worcester",
+    "stateId": 4725,
+    "latitude": "-33.64651000",
+    "longitude": "19.44852000"
+  },
+  {
+    "id": 144064,
+    "name": "Xhariep District Municipality",
+    "stateId": 1305,
+    "latitude": "-29.84311000",
+    "longitude": "25.83286000"
+  },
+  {
+    "id": 145647,
+    "name": "Zastron",
+    "stateId": 1305,
+    "latitude": "-30.30225000",
+    "longitude": "27.08395000"
+  },
+  {
+    "id": 145757,
+    "name": "Zeerust",
+    "stateId": 3008,
+    "latitude": "-25.53695000",
+    "longitude": "26.07512000"
+  },
+  {
+    "id": 146233,
+    "name": "Zoar",
+    "stateId": 4725,
+    "latitude": "-33.49560000",
+    "longitude": "21.44373000"
+  },
+  {
+    "id": 146409,
+    "name": "Zululand District Municipality",
+    "stateId": 2127,
+    "latitude": "-27.81139000",
+    "longitude": "31.29426000"
+  },
+  {
+    "id": 146622,
+    "name": "eMbalenhle",
+    "stateId": 2748,
+    "latitude": "-26.53333000",
+    "longitude": "29.06667000"
+  },
+  {
+    "id": 146623,
+    "name": "eMkhomazi",
+    "stateId": 2127,
+    "latitude": "-30.20674000",
+    "longitude": "30.79776000"
+  },
+  {
+    "id": 146624,
+    "name": "eSikhaleni",
+    "stateId": 2127,
+    "latitude": "-28.87097000",
+    "longitude": "31.89961000"
+  },
+  {
+    "id": 146625,
+    "name": "eThekwini Metropolitan Municipality",
+    "stateId": 2127,
+    "latitude": "-29.86670000",
+    "longitude": "31.01670000"
+  },
+  {
+    "id": 146649,
+    "name": "iLembe District Municipality",
+    "stateId": 2127,
+    "latitude": "-29.27326000",
+    "longitude": "31.14253000"
+  },
+  {
+    "id": 146700,
+    "name": "uMgungundlovu District Municipality",
+    "stateId": 2127,
+    "latitude": "-29.50927000",
+    "longitude": "30.19838000"
+  },
+  {
+    "id": 146701,
+    "name": "uMkhanyakude District Municipality",
+    "stateId": 2127,
+    "latitude": "-27.62236000",
+    "longitude": "32.32945000"
+  },
+  {
+    "id": 146702,
+    "name": "uMzinyathi District Municipality",
+    "stateId": 2127,
+    "latitude": "-28.58570000",
+    "longitude": "30.55883000"
+  },
+  {
+    "id": 146703,
+    "name": "uThukela District Municipality",
+    "stateId": 2127,
+    "latitude": "-28.71920000",
+    "longitude": "29.65799000"
+  },
+  {
+    "id": 146704,
+    "name": "uThungulu District Municipality",
+    "stateId": 2127,
+    "latitude": "-28.70046000",
+    "longitude": "31.51527000"
+  }
+]

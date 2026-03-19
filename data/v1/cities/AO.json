@@ -1,0 +1,338 @@
+[
+  {
+    "id": 12329,
+    "name": "Belas",
+    "stateId": 2381,
+    "latitude": "-9.06875000",
+    "longitude": "13.16072000"
+  },
+  {
+    "id": 12914,
+    "name": "Benguela",
+    "stateId": 435,
+    "latitude": "-12.57626000",
+    "longitude": "13.40547000"
+  },
+  {
+    "id": 20239,
+    "name": "Cabinda",
+    "stateId": 667,
+    "latitude": "-5.55000000",
+    "longitude": "12.20000000"
+  },
+  {
+    "id": 20388,
+    "name": "Caconda",
+    "stateId": 1624,
+    "latitude": "-13.73333000",
+    "longitude": "15.06667000"
+  },
+  {
+    "id": 20991,
+    "name": "Caluquembe",
+    "stateId": 1624,
+    "latitude": "-13.92093000",
+    "longitude": "14.53476000"
+  },
+  {
+    "id": 21051,
+    "name": "Camabatela",
+    "stateId": 975,
+    "latitude": "-8.18812000",
+    "longitude": "15.37495000"
+  },
+  {
+    "id": 21057,
+    "name": "Camacupa",
+    "stateId": 485,
+    "latitude": "-12.01667000",
+    "longitude": "17.48333000"
+  },
+  {
+    "id": 23781,
+    "name": "Catabola",
+    "stateId": 485,
+    "latitude": "-12.15000000",
+    "longitude": "17.28333000"
+  },
+  {
+    "id": 23894,
+    "name": "Catumbela",
+    "stateId": 435,
+    "latitude": "-12.43002000",
+    "longitude": "13.54677000"
+  },
+  {
+    "id": 24050,
+    "name": "Caxito",
+    "stateId": 434,
+    "latitude": "-8.57848000",
+    "longitude": "13.66425000"
+  },
+  {
+    "id": 24083,
+    "name": "Cazaji",
+    "stateId": 2395,
+    "latitude": "-11.06715000",
+    "longitude": "20.70148000"
+  },
+  {
+    "id": 24106,
+    "name": "Caála",
+    "stateId": 1616,
+    "latitude": "-12.85250000",
+    "longitude": "15.56056000"
+  },
+  {
+    "id": 25700,
+    "name": "Chela",
+    "stateId": 1616,
+    "latitude": "-12.30261000",
+    "longitude": "15.43358000"
+  },
+  {
+    "id": 26148,
+    "name": "Chibia",
+    "stateId": 1624,
+    "latitude": "-15.23657000",
+    "longitude": "13.88468000"
+  },
+  {
+    "id": 26214,
+    "name": "Chicomba",
+    "stateId": 1624,
+    "latitude": "-14.30788000",
+    "longitude": "14.98672000"
+  },
+  {
+    "id": 26471,
+    "name": "Chipindo",
+    "stateId": 1624,
+    "latitude": "-13.86830000",
+    "longitude": "15.73277000"
+  },
+  {
+    "id": 26557,
+    "name": "Chissamba",
+    "stateId": 485,
+    "latitude": "-12.16667000",
+    "longitude": "17.33333000"
+  },
+  {
+    "id": 34199,
+    "name": "Cuito",
+    "stateId": 485,
+    "latitude": "-12.38333000",
+    "longitude": "16.93333000"
+  },
+  {
+    "id": 34513,
+    "name": "Cuvango",
+    "stateId": 1624,
+    "latitude": "-14.27693000",
+    "longitude": "16.31475000"
+  },
+  {
+    "id": 46895,
+    "name": "Gambos",
+    "stateId": 1624,
+    "latitude": "-15.80926000",
+    "longitude": "14.07661000"
+  },
+  {
+    "id": 56287,
+    "name": "Huambo",
+    "stateId": 1616,
+    "latitude": "-12.77611000",
+    "longitude": "15.73917000"
+  },
+  {
+    "id": 56606,
+    "name": "Humpata",
+    "stateId": 1624,
+    "latitude": "-15.07250000",
+    "longitude": "13.36771000"
+  },
+  {
+    "id": 57603,
+    "name": "Icolo e Bengo",
+    "stateId": 2381,
+    "latitude": "-9.24191000",
+    "longitude": "13.73549000"
+  },
+  {
+    "id": 59898,
+    "name": "Jamba",
+    "stateId": 1624,
+    "latitude": "-14.76294000",
+    "longitude": "15.83493000"
+  },
+  {
+    "id": 73780,
+    "name": "Lobito",
+    "stateId": 435,
+    "latitude": "-12.36440000",
+    "longitude": "13.53601000"
+  },
+  {
+    "id": 74243,
+    "name": "Longonjo",
+    "stateId": 1616,
+    "latitude": "-12.90667000",
+    "longitude": "15.25333000"
+  },
+  {
+    "id": 74910,
+    "name": "Luanda",
+    "stateId": 2381,
+    "latitude": "-8.83682000",
+    "longitude": "13.23432000"
+  },
+  {
+    "id": 74917,
+    "name": "Luau",
+    "stateId": 2739,
+    "latitude": "-10.70727000",
+    "longitude": "22.22466000"
+  },
+  {
+    "id": 74923,
+    "name": "Lubango",
+    "stateId": 1624,
+    "latitude": "-14.91717000",
+    "longitude": "13.49250000"
+  },
+  {
+    "id": 74988,
+    "name": "Lucapa",
+    "stateId": 2394,
+    "latitude": "-8.68337000",
+    "longitude": "20.27045000"
+  },
+  {
+    "id": 75115,
+    "name": "Luena",
+    "stateId": 2739,
+    "latitude": "-11.78333000",
+    "longitude": "19.91667000"
+  },
+  {
+    "id": 75268,
+    "name": "Lumeje",
+    "stateId": 2739,
+    "latitude": "-11.55000000",
+    "longitude": "20.78333000"
+  },
+  {
+    "id": 75835,
+    "name": "Léua",
+    "stateId": 2739,
+    "latitude": "-11.65000000",
+    "longitude": "20.45000000"
+  },
+  {
+    "id": 77132,
+    "name": "Malanje",
+    "stateId": 2468,
+    "latitude": "-9.54015000",
+    "longitude": "16.34096000"
+  },
+  {
+    "id": 79606,
+    "name": "Matala",
+    "stateId": 1624,
+    "latitude": "-15.23967000",
+    "longitude": "15.17246000"
+  },
+  {
+    "id": 80228,
+    "name": "Mbanza Congo",
+    "stateId": 4813,
+    "latitude": "-6.26703000",
+    "longitude": "14.24010000"
+  },
+  {
+    "id": 80979,
+    "name": "Menongue",
+    "stateId": 974,
+    "latitude": "-14.65850000",
+    "longitude": "17.69099000"
+  },
+  {
+    "id": 87048,
+    "name": "N'zeto",
+    "stateId": 4813,
+    "latitude": "-7.23116000",
+    "longitude": "12.86660000"
+  },
+  {
+    "id": 91823,
+    "name": "N’dalatando",
+    "stateId": 975,
+    "latitude": "-9.29782000",
+    "longitude": "14.91162000"
+  },
+  {
+    "id": 93578,
+    "name": "Ondjiva",
+    "stateId": 979,
+    "latitude": "-17.06667000",
+    "longitude": "15.73333000"
+  },
+  {
+    "id": 105396,
+    "name": "Quibala",
+    "stateId": 976,
+    "latitude": "-10.73366000",
+    "longitude": "14.97995000"
+  },
+  {
+    "id": 105411,
+    "name": "Quilengues",
+    "stateId": 1624,
+    "latitude": "-13.99213000",
+    "longitude": "13.76705000"
+  },
+  {
+    "id": 105532,
+    "name": "Quipungo",
+    "stateId": 1624,
+    "latitude": "-15.12203000",
+    "longitude": "14.55953000"
+  },
+  {
+    "id": 118430,
+    "name": "Saurimo",
+    "stateId": 2395,
+    "latitude": "-9.66078000",
+    "longitude": "20.39155000"
+  },
+  {
+    "id": 123135,
+    "name": "Soio",
+    "stateId": 4813,
+    "latitude": "-6.13490000",
+    "longitude": "12.36894000"
+  },
+  {
+    "id": 126295,
+    "name": "Sumbe",
+    "stateId": 976,
+    "latitude": "-11.20605000",
+    "longitude": "13.84371000"
+  },
+  {
+    "id": 134403,
+    "name": "Uacu Cungo",
+    "stateId": 976,
+    "latitude": "-11.35669000",
+    "longitude": "15.11719000"
+  },
+  {
+    "id": 135692,
+    "name": "Uíge",
+    "stateId": 4546,
+    "latitude": "-7.60874000",
+    "longitude": "15.06131000"
+  }
+]

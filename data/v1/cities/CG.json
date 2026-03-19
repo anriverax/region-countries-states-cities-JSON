@@ -1,0 +1,604 @@
+[
+  {
+    "id": 1501,
+    "name": "Aketi",
+    "stateId": 381,
+    "latitude": "2.73877000",
+    "longitude": "23.78326000"
+  },
+  {
+    "id": 10184,
+    "name": "Bandundu",
+    "stateId": 2134,
+    "latitude": "-3.31687000",
+    "longitude": "17.38063000"
+  },
+  {
+    "id": 11323,
+    "name": "Basoko",
+    "stateId": 4464,
+    "latitude": "1.23909000",
+    "longitude": "23.61598000"
+  },
+  {
+    "id": 12915,
+    "name": "Beni",
+    "stateId": 2958,
+    "latitude": "0.49113000",
+    "longitude": "29.47306000"
+  },
+  {
+    "id": 15456,
+    "name": "Boende",
+    "stateId": 4465,
+    "latitude": "-0.28163000",
+    "longitude": "20.88053000"
+  },
+  {
+    "id": 15791,
+    "name": "Bolobo",
+    "stateId": 2453,
+    "latitude": "-2.15800000",
+    "longitude": "16.23249000"
+  },
+  {
+    "id": 15902,
+    "name": "Boma",
+    "stateId": 2047,
+    "latitude": "-5.85098000",
+    "longitude": "13.05364000"
+  },
+  {
+    "id": 15961,
+    "name": "Bondo",
+    "stateId": 381,
+    "latitude": "3.81461000",
+    "longitude": "23.68665000"
+  },
+  {
+    "id": 15994,
+    "name": "Bongandanga",
+    "stateId": 4194,
+    "latitude": "1.50695000",
+    "longitude": "21.07260000"
+  },
+  {
+    "id": 16537,
+    "name": "Bosobolo",
+    "stateId": 2961,
+    "latitude": "4.18980000",
+    "longitude": "19.88330000"
+  },
+  {
+    "id": 17253,
+    "name": "Brazzaville",
+    "stateId": 567,
+    "latitude": "-4.26613000",
+    "longitude": "15.28318000"
+  },
+  {
+    "id": 18832,
+    "name": "Bukama",
+    "stateId": 1544,
+    "latitude": "-9.20443000",
+    "longitude": "25.85475000"
+  },
+  {
+    "id": 18833,
+    "name": "Bukavu",
+    "stateId": 4192,
+    "latitude": "-2.49077000",
+    "longitude": "28.84281000"
+  },
+  {
+    "id": 18977,
+    "name": "Bulungu",
+    "stateId": 2134,
+    "latitude": "-4.54437000",
+    "longitude": "18.60364000"
+  },
+  {
+    "id": 18987,
+    "name": "Bumba",
+    "stateId": 2697,
+    "latitude": "2.18771000",
+    "longitude": "22.46827000"
+  },
+  {
+    "id": 19044,
+    "name": "Bunia",
+    "stateId": 1717,
+    "latitude": "1.55941000",
+    "longitude": "30.25224000"
+  },
+  {
+    "id": 19424,
+    "name": "Businga",
+    "stateId": 2961,
+    "latitude": "3.33863000",
+    "longitude": "20.88577000"
+  },
+  {
+    "id": 19467,
+    "name": "Buta",
+    "stateId": 381,
+    "latitude": "2.78582000",
+    "longitude": "24.72997000"
+  },
+  {
+    "id": 19479,
+    "name": "Butembo",
+    "stateId": 2958,
+    "latitude": "0.14164000",
+    "longitude": "29.29117000"
+  },
+  {
+    "id": 37391,
+    "name": "Djambala",
+    "stateId": 3319,
+    "latitude": "-2.54472000",
+    "longitude": "14.75333000"
+  },
+  {
+    "id": 37675,
+    "name": "Dolisie",
+    "stateId": 2920,
+    "latitude": "-4.19834000",
+    "longitude": "12.66664000"
+  },
+  {
+    "id": 43076,
+    "name": "Ewo",
+    "stateId": 984,
+    "latitude": "-0.87250000",
+    "longitude": "14.82056000"
+  },
+  {
+    "id": 46893,
+    "name": "Gamboma",
+    "stateId": 3319,
+    "latitude": "-1.87639000",
+    "longitude": "15.86444000"
+  },
+  {
+    "id": 46949,
+    "name": "Gandajika",
+    "stateId": 1900,
+    "latitude": "-6.74504000",
+    "longitude": "23.95328000"
+  },
+  {
+    "id": 47470,
+    "name": "Gbadolite",
+    "stateId": 2961,
+    "latitude": "4.27900000",
+    "longitude": "21.00284000"
+  },
+  {
+    "id": 47925,
+    "name": "Gemena",
+    "stateId": 4875,
+    "latitude": "3.25651000",
+    "longitude": "19.77234000"
+  },
+  {
+    "id": 49361,
+    "name": "Goma",
+    "stateId": 2958,
+    "latitude": "-1.67409000",
+    "longitude": "29.22845000"
+  },
+  {
+    "id": 53757,
+    "name": "Haut Katanga",
+    "stateId": 1543,
+    "latitude": "-10.46044000",
+    "longitude": "27.94322000"
+  },
+  {
+    "id": 57907,
+    "name": "Ilebo",
+    "stateId": 1898,
+    "latitude": "-4.33111000",
+    "longitude": "20.58638000"
+  },
+  {
+    "id": 58111,
+    "name": "Impfondo",
+    "stateId": 2274,
+    "latitude": "1.61804000",
+    "longitude": "18.05981000"
+  },
+  {
+    "id": 58389,
+    "name": "Inongo",
+    "stateId": 2453,
+    "latitude": "-1.92750000",
+    "longitude": "18.28810000"
+  },
+  {
+    "id": 58844,
+    "name": "Isiro",
+    "stateId": 1549,
+    "latitude": "2.77391000",
+    "longitude": "27.61603000"
+  },
+  {
+    "id": 61561,
+    "name": "Kabalo",
+    "stateId": 4302,
+    "latitude": "-6.05255000",
+    "longitude": "26.91430000"
+  },
+  {
+    "id": 61568,
+    "name": "Kabare",
+    "stateId": 4192,
+    "latitude": "-2.49682000",
+    "longitude": "28.79081000"
+  },
+  {
+    "id": 61581,
+    "name": "Kabinda",
+    "stateId": 1900,
+    "latitude": "-6.13791000",
+    "longitude": "24.48179000"
+  },
+  {
+    "id": 62279,
+    "name": "Kalemie",
+    "stateId": 4302,
+    "latitude": "-5.94749000",
+    "longitude": "29.19471000"
+  },
+  {
+    "id": 62486,
+    "name": "Kambove",
+    "stateId": 1543,
+    "latitude": "-10.87352000",
+    "longitude": "26.59746000"
+  },
+  {
+    "id": 62553,
+    "name": "Kamina",
+    "stateId": 1544,
+    "latitude": "-8.73508000",
+    "longitude": "24.99798000"
+  },
+  {
+    "id": 62582,
+    "name": "Kampene",
+    "stateId": 2497,
+    "latitude": "-3.59678000",
+    "longitude": "26.66715000"
+  },
+  {
+    "id": 63202,
+    "name": "Kasangulu",
+    "stateId": 2047,
+    "latitude": "-4.58330000",
+    "longitude": "15.16554000"
+  },
+  {
+    "id": 63257,
+    "name": "Kasongo",
+    "stateId": 2497,
+    "latitude": "-4.42741000",
+    "longitude": "26.66656000"
+  },
+  {
+    "id": 63258,
+    "name": "Kasongo-Lunda",
+    "stateId": 2130,
+    "latitude": "-6.47833000",
+    "longitude": "16.81735000"
+  },
+  {
+    "id": 63517,
+    "name": "Kayes",
+    "stateId": 543,
+    "latitude": "-4.20493000",
+    "longitude": "13.28608000"
+  },
+  {
+    "id": 64540,
+    "name": "Kikwit",
+    "stateId": 2134,
+    "latitude": "-5.04098000",
+    "longitude": "18.81619000"
+  },
+  {
+    "id": 64703,
+    "name": "Kindu",
+    "stateId": 2497,
+    "latitude": "-2.94373000",
+    "longitude": "25.92237000"
+  },
+  {
+    "id": 64843,
+    "name": "Kinkala",
+    "stateId": 3351,
+    "latitude": "-4.36139000",
+    "longitude": "14.76444000"
+  },
+  {
+    "id": 64863,
+    "name": "Kinshasa",
+    "stateId": 1999,
+    "latitude": "-4.32758000",
+    "longitude": "15.31357000"
+  },
+  {
+    "id": 64895,
+    "name": "Kipushi",
+    "stateId": 1543,
+    "latitude": "-11.76097000",
+    "longitude": "27.25135000"
+  },
+  {
+    "id": 65080,
+    "name": "Kisangani",
+    "stateId": 4464,
+    "latitude": "0.51528000",
+    "longitude": "25.19099000"
+  },
+  {
+    "id": 65892,
+    "name": "Kongolo",
+    "stateId": 4302,
+    "latitude": "-5.38532000",
+    "longitude": "27.00029000"
+  },
+  {
+    "id": 72602,
+    "name": "Libenge",
+    "stateId": 4194,
+    "latitude": "3.65332000",
+    "longitude": "18.63566000"
+  },
+  {
+    "id": 72852,
+    "name": "Likasi",
+    "stateId": 1543,
+    "latitude": "-10.98303000",
+    "longitude": "26.73840000"
+  },
+  {
+    "id": 73339,
+    "name": "Lisala",
+    "stateId": 4875,
+    "latitude": "2.15127000",
+    "longitude": "21.51672000"
+  },
+  {
+    "id": 73762,
+    "name": "Loandjili",
+    "stateId": 3342,
+    "latitude": "-4.75611000",
+    "longitude": "11.85778000"
+  },
+  {
+    "id": 73876,
+    "name": "Lodja",
+    "stateId": 3868,
+    "latitude": "-3.52105000",
+    "longitude": "23.60050000"
+  },
+  {
+    "id": 74925,
+    "name": "Lubao",
+    "stateId": 2320,
+    "latitude": "-5.38771000",
+    "longitude": "25.74885000"
+  },
+  {
+    "id": 74975,
+    "name": "Lubumbashi",
+    "stateId": 1543,
+    "latitude": "-11.66089000",
+    "longitude": "27.47938000"
+  },
+  {
+    "id": 75113,
+    "name": "Luebo",
+    "stateId": 1898,
+    "latitude": "-5.35218000",
+    "longitude": "21.42192000"
+  },
+  {
+    "id": 75218,
+    "name": "Lukolela",
+    "stateId": 4875,
+    "latitude": "-1.06046000",
+    "longitude": "17.18210000"
+  },
+  {
+    "id": 75459,
+    "name": "Lusambo",
+    "stateId": 3868,
+    "latitude": "-4.97503000",
+    "longitude": "23.44391000"
+  },
+  {
+    "id": 76352,
+    "name": "Madingou",
+    "stateId": 543,
+    "latitude": "-4.15361000",
+    "longitude": "13.55000000"
+  },
+  {
+    "id": 77016,
+    "name": "Makoua",
+    "stateId": 983,
+    "latitude": "0.00694000",
+    "longitude": "15.63333000"
+  },
+  {
+    "id": 77775,
+    "name": "Mangai",
+    "stateId": 2134,
+    "latitude": "-4.02328000",
+    "longitude": "19.53385000"
+  },
+  {
+    "id": 79425,
+    "name": "Masina",
+    "stateId": 1999,
+    "latitude": "-4.38361000",
+    "longitude": "15.39139000"
+  },
+  {
+    "id": 79597,
+    "name": "Matadi",
+    "stateId": 2047,
+    "latitude": "-5.83861000",
+    "longitude": "13.46306000"
+  },
+  {
+    "id": 80223,
+    "name": "Mbandaka",
+    "stateId": 4875,
+    "latitude": "0.04865000",
+    "longitude": "18.26034000"
+  },
+  {
+    "id": 80229,
+    "name": "Mbanza-Ngungu",
+    "stateId": 2047,
+    "latitude": "-5.25837000",
+    "longitude": "14.85838000"
+  },
+  {
+    "id": 80245,
+    "name": "Mbuji-Mayi",
+    "stateId": 1900,
+    "latitude": "-6.13603000",
+    "longitude": "23.58979000"
+  },
+  {
+    "id": 82937,
+    "name": "Moanda",
+    "stateId": 2047,
+    "latitude": "-5.92753000",
+    "longitude": "12.37148000"
+  },
+  {
+    "id": 85089,
+    "name": "Mossendjo",
+    "stateId": 2920,
+    "latitude": "-2.94968000",
+    "longitude": "12.70423000"
+  },
+  {
+    "id": 86421,
+    "name": "Mushie",
+    "stateId": 2453,
+    "latitude": "-3.01728000",
+    "longitude": "16.92238000"
+  },
+  {
+    "id": 86556,
+    "name": "Mweka",
+    "stateId": 1898,
+    "latitude": "-4.85187000",
+    "longitude": "21.55950000"
+  },
+  {
+    "id": 86559,
+    "name": "Mwene-Ditu",
+    "stateId": 2320,
+    "latitude": "-7.00906000",
+    "longitude": "23.45278000"
+  },
+  {
+    "id": 89688,
+    "name": "Nioki",
+    "stateId": 2453,
+    "latitude": "-2.72037000",
+    "longitude": "17.69001000"
+  },
+  {
+    "id": 95109,
+    "name": "Ouésso",
+    "stateId": 3864,
+    "latitude": "1.61361000",
+    "longitude": "16.05167000"
+  },
+  {
+    "id": 95164,
+    "name": "Owando",
+    "stateId": 983,
+    "latitude": "-0.48193000",
+    "longitude": "15.89988000"
+  },
+  {
+    "id": 100809,
+    "name": "Pointe-Noire",
+    "stateId": 3342,
+    "latitude": "-4.77609000",
+    "longitude": "11.86352000"
+  },
+  {
+    "id": 112249,
+    "name": "Sake",
+    "stateId": 2958,
+    "latitude": "-1.57386000",
+    "longitude": "29.04339000"
+  },
+  {
+    "id": 121628,
+    "name": "Sibiti",
+    "stateId": 2412,
+    "latitude": "-3.68192000",
+    "longitude": "13.34985000"
+  },
+  {
+    "id": 127672,
+    "name": "Sémbé",
+    "stateId": 3864,
+    "latitude": "1.64806000",
+    "longitude": "14.58056000"
+  },
+  {
+    "id": 133369,
+    "name": "Tshela",
+    "stateId": 2047,
+    "latitude": "-4.99707000",
+    "longitude": "12.94840000"
+  },
+  {
+    "id": 133370,
+    "name": "Tshikapa",
+    "stateId": 1898,
+    "latitude": "-6.41621000",
+    "longitude": "20.79995000"
+  },
+  {
+    "id": 135640,
+    "name": "Uvira",
+    "stateId": 4192,
+    "latitude": "-3.39534000",
+    "longitude": "29.13779000"
+  },
+  {
+    "id": 140837,
+    "name": "Wamba",
+    "stateId": 1549,
+    "latitude": "2.14838000",
+    "longitude": "27.99466000"
+  },
+  {
+    "id": 141320,
+    "name": "Watsa",
+    "stateId": 1549,
+    "latitude": "3.03716000",
+    "longitude": "29.53551000"
+  },
+  {
+    "id": 144431,
+    "name": "Yangambi",
+    "stateId": 4464,
+    "latitude": "0.76755000",
+    "longitude": "24.43973000"
+  }
+]

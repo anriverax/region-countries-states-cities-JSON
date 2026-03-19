@@ -1,0 +1,429 @@
+[
+  {
+    "id": 9537,
+    "name": "Balaka",
+    "stateId": 4149,
+    "latitude": "-14.97928000",
+    "longitude": "34.95575000"
+  },
+  {
+    "id": 9538,
+    "name": "Balaka District",
+    "stateId": 4149,
+    "latitude": "-15.04839000",
+    "longitude": "35.05910000"
+  },
+  {
+    "id": 15007,
+    "name": "Blantyre",
+    "stateId": 4149,
+    "latitude": "-15.78499000",
+    "longitude": "35.00854000"
+  },
+  {
+    "id": 15009,
+    "name": "Blantyre District",
+    "stateId": 4149,
+    "latitude": "-15.64732000",
+    "longitude": "34.93956000"
+  },
+  {
+    "id": 26298,
+    "name": "Chikwawa",
+    "stateId": 4149,
+    "latitude": "-16.03352000",
+    "longitude": "34.80091000"
+  },
+  {
+    "id": 26299,
+    "name": "Chikwawa District",
+    "stateId": 4149,
+    "latitude": "-16.16667000",
+    "longitude": "34.75000000"
+  },
+  {
+    "id": 26479,
+    "name": "Chipoka",
+    "stateId": 783,
+    "latitude": "-13.99329000",
+    "longitude": "34.51566000"
+  },
+  {
+    "id": 26507,
+    "name": "Chiradzulu",
+    "stateId": 4149,
+    "latitude": "-15.67461000",
+    "longitude": "35.14071000"
+  },
+  {
+    "id": 26508,
+    "name": "Chiradzulu District",
+    "stateId": 4149,
+    "latitude": "-15.75268000",
+    "longitude": "35.21576000"
+  },
+  {
+    "id": 26580,
+    "name": "Chitipa",
+    "stateId": 3033,
+    "latitude": "-9.70237000",
+    "longitude": "33.26969000"
+  },
+  {
+    "id": 26581,
+    "name": "Chitipa District",
+    "stateId": 3033,
+    "latitude": "-9.92727000",
+    "longitude": "33.42541000"
+  },
+  {
+    "id": 35852,
+    "name": "Dedza",
+    "stateId": 783,
+    "latitude": "-14.37790000",
+    "longitude": "34.33322000"
+  },
+  {
+    "id": 35853,
+    "name": "Dedza District",
+    "stateId": 783,
+    "latitude": "-14.26273000",
+    "longitude": "34.18559000"
+  },
+  {
+    "id": 38308,
+    "name": "Dowa",
+    "stateId": 783,
+    "latitude": "-13.65399000",
+    "longitude": "33.93754000"
+  },
+  {
+    "id": 38309,
+    "name": "Dowa District",
+    "stateId": 783,
+    "latitude": "-13.60098000",
+    "longitude": "33.82378000"
+  },
+  {
+    "id": 63130,
+    "name": "Karonga",
+    "stateId": 3033,
+    "latitude": "-9.93333000",
+    "longitude": "33.93333000"
+  },
+  {
+    "id": 63131,
+    "name": "Karonga District",
+    "stateId": 3033,
+    "latitude": "-10.11153000",
+    "longitude": "33.88151000"
+  },
+  {
+    "id": 63301,
+    "name": "Kasungu",
+    "stateId": 783,
+    "latitude": "-13.03333000",
+    "longitude": "33.48333000"
+  },
+  {
+    "id": 63302,
+    "name": "Kasungu District",
+    "stateId": 783,
+    "latitude": "-13.00000000",
+    "longitude": "33.41667000"
+  },
+  {
+    "id": 72861,
+    "name": "Likoma District",
+    "stateId": 3033,
+    "latitude": "-12.06065000",
+    "longitude": "34.73608000"
+  },
+  {
+    "id": 72891,
+    "name": "Lilongwe",
+    "stateId": 783,
+    "latitude": "-13.96692000",
+    "longitude": "33.78725000"
+  },
+  {
+    "id": 72892,
+    "name": "Lilongwe District",
+    "stateId": 783,
+    "latitude": "-14.01962000",
+    "longitude": "33.68407000"
+  },
+  {
+    "id": 73563,
+    "name": "Livingstonia",
+    "stateId": 3033,
+    "latitude": "-10.60602000",
+    "longitude": "34.10628000"
+  },
+  {
+    "id": 73585,
+    "name": "Liwonde",
+    "stateId": 4149,
+    "latitude": "-15.06665000",
+    "longitude": "35.22543000"
+  },
+  {
+    "id": 75036,
+    "name": "Luchenza",
+    "stateId": 4149,
+    "latitude": "-16.00693000",
+    "longitude": "35.30947000"
+  },
+  {
+    "id": 76202,
+    "name": "Machinga",
+    "stateId": 4149,
+    "latitude": "-15.16849000",
+    "longitude": "35.30002000"
+  },
+  {
+    "id": 76203,
+    "name": "Machinga District",
+    "stateId": 4149,
+    "latitude": "-14.94583000",
+    "longitude": "35.57367000"
+  },
+  {
+    "id": 77816,
+    "name": "Mangochi",
+    "stateId": 4149,
+    "latitude": "-14.47815000",
+    "longitude": "35.26448000"
+  },
+  {
+    "id": 77817,
+    "name": "Mangochi District",
+    "stateId": 4149,
+    "latitude": "-14.39296000",
+    "longitude": "35.34658000"
+  },
+  {
+    "id": 80361,
+    "name": "Mchinji",
+    "stateId": 783,
+    "latitude": "-13.79841000",
+    "longitude": "32.88019000"
+  },
+  {
+    "id": 80362,
+    "name": "Mchinji District",
+    "stateId": 783,
+    "latitude": "-13.76230000",
+    "longitude": "33.07998000"
+  },
+  {
+    "id": 83555,
+    "name": "Monkey Bay",
+    "stateId": 4149,
+    "latitude": "-14.08239000",
+    "longitude": "34.91652000"
+  },
+  {
+    "id": 85562,
+    "name": "Mponela",
+    "stateId": 783,
+    "latitude": "-13.53194000",
+    "longitude": "33.74008000"
+  },
+  {
+    "id": 85799,
+    "name": "Mulanje",
+    "stateId": 4149,
+    "latitude": "-16.03163000",
+    "longitude": "35.50000000"
+  },
+  {
+    "id": 85800,
+    "name": "Mulanje District",
+    "stateId": 4149,
+    "latitude": "-15.93440000",
+    "longitude": "35.49990000"
+  },
+  {
+    "id": 86551,
+    "name": "Mwanza",
+    "stateId": 4149,
+    "latitude": "-15.60262000",
+    "longitude": "34.52479000"
+  },
+  {
+    "id": 86553,
+    "name": "Mwanza District",
+    "stateId": 4149,
+    "latitude": "-15.63337000",
+    "longitude": "34.51682000"
+  },
+  {
+    "id": 86645,
+    "name": "Mzimba",
+    "stateId": 3033,
+    "latitude": "-11.90000000",
+    "longitude": "33.60000000"
+  },
+  {
+    "id": 86646,
+    "name": "Mzimba District",
+    "stateId": 3033,
+    "latitude": "-11.85428000",
+    "longitude": "33.60778000"
+  },
+  {
+    "id": 86647,
+    "name": "Mzuzu",
+    "stateId": 3033,
+    "latitude": "-11.46556000",
+    "longitude": "34.02071000"
+  },
+  {
+    "id": 88391,
+    "name": "Neno District",
+    "stateId": 4149,
+    "latitude": "-15.45051000",
+    "longitude": "34.70034000"
+  },
+  {
+    "id": 89854,
+    "name": "Nkhata Bay",
+    "stateId": 3033,
+    "latitude": "-11.60659000",
+    "longitude": "34.29073000"
+  },
+  {
+    "id": 89855,
+    "name": "Nkhata Bay District",
+    "stateId": 3033,
+    "latitude": "-11.65304000",
+    "longitude": "34.05322000"
+  },
+  {
+    "id": 89856,
+    "name": "Nkhotakota",
+    "stateId": 783,
+    "latitude": "-12.92744000",
+    "longitude": "34.29614000"
+  },
+  {
+    "id": 89857,
+    "name": "Nkhotakota District",
+    "stateId": 783,
+    "latitude": "-12.80417000",
+    "longitude": "34.08298000"
+  },
+  {
+    "id": 91284,
+    "name": "Nsanje",
+    "stateId": 4149,
+    "latitude": "-16.91995000",
+    "longitude": "35.26199000"
+  },
+  {
+    "id": 91285,
+    "name": "Nsanje District",
+    "stateId": 4149,
+    "latitude": "-16.75000000",
+    "longitude": "35.16667000"
+  },
+  {
+    "id": 91293,
+    "name": "Ntcheu",
+    "stateId": 783,
+    "latitude": "-14.82027000",
+    "longitude": "34.63586000"
+  },
+  {
+    "id": 91294,
+    "name": "Ntcheu District",
+    "stateId": 783,
+    "latitude": "-14.75000000",
+    "longitude": "34.75000000"
+  },
+  {
+    "id": 91295,
+    "name": "Ntchisi",
+    "stateId": 783,
+    "latitude": "-13.52775000",
+    "longitude": "33.91490000"
+  },
+  {
+    "id": 91296,
+    "name": "Ntchisi District",
+    "stateId": 783,
+    "latitude": "-13.29574000",
+    "longitude": "33.90798000"
+  },
+  {
+    "id": 98806,
+    "name": "Phalombe",
+    "stateId": 4149,
+    "latitude": "-15.80635000",
+    "longitude": "35.65067000"
+  },
+  {
+    "id": 98807,
+    "name": "Phalombe District",
+    "stateId": 4149,
+    "latitude": "-15.66667000",
+    "longitude": "35.66667000"
+  },
+  {
+    "id": 109880,
+    "name": "Rumphi",
+    "stateId": 3033,
+    "latitude": "-11.01863000",
+    "longitude": "33.85746000"
+  },
+  {
+    "id": 109881,
+    "name": "Rumphi District",
+    "stateId": 3033,
+    "latitude": "-10.80292000",
+    "longitude": "33.80524000"
+  },
+  {
+    "id": 112486,
+    "name": "Salima",
+    "stateId": 783,
+    "latitude": "-13.78040000",
+    "longitude": "34.45870000"
+  },
+  {
+    "id": 112487,
+    "name": "Salima District",
+    "stateId": 783,
+    "latitude": "-13.71959000",
+    "longitude": "34.40184000"
+  },
+  {
+    "id": 130759,
+    "name": "Thyolo",
+    "stateId": 4149,
+    "latitude": "-16.06775000",
+    "longitude": "35.14046000"
+  },
+  {
+    "id": 130760,
+    "name": "Thyolo District",
+    "stateId": 4149,
+    "latitude": "-16.10583000",
+    "longitude": "35.15060000"
+  },
+  {
+    "id": 146267,
+    "name": "Zomba",
+    "stateId": 4149,
+    "latitude": "-15.38596000",
+    "longitude": "35.31880000"
+  },
+  {
+    "id": 146268,
+    "name": "Zomba District",
+    "stateId": 4149,
+    "latitude": "-15.43007000",
+    "longitude": "35.41829000"
+  }
+]

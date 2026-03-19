@@ -1,0 +1,212 @@
+[
+  {
+    "id": 66,
+    "name": "Abadan",
+    "stateId": 54,
+    "latitude": "38.05415000",
+    "longitude": "58.19721000"
+  },
+  {
+    "id": 1495,
+    "name": "Akdepe",
+    "stateId": 1029,
+    "latitude": "42.05513000",
+    "longitude": "59.37877000"
+  },
+  {
+    "id": 5421,
+    "name": "Annau",
+    "stateId": 54,
+    "latitude": "37.88754000",
+    "longitude": "58.51596000"
+  },
+  {
+    "id": 7063,
+    "name": "Arçabil",
+    "stateId": 54,
+    "latitude": "37.91500000",
+    "longitude": "58.08987000"
+  },
+  {
+    "id": 7279,
+    "name": "Ashgabat",
+    "stateId": 257,
+    "latitude": "37.95000000",
+    "longitude": "58.38333000"
+  },
+  {
+    "id": 7582,
+    "name": "Atamyrat",
+    "stateId": 2235,
+    "latitude": "37.83573000",
+    "longitude": "65.21058000"
+  },
+  {
+    "id": 9243,
+    "name": "Baharly",
+    "stateId": 54,
+    "latitude": "38.43624000",
+    "longitude": "57.43158000"
+  },
+  {
+    "id": 9763,
+    "name": "Balkanabat",
+    "stateId": 336,
+    "latitude": "39.51075000",
+    "longitude": "54.36713000"
+  },
+  {
+    "id": 11768,
+    "name": "Bayramaly",
+    "stateId": 2539,
+    "latitude": "37.61852000",
+    "longitude": "62.16715000"
+  },
+  {
+    "id": 13170,
+    "name": "Bereket",
+    "stateId": 336,
+    "latitude": "39.24463000",
+    "longitude": "55.51536000"
+  },
+  {
+    "id": 15709,
+    "name": "Boldumsaz",
+    "stateId": 1029,
+    "latitude": "42.12824000",
+    "longitude": "59.67101000"
+  },
+  {
+    "id": 35673,
+    "name": "Daşoguz",
+    "stateId": 1029,
+    "latitude": "41.83625000",
+    "longitude": "59.96661000"
+  },
+  {
+    "id": 43510,
+    "name": "Farap",
+    "stateId": 2235,
+    "latitude": "39.17037000",
+    "longitude": "63.61165000"
+  },
+  {
+    "id": 47455,
+    "name": "Gazojak",
+    "stateId": 2235,
+    "latitude": "41.18746000",
+    "longitude": "61.40360000"
+  },
+  {
+    "id": 49889,
+    "name": "Gowurdak",
+    "stateId": 2235,
+    "latitude": "37.81244000",
+    "longitude": "66.04656000"
+  },
+  {
+    "id": 51895,
+    "name": "Gumdag",
+    "stateId": 336,
+    "latitude": "39.20611000",
+    "longitude": "54.59056000"
+  },
+  {
+    "id": 62180,
+    "name": "Kaka",
+    "stateId": 54,
+    "latitude": "37.34821000",
+    "longitude": "59.61431000"
+  },
+  {
+    "id": 67737,
+    "name": "Köneürgench",
+    "stateId": 1029,
+    "latitude": "42.32773000",
+    "longitude": "59.15442000"
+  },
+  {
+    "id": 76671,
+    "name": "Magtymguly",
+    "stateId": 336,
+    "latitude": "38.43749000",
+    "longitude": "56.28081000"
+  },
+  {
+    "id": 79280,
+    "name": "Mary",
+    "stateId": 2539,
+    "latitude": "37.59378000",
+    "longitude": "61.83031000"
+  },
+  {
+    "id": 118624,
+    "name": "Saýat",
+    "stateId": 2235,
+    "latitude": "38.78393000",
+    "longitude": "63.88035000"
+  },
+  {
+    "id": 119953,
+    "name": "Serdar",
+    "stateId": 336,
+    "latitude": "38.97644000",
+    "longitude": "56.27575000"
+  },
+  {
+    "id": 119993,
+    "name": "Serhetabat",
+    "stateId": 2539,
+    "latitude": "35.27992000",
+    "longitude": "62.34383000"
+  },
+  {
+    "id": 120348,
+    "name": "Seydi",
+    "stateId": 2539,
+    "latitude": "39.48160000",
+    "longitude": "62.91374000"
+  },
+  {
+    "id": 128165,
+    "name": "Tagta",
+    "stateId": 1029,
+    "latitude": "41.65041000",
+    "longitude": "59.91640000"
+  },
+  {
+    "id": 129614,
+    "name": "Tejen",
+    "stateId": 54,
+    "latitude": "37.38338000",
+    "longitude": "60.50545000"
+  },
+  {
+    "id": 134307,
+    "name": "Türkmenabat",
+    "stateId": 2235,
+    "latitude": "39.07328000",
+    "longitude": "63.57861000"
+  },
+  {
+    "id": 134308,
+    "name": "Türkmenbaşy",
+    "stateId": 336,
+    "latitude": "40.02216000",
+    "longitude": "52.95517000"
+  },
+  {
+    "id": 144946,
+    "name": "Yolöten",
+    "stateId": 2539,
+    "latitude": "37.29886000",
+    "longitude": "62.35975000"
+  },
+  {
+    "id": 145218,
+    "name": "Yylanly",
+    "stateId": 1029,
+    "latitude": "41.83333000",
+    "longitude": "59.65000000"
+  }
+]

@@ -1,0 +1,2606 @@
+[
+  {
+    "id": 138,
+    "name": "Abbeyfeale",
+    "stateId": 2769,
+    "latitude": "52.38139000",
+    "longitude": "-9.30250000"
+  },
+  {
+    "id": 139,
+    "name": "Abbeyleix",
+    "stateId": 2239,
+    "latitude": "52.91331000",
+    "longitude": "-7.34456000"
+  },
+  {
+    "id": 681,
+    "name": "Adare",
+    "stateId": 2769,
+    "latitude": "52.56194000",
+    "longitude": "-8.79556000"
+  },
+  {
+    "id": 963,
+    "name": "Aghada",
+    "stateId": 2769,
+    "latitude": "51.83917000",
+    "longitude": "-8.21222000"
+  },
+  {
+    "id": 4951,
+    "name": "An Cabhán",
+    "stateId": 4511,
+    "latitude": "53.91667000",
+    "longitude": "-7.25000000"
+  },
+  {
+    "id": 4952,
+    "name": "An Clár",
+    "stateId": 2769,
+    "latitude": "52.83333000",
+    "longitude": "-9.00000000"
+  },
+  {
+    "id": 4953,
+    "name": "An Iarmhí",
+    "stateId": 2239,
+    "latitude": "53.50000000",
+    "longitude": "-7.50000000"
+  },
+  {
+    "id": 4954,
+    "name": "An Longfort",
+    "stateId": 2239,
+    "latitude": "53.66667000",
+    "longitude": "-7.75000000"
+  },
+  {
+    "id": 4955,
+    "name": "An Mhí",
+    "stateId": 2239,
+    "latitude": "53.66667000",
+    "longitude": "-6.66667000"
+  },
+  {
+    "id": 4956,
+    "name": "An Muileann gCearr",
+    "stateId": 2239,
+    "latitude": "53.53333000",
+    "longitude": "-7.35000000"
+  },
+  {
+    "id": 4962,
+    "name": "An Ros",
+    "stateId": 2239,
+    "latitude": "53.52424000",
+    "longitude": "-6.10497000"
+  },
+  {
+    "id": 5406,
+    "name": "Annacotty",
+    "stateId": 2769,
+    "latitude": "52.66768000",
+    "longitude": "-8.53121000"
+  },
+  {
+    "id": 6327,
+    "name": "Ardee",
+    "stateId": 2239,
+    "latitude": "53.85972000",
+    "longitude": "-6.54056000"
+  },
+  {
+    "id": 6349,
+    "name": "Ardnacrusha",
+    "stateId": 2769,
+    "latitude": "52.70908000",
+    "longitude": "-8.61431000"
+  },
+  {
+    "id": 6609,
+    "name": "Arklow",
+    "stateId": 2239,
+    "latitude": "52.79306000",
+    "longitude": "-6.14139000"
+  },
+  {
+    "id": 6935,
+    "name": "Artane",
+    "stateId": 2239,
+    "latitude": "53.38712000",
+    "longitude": "-6.21380000"
+  },
+  {
+    "id": 7247,
+    "name": "Ashbourne",
+    "stateId": 2239,
+    "latitude": "53.51163000",
+    "longitude": "-6.39821000"
+  },
+  {
+    "id": 7275,
+    "name": "Ashford",
+    "stateId": 2239,
+    "latitude": "53.00833000",
+    "longitude": "-6.11139000"
+  },
+  {
+    "id": 7369,
+    "name": "Askeaton",
+    "stateId": 2769,
+    "latitude": "52.59972000",
+    "longitude": "-8.97556000"
+  },
+  {
+    "id": 7642,
+    "name": "Athboy",
+    "stateId": 2239,
+    "latitude": "53.62327000",
+    "longitude": "-6.91434000"
+  },
+  {
+    "id": 7645,
+    "name": "Athenry",
+    "stateId": 935,
+    "latitude": "53.29639000",
+    "longitude": "-8.74306000"
+  },
+  {
+    "id": 7663,
+    "name": "Athgarvan",
+    "stateId": 2239,
+    "latitude": "53.15229000",
+    "longitude": "-6.78173000"
+  },
+  {
+    "id": 7668,
+    "name": "Athlone",
+    "stateId": 2239,
+    "latitude": "53.43333000",
+    "longitude": "-7.95000000"
+  },
+  {
+    "id": 7672,
+    "name": "Athy",
+    "stateId": 2239,
+    "latitude": "52.99139000",
+    "longitude": "-6.98028000"
+  },
+  {
+    "id": 7958,
+    "name": "Aughrim",
+    "stateId": 2239,
+    "latitude": "52.85333000",
+    "longitude": "-6.32750000"
+  },
+  {
+    "id": 9123,
+    "name": "Bagenalstown",
+    "stateId": 2239,
+    "latitude": "52.70031000",
+    "longitude": "-6.96181000"
+  },
+  {
+    "id": 9335,
+    "name": "Bailieborough",
+    "stateId": 4511,
+    "latitude": "53.91667000",
+    "longitude": "-6.96667000"
+  },
+  {
+    "id": 9550,
+    "name": "Balally",
+    "stateId": 2239,
+    "latitude": "53.27504000",
+    "longitude": "-6.23594000"
+  },
+  {
+    "id": 9629,
+    "name": "Balbriggan",
+    "stateId": 2239,
+    "latitude": "53.60846000",
+    "longitude": "-6.18310000"
+  },
+  {
+    "id": 9660,
+    "name": "Baldoyle",
+    "stateId": 2239,
+    "latitude": "53.39972000",
+    "longitude": "-6.12583000"
+  },
+  {
+    "id": 9771,
+    "name": "Ballaghaderreen",
+    "stateId": 935,
+    "latitude": "53.90000000",
+    "longitude": "-8.58333000"
+  },
+  {
+    "id": 9807,
+    "name": "Ballina",
+    "stateId": 935,
+    "latitude": "54.11667000",
+    "longitude": "-9.16667000"
+  },
+  {
+    "id": 9808,
+    "name": "Ballina",
+    "stateId": 2769,
+    "latitude": "52.80778000",
+    "longitude": "-8.43556000"
+  },
+  {
+    "id": 9810,
+    "name": "Ballinasloe",
+    "stateId": 935,
+    "latitude": "53.32750000",
+    "longitude": "-8.21944000"
+  },
+  {
+    "id": 9813,
+    "name": "Ballinroad",
+    "stateId": 2239,
+    "latitude": "52.51789000",
+    "longitude": "-6.40619000"
+  },
+  {
+    "id": 9814,
+    "name": "Ballinrobe",
+    "stateId": 935,
+    "latitude": "53.63333000",
+    "longitude": "-9.23333000"
+  },
+  {
+    "id": 9815,
+    "name": "Ballinteer",
+    "stateId": 2239,
+    "latitude": "53.27409000",
+    "longitude": "-6.25397000"
+  },
+  {
+    "id": 9817,
+    "name": "Ballisodare",
+    "stateId": 935,
+    "latitude": "54.21110000",
+    "longitude": "-8.50865000"
+  },
+  {
+    "id": 9819,
+    "name": "Ballivor",
+    "stateId": 2239,
+    "latitude": "53.53167000",
+    "longitude": "-6.96111000"
+  },
+  {
+    "id": 9832,
+    "name": "Ballyboden",
+    "stateId": 2239,
+    "latitude": "53.28056000",
+    "longitude": "-6.31639000"
+  },
+  {
+    "id": 9833,
+    "name": "Ballybofey",
+    "stateId": 4511,
+    "latitude": "54.80000000",
+    "longitude": "-7.78333000"
+  },
+  {
+    "id": 9834,
+    "name": "Ballybunnion",
+    "stateId": 2769,
+    "latitude": "52.51108000",
+    "longitude": "-9.67097000"
+  },
+  {
+    "id": 9837,
+    "name": "Ballyconnell",
+    "stateId": 4511,
+    "latitude": "54.11667000",
+    "longitude": "-7.58333000"
+  },
+  {
+    "id": 9838,
+    "name": "Ballyfermot",
+    "stateId": 2239,
+    "latitude": "53.34283000",
+    "longitude": "-6.35480000"
+  },
+  {
+    "id": 9839,
+    "name": "Ballygerry",
+    "stateId": 2239,
+    "latitude": "52.24917000",
+    "longitude": "-6.35739000"
+  },
+  {
+    "id": 9841,
+    "name": "Ballyhaunis",
+    "stateId": 935,
+    "latitude": "53.76667000",
+    "longitude": "-8.76667000"
+  },
+  {
+    "id": 9842,
+    "name": "Ballyjamesduff",
+    "stateId": 4511,
+    "latitude": "53.86528000",
+    "longitude": "-7.20278000"
+  },
+  {
+    "id": 9844,
+    "name": "Ballylinan",
+    "stateId": 2239,
+    "latitude": "52.94497000",
+    "longitude": "-7.04073000"
+  },
+  {
+    "id": 9845,
+    "name": "Ballymahon",
+    "stateId": 2239,
+    "latitude": "53.56667000",
+    "longitude": "-7.76667000"
+  },
+  {
+    "id": 9848,
+    "name": "Ballymote",
+    "stateId": 935,
+    "latitude": "54.08333000",
+    "longitude": "-8.51667000"
+  },
+  {
+    "id": 9849,
+    "name": "Ballymun",
+    "stateId": 2239,
+    "latitude": "53.39807000",
+    "longitude": "-6.26693000"
+  },
+  {
+    "id": 9852,
+    "name": "Ballyragget",
+    "stateId": 2239,
+    "latitude": "52.78889000",
+    "longitude": "-7.33028000"
+  },
+  {
+    "id": 9853,
+    "name": "Ballyshannon",
+    "stateId": 4511,
+    "latitude": "54.50000000",
+    "longitude": "-8.18333000"
+  },
+  {
+    "id": 9907,
+    "name": "Balrothery",
+    "stateId": 2239,
+    "latitude": "53.58828000",
+    "longitude": "-6.18728000"
+  },
+  {
+    "id": 9941,
+    "name": "Baltinglass",
+    "stateId": 2239,
+    "latitude": "52.93722000",
+    "longitude": "-6.70917000"
+  },
+  {
+    "id": 10092,
+    "name": "Banagher",
+    "stateId": 2239,
+    "latitude": "53.18861000",
+    "longitude": "-7.98667000"
+  },
+  {
+    "id": 10180,
+    "name": "Bandon",
+    "stateId": 2769,
+    "latitude": "51.74694000",
+    "longitude": "-8.74250000"
+  },
+  {
+    "id": 10417,
+    "name": "Bantry",
+    "stateId": 2769,
+    "latitude": "51.68333000",
+    "longitude": "-9.45000000"
+  },
+  {
+    "id": 11778,
+    "name": "Bayside",
+    "stateId": 2239,
+    "latitude": "53.38895000",
+    "longitude": "-6.14041000"
+  },
+  {
+    "id": 11919,
+    "name": "Bearna",
+    "stateId": 935,
+    "latitude": "53.25194000",
+    "longitude": "-9.14972000"
+  },
+  {
+    "id": 11982,
+    "name": "Beaumont",
+    "stateId": 2239,
+    "latitude": "53.38721000",
+    "longitude": "-6.22713000"
+  },
+  {
+    "id": 12663,
+    "name": "Belmullet",
+    "stateId": 935,
+    "latitude": "54.22500000",
+    "longitude": "-9.99083000"
+  },
+  {
+    "id": 12739,
+    "name": "Belturbet",
+    "stateId": 4511,
+    "latitude": "54.10000000",
+    "longitude": "-7.45000000"
+  },
+  {
+    "id": 14606,
+    "name": "Birr",
+    "stateId": 2239,
+    "latitude": "53.09139000",
+    "longitude": "-7.91333000"
+  },
+  {
+    "id": 14887,
+    "name": "Blackrock",
+    "stateId": 2239,
+    "latitude": "53.30150000",
+    "longitude": "-6.17780000"
+  },
+  {
+    "id": 14981,
+    "name": "Blanchardstown",
+    "stateId": 2239,
+    "latitude": "53.38806000",
+    "longitude": "-6.37556000"
+  },
+  {
+    "id": 15014,
+    "name": "Blarney",
+    "stateId": 2769,
+    "latitude": "51.93333000",
+    "longitude": "-8.56667000"
+  },
+  {
+    "id": 15064,
+    "name": "Blessington",
+    "stateId": 2239,
+    "latitude": "53.17000000",
+    "longitude": "-6.53250000"
+  },
+  {
+    "id": 16062,
+    "name": "Bonnybrook",
+    "stateId": 2239,
+    "latitude": "53.39835000",
+    "longitude": "-6.20749000"
+  },
+  {
+    "id": 16138,
+    "name": "Booterstown",
+    "stateId": 2239,
+    "latitude": "53.30447000",
+    "longitude": "-6.19985000"
+  },
+  {
+    "id": 16908,
+    "name": "Boyle",
+    "stateId": 935,
+    "latitude": "53.96667000",
+    "longitude": "-8.30000000"
+  },
+  {
+    "id": 17232,
+    "name": "Bray",
+    "stateId": 2239,
+    "latitude": "53.20278000",
+    "longitude": "-6.09833000"
+  },
+  {
+    "id": 18998,
+    "name": "Bunclody",
+    "stateId": 2239,
+    "latitude": "52.65530000",
+    "longitude": "-6.65359000"
+  },
+  {
+    "id": 19000,
+    "name": "Buncrana",
+    "stateId": 4511,
+    "latitude": "55.13333000",
+    "longitude": "-7.45000000"
+  },
+  {
+    "id": 19019,
+    "name": "Bundoran",
+    "stateId": 4511,
+    "latitude": "54.47782000",
+    "longitude": "-8.28094000"
+  },
+  {
+    "id": 20240,
+    "name": "Cabinteely",
+    "stateId": 2239,
+    "latitude": "53.26973000",
+    "longitude": "-6.16058000"
+  },
+  {
+    "id": 20274,
+    "name": "Cabra",
+    "stateId": 2239,
+    "latitude": "53.36694000",
+    "longitude": "-6.29444000"
+  },
+  {
+    "id": 20506,
+    "name": "Caherconlish",
+    "stateId": 2769,
+    "latitude": "52.59361000",
+    "longitude": "-8.47028000"
+  },
+  {
+    "id": 20507,
+    "name": "Cahersiveen",
+    "stateId": 2769,
+    "latitude": "51.94861000",
+    "longitude": "-10.22222000"
+  },
+  {
+    "id": 20508,
+    "name": "Cahir",
+    "stateId": 2769,
+    "latitude": "52.37694000",
+    "longitude": "-7.92167000"
+  },
+  {
+    "id": 20899,
+    "name": "Callan",
+    "stateId": 2239,
+    "latitude": "52.54500000",
+    "longitude": "-7.39111000"
+  },
+  {
+    "id": 22491,
+    "name": "Carlingford",
+    "stateId": 2239,
+    "latitude": "54.04000000",
+    "longitude": "-6.18833000"
+  },
+  {
+    "id": 22514,
+    "name": "Carlow",
+    "stateId": 2239,
+    "latitude": "52.84083000",
+    "longitude": "-6.92611000"
+  },
+  {
+    "id": 22606,
+    "name": "Carndonagh",
+    "stateId": 4511,
+    "latitude": "55.25000000",
+    "longitude": "-7.26667000"
+  },
+  {
+    "id": 22615,
+    "name": "Carnew",
+    "stateId": 2239,
+    "latitude": "52.70806000",
+    "longitude": "-6.49444000"
+  },
+  {
+    "id": 22745,
+    "name": "Carrick-on-Shannon",
+    "stateId": 935,
+    "latitude": "53.94694000",
+    "longitude": "-8.09000000"
+  },
+  {
+    "id": 22746,
+    "name": "Carrick-on-Suir",
+    "stateId": 2769,
+    "latitude": "52.34917000",
+    "longitude": "-7.41306000"
+  },
+  {
+    "id": 22748,
+    "name": "Carrickmacross",
+    "stateId": 4511,
+    "latitude": "53.97278000",
+    "longitude": "-6.71889000"
+  },
+  {
+    "id": 22754,
+    "name": "Carrigaline",
+    "stateId": 2769,
+    "latitude": "51.81167000",
+    "longitude": "-8.39861000"
+  },
+  {
+    "id": 22755,
+    "name": "Carrigtwohill",
+    "stateId": 2769,
+    "latitude": "51.90833000",
+    "longitude": "-8.26333000"
+  },
+  {
+    "id": 23149,
+    "name": "Cashel",
+    "stateId": 2769,
+    "latitude": "52.51583000",
+    "longitude": "-7.88556000"
+  },
+  {
+    "id": 23658,
+    "name": "Castlebar",
+    "stateId": 935,
+    "latitude": "53.85000000",
+    "longitude": "-9.30000000"
+  },
+  {
+    "id": 23659,
+    "name": "Castlebellingham",
+    "stateId": 2239,
+    "latitude": "53.90083000",
+    "longitude": "-6.39028000"
+  },
+  {
+    "id": 23660,
+    "name": "Castleblayney",
+    "stateId": 4511,
+    "latitude": "54.11667000",
+    "longitude": "-6.73333000"
+  },
+  {
+    "id": 23661,
+    "name": "Castlebridge",
+    "stateId": 2239,
+    "latitude": "52.38639000",
+    "longitude": "-6.44944000"
+  },
+  {
+    "id": 23662,
+    "name": "Castlecomer",
+    "stateId": 2239,
+    "latitude": "52.80611000",
+    "longitude": "-7.21056000"
+  },
+  {
+    "id": 23663,
+    "name": "Castleconnell",
+    "stateId": 2769,
+    "latitude": "52.71389000",
+    "longitude": "-8.49944000"
+  },
+  {
+    "id": 23667,
+    "name": "Castledermot",
+    "stateId": 2239,
+    "latitude": "52.90889000",
+    "longitude": "-6.84222000"
+  },
+  {
+    "id": 23670,
+    "name": "Castleisland",
+    "stateId": 2769,
+    "latitude": "52.23333000",
+    "longitude": "-9.46667000"
+  },
+  {
+    "id": 23671,
+    "name": "Castleknock",
+    "stateId": 2239,
+    "latitude": "53.37483000",
+    "longitude": "-6.36336000"
+  },
+  {
+    "id": 23673,
+    "name": "Castlemartyr",
+    "stateId": 2769,
+    "latitude": "51.91028000",
+    "longitude": "-8.05389000"
+  },
+  {
+    "id": 23675,
+    "name": "Castlepollard",
+    "stateId": 2239,
+    "latitude": "53.67935000",
+    "longitude": "-7.29736000"
+  },
+  {
+    "id": 23676,
+    "name": "Castlerea",
+    "stateId": 935,
+    "latitude": "53.76667000",
+    "longitude": "-8.50000000"
+  },
+  {
+    "id": 23685,
+    "name": "Castletown",
+    "stateId": 2239,
+    "latitude": "52.72306000",
+    "longitude": "-6.18944000"
+  },
+  {
+    "id": 23982,
+    "name": "Cavan",
+    "stateId": 4511,
+    "latitude": "53.99083000",
+    "longitude": "-7.36056000"
+  },
+  {
+    "id": 24308,
+    "name": "Celbridge",
+    "stateId": 2239,
+    "latitude": "53.34165000",
+    "longitude": "-6.54419000"
+  },
+  {
+    "id": 25325,
+    "name": "Chapelizod",
+    "stateId": 2239,
+    "latitude": "53.34846000",
+    "longitude": "-6.34301000"
+  },
+  {
+    "id": 25413,
+    "name": "Charlesland",
+    "stateId": 2239,
+    "latitude": "53.12771000",
+    "longitude": "-6.06347000"
+  },
+  {
+    "id": 25914,
+    "name": "Cherry Orchard",
+    "stateId": 2239,
+    "latitude": "53.33605000",
+    "longitude": "-6.37799000"
+  },
+  {
+    "id": 25922,
+    "name": "Cherryville",
+    "stateId": 2239,
+    "latitude": "53.15694000",
+    "longitude": "-6.96667000"
+  },
+  {
+    "id": 27144,
+    "name": "Ciarraí",
+    "stateId": 2769,
+    "latitude": "52.16667000",
+    "longitude": "-9.75000000"
+  },
+  {
+    "id": 27239,
+    "name": "Cill Airne",
+    "stateId": 2769,
+    "latitude": "52.05980000",
+    "longitude": "-9.50858000"
+  },
+  {
+    "id": 27714,
+    "name": "Clane",
+    "stateId": 2239,
+    "latitude": "53.29139000",
+    "longitude": "-6.68917000"
+  },
+  {
+    "id": 27720,
+    "name": "Clara",
+    "stateId": 2239,
+    "latitude": "53.34250000",
+    "longitude": "-7.61389000"
+  },
+  {
+    "id": 27730,
+    "name": "Claregalway",
+    "stateId": 935,
+    "latitude": "53.33861000",
+    "longitude": "-8.94500000"
+  },
+  {
+    "id": 27740,
+    "name": "Claremorris",
+    "stateId": 935,
+    "latitude": "53.71667000",
+    "longitude": "-9.00000000"
+  },
+  {
+    "id": 27978,
+    "name": "Clifden",
+    "stateId": 935,
+    "latitude": "53.48907000",
+    "longitude": "-10.01910000"
+  },
+  {
+    "id": 28056,
+    "name": "Clogherhead",
+    "stateId": 2239,
+    "latitude": "53.79361000",
+    "longitude": "-6.23750000"
+  },
+  {
+    "id": 28059,
+    "name": "Clonakilty",
+    "stateId": 2769,
+    "latitude": "51.62306000",
+    "longitude": "-8.87056000"
+  },
+  {
+    "id": 28062,
+    "name": "Clondalkin",
+    "stateId": 2239,
+    "latitude": "53.32444000",
+    "longitude": "-6.39722000"
+  },
+  {
+    "id": 28063,
+    "name": "Clones",
+    "stateId": 4511,
+    "latitude": "54.18333000",
+    "longitude": "-7.23333000"
+  },
+  {
+    "id": 28065,
+    "name": "Clonskeagh",
+    "stateId": 2239,
+    "latitude": "53.31467000",
+    "longitude": "-6.23148000"
+  },
+  {
+    "id": 28091,
+    "name": "Cloyne",
+    "stateId": 2769,
+    "latitude": "51.86278000",
+    "longitude": "-8.12444000"
+  },
+  {
+    "id": 28094,
+    "name": "Cluain Meala",
+    "stateId": 2769,
+    "latitude": "52.35500000",
+    "longitude": "-7.70389000"
+  },
+  {
+    "id": 28225,
+    "name": "Cobh",
+    "stateId": 2769,
+    "latitude": "51.85046000",
+    "longitude": "-8.29480000"
+  },
+  {
+    "id": 28659,
+    "name": "Collooney",
+    "stateId": 935,
+    "latitude": "54.18333000",
+    "longitude": "-8.50000000"
+  },
+  {
+    "id": 32162,
+    "name": "Confey",
+    "stateId": 2239,
+    "latitude": "53.37923000",
+    "longitude": "-6.49052000"
+  },
+  {
+    "id": 32335,
+    "name": "Convoy",
+    "stateId": 4511,
+    "latitude": "54.86083000",
+    "longitude": "-7.66556000"
+  },
+  {
+    "id": 32388,
+    "name": "Coolock",
+    "stateId": 2239,
+    "latitude": "53.38870000",
+    "longitude": "-6.19998000"
+  },
+  {
+    "id": 32429,
+    "name": "Cootehill",
+    "stateId": 4511,
+    "latitude": "54.07250000",
+    "longitude": "-7.08194000"
+  },
+  {
+    "id": 32648,
+    "name": "Cork",
+    "stateId": 2769,
+    "latitude": "51.89797000",
+    "longitude": "-8.47061000"
+  },
+  {
+    "id": 32649,
+    "name": "Cork City",
+    "stateId": 2769,
+    "latitude": "51.89755000",
+    "longitude": "-8.46773000"
+  },
+  {
+    "id": 33196,
+    "name": "County Carlow",
+    "stateId": 2239,
+    "latitude": "52.66667000",
+    "longitude": "-6.83333000"
+  },
+  {
+    "id": 33197,
+    "name": "County Cork",
+    "stateId": 2769,
+    "latitude": "51.96667000",
+    "longitude": "-8.58333000"
+  },
+  {
+    "id": 33198,
+    "name": "County Donegal",
+    "stateId": 4511,
+    "latitude": "54.91667000",
+    "longitude": "-8.00000000"
+  },
+  {
+    "id": 33200,
+    "name": "County Galway",
+    "stateId": 935,
+    "latitude": "53.33333000",
+    "longitude": "-9.00000000"
+  },
+  {
+    "id": 33201,
+    "name": "County Leitrim",
+    "stateId": 935,
+    "latitude": "54.11667000",
+    "longitude": "-8.00000000"
+  },
+  {
+    "id": 33202,
+    "name": "County Monaghan",
+    "stateId": 4511,
+    "latitude": "54.25000000",
+    "longitude": "-7.00000000"
+  },
+  {
+    "id": 33203,
+    "name": "County Tipperary",
+    "stateId": 2769,
+    "latitude": "52.66667000",
+    "longitude": "-7.83333000"
+  },
+  {
+    "id": 33252,
+    "name": "Courtown",
+    "stateId": 2239,
+    "latitude": "52.64424000",
+    "longitude": "-6.22899000"
+  },
+  {
+    "id": 33767,
+    "name": "Croom",
+    "stateId": 2769,
+    "latitude": "52.51944000",
+    "longitude": "-8.71778000"
+  },
+  {
+    "id": 33800,
+    "name": "Crosshaven",
+    "stateId": 2769,
+    "latitude": "51.79833000",
+    "longitude": "-8.30083000"
+  },
+  {
+    "id": 33803,
+    "name": "Crossmolina",
+    "stateId": 935,
+    "latitude": "54.10000000",
+    "longitude": "-9.31667000"
+  },
+  {
+    "id": 33869,
+    "name": "Crumlin",
+    "stateId": 2239,
+    "latitude": "53.32154000",
+    "longitude": "-6.31439000"
+  },
+  {
+    "id": 34955,
+    "name": "Daingean",
+    "stateId": 2239,
+    "latitude": "53.29611000",
+    "longitude": "-7.28944000"
+  },
+  {
+    "id": 35056,
+    "name": "Dalkey",
+    "stateId": 2239,
+    "latitude": "53.27833000",
+    "longitude": "-6.10028000"
+  },
+  {
+    "id": 35401,
+    "name": "Darndale",
+    "stateId": 2239,
+    "latitude": "53.39948000",
+    "longitude": "-6.18886000"
+  },
+  {
+    "id": 36525,
+    "name": "Derrinturn",
+    "stateId": 2239,
+    "latitude": "53.34167000",
+    "longitude": "-6.94111000"
+  },
+  {
+    "id": 36527,
+    "name": "Derry",
+    "stateId": 2769,
+    "latitude": "51.58666000",
+    "longitude": "-9.05026000"
+  },
+  {
+    "id": 36533,
+    "name": "Derrybeg",
+    "stateId": 4511,
+    "latitude": "55.08333000",
+    "longitude": "-8.28944000"
+  },
+  {
+    "id": 37149,
+    "name": "Dingle",
+    "stateId": 2769,
+    "latitude": "52.14083000",
+    "longitude": "-10.26889000"
+  },
+  {
+    "id": 37688,
+    "name": "Dollymount",
+    "stateId": 2239,
+    "latitude": "53.36489000",
+    "longitude": "-6.18032000"
+  },
+  {
+    "id": 37899,
+    "name": "Donabate",
+    "stateId": 2239,
+    "latitude": "53.48722000",
+    "longitude": "-6.15194000"
+  },
+  {
+    "id": 37902,
+    "name": "Donaghmede",
+    "stateId": 2239,
+    "latitude": "53.39845000",
+    "longitude": "-6.16179000"
+  },
+  {
+    "id": 37926,
+    "name": "Donegal",
+    "stateId": 4511,
+    "latitude": "54.65378000",
+    "longitude": "-8.11134000"
+  },
+  {
+    "id": 38010,
+    "name": "Donnybrook",
+    "stateId": 2239,
+    "latitude": "53.31375000",
+    "longitude": "-6.22274000"
+  },
+  {
+    "id": 38012,
+    "name": "Donnycarney",
+    "stateId": 2239,
+    "latitude": "53.37350000",
+    "longitude": "-6.20976000"
+  },
+  {
+    "id": 38516,
+    "name": "Drogheda",
+    "stateId": 2239,
+    "latitude": "53.71889000",
+    "longitude": "-6.34778000"
+  },
+  {
+    "id": 38520,
+    "name": "Droichead Nua",
+    "stateId": 2239,
+    "latitude": "53.18194000",
+    "longitude": "-6.79667000"
+  },
+  {
+    "id": 38525,
+    "name": "Dromiskin",
+    "stateId": 2239,
+    "latitude": "53.92538000",
+    "longitude": "-6.40292000"
+  },
+  {
+    "id": 38550,
+    "name": "Drumcondra",
+    "stateId": 2239,
+    "latitude": "53.37058000",
+    "longitude": "-6.25298000"
+  },
+  {
+    "id": 38663,
+    "name": "Dublin",
+    "stateId": 2239,
+    "latitude": "53.33306000",
+    "longitude": "-6.24889000"
+  },
+  {
+    "id": 38671,
+    "name": "Dublin City",
+    "stateId": 2239,
+    "latitude": "53.35512000",
+    "longitude": "-6.24922000"
+  },
+  {
+    "id": 38818,
+    "name": "Duleek",
+    "stateId": 2239,
+    "latitude": "53.65667000",
+    "longitude": "-6.41917000"
+  },
+  {
+    "id": 38931,
+    "name": "Dunboyne",
+    "stateId": 2239,
+    "latitude": "53.41901000",
+    "longitude": "-6.47375000"
+  },
+  {
+    "id": 38943,
+    "name": "Dundalk",
+    "stateId": 2239,
+    "latitude": "54.00000000",
+    "longitude": "-6.41667000"
+  },
+  {
+    "id": 38960,
+    "name": "Dundrum",
+    "stateId": 2239,
+    "latitude": "53.29067000",
+    "longitude": "-6.25714000"
+  },
+  {
+    "id": 38975,
+    "name": "Dungarvan",
+    "stateId": 2769,
+    "latitude": "52.08806000",
+    "longitude": "-7.62528000"
+  },
+  {
+    "id": 38977,
+    "name": "Dungloe",
+    "stateId": 4511,
+    "latitude": "54.95111000",
+    "longitude": "-8.35917000"
+  },
+  {
+    "id": 38999,
+    "name": "Dunleer",
+    "stateId": 2239,
+    "latitude": "53.83500000",
+    "longitude": "-6.39611000"
+  },
+  {
+    "id": 39000,
+    "name": "Dunlewy",
+    "stateId": 4511,
+    "latitude": "55.01667000",
+    "longitude": "-8.10000000"
+  },
+  {
+    "id": 39004,
+    "name": "Dunmanway",
+    "stateId": 2769,
+    "latitude": "51.71667000",
+    "longitude": "-9.11667000"
+  },
+  {
+    "id": 39006,
+    "name": "Dunmore East",
+    "stateId": 2769,
+    "latitude": "52.15108000",
+    "longitude": "-6.99872000"
+  },
+  {
+    "id": 39021,
+    "name": "Dunshaughlin",
+    "stateId": 2239,
+    "latitude": "53.51250000",
+    "longitude": "-6.54000000"
+  },
+  {
+    "id": 39385,
+    "name": "Dún Laoghaire",
+    "stateId": 2239,
+    "latitude": "53.29395000",
+    "longitude": "-6.13586000"
+  },
+  {
+    "id": 39386,
+    "name": "Dún Laoghaire-Rathdown",
+    "stateId": 2239,
+    "latitude": "53.29436000",
+    "longitude": "-6.13489000"
+  },
+  {
+    "id": 39501,
+    "name": "Eadestown",
+    "stateId": 2239,
+    "latitude": "53.20278000",
+    "longitude": "-6.57806000"
+  },
+  {
+    "id": 40023,
+    "name": "Edenderry",
+    "stateId": 2239,
+    "latitude": "53.33948000",
+    "longitude": "-7.04752000"
+  },
+  {
+    "id": 40075,
+    "name": "Edgeworthstown",
+    "stateId": 2239,
+    "latitude": "53.70000000",
+    "longitude": "-7.61667000"
+  },
+  {
+    "id": 42013,
+    "name": "Enfield",
+    "stateId": 2239,
+    "latitude": "53.41419000",
+    "longitude": "-6.83229000"
+  },
+  {
+    "id": 42087,
+    "name": "Ennis",
+    "stateId": 2769,
+    "latitude": "52.84361000",
+    "longitude": "-8.98639000"
+  },
+  {
+    "id": 42089,
+    "name": "Enniscorthy",
+    "stateId": 2239,
+    "latitude": "52.50083000",
+    "longitude": "-6.55778000"
+  },
+  {
+    "id": 42090,
+    "name": "Enniskerry",
+    "stateId": 2239,
+    "latitude": "53.19250000",
+    "longitude": "-6.16917000"
+  },
+  {
+    "id": 43315,
+    "name": "Fairview",
+    "stateId": 2239,
+    "latitude": "53.36597000",
+    "longitude": "-6.23985000"
+  },
+  {
+    "id": 43916,
+    "name": "Ferbane",
+    "stateId": 2239,
+    "latitude": "53.26944000",
+    "longitude": "-7.82694000"
+  },
+  {
+    "id": 43946,
+    "name": "Fermoy",
+    "stateId": 2769,
+    "latitude": "52.13583000",
+    "longitude": "-8.27583000"
+  },
+  {
+    "id": 43981,
+    "name": "Ferns",
+    "stateId": 2239,
+    "latitude": "52.58833000",
+    "longitude": "-6.49972000"
+  },
+  {
+    "id": 44071,
+    "name": "Fethard",
+    "stateId": 2769,
+    "latitude": "52.46722000",
+    "longitude": "-7.69111000"
+  },
+  {
+    "id": 44241,
+    "name": "Fingal County",
+    "stateId": 2239,
+    "latitude": "53.45909000",
+    "longitude": "-6.21942000"
+  },
+  {
+    "id": 44242,
+    "name": "Finglas",
+    "stateId": 2239,
+    "latitude": "53.38917000",
+    "longitude": "-6.29694000"
+  },
+  {
+    "id": 44285,
+    "name": "Firhouse",
+    "stateId": 2239,
+    "latitude": "53.28167000",
+    "longitude": "-6.33917000"
+  },
+  {
+    "id": 45313,
+    "name": "Foxford",
+    "stateId": 935,
+    "latitude": "53.98070000",
+    "longitude": "-9.11551000"
+  },
+  {
+    "id": 45314,
+    "name": "Foxrock",
+    "stateId": 2239,
+    "latitude": "53.26667000",
+    "longitude": "-6.17417000"
+  },
+  {
+    "id": 46652,
+    "name": "Gaillimh",
+    "stateId": 935,
+    "latitude": "53.27194000",
+    "longitude": "-9.04889000"
+  },
+  {
+    "id": 46851,
+    "name": "Galway City",
+    "stateId": 935,
+    "latitude": "53.28770000",
+    "longitude": "-9.05004000"
+  },
+  {
+    "id": 48845,
+    "name": "Glasnevin",
+    "stateId": 2239,
+    "latitude": "53.37851000",
+    "longitude": "-6.28028000"
+  },
+  {
+    "id": 49559,
+    "name": "Gorey",
+    "stateId": 2239,
+    "latitude": "52.67472000",
+    "longitude": "-6.29250000"
+  },
+  {
+    "id": 49704,
+    "name": "Gort",
+    "stateId": 935,
+    "latitude": "53.06639000",
+    "longitude": "-8.81667000"
+  },
+  {
+    "id": 50084,
+    "name": "Graiguenamanagh",
+    "stateId": 2239,
+    "latitude": "52.54028000",
+    "longitude": "-6.95472000"
+  },
+  {
+    "id": 50142,
+    "name": "Granard",
+    "stateId": 2239,
+    "latitude": "53.77928000",
+    "longitude": "-7.49429000"
+  },
+  {
+    "id": 50621,
+    "name": "Greenhills",
+    "stateId": 2239,
+    "latitude": "53.33467000",
+    "longitude": "-6.30302000"
+  },
+  {
+    "id": 50792,
+    "name": "Greystones",
+    "stateId": 2239,
+    "latitude": "53.14083000",
+    "longitude": "-6.06306000"
+  },
+  {
+    "id": 52160,
+    "name": "Gweedore",
+    "stateId": 4511,
+    "latitude": "55.05028000",
+    "longitude": "-8.23194000"
+  },
+  {
+    "id": 53540,
+    "name": "Hartstown",
+    "stateId": 2239,
+    "latitude": "53.39306000",
+    "longitude": "-6.42694000"
+  },
+  {
+    "id": 56164,
+    "name": "Howth",
+    "stateId": 2239,
+    "latitude": "53.38778000",
+    "longitude": "-6.06528000"
+  },
+  {
+    "id": 58350,
+    "name": "Inishcrone",
+    "stateId": 935,
+    "latitude": "54.21591000",
+    "longitude": "-9.09197000"
+  },
+  {
+    "id": 60845,
+    "name": "Jobstown",
+    "stateId": 2239,
+    "latitude": "53.27866000",
+    "longitude": "-6.40803000"
+  },
+  {
+    "id": 60930,
+    "name": "Johnstown",
+    "stateId": 2239,
+    "latitude": "53.23833000",
+    "longitude": "-6.62222000"
+  },
+  {
+    "id": 62816,
+    "name": "Kanturk",
+    "stateId": 2769,
+    "latitude": "52.16667000",
+    "longitude": "-8.90000000"
+  },
+  {
+    "id": 63710,
+    "name": "Kells",
+    "stateId": 2239,
+    "latitude": "53.72639000",
+    "longitude": "-6.87917000"
+  },
+  {
+    "id": 63823,
+    "name": "Kenmare",
+    "stateId": 2769,
+    "latitude": "51.88333000",
+    "longitude": "-9.58333000"
+  },
+  {
+    "id": 63892,
+    "name": "Kentstown",
+    "stateId": 2239,
+    "latitude": "53.62754000",
+    "longitude": "-6.52674000"
+  },
+  {
+    "id": 64548,
+    "name": "Kilbeggan",
+    "stateId": 2239,
+    "latitude": "53.36944000",
+    "longitude": "-7.50333000"
+  },
+  {
+    "id": 64555,
+    "name": "Kilcock",
+    "stateId": 2239,
+    "latitude": "53.40222000",
+    "longitude": "-6.67083000"
+  },
+  {
+    "id": 64556,
+    "name": "Kilcoole",
+    "stateId": 2239,
+    "latitude": "53.10278000",
+    "longitude": "-6.06500000"
+  },
+  {
+    "id": 64559,
+    "name": "Kilcullen",
+    "stateId": 2239,
+    "latitude": "53.13028000",
+    "longitude": "-6.74444000"
+  },
+  {
+    "id": 64560,
+    "name": "Kildare",
+    "stateId": 2239,
+    "latitude": "53.16667000",
+    "longitude": "-6.75000000"
+  },
+  {
+    "id": 64583,
+    "name": "Kilkenny",
+    "stateId": 2239,
+    "latitude": "52.58333000",
+    "longitude": "-7.25000000"
+  },
+  {
+    "id": 64585,
+    "name": "Kill",
+    "stateId": 2239,
+    "latitude": "53.25139000",
+    "longitude": "-6.59167000"
+  },
+  {
+    "id": 64587,
+    "name": "Killaloe",
+    "stateId": 2769,
+    "latitude": "52.80667000",
+    "longitude": "-8.44361000"
+  },
+  {
+    "id": 64598,
+    "name": "Killester",
+    "stateId": 2239,
+    "latitude": "53.37322000",
+    "longitude": "-6.20431000"
+  },
+  {
+    "id": 64601,
+    "name": "Killorglin",
+    "stateId": 2769,
+    "latitude": "52.10000000",
+    "longitude": "-9.78333000"
+  },
+  {
+    "id": 64602,
+    "name": "Killumney",
+    "stateId": 2769,
+    "latitude": "51.87243000",
+    "longitude": "-8.64781000"
+  },
+  {
+    "id": 64604,
+    "name": "Killybegs",
+    "stateId": 4511,
+    "latitude": "54.63333000",
+    "longitude": "-8.45000000"
+  },
+  {
+    "id": 64606,
+    "name": "Kilmacanoge",
+    "stateId": 2239,
+    "latitude": "53.16722000",
+    "longitude": "-6.13361000"
+  },
+  {
+    "id": 64608,
+    "name": "Kilmallock",
+    "stateId": 2769,
+    "latitude": "52.40000000",
+    "longitude": "-8.57722000"
+  },
+  {
+    "id": 64620,
+    "name": "Kilpedder",
+    "stateId": 2239,
+    "latitude": "53.10917000",
+    "longitude": "-6.10667000"
+  },
+  {
+    "id": 64621,
+    "name": "Kilquade",
+    "stateId": 2239,
+    "latitude": "53.09743000",
+    "longitude": "-6.08411000"
+  },
+  {
+    "id": 64623,
+    "name": "Kilrush",
+    "stateId": 2769,
+    "latitude": "52.63972000",
+    "longitude": "-9.48333000"
+  },
+  {
+    "id": 64629,
+    "name": "Kiltamagh",
+    "stateId": 935,
+    "latitude": "53.85000000",
+    "longitude": "-9.00000000"
+  },
+  {
+    "id": 64777,
+    "name": "Kingscourt",
+    "stateId": 4511,
+    "latitude": "53.90806000",
+    "longitude": "-6.80556000"
+  },
+  {
+    "id": 64846,
+    "name": "Kinlough",
+    "stateId": 935,
+    "latitude": "54.45000000",
+    "longitude": "-8.28333000"
+  },
+  {
+    "id": 64851,
+    "name": "Kinnegad",
+    "stateId": 2239,
+    "latitude": "53.45222000",
+    "longitude": "-7.09972000"
+  },
+  {
+    "id": 64859,
+    "name": "Kinsale",
+    "stateId": 2769,
+    "latitude": "51.70750000",
+    "longitude": "-8.53056000"
+  },
+  {
+    "id": 64861,
+    "name": "Kinsealy-Drinan",
+    "stateId": 2239,
+    "latitude": "53.44395000",
+    "longitude": "-6.20334000"
+  },
+  {
+    "id": 65472,
+    "name": "Knocklyon",
+    "stateId": 2239,
+    "latitude": "53.28030000",
+    "longitude": "-6.33130000"
+  },
+  {
+    "id": 70296,
+    "name": "Lanesborough",
+    "stateId": 2239,
+    "latitude": "53.66667000",
+    "longitude": "-7.98333000"
+  },
+  {
+    "id": 70542,
+    "name": "Laois",
+    "stateId": 2239,
+    "latitude": "53.00000000",
+    "longitude": "-7.40000000"
+  },
+  {
+    "id": 71280,
+    "name": "Laytown",
+    "stateId": 2239,
+    "latitude": "53.68194000",
+    "longitude": "-6.23917000"
+  },
+  {
+    "id": 71798,
+    "name": "Leifear",
+    "stateId": 4511,
+    "latitude": "54.83194000",
+    "longitude": "-7.48361000"
+  },
+  {
+    "id": 71848,
+    "name": "Leixlip",
+    "stateId": 2239,
+    "latitude": "53.36583000",
+    "longitude": "-6.49556000"
+  },
+  {
+    "id": 72351,
+    "name": "Letterkenny",
+    "stateId": 4511,
+    "latitude": "54.95000000",
+    "longitude": "-7.73333000"
+  },
+  {
+    "id": 73388,
+    "name": "Listowel",
+    "stateId": 2769,
+    "latitude": "52.44639000",
+    "longitude": "-9.48500000"
+  },
+  {
+    "id": 73433,
+    "name": "Little Bray",
+    "stateId": 2239,
+    "latitude": "53.20444000",
+    "longitude": "-6.12083000"
+  },
+  {
+    "id": 73802,
+    "name": "Loch Garman",
+    "stateId": 2239,
+    "latitude": "52.50000000",
+    "longitude": "-6.66667000"
+  },
+  {
+    "id": 74214,
+    "name": "Longford",
+    "stateId": 2239,
+    "latitude": "53.72536000",
+    "longitude": "-7.79823000"
+  },
+  {
+    "id": 74277,
+    "name": "Longwood",
+    "stateId": 2239,
+    "latitude": "53.45389000",
+    "longitude": "-6.92194000"
+  },
+  {
+    "id": 74711,
+    "name": "Loughlinstown",
+    "stateId": 2239,
+    "latitude": "53.24389000",
+    "longitude": "-6.13306000"
+  },
+  {
+    "id": 74713,
+    "name": "Loughrea",
+    "stateId": 935,
+    "latitude": "53.19694000",
+    "longitude": "-8.56694000"
+  },
+  {
+    "id": 74985,
+    "name": "Lucan",
+    "stateId": 2239,
+    "latitude": "53.35736000",
+    "longitude": "-6.44859000"
+  },
+  {
+    "id": 75175,
+    "name": "Luimneach",
+    "stateId": 2769,
+    "latitude": "52.66472000",
+    "longitude": "-8.62306000"
+  },
+  {
+    "id": 75476,
+    "name": "Lusk",
+    "stateId": 2239,
+    "latitude": "53.52743000",
+    "longitude": "-6.16423000"
+  },
+  {
+    "id": 75891,
+    "name": "Lú",
+    "stateId": 2239,
+    "latitude": "53.83333000",
+    "longitude": "-6.50000000"
+  },
+  {
+    "id": 76267,
+    "name": "Macroom",
+    "stateId": 2769,
+    "latitude": "51.90663000",
+    "longitude": "-8.96968000"
+  },
+  {
+    "id": 77097,
+    "name": "Malahide",
+    "stateId": 2239,
+    "latitude": "53.45083000",
+    "longitude": "-6.15444000"
+  },
+  {
+    "id": 77343,
+    "name": "Mallow",
+    "stateId": 2769,
+    "latitude": "52.13333000",
+    "longitude": "-8.63333000"
+  },
+  {
+    "id": 77972,
+    "name": "Manorhamilton",
+    "stateId": 935,
+    "latitude": "54.30639000",
+    "longitude": "-8.17611000"
+  },
+  {
+    "id": 78727,
+    "name": "Marino",
+    "stateId": 2239,
+    "latitude": "53.37022000",
+    "longitude": "-6.23646000"
+  },
+  {
+    "id": 80056,
+    "name": "Maynooth",
+    "stateId": 2239,
+    "latitude": "53.38500000",
+    "longitude": "-6.59361000"
+  },
+  {
+    "id": 80064,
+    "name": "Mayo County",
+    "stateId": 935,
+    "latitude": "53.90000000",
+    "longitude": "-9.25000000"
+  },
+  {
+    "id": 81767,
+    "name": "Midleton",
+    "stateId": 2769,
+    "latitude": "51.91526000",
+    "longitude": "-8.18052000"
+  },
+  {
+    "id": 82158,
+    "name": "Millstreet",
+    "stateId": 2769,
+    "latitude": "52.05935000",
+    "longitude": "-9.06031000"
+  },
+  {
+    "id": 82162,
+    "name": "Milltown",
+    "stateId": 2239,
+    "latitude": "53.31301000",
+    "longitude": "-6.24530000"
+  },
+  {
+    "id": 82743,
+    "name": "Mitchelstown",
+    "stateId": 2769,
+    "latitude": "52.26583000",
+    "longitude": "-8.26806000"
+  },
+  {
+    "id": 82948,
+    "name": "Moate",
+    "stateId": 2239,
+    "latitude": "53.39389000",
+    "longitude": "-7.71722000"
+  },
+  {
+    "id": 83373,
+    "name": "Monaghan",
+    "stateId": 4511,
+    "latitude": "54.25000000",
+    "longitude": "-6.96667000"
+  },
+  {
+    "id": 83386,
+    "name": "Monasterevin",
+    "stateId": 2239,
+    "latitude": "53.14056000",
+    "longitude": "-7.06639000"
+  },
+  {
+    "id": 83559,
+    "name": "Monkstown",
+    "stateId": 2239,
+    "latitude": "53.29308000",
+    "longitude": "-6.15312000"
+  },
+  {
+    "id": 84499,
+    "name": "Mooncoin",
+    "stateId": 2239,
+    "latitude": "52.28944000",
+    "longitude": "-7.24833000"
+  },
+  {
+    "id": 84500,
+    "name": "Moone",
+    "stateId": 2239,
+    "latitude": "52.97556000",
+    "longitude": "-6.81500000"
+  },
+  {
+    "id": 84860,
+    "name": "Moroe",
+    "stateId": 2769,
+    "latitude": "52.65111000",
+    "longitude": "-8.39611000"
+  },
+  {
+    "id": 85312,
+    "name": "Mount Merrion",
+    "stateId": 2239,
+    "latitude": "53.30008000",
+    "longitude": "-6.21504000"
+  },
+  {
+    "id": 85430,
+    "name": "Mountmellick",
+    "stateId": 2239,
+    "latitude": "53.11361000",
+    "longitude": "-7.32000000"
+  },
+  {
+    "id": 85432,
+    "name": "Mountrath",
+    "stateId": 2239,
+    "latitude": "52.99889000",
+    "longitude": "-7.47278000"
+  },
+  {
+    "id": 85479,
+    "name": "Moville",
+    "stateId": 4511,
+    "latitude": "55.19153000",
+    "longitude": "-7.03873000"
+  },
+  {
+    "id": 85496,
+    "name": "Moycullen",
+    "stateId": 935,
+    "latitude": "53.33783000",
+    "longitude": "-9.18002000"
+  },
+  {
+    "id": 85511,
+    "name": "Moyross",
+    "stateId": 2769,
+    "latitude": "52.68198000",
+    "longitude": "-8.63955000"
+  },
+  {
+    "id": 85726,
+    "name": "Muff",
+    "stateId": 4511,
+    "latitude": "55.06667000",
+    "longitude": "-7.26667000"
+  },
+  {
+    "id": 85835,
+    "name": "Mullagh",
+    "stateId": 4511,
+    "latitude": "53.81306000",
+    "longitude": "-6.95139000"
+  },
+  {
+    "id": 87061,
+    "name": "Naas",
+    "stateId": 2239,
+    "latitude": "53.21583000",
+    "longitude": "-6.66694000"
+  },
+  {
+    "id": 87988,
+    "name": "Navan",
+    "stateId": 2239,
+    "latitude": "53.65278000",
+    "longitude": "-6.68139000"
+  },
+  {
+    "id": 88382,
+    "name": "Nenagh",
+    "stateId": 2769,
+    "latitude": "52.86194000",
+    "longitude": "-8.19667000"
+  },
+  {
+    "id": 88383,
+    "name": "Nenagh Bridge",
+    "stateId": 2769,
+    "latitude": "52.88167000",
+    "longitude": "-8.19583000"
+  },
+  {
+    "id": 88996,
+    "name": "New Ross",
+    "stateId": 2239,
+    "latitude": "52.39667000",
+    "longitude": "-6.93667000"
+  },
+  {
+    "id": 89077,
+    "name": "Newcastle",
+    "stateId": 2239,
+    "latitude": "53.30111000",
+    "longitude": "-6.50222000"
+  },
+  {
+    "id": 89087,
+    "name": "Newcastle West",
+    "stateId": 2769,
+    "latitude": "52.44917000",
+    "longitude": "-9.06111000"
+  },
+  {
+    "id": 89122,
+    "name": "Newmarket on Fergus",
+    "stateId": 2769,
+    "latitude": "52.76000000",
+    "longitude": "-8.89556000"
+  },
+  {
+    "id": 89129,
+    "name": "Newport",
+    "stateId": 2769,
+    "latitude": "52.71111000",
+    "longitude": "-8.40972000"
+  },
+  {
+    "id": 89199,
+    "name": "Newtown Cunningham",
+    "stateId": 4511,
+    "latitude": "54.99639000",
+    "longitude": "-7.51917000"
+  },
+  {
+    "id": 89202,
+    "name": "Newtown Trim",
+    "stateId": 2239,
+    "latitude": "53.55611000",
+    "longitude": "-6.77000000"
+  },
+  {
+    "id": 89205,
+    "name": "Newtownmountkennedy",
+    "stateId": 2239,
+    "latitude": "53.09052000",
+    "longitude": "-6.11149000"
+  },
+  {
+    "id": 93195,
+    "name": "Old Kilcullen",
+    "stateId": 2239,
+    "latitude": "53.10639000",
+    "longitude": "-6.76528000"
+  },
+  {
+    "id": 93213,
+    "name": "Oldbawn",
+    "stateId": 2239,
+    "latitude": "53.27556000",
+    "longitude": "-6.36750000"
+  },
+  {
+    "id": 93215,
+    "name": "Oldcastle",
+    "stateId": 2239,
+    "latitude": "53.76648000",
+    "longitude": "-7.16284000"
+  },
+  {
+    "id": 93877,
+    "name": "Oranmore",
+    "stateId": 935,
+    "latitude": "53.26833000",
+    "longitude": "-8.92000000"
+  },
+  {
+    "id": 95022,
+    "name": "Oughterard",
+    "stateId": 935,
+    "latitude": "53.41667000",
+    "longitude": "-9.33333000"
+  },
+  {
+    "id": 96000,
+    "name": "Palmerstown",
+    "stateId": 2239,
+    "latitude": "53.35019000",
+    "longitude": "-6.37778000"
+  },
+  {
+    "id": 97125,
+    "name": "Passage West",
+    "stateId": 2769,
+    "latitude": "51.87389000",
+    "longitude": "-8.34444000"
+  },
+  {
+    "id": 99417,
+    "name": "Piltown",
+    "stateId": 2239,
+    "latitude": "52.35333000",
+    "longitude": "-7.34028000"
+  },
+  {
+    "id": 101736,
+    "name": "Portarlington",
+    "stateId": 2239,
+    "latitude": "53.16222000",
+    "longitude": "-7.19111000"
+  },
+  {
+    "id": 101799,
+    "name": "Portlaoise",
+    "stateId": 2239,
+    "latitude": "53.03441000",
+    "longitude": "-7.29979000"
+  },
+  {
+    "id": 101800,
+    "name": "Portlaw",
+    "stateId": 2769,
+    "latitude": "52.28833000",
+    "longitude": "-7.32056000"
+  },
+  {
+    "id": 101802,
+    "name": "Portmarnock",
+    "stateId": 2239,
+    "latitude": "53.42306000",
+    "longitude": "-6.13750000"
+  },
+  {
+    "id": 101901,
+    "name": "Portraine",
+    "stateId": 2239,
+    "latitude": "53.49667000",
+    "longitude": "-6.11111000"
+  },
+  {
+    "id": 101918,
+    "name": "Portumna",
+    "stateId": 935,
+    "latitude": "53.08917000",
+    "longitude": "-8.21889000"
+  },
+  {
+    "id": 103270,
+    "name": "Prosperous",
+    "stateId": 2239,
+    "latitude": "53.29028000",
+    "longitude": "-6.75389000"
+  },
+  {
+    "id": 105898,
+    "name": "Raheny",
+    "stateId": 2239,
+    "latitude": "53.38681000",
+    "longitude": "-6.18067000"
+  },
+  {
+    "id": 106071,
+    "name": "Ramelton",
+    "stateId": 4511,
+    "latitude": "55.03673000",
+    "longitude": "-7.64923000"
+  },
+  {
+    "id": 106340,
+    "name": "Raphoe",
+    "stateId": 4511,
+    "latitude": "54.87472000",
+    "longitude": "-7.59833000"
+  },
+  {
+    "id": 106429,
+    "name": "Rathangan",
+    "stateId": 2239,
+    "latitude": "53.22139000",
+    "longitude": "-6.99500000"
+  },
+  {
+    "id": 106430,
+    "name": "Rathcoole",
+    "stateId": 2239,
+    "latitude": "53.28278000",
+    "longitude": "-6.47278000"
+  },
+  {
+    "id": 106431,
+    "name": "Rathcormac",
+    "stateId": 2769,
+    "latitude": "52.07694000",
+    "longitude": "-8.28194000"
+  },
+  {
+    "id": 106432,
+    "name": "Rathdowney",
+    "stateId": 2239,
+    "latitude": "52.85472000",
+    "longitude": "-7.58028000"
+  },
+  {
+    "id": 106433,
+    "name": "Rathdrum",
+    "stateId": 2239,
+    "latitude": "52.92639000",
+    "longitude": "-6.23556000"
+  },
+  {
+    "id": 106437,
+    "name": "Rathgar",
+    "stateId": 2239,
+    "latitude": "53.31457000",
+    "longitude": "-6.27500000"
+  },
+  {
+    "id": 106438,
+    "name": "Rathkeale",
+    "stateId": 2769,
+    "latitude": "52.52444000",
+    "longitude": "-8.93806000"
+  },
+  {
+    "id": 106441,
+    "name": "Rathmines",
+    "stateId": 2239,
+    "latitude": "53.32028000",
+    "longitude": "-6.26333000"
+  },
+  {
+    "id": 106442,
+    "name": "Rathnew",
+    "stateId": 2239,
+    "latitude": "52.99056000",
+    "longitude": "-6.08528000"
+  },
+  {
+    "id": 106446,
+    "name": "Rathwire",
+    "stateId": 2239,
+    "latitude": "53.50767000",
+    "longitude": "-7.13510000"
+  },
+  {
+    "id": 106457,
+    "name": "Ratoath",
+    "stateId": 2239,
+    "latitude": "53.50806000",
+    "longitude": "-6.46250000"
+  },
+  {
+    "id": 107490,
+    "name": "Rialto",
+    "stateId": 2239,
+    "latitude": "53.33625000",
+    "longitude": "-6.29718000"
+  },
+  {
+    "id": 107922,
+    "name": "Ringsend",
+    "stateId": 2239,
+    "latitude": "53.34194000",
+    "longitude": "-6.22639000"
+  },
+  {
+    "id": 108537,
+    "name": "Rochfortbridge",
+    "stateId": 2239,
+    "latitude": "53.41417000",
+    "longitude": "-7.29611000"
+  },
+  {
+    "id": 109150,
+    "name": "Roscommon",
+    "stateId": 935,
+    "latitude": "53.75000000",
+    "longitude": "-8.25000000"
+  },
+  {
+    "id": 109153,
+    "name": "Roscrea",
+    "stateId": 2769,
+    "latitude": "52.95111000",
+    "longitude": "-7.80167000"
+  },
+  {
+    "id": 109321,
+    "name": "Rosslare",
+    "stateId": 2239,
+    "latitude": "52.27583000",
+    "longitude": "-6.38444000"
+  },
+  {
+    "id": 110202,
+    "name": "Ráth Luirc",
+    "stateId": 2769,
+    "latitude": "52.35000000",
+    "longitude": "-8.68333000"
+  },
+  {
+    "id": 110796,
+    "name": "Saggart",
+    "stateId": 2239,
+    "latitude": "53.28028000",
+    "longitude": "-6.44444000"
+  },
+  {
+    "id": 112580,
+    "name": "Sallins",
+    "stateId": 2239,
+    "latitude": "53.24889000",
+    "longitude": "-6.66611000"
+  },
+  {
+    "id": 112583,
+    "name": "Sallynoggin",
+    "stateId": 2239,
+    "latitude": "53.27917000",
+    "longitude": "-6.14058000"
+  },
+  {
+    "id": 115944,
+    "name": "Sandyford",
+    "stateId": 2239,
+    "latitude": "53.27470000",
+    "longitude": "-6.22530000"
+  },
+  {
+    "id": 115945,
+    "name": "Sandymount",
+    "stateId": 2239,
+    "latitude": "53.32815000",
+    "longitude": "-6.22224000"
+  },
+  {
+    "id": 120884,
+    "name": "Shankill",
+    "stateId": 2239,
+    "latitude": "53.22611000",
+    "longitude": "-6.12444000"
+  },
+  {
+    "id": 120889,
+    "name": "Shannon",
+    "stateId": 2769,
+    "latitude": "52.70389000",
+    "longitude": "-8.86417000"
+  },
+  {
+    "id": 122512,
+    "name": "Sixmilebridge",
+    "stateId": 2769,
+    "latitude": "52.74139000",
+    "longitude": "-8.77417000"
+  },
+  {
+    "id": 122586,
+    "name": "Skerries",
+    "stateId": 2239,
+    "latitude": "53.58278000",
+    "longitude": "-6.10833000"
+  },
+  {
+    "id": 122594,
+    "name": "Skibbereen",
+    "stateId": 2769,
+    "latitude": "51.55000000",
+    "longitude": "-9.26667000"
+  },
+  {
+    "id": 122720,
+    "name": "Slane",
+    "stateId": 2239,
+    "latitude": "53.71000000",
+    "longitude": "-6.54333000"
+  },
+  {
+    "id": 122779,
+    "name": "Sligo",
+    "stateId": 935,
+    "latitude": "54.25000000",
+    "longitude": "-8.66667000"
+  },
+  {
+    "id": 123855,
+    "name": "South Dublin",
+    "stateId": 2239,
+    "latitude": "53.28595000",
+    "longitude": "-6.37739000"
+  },
+  {
+    "id": 124823,
+    "name": "Stamullin",
+    "stateId": 2239,
+    "latitude": "53.62889000",
+    "longitude": "-6.26833000"
+  },
+  {
+    "id": 125604,
+    "name": "Stradbally",
+    "stateId": 2239,
+    "latitude": "53.01556000",
+    "longitude": "-7.15278000"
+  },
+  {
+    "id": 125629,
+    "name": "Strandhill",
+    "stateId": 935,
+    "latitude": "54.27194000",
+    "longitude": "-8.59333000"
+  },
+  {
+    "id": 126682,
+    "name": "Sutton",
+    "stateId": 2239,
+    "latitude": "53.38947000",
+    "longitude": "-6.11059000"
+  },
+  {
+    "id": 126928,
+    "name": "Swinford",
+    "stateId": 935,
+    "latitude": "53.95000000",
+    "longitude": "-8.95000000"
+  },
+  {
+    "id": 126935,
+    "name": "Swords",
+    "stateId": 2239,
+    "latitude": "53.45972000",
+    "longitude": "-6.21806000"
+  },
+  {
+    "id": 128466,
+    "name": "Tallaght",
+    "stateId": 2239,
+    "latitude": "53.28590000",
+    "longitude": "-6.37344000"
+  },
+  {
+    "id": 129777,
+    "name": "Templemore",
+    "stateId": 2769,
+    "latitude": "52.79472000",
+    "longitude": "-7.83389000"
+  },
+  {
+    "id": 129778,
+    "name": "Templeogue",
+    "stateId": 2239,
+    "latitude": "53.29528000",
+    "longitude": "-6.30889000"
+  },
+  {
+    "id": 130043,
+    "name": "Terenure",
+    "stateId": 2239,
+    "latitude": "53.30972000",
+    "longitude": "-6.28528000"
+  },
+  {
+    "id": 130078,
+    "name": "Termonfeckin",
+    "stateId": 2239,
+    "latitude": "53.76333000",
+    "longitude": "-6.26778000"
+  },
+  {
+    "id": 130612,
+    "name": "Thomastown",
+    "stateId": 2239,
+    "latitude": "52.52667000",
+    "longitude": "-7.13722000"
+  },
+  {
+    "id": 130738,
+    "name": "Thurles",
+    "stateId": 2769,
+    "latitude": "52.68194000",
+    "longitude": "-7.80222000"
+  },
+  {
+    "id": 131204,
+    "name": "Tipperary",
+    "stateId": 2769,
+    "latitude": "52.47333000",
+    "longitude": "-8.15583000"
+  },
+  {
+    "id": 131546,
+    "name": "Tobercurry",
+    "stateId": 935,
+    "latitude": "54.05000000",
+    "longitude": "-8.73333000"
+  },
+  {
+    "id": 132502,
+    "name": "Tower",
+    "stateId": 2769,
+    "latitude": "51.92599000",
+    "longitude": "-8.60747000"
+  },
+  {
+    "id": 132617,
+    "name": "Tralee",
+    "stateId": 2769,
+    "latitude": "52.27042000",
+    "longitude": "-9.70264000"
+  },
+  {
+    "id": 132983,
+    "name": "Trim",
+    "stateId": 2239,
+    "latitude": "53.55500000",
+    "longitude": "-6.79167000"
+  },
+  {
+    "id": 133270,
+    "name": "Trá Mhór",
+    "stateId": 2769,
+    "latitude": "52.16235000",
+    "longitude": "-7.15244000"
+  },
+  {
+    "id": 133447,
+    "name": "Tuam",
+    "stateId": 935,
+    "latitude": "53.51667000",
+    "longitude": "-8.85000000"
+  },
+  {
+    "id": 133651,
+    "name": "Tullamore",
+    "stateId": 2239,
+    "latitude": "53.27389000",
+    "longitude": "-7.48889000"
+  },
+  {
+    "id": 133658,
+    "name": "Tullow",
+    "stateId": 2239,
+    "latitude": "52.80028000",
+    "longitude": "-6.73694000"
+  },
+  {
+    "id": 133660,
+    "name": "Tullyallen",
+    "stateId": 2239,
+    "latitude": "53.73611000",
+    "longitude": "-6.42278000"
+  },
+  {
+    "id": 135691,
+    "name": "Uíbh Fhailí",
+    "stateId": 2239,
+    "latitude": "53.25000000",
+    "longitude": "-7.50000000"
+  },
+  {
+    "id": 136374,
+    "name": "Valleymount",
+    "stateId": 2239,
+    "latitude": "53.10389000",
+    "longitude": "-6.55361000"
+  },
+  {
+    "id": 139362,
+    "name": "Virginia",
+    "stateId": 4511,
+    "latitude": "53.83389000",
+    "longitude": "-7.07556000"
+  },
+  {
+    "id": 141261,
+    "name": "Waterford",
+    "stateId": 2769,
+    "latitude": "52.25833000",
+    "longitude": "-7.11194000"
+  },
+  {
+    "id": 141270,
+    "name": "Watergrasshill",
+    "stateId": 2769,
+    "latitude": "52.01139000",
+    "longitude": "-8.34417000"
+  },
+  {
+    "id": 142356,
+    "name": "Westport",
+    "stateId": 935,
+    "latitude": "53.80000000",
+    "longitude": "-9.51667000"
+  },
+  {
+    "id": 142539,
+    "name": "Whitegate",
+    "stateId": 2769,
+    "latitude": "51.83056000",
+    "longitude": "-8.22972000"
+  },
+  {
+    "id": 142646,
+    "name": "Wicklow",
+    "stateId": 2239,
+    "latitude": "53.00000000",
+    "longitude": "-6.41667000"
+  },
+  {
+    "id": 145025,
+    "name": "Youghal",
+    "stateId": 2769,
+    "latitude": "51.95000000",
+    "longitude": "-7.85056000"
+  }
+]

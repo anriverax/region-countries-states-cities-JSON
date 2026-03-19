@@ -1,0 +1,1381 @@
+[
+  {
+    "id": 11482,
+    "name": "Batinci",
+    "stateId": 4179,
+    "latitude": "41.91909000",
+    "longitude": "21.47978000"
+  },
+  {
+    "id": 12141,
+    "name": "Bedinje",
+    "stateId": 2108,
+    "latitude": "42.14167000",
+    "longitude": "21.69639000"
+  },
+  {
+    "id": 12807,
+    "name": "Belčišta",
+    "stateId": 1030,
+    "latitude": "41.30278000",
+    "longitude": "20.83028000"
+  },
+  {
+    "id": 13099,
+    "name": "Beranci",
+    "stateId": 2678,
+    "latitude": "41.15969000",
+    "longitude": "21.35963000"
+  },
+  {
+    "id": 13435,
+    "name": "Berovo",
+    "stateId": 451,
+    "latitude": "41.70306000",
+    "longitude": "22.85778000"
+  },
+  {
+    "id": 14725,
+    "name": "Bistrica",
+    "stateId": 483,
+    "latitude": "40.97892000",
+    "longitude": "21.36580000"
+  },
+  {
+    "id": 14763,
+    "name": "Bitola",
+    "stateId": 483,
+    "latitude": "41.03143000",
+    "longitude": "21.33474000"
+  },
+  {
+    "id": 15019,
+    "name": "Blatec",
+    "stateId": 4627,
+    "latitude": "41.83668000",
+    "longitude": "22.57909000"
+  },
+  {
+    "id": 15493,
+    "name": "Bogdanci",
+    "stateId": 506,
+    "latitude": "41.20306000",
+    "longitude": "22.57556000"
+  },
+  {
+    "id": 15522,
+    "name": "Bogomila",
+    "stateId": 4890,
+    "latitude": "41.59306000",
+    "longitude": "21.47167000"
+  },
+  {
+    "id": 15541,
+    "name": "Bogovinje",
+    "stateId": 508,
+    "latitude": "41.92361000",
+    "longitude": "20.91361000"
+  },
+  {
+    "id": 15643,
+    "name": "Bojane",
+    "stateId": 1447,
+    "latitude": "42.00009000",
+    "longitude": "21.19265000"
+  },
+  {
+    "id": 16529,
+    "name": "Bosilovo",
+    "stateId": 538,
+    "latitude": "41.44056000",
+    "longitude": "22.72778000"
+  },
+  {
+    "id": 18214,
+    "name": "Brvenica",
+    "stateId": 587,
+    "latitude": "41.96722000",
+    "longitude": "20.98083000"
+  },
+  {
+    "id": 18851,
+    "name": "Bukovik",
+    "stateId": 3896,
+    "latitude": "41.96833000",
+    "longitude": "21.23694000"
+  },
+  {
+    "id": 19478,
+    "name": "Butel",
+    "stateId": 639,
+    "latitude": "42.03083000",
+    "longitude": "21.44667000"
+  },
+  {
+    "id": 19607,
+    "name": "Bučin",
+    "stateId": 2099,
+    "latitude": "41.27377000",
+    "longitude": "21.31692000"
+  },
+  {
+    "id": 22002,
+    "name": "Capari",
+    "stateId": 483,
+    "latitude": "41.05656000",
+    "longitude": "21.17884000"
+  },
+  {
+    "id": 24282,
+    "name": "Cegrane",
+    "stateId": 1419,
+    "latitude": "41.83889000",
+    "longitude": "20.97583000"
+  },
+  {
+    "id": 24388,
+    "name": "Centar Župa",
+    "stateId": 757,
+    "latitude": "41.47849000",
+    "longitude": "20.55945000"
+  },
+  {
+    "id": 33561,
+    "name": "Cresevo",
+    "stateId": 1360,
+    "latitude": "42.05083000",
+    "longitude": "21.50972000"
+  },
+  {
+    "id": 33720,
+    "name": "Crnilište",
+    "stateId": 1106,
+    "latitude": "41.53025000",
+    "longitude": "21.41416000"
+  },
+  {
+    "id": 36003,
+    "name": "Delcevo",
+    "stateId": 1040,
+    "latitude": "41.96722000",
+    "longitude": "22.76944000"
+  },
+  {
+    "id": 36060,
+    "name": "Delogožda",
+    "stateId": 4176,
+    "latitude": "41.25728000",
+    "longitude": "20.72180000"
+  },
+  {
+    "id": 36107,
+    "name": "Demir Hisar",
+    "stateId": 1042,
+    "latitude": "41.22097000",
+    "longitude": "21.20302000"
+  },
+  {
+    "id": 36108,
+    "name": "Demir Kapija",
+    "stateId": 1043,
+    "latitude": "41.40613000",
+    "longitude": "22.24631000"
+  },
+  {
+    "id": 36598,
+    "name": "Desovo",
+    "stateId": 1106,
+    "latitude": "41.46278000",
+    "longitude": "21.49111000"
+  },
+  {
+    "id": 37440,
+    "name": "Dobarce",
+    "stateId": 4955,
+    "latitude": "41.95530000",
+    "longitude": "21.08875000"
+  },
+  {
+    "id": 37482,
+    "name": "Dobri Dol",
+    "stateId": 4655,
+    "latitude": "41.86520000",
+    "longitude": "20.89009000"
+  },
+  {
+    "id": 37523,
+    "name": "Dobrošte",
+    "stateId": 4362,
+    "latitude": "42.10333000",
+    "longitude": "21.07778000"
+  },
+  {
+    "id": 37528,
+    "name": "Dobruševo",
+    "stateId": 2678,
+    "latitude": "41.16861000",
+    "longitude": "21.48250000"
+  },
+  {
+    "id": 37689,
+    "name": "Dolna Banjica",
+    "stateId": 1419,
+    "latitude": "41.78611000",
+    "longitude": "20.90611000"
+  },
+  {
+    "id": 37692,
+    "name": "Dolneni",
+    "stateId": 1106,
+    "latitude": "41.42579000",
+    "longitude": "21.45402000"
+  },
+  {
+    "id": 37695,
+    "name": "Dolno Količani",
+    "stateId": 4179,
+    "latitude": "41.88639000",
+    "longitude": "21.48556000"
+  },
+  {
+    "id": 37696,
+    "name": "Dolno Orizari",
+    "stateId": 483,
+    "latitude": "41.05028000",
+    "longitude": "21.37944000"
+  },
+  {
+    "id": 37697,
+    "name": "Dolno Palčište",
+    "stateId": 508,
+    "latitude": "41.96859000",
+    "longitude": "20.92899000"
+  },
+  {
+    "id": 37698,
+    "name": "Dolno Srpci",
+    "stateId": 2678,
+    "latitude": "41.17480000",
+    "longitude": "21.36464000"
+  },
+  {
+    "id": 38442,
+    "name": "Dračevo",
+    "stateId": 1447,
+    "latitude": "41.93667000",
+    "longitude": "21.52167000"
+  },
+  {
+    "id": 38545,
+    "name": "Drugovo",
+    "stateId": 2019,
+    "latitude": "41.48490000",
+    "longitude": "20.92636000"
+  },
+  {
+    "id": 39497,
+    "name": "Džepčište",
+    "stateId": 4362,
+    "latitude": "42.03287000",
+    "longitude": "20.99817000"
+  },
+  {
+    "id": 44970,
+    "name": "Forino",
+    "stateId": 1419,
+    "latitude": "41.82334000",
+    "longitude": "20.96174000"
+  },
+  {
+    "id": 48312,
+    "name": "Gevgelija",
+    "stateId": 1371,
+    "latitude": "41.14166000",
+    "longitude": "22.50141000"
+  },
+  {
+    "id": 48783,
+    "name": "Gjorče Petro",
+    "stateId": 1392,
+    "latitude": "42.00778000",
+    "longitude": "21.35306000"
+  },
+  {
+    "id": 49309,
+    "name": "Golema Rečica",
+    "stateId": 4362,
+    "latitude": "41.98803000",
+    "longitude": "20.94517000"
+  },
+  {
+    "id": 49631,
+    "name": "Gorno Orizari",
+    "stateId": 483,
+    "latitude": "41.05188000",
+    "longitude": "21.34548000"
+  },
+  {
+    "id": 49632,
+    "name": "Gorno Orizari",
+    "stateId": 4590,
+    "latitude": "41.68583000",
+    "longitude": "21.73475000"
+  },
+  {
+    "id": 49653,
+    "name": "Gorobinci",
+    "stateId": 4229,
+    "latitude": "41.87507000",
+    "longitude": "21.87599000"
+  },
+  {
+    "id": 49776,
+    "name": "Gostivar",
+    "stateId": 1419,
+    "latitude": "41.79601000",
+    "longitude": "20.90819000"
+  },
+  {
+    "id": 50026,
+    "name": "Gradec",
+    "stateId": 508,
+    "latitude": "41.89611000",
+    "longitude": "20.90417000"
+  },
+  {
+    "id": 50027,
+    "name": "Gradec",
+    "stateId": 4627,
+    "latitude": "41.85068000",
+    "longitude": "22.51132000"
+  },
+  {
+    "id": 50043,
+    "name": "Gradsko",
+    "stateId": 1429,
+    "latitude": "41.57750000",
+    "longitude": "21.94278000"
+  },
+  {
+    "id": 50896,
+    "name": "Grnčari",
+    "stateId": 3625,
+    "latitude": "41.01722000",
+    "longitude": "21.05333000"
+  },
+  {
+    "id": 51304,
+    "name": "Grčec",
+    "stateId": 3896,
+    "latitude": "41.98806000",
+    "longitude": "21.33028000"
+  },
+  {
+    "id": 52008,
+    "name": "Gurgurnica",
+    "stateId": 587,
+    "latitude": "41.84508000",
+    "longitude": "21.10538000"
+  },
+  {
+    "id": 57940,
+    "name": "Ilinden",
+    "stateId": 1661,
+    "latitude": "41.99451000",
+    "longitude": "21.58002000"
+  },
+  {
+    "id": 58005,
+    "name": "Ilovica",
+    "stateId": 538,
+    "latitude": "41.47224000",
+    "longitude": "22.80480000"
+  },
+  {
+    "id": 59283,
+    "name": "Ivankovci",
+    "stateId": 4590,
+    "latitude": "41.84889000",
+    "longitude": "21.82028000"
+  },
+  {
+    "id": 59514,
+    "name": "Izvor",
+    "stateId": 2289,
+    "latitude": "42.20322000",
+    "longitude": "21.57812000"
+  },
+  {
+    "id": 59996,
+    "name": "Jankovec",
+    "stateId": 3625,
+    "latitude": "41.11028000",
+    "longitude": "21.01139000"
+  },
+  {
+    "id": 60374,
+    "name": "Jegunovce",
+    "stateId": 1749,
+    "latitude": "42.07238000",
+    "longitude": "21.12367000"
+  },
+  {
+    "id": 62017,
+    "name": "Kadino",
+    "stateId": 1661,
+    "latitude": "41.96889000",
+    "longitude": "21.60139000"
+  },
+  {
+    "id": 62496,
+    "name": "Kamenjane",
+    "stateId": 508,
+    "latitude": "41.94568000",
+    "longitude": "20.92894000"
+  },
+  {
+    "id": 62659,
+    "name": "Kanatlarci",
+    "stateId": 3391,
+    "latitude": "41.21028000",
+    "longitude": "21.50333000"
+  },
+  {
+    "id": 63014,
+    "name": "Karbinci",
+    "stateId": 1885,
+    "latitude": "41.81758000",
+    "longitude": "22.23529000"
+  },
+  {
+    "id": 63440,
+    "name": "Kavadarci",
+    "stateId": 1914,
+    "latitude": "41.43306000",
+    "longitude": "22.01194000"
+  },
+  {
+    "id": 65090,
+    "name": "Kisela Voda",
+    "stateId": 2009,
+    "latitude": "41.94889000",
+    "longitude": "21.50278000"
+  },
+  {
+    "id": 65252,
+    "name": "Kičevo",
+    "stateId": 2019,
+    "latitude": "41.51267000",
+    "longitude": "20.95886000"
+  },
+  {
+    "id": 65562,
+    "name": "Kochani",
+    "stateId": 2078,
+    "latitude": "41.91639000",
+    "longitude": "22.41278000"
+  },
+  {
+    "id": 65886,
+    "name": "Kondovo",
+    "stateId": 3896,
+    "latitude": "42.01167000",
+    "longitude": "21.31361000"
+  },
+  {
+    "id": 65961,
+    "name": "Konče",
+    "stateId": 2049,
+    "latitude": "41.49511000",
+    "longitude": "22.38359000"
+  },
+  {
+    "id": 66140,
+    "name": "Kosel",
+    "stateId": 3111,
+    "latitude": "41.17444000",
+    "longitude": "20.83556000"
+  },
+  {
+    "id": 66573,
+    "name": "Krani",
+    "stateId": 3625,
+    "latitude": "40.93934000",
+    "longitude": "21.10911000"
+  },
+  {
+    "id": 66746,
+    "name": "Kratovo",
+    "stateId": 2089,
+    "latitude": "42.07838000",
+    "longitude": "22.18070000"
+  },
+  {
+    "id": 66836,
+    "name": "Kriva Palanka",
+    "stateId": 2092,
+    "latitude": "42.20088000",
+    "longitude": "22.33244000"
+  },
+  {
+    "id": 66840,
+    "name": "Krivogashtani",
+    "stateId": 2093,
+    "latitude": "41.33611000",
+    "longitude": "21.33306000"
+  },
+  {
+    "id": 66936,
+    "name": "Krusevo",
+    "stateId": 2099,
+    "latitude": "41.36889000",
+    "longitude": "21.24889000"
+  },
+  {
+    "id": 66949,
+    "name": "Krušopek",
+    "stateId": 3896,
+    "latitude": "41.97833000",
+    "longitude": "21.35444000"
+  },
+  {
+    "id": 67139,
+    "name": "Kuklis",
+    "stateId": 4177,
+    "latitude": "41.40528000",
+    "longitude": "22.66528000"
+  },
+  {
+    "id": 67148,
+    "name": "Kukurečani",
+    "stateId": 483,
+    "latitude": "41.09562000",
+    "longitude": "21.32454000"
+  },
+  {
+    "id": 67220,
+    "name": "Kumanovo",
+    "stateId": 2108,
+    "latitude": "42.13222000",
+    "longitude": "21.71444000"
+  },
+  {
+    "id": 69322,
+    "name": "Labunista",
+    "stateId": 4176,
+    "latitude": "41.26861000",
+    "longitude": "20.59611000"
+  },
+  {
+    "id": 70624,
+    "name": "Larce",
+    "stateId": 4955,
+    "latitude": "41.93319000",
+    "longitude": "21.12628000"
+  },
+  {
+    "id": 71315,
+    "name": "Lažani",
+    "stateId": 1106,
+    "latitude": "41.44222000",
+    "longitude": "21.31583000"
+  },
+  {
+    "id": 73295,
+    "name": "Lipkovo",
+    "stateId": 2289,
+    "latitude": "42.15639000",
+    "longitude": "21.58528000"
+  },
+  {
+    "id": 73366,
+    "name": "Lisičani",
+    "stateId": 3315,
+    "latitude": "41.46139000",
+    "longitude": "21.05444000"
+  },
+  {
+    "id": 73610,
+    "name": "Ljubin",
+    "stateId": 1447,
+    "latitude": "42.00139000",
+    "longitude": "21.30917000"
+  },
+  {
+    "id": 73931,
+    "name": "Logovardi",
+    "stateId": 483,
+    "latitude": "41.03096000",
+    "longitude": "21.40967000"
+  },
+  {
+    "id": 73973,
+    "name": "Lojane",
+    "stateId": 2289,
+    "latitude": "42.23276000",
+    "longitude": "21.66550000"
+  },
+  {
+    "id": 74893,
+    "name": "Lozovo",
+    "stateId": 2376,
+    "latitude": "41.78389000",
+    "longitude": "21.90556000"
+  },
+  {
+    "id": 75223,
+    "name": "Lukovo",
+    "stateId": 4176,
+    "latitude": "41.35339000",
+    "longitude": "20.60637000"
+  },
+  {
+    "id": 76983,
+    "name": "Makedonska Kamenica",
+    "stateId": 2459,
+    "latitude": "42.02079000",
+    "longitude": "22.58760000"
+  },
+  {
+    "id": 76984,
+    "name": "Makedonski Brod",
+    "stateId": 2460,
+    "latitude": "41.51361000",
+    "longitude": "21.21528000"
+  },
+  {
+    "id": 78729,
+    "name": "Marino",
+    "stateId": 1661,
+    "latitude": "41.98776000",
+    "longitude": "21.59148000"
+  },
+  {
+    "id": 78852,
+    "name": "Markov Grad",
+    "stateId": 3391,
+    "latitude": "41.35722000",
+    "longitude": "21.53250000"
+  },
+  {
+    "id": 79667,
+    "name": "Matejce",
+    "stateId": 2289,
+    "latitude": "42.12556000",
+    "longitude": "21.59778000"
+  },
+  {
+    "id": 81555,
+    "name": "Mešeišta",
+    "stateId": 1030,
+    "latitude": "41.23814000",
+    "longitude": "20.77414000"
+  },
+  {
+    "id": 81985,
+    "name": "Miladinovci",
+    "stateId": 1661,
+    "latitude": "41.98029000",
+    "longitude": "21.64982000"
+  },
+  {
+    "id": 82040,
+    "name": "Miletino",
+    "stateId": 587,
+    "latitude": "41.90753000",
+    "longitude": "21.01601000"
+  },
+  {
+    "id": 82547,
+    "name": "Miravci",
+    "stateId": 1371,
+    "latitude": "41.30925000",
+    "longitude": "22.43641000"
+  },
+  {
+    "id": 82675,
+    "name": "Mislesevo",
+    "stateId": 4176,
+    "latitude": "41.18500000",
+    "longitude": "20.70861000"
+  },
+  {
+    "id": 83074,
+    "name": "Mogila",
+    "stateId": 2678,
+    "latitude": "41.10833000",
+    "longitude": "21.37861000"
+  },
+  {
+    "id": 84610,
+    "name": "Morani",
+    "stateId": 4179,
+    "latitude": "41.90978000",
+    "longitude": "21.54997000"
+  },
+  {
+    "id": 86369,
+    "name": "Murtino",
+    "stateId": 4177,
+    "latitude": "41.41537000",
+    "longitude": "22.72589000"
+  },
+  {
+    "id": 88261,
+    "name": "Negotino",
+    "stateId": 2878,
+    "latitude": "41.48456000",
+    "longitude": "22.09056000"
+  },
+  {
+    "id": 88262,
+    "name": "Negotino",
+    "stateId": 4655,
+    "latitude": "41.87792000",
+    "longitude": "20.88389000"
+  },
+  {
+    "id": 88427,
+    "name": "Nerašte",
+    "stateId": 4342,
+    "latitude": "42.10711000",
+    "longitude": "21.10810000"
+  },
+  {
+    "id": 90834,
+    "name": "Novaci",
+    "stateId": 3053,
+    "latitude": "41.04197000",
+    "longitude": "21.45866000"
+  },
+  {
+    "id": 90955,
+    "name": "Novo Selo",
+    "stateId": 3055,
+    "latitude": "41.41486000",
+    "longitude": "22.88164000"
+  },
+  {
+    "id": 92205,
+    "name": "Oblesevo",
+    "stateId": 4894,
+    "latitude": "41.88333000",
+    "longitude": "22.33389000"
+  },
+  {
+    "id": 92239,
+    "name": "Obršani",
+    "stateId": 2093,
+    "latitude": "41.28168000",
+    "longitude": "21.36150000"
+  },
+  {
+    "id": 92835,
+    "name": "Ohrid",
+    "stateId": 3111,
+    "latitude": "41.11722000",
+    "longitude": "20.80194000"
+  },
+  {
+    "id": 92836,
+    "name": "Ohrid Opština",
+    "stateId": 3111,
+    "latitude": "41.16667000",
+    "longitude": "20.83333000"
+  },
+  {
+    "id": 93124,
+    "name": "Oktisi",
+    "stateId": 4176,
+    "latitude": "41.23250000",
+    "longitude": "20.60722000"
+  },
+  {
+    "id": 93879,
+    "name": "Oraovica",
+    "stateId": 3564,
+    "latitude": "41.62583000",
+    "longitude": "22.51333000"
+  },
+  {
+    "id": 93883,
+    "name": "Orashac",
+    "stateId": 4342,
+    "latitude": "42.06250000",
+    "longitude": "21.79972000"
+  },
+  {
+    "id": 94260,
+    "name": "Orizari",
+    "stateId": 2078,
+    "latitude": "41.92262000",
+    "longitude": "22.44628000"
+  },
+  {
+    "id": 94851,
+    "name": "Otlja",
+    "stateId": 2289,
+    "latitude": "42.14315000",
+    "longitude": "21.58675000"
+  },
+  {
+    "id": 97789,
+    "name": "Pehčevo",
+    "stateId": 3250,
+    "latitude": "41.76226000",
+    "longitude": "22.88921000"
+  },
+  {
+    "id": 99782,
+    "name": "Pirava",
+    "stateId": 4559,
+    "latitude": "41.32042000",
+    "longitude": "22.53047000"
+  },
+  {
+    "id": 99814,
+    "name": "Pirok",
+    "stateId": 4362,
+    "latitude": "41.91083000",
+    "longitude": "20.91056000"
+  },
+  {
+    "id": 100154,
+    "name": "Plasnica",
+    "stateId": 3315,
+    "latitude": "41.46722000",
+    "longitude": "21.12306000"
+  },
+  {
+    "id": 100596,
+    "name": "Podareš",
+    "stateId": 3564,
+    "latitude": "41.61389000",
+    "longitude": "22.54222000"
+  },
+  {
+    "id": 101547,
+    "name": "Poroj",
+    "stateId": 4362,
+    "latitude": "42.02913000",
+    "longitude": "20.99266000"
+  },
+  {
+    "id": 103022,
+    "name": "Prilep",
+    "stateId": 3391,
+    "latitude": "41.34514000",
+    "longitude": "21.55504000"
+  },
+  {
+    "id": 103164,
+    "name": "Probishtip",
+    "stateId": 3398,
+    "latitude": "42.00306000",
+    "longitude": "22.17861000"
+  },
+  {
+    "id": 103952,
+    "name": "Pršovce",
+    "stateId": 4342,
+    "latitude": "42.08336000",
+    "longitude": "21.05994000"
+  },
+  {
+    "id": 105757,
+    "name": "Radishani",
+    "stateId": 639,
+    "latitude": "42.06111000",
+    "longitude": "21.44778000"
+  },
+  {
+    "id": 105777,
+    "name": "Radolista",
+    "stateId": 4176,
+    "latitude": "41.16417000",
+    "longitude": "20.62333000"
+  },
+  {
+    "id": 105797,
+    "name": "Radovis",
+    "stateId": 3564,
+    "latitude": "41.63833000",
+    "longitude": "22.46472000"
+  },
+  {
+    "id": 107233,
+    "name": "Resen",
+    "stateId": 3625,
+    "latitude": "41.08934000",
+    "longitude": "21.01092000"
+  },
+  {
+    "id": 108916,
+    "name": "Romanovci",
+    "stateId": 2108,
+    "latitude": "42.09472000",
+    "longitude": "21.69306000"
+  },
+  {
+    "id": 109296,
+    "name": "Rosoman",
+    "stateId": 3679,
+    "latitude": "41.51671000",
+    "longitude": "21.94585000"
+  },
+  {
+    "id": 109356,
+    "name": "Rostusa",
+    "stateId": 2569,
+    "latitude": "41.61000000",
+    "longitude": "20.60000000"
+  },
+  {
+    "id": 109964,
+    "name": "Rusinovo",
+    "stateId": 451,
+    "latitude": "41.68728000",
+    "longitude": "22.80849000"
+  },
+  {
+    "id": 112848,
+    "name": "Samokov",
+    "stateId": 2460,
+    "latitude": "41.68331000",
+    "longitude": "21.14625000"
+  },
+  {
+    "id": 118009,
+    "name": "Saraj",
+    "stateId": 1447,
+    "latitude": "42.00000000",
+    "longitude": "21.32778000"
+  },
+  {
+    "id": 119432,
+    "name": "Sedlarevo",
+    "stateId": 4955,
+    "latitude": "41.88306000",
+    "longitude": "21.12750000"
+  },
+  {
+    "id": 119597,
+    "name": "Sekirnik",
+    "stateId": 538,
+    "latitude": "41.43999000",
+    "longitude": "22.79536000"
+  },
+  {
+    "id": 119620,
+    "name": "Selce",
+    "stateId": 4362,
+    "latitude": "42.03482000",
+    "longitude": "20.94035000"
+  },
+  {
+    "id": 121497,
+    "name": "Shtip",
+    "stateId": 4941,
+    "latitude": "41.74583000",
+    "longitude": "22.19583000"
+  },
+  {
+    "id": 122637,
+    "name": "Skopje",
+    "stateId": 1894,
+    "latitude": "41.99646000",
+    "longitude": "21.43141000"
+  },
+  {
+    "id": 122736,
+    "name": "Slatino",
+    "stateId": 4342,
+    "latitude": "42.06784000",
+    "longitude": "21.03902000"
+  },
+  {
+    "id": 122775,
+    "name": "Slepče",
+    "stateId": 1042,
+    "latitude": "41.23333000",
+    "longitude": "21.17500000"
+  },
+  {
+    "id": 123562,
+    "name": "Sopotnica",
+    "stateId": 1042,
+    "latitude": "41.29594000",
+    "longitude": "21.15357000"
+  },
+  {
+    "id": 124539,
+    "name": "Srbica",
+    "stateId": 2019,
+    "latitude": "41.58672000",
+    "longitude": "21.03027000"
+  },
+  {
+    "id": 124540,
+    "name": "Srbinovo",
+    "stateId": 1419,
+    "latitude": "41.70586000",
+    "longitude": "20.95859000"
+  },
+  {
+    "id": 124552,
+    "name": "Sredno Konjare",
+    "stateId": 3279,
+    "latitude": "41.95743000",
+    "longitude": "21.71494000"
+  },
+  {
+    "id": 124908,
+    "name": "Star Dojran",
+    "stateId": 1101,
+    "latitude": "41.18647000",
+    "longitude": "22.72030000"
+  },
+  {
+    "id": 125462,
+    "name": "Stojakovo",
+    "stateId": 506,
+    "latitude": "41.15556000",
+    "longitude": "22.57750000"
+  },
+  {
+    "id": 125721,
+    "name": "Strelci",
+    "stateId": 2019,
+    "latitude": "41.54046000",
+    "longitude": "21.00563000"
+  },
+  {
+    "id": 125746,
+    "name": "Strimnica",
+    "stateId": 4955,
+    "latitude": "41.96719000",
+    "longitude": "21.03598000"
+  },
+  {
+    "id": 125782,
+    "name": "Struga",
+    "stateId": 4176,
+    "latitude": "41.17799000",
+    "longitude": "20.67784000"
+  },
+  {
+    "id": 125789,
+    "name": "Strumica",
+    "stateId": 4177,
+    "latitude": "41.43750000",
+    "longitude": "22.64333000"
+  },
+  {
+    "id": 125857,
+    "name": "Studeničane",
+    "stateId": 4179,
+    "latitude": "41.92208000",
+    "longitude": "21.53483000"
+  },
+  {
+    "id": 126763,
+    "name": "Sušica",
+    "stateId": 3055,
+    "latitude": "41.43982000",
+    "longitude": "22.83676000"
+  },
+  {
+    "id": 126808,
+    "name": "Sveti Nikole",
+    "stateId": 4229,
+    "latitude": "41.86956000",
+    "longitude": "21.95274000"
+  },
+  {
+    "id": 129467,
+    "name": "Tearce",
+    "stateId": 4342,
+    "latitude": "42.07666000",
+    "longitude": "21.05310000"
+  },
+  {
+    "id": 130276,
+    "name": "Tetovo",
+    "stateId": 4362,
+    "latitude": "42.00973000",
+    "longitude": "20.97155000"
+  },
+  {
+    "id": 131987,
+    "name": "Topolčani",
+    "stateId": 3391,
+    "latitude": "41.22772000",
+    "longitude": "21.43113000"
+  },
+  {
+    "id": 133590,
+    "name": "Tuin",
+    "stateId": 2019,
+    "latitude": "41.61944000",
+    "longitude": "21.04528000"
+  },
+  {
+    "id": 135450,
+    "name": "Usje",
+    "stateId": 1447,
+    "latitude": "41.95871000",
+    "longitude": "21.45835000"
+  },
+  {
+    "id": 135841,
+    "name": "Vaksince",
+    "stateId": 2289,
+    "latitude": "42.20611000",
+    "longitude": "21.66306000"
+  },
+  {
+    "id": 135867,
+    "name": "Valandovo",
+    "stateId": 4559,
+    "latitude": "41.31744000",
+    "longitude": "22.56002000"
+  },
+  {
+    "id": 136738,
+    "name": "Vasilevo",
+    "stateId": 4580,
+    "latitude": "41.47408000",
+    "longitude": "22.64301000"
+  },
+  {
+    "id": 136778,
+    "name": "Vataša",
+    "stateId": 1914,
+    "latitude": "41.41694000",
+    "longitude": "22.01889000"
+  },
+  {
+    "id": 136976,
+    "name": "Veles",
+    "stateId": 4590,
+    "latitude": "41.71556000",
+    "longitude": "21.77556000"
+  },
+  {
+    "id": 136978,
+    "name": "Velesta",
+    "stateId": 4176,
+    "latitude": "41.24083000",
+    "longitude": "20.64389000"
+  },
+  {
+    "id": 137025,
+    "name": "Veljusa",
+    "stateId": 4177,
+    "latitude": "41.47611000",
+    "longitude": "22.56750000"
+  },
+  {
+    "id": 137627,
+    "name": "Vevčani",
+    "stateId": 4606,
+    "latitude": "41.24056000",
+    "longitude": "20.59333000"
+  },
+  {
+    "id": 139269,
+    "name": "Vinica",
+    "stateId": 4627,
+    "latitude": "41.88278000",
+    "longitude": "22.50917000"
+  },
+  {
+    "id": 139617,
+    "name": "Vladimirovo",
+    "stateId": 451,
+    "latitude": "41.71000000",
+    "longitude": "22.79278000"
+  },
+  {
+    "id": 139981,
+    "name": "Vraneštica",
+    "stateId": 2019,
+    "latitude": "41.44496000",
+    "longitude": "21.02683000"
+  },
+  {
+    "id": 139992,
+    "name": "Vrapčište",
+    "stateId": 4655,
+    "latitude": "41.83439000",
+    "longitude": "20.88563000"
+  },
+  {
+    "id": 139996,
+    "name": "Vratnica",
+    "stateId": 1749,
+    "latitude": "42.14333000",
+    "longitude": "21.11694000"
+  },
+  {
+    "id": 140045,
+    "name": "Vrutok",
+    "stateId": 1419,
+    "latitude": "41.76861000",
+    "longitude": "20.83917000"
+  },
+  {
+    "id": 145388,
+    "name": "Zajas",
+    "stateId": 2019,
+    "latitude": "41.60722000",
+    "longitude": "20.93833000"
+  },
+  {
+    "id": 145785,
+    "name": "Zelenikovo",
+    "stateId": 4844,
+    "latitude": "41.88413000",
+    "longitude": "21.58848000"
+  },
+  {
+    "id": 145800,
+    "name": "Zelino",
+    "stateId": 4955,
+    "latitude": "41.98028000",
+    "longitude": "21.06417000"
+  },
+  {
+    "id": 146201,
+    "name": "Zletovo",
+    "stateId": 3398,
+    "latitude": "41.98861000",
+    "longitude": "22.23611000"
+  },
+  {
+    "id": 146352,
+    "name": "Zrnovci",
+    "stateId": 4864,
+    "latitude": "41.85417000",
+    "longitude": "22.44444000"
+  },
+  {
+    "id": 147251,
+    "name": "Čair",
+    "stateId": 4889,
+    "latitude": "42.01528000",
+    "longitude": "21.44111000"
+  },
+  {
+    "id": 147262,
+    "name": "Čaška",
+    "stateId": 4890,
+    "latitude": "41.65056000",
+    "longitude": "21.66222000"
+  },
+  {
+    "id": 147272,
+    "name": "Čelopek",
+    "stateId": 587,
+    "latitude": "41.93167000",
+    "longitude": "21.01333000"
+  },
+  {
+    "id": 147306,
+    "name": "Češinovo",
+    "stateId": 4894,
+    "latitude": "41.87148000",
+    "longitude": "22.28961000"
+  },
+  {
+    "id": 147727,
+    "name": "Šipkovica",
+    "stateId": 4362,
+    "latitude": "42.03500000",
+    "longitude": "20.91556000"
+  },
+  {
+    "id": 147773,
+    "name": "Šuto Orizare",
+    "stateId": 4945,
+    "latitude": "42.04000000",
+    "longitude": "21.42500000"
+  },
+  {
+    "id": 147881,
+    "name": "Žitoše",
+    "stateId": 1106,
+    "latitude": "41.41991000",
+    "longitude": "21.29078000"
+  },
+  {
+    "id": 147953,
+    "name": "Јурумлери",
+    "stateId": 1661,
+    "latitude": "41.96722000",
+    "longitude": "21.55694000"
+  },
+  {
+    "id": 147954,
+    "name": "Арачиново",
+    "stateId": 219,
+    "latitude": "42.02639000",
+    "longitude": "21.56194000"
+  },
+  {
+    "id": 147957,
+    "name": "Идризово",
+    "stateId": 1661,
+    "latitude": "41.96083000",
+    "longitude": "21.57556000"
+  },
+  {
+    "id": 147958,
+    "name": "Клечовце",
+    "stateId": 2093,
+    "latitude": "42.11611000",
+    "longitude": "21.85722000"
+  },
+  {
+    "id": 147960,
+    "name": "Петровец",
+    "stateId": 3279,
+    "latitude": "41.93889000",
+    "longitude": "21.61500000"
+  },
+  {
+    "id": 147961,
+    "name": "Ранковце",
+    "stateId": 3579,
+    "latitude": "42.16964000",
+    "longitude": "22.11617000"
+  },
+  {
+    "id": 147962,
+    "name": "Слупчане",
+    "stateId": 2289,
+    "latitude": "42.17333000",
+    "longitude": "21.62778000"
+  },
+  {
+    "id": 147963,
+    "name": "Сопиште",
+    "stateId": 4083,
+    "latitude": "41.95472000",
+    "longitude": "21.42750000"
+  },
+  {
+    "id": 147964,
+    "name": "Старо Нагоричане",
+    "stateId": 4164,
+    "latitude": "42.19806000",
+    "longitude": "21.82861000"
+  },
+  {
+    "id": 147965,
+    "name": "Чучер - Сандево",
+    "stateId": 4898,
+    "latitude": "42.10361000",
+    "longitude": "21.38222000"
+  }
+]

@@ -1,0 +1,982 @@
+[
+  {
+    "id": 117,
+    "name": "Abaí",
+    "stateId": 665,
+    "latitude": "-26.03333000",
+    "longitude": "-55.93333000"
+  },
+  {
+    "id": 391,
+    "name": "Acahay",
+    "stateId": 3225,
+    "latitude": "-25.91667000",
+    "longitude": "-57.15000000"
+  },
+  {
+    "id": 3557,
+    "name": "Altos",
+    "stateId": 945,
+    "latitude": "-25.26263000",
+    "longitude": "-57.25443000"
+  },
+  {
+    "id": 5547,
+    "name": "Antequera",
+    "stateId": 3849,
+    "latitude": "-24.08526000",
+    "longitude": "-57.20221000"
+  },
+  {
+    "id": 6376,
+    "name": "Areguá",
+    "stateId": 766,
+    "latitude": "-25.31250000",
+    "longitude": "-57.38472000"
+  },
+  {
+    "id": 6802,
+    "name": "Arquitecto Tomás Romero Pereira",
+    "stateId": 1716,
+    "latitude": "-26.48333000",
+    "longitude": "-55.25000000"
+  },
+  {
+    "id": 6900,
+    "name": "Arroyos y Esteros",
+    "stateId": 945,
+    "latitude": "-25.05478000",
+    "longitude": "-57.09873000"
+  },
+  {
+    "id": 7826,
+    "name": "Atyrá",
+    "stateId": 945,
+    "latitude": "-25.27876000",
+    "longitude": "-57.17192000"
+  },
+  {
+    "id": 12454,
+    "name": "Bella Vista",
+    "stateId": 146,
+    "latitude": "-22.13333000",
+    "longitude": "-56.51667000"
+  },
+  {
+    "id": 12455,
+    "name": "Bella Vista",
+    "stateId": 1716,
+    "latitude": "-27.05000000",
+    "longitude": "-55.55000000"
+  },
+  {
+    "id": 12800,
+    "name": "Belén",
+    "stateId": 934,
+    "latitude": "-23.46611000",
+    "longitude": "-57.26194000"
+  },
+  {
+    "id": 12992,
+    "name": "Benjamín Aceval",
+    "stateId": 3383,
+    "latitude": "-24.96667000",
+    "longitude": "-57.56667000"
+  },
+  {
+    "id": 18618,
+    "name": "Buena Vista",
+    "stateId": 665,
+    "latitude": "-26.18387000",
+    "longitude": "-56.08171000"
+  },
+  {
+    "id": 20104,
+    "name": "Caacupé",
+    "stateId": 945,
+    "latitude": "-25.38575000",
+    "longitude": "-57.14217000"
+  },
+  {
+    "id": 20105,
+    "name": "Caaguazú",
+    "stateId": 664,
+    "latitude": "-25.47104000",
+    "longitude": "-56.01603000"
+  },
+  {
+    "id": 20108,
+    "name": "Caapucú",
+    "stateId": 3225,
+    "latitude": "-26.23523000",
+    "longitude": "-57.18212000"
+  },
+  {
+    "id": 20111,
+    "name": "Caazapá",
+    "stateId": 665,
+    "latitude": "-26.19583000",
+    "longitude": "-56.36806000"
+  },
+  {
+    "id": 22058,
+    "name": "Capiatá",
+    "stateId": 766,
+    "latitude": "-25.35520000",
+    "longitude": "-57.44545000"
+  },
+  {
+    "id": 22093,
+    "name": "Capitán Bado",
+    "stateId": 146,
+    "latitude": "-23.26667000",
+    "longitude": "-55.53333000"
+  },
+  {
+    "id": 22096,
+    "name": "Capitán Miranda",
+    "stateId": 1716,
+    "latitude": "-27.20000000",
+    "longitude": "-55.80000000"
+  },
+  {
+    "id": 22097,
+    "name": "Capitán Pablo Lagerenza",
+    "stateId": 140,
+    "latitude": "-19.91667000",
+    "longitude": "-60.78333000"
+  },
+  {
+    "id": 22112,
+    "name": "Capiíbary",
+    "stateId": 3849,
+    "latitude": "-24.80000000",
+    "longitude": "-56.03333000"
+  },
+  {
+    "id": 22231,
+    "name": "Caraguatay",
+    "stateId": 945,
+    "latitude": "-25.23844000",
+    "longitude": "-56.82693000"
+  },
+  {
+    "id": 22255,
+    "name": "Carapeguá",
+    "stateId": 3225,
+    "latitude": "-25.80000000",
+    "longitude": "-57.23333000"
+  },
+  {
+    "id": 22282,
+    "name": "Carayaó",
+    "stateId": 664,
+    "latitude": "-25.19750000",
+    "longitude": "-56.39878000"
+  },
+  {
+    "id": 22568,
+    "name": "Carmen del Paraná",
+    "stateId": 1716,
+    "latitude": "-27.22232000",
+    "longitude": "-56.15243000"
+  },
+  {
+    "id": 24202,
+    "name": "Cecilio Baez",
+    "stateId": 664,
+    "latitude": "-25.07158000",
+    "longitude": "-56.24386000"
+  },
+  {
+    "id": 24253,
+    "name": "Cedrales",
+    "stateId": 141,
+    "latitude": "-25.65668000",
+    "longitude": "-54.72272000"
+  },
+  {
+    "id": 24683,
+    "name": "Cerrito",
+    "stateId": 4879,
+    "latitude": "-27.34215000",
+    "longitude": "-57.64119000"
+  },
+  {
+    "id": 27619,
+    "name": "Ciudad del Este",
+    "stateId": 141,
+    "latitude": "-25.50972000",
+    "longitude": "-54.61111000"
+  },
+  {
+    "id": 28765,
+    "name": "Colonia Carlos Antonio López",
+    "stateId": 1716,
+    "latitude": "-26.39853000",
+    "longitude": "-54.75690000"
+  },
+  {
+    "id": 28766,
+    "name": "Colonia Catuete",
+    "stateId": 695,
+    "latitude": "-24.13333000",
+    "longitude": "-54.61667000"
+  },
+  {
+    "id": 28791,
+    "name": "Colonia General Alfredo Stroessner",
+    "stateId": 664,
+    "latitude": "-25.36395000",
+    "longitude": "-55.70690000"
+  },
+  {
+    "id": 28822,
+    "name": "Colonia Mauricio José Troche",
+    "stateId": 1460,
+    "latitude": "-25.56667000",
+    "longitude": "-56.28333000"
+  },
+  {
+    "id": 28823,
+    "name": "Colonia Menno",
+    "stateId": 528,
+    "latitude": "-22.36667000",
+    "longitude": "-59.81667000"
+  },
+  {
+    "id": 28827,
+    "name": "Colonia Minga Porá",
+    "stateId": 141,
+    "latitude": "-24.86667000",
+    "longitude": "-54.90000000"
+  },
+  {
+    "id": 28835,
+    "name": "Colonia Neuland",
+    "stateId": 528,
+    "latitude": "-22.66667000",
+    "longitude": "-60.11667000"
+  },
+  {
+    "id": 28840,
+    "name": "Colonia Nueva Germania",
+    "stateId": 3849,
+    "latitude": "-23.91137000",
+    "longitude": "-56.70091000"
+  },
+  {
+    "id": 28870,
+    "name": "Colonia San Lorenzo",
+    "stateId": 1716,
+    "latitude": "-26.49324000",
+    "longitude": "-54.79989000"
+  },
+  {
+    "id": 32035,
+    "name": "Concepción",
+    "stateId": 934,
+    "latitude": "-23.39985000",
+    "longitude": "-57.43236000"
+  },
+  {
+    "id": 32789,
+    "name": "Coronel Martínez",
+    "stateId": 1460,
+    "latitude": "-25.75862000",
+    "longitude": "-56.61677000"
+  },
+  {
+    "id": 32792,
+    "name": "Coronel Oviedo",
+    "stateId": 664,
+    "latitude": "-25.44444000",
+    "longitude": "-56.44028000"
+  },
+  {
+    "id": 32821,
+    "name": "Corpus Christi",
+    "stateId": 695,
+    "latitude": "-24.08040000",
+    "longitude": "-54.93933000"
+  },
+  {
+    "id": 37562,
+    "name": "Doctor Juan León Mallorquín",
+    "stateId": 141,
+    "latitude": "-25.43053000",
+    "longitude": "-55.25412000"
+  },
+  {
+    "id": 37563,
+    "name": "Doctor Juan Manuel Frutos",
+    "stateId": 664,
+    "latitude": "-25.38380000",
+    "longitude": "-55.83215000"
+  },
+  {
+    "id": 39997,
+    "name": "Edelira",
+    "stateId": 1716,
+    "latitude": "-26.76734000",
+    "longitude": "-55.27872000"
+  },
+  {
+    "id": 41817,
+    "name": "Emboscada",
+    "stateId": 945,
+    "latitude": "-25.15000000",
+    "longitude": "-57.35000000"
+  },
+  {
+    "id": 41957,
+    "name": "Encarnación",
+    "stateId": 1716,
+    "latitude": "-27.33056000",
+    "longitude": "-55.86667000"
+  },
+  {
+    "id": 42993,
+    "name": "Eusebio Ayala",
+    "stateId": 945,
+    "latitude": "-25.38276000",
+    "longitude": "-56.96088000"
+  },
+  {
+    "id": 43963,
+    "name": "Fernando de la Mora",
+    "stateId": 766,
+    "latitude": "-25.33860000",
+    "longitude": "-57.52167000"
+  },
+  {
+    "id": 44165,
+    "name": "Filadelfia",
+    "stateId": 528,
+    "latitude": "-22.33936000",
+    "longitude": "-60.03157000"
+  },
+  {
+    "id": 45399,
+    "name": "Fram",
+    "stateId": 1716,
+    "latitude": "-26.98333000",
+    "longitude": "-55.88333000"
+  },
+  {
+    "id": 46186,
+    "name": "Fuerte Olimpo",
+    "stateId": 140,
+    "latitude": "-21.04153000",
+    "longitude": "-57.87377000"
+  },
+  {
+    "id": 47965,
+    "name": "General Artigas",
+    "stateId": 1716,
+    "latitude": "-26.93522000",
+    "longitude": "-56.22168000"
+  },
+  {
+    "id": 47978,
+    "name": "General Delgado",
+    "stateId": 1716,
+    "latitude": "-27.09046000",
+    "longitude": "-56.52474000"
+  },
+  {
+    "id": 47979,
+    "name": "General Elizardo Aquino",
+    "stateId": 3849,
+    "latitude": "-24.44417000",
+    "longitude": "-56.90061000"
+  },
+  {
+    "id": 47992,
+    "name": "General Higinio Morínigo",
+    "stateId": 665,
+    "latitude": "-25.95000000",
+    "longitude": "-55.91667000"
+  },
+  {
+    "id": 47994,
+    "name": "General José Eduvigis Díaz",
+    "stateId": 4879,
+    "latitude": "-27.20136000",
+    "longitude": "-58.36740000"
+  },
+  {
+    "id": 51497,
+    "name": "Guarambaré",
+    "stateId": 766,
+    "latitude": "-25.49096000",
+    "longitude": "-57.45567000"
+  },
+  {
+    "id": 51607,
+    "name": "Guayaybi",
+    "stateId": 3849,
+    "latitude": "-24.53333000",
+    "longitude": "-56.43333000"
+  },
+  {
+    "id": 55380,
+    "name": "Hohenau",
+    "stateId": 1716,
+    "latitude": "-27.07315000",
+    "longitude": "-55.64247000"
+  },
+  {
+    "id": 55971,
+    "name": "Horqueta",
+    "stateId": 934,
+    "latitude": "-23.34278000",
+    "longitude": "-57.05972000"
+  },
+  {
+    "id": 58204,
+    "name": "Independencia",
+    "stateId": 1460,
+    "latitude": "-25.69100000",
+    "longitude": "-56.26781000"
+  },
+  {
+    "id": 58860,
+    "name": "Isla Pucú",
+    "stateId": 945,
+    "latitude": "-25.30853000",
+    "longitude": "-56.89986000"
+  },
+  {
+    "id": 59022,
+    "name": "Itacurubí de la Cordillera",
+    "stateId": 945,
+    "latitude": "-25.46158000",
+    "longitude": "-56.85333000"
+  },
+  {
+    "id": 59023,
+    "name": "Itacurubí del Rosario",
+    "stateId": 3849,
+    "latitude": "-24.53541000",
+    "longitude": "-56.82352000"
+  },
+  {
+    "id": 59055,
+    "name": "Itakyry",
+    "stateId": 141,
+    "latitude": "-24.98611000",
+    "longitude": "-55.14963000"
+  },
+  {
+    "id": 59131,
+    "name": "Itapé",
+    "stateId": 1460,
+    "latitude": "-25.85172000",
+    "longitude": "-56.61385000"
+  },
+  {
+    "id": 59160,
+    "name": "Itauguá",
+    "stateId": 766,
+    "latitude": "-25.39258000",
+    "longitude": "-57.35421000"
+  },
+  {
+    "id": 59232,
+    "name": "Iturbe",
+    "stateId": 1460,
+    "latitude": "-26.05508000",
+    "longitude": "-56.48463000"
+  },
+  {
+    "id": 59251,
+    "name": "Itá",
+    "stateId": 766,
+    "latitude": "-25.50054000",
+    "longitude": "-57.36717000"
+  },
+  {
+    "id": 60520,
+    "name": "Jesús",
+    "stateId": 1716,
+    "latitude": "-27.05598000",
+    "longitude": "-55.74130000"
+  },
+  {
+    "id": 61202,
+    "name": "Juan de Ayolas",
+    "stateId": 2666,
+    "latitude": "-27.38662000",
+    "longitude": "-56.84724000"
+  },
+  {
+    "id": 68166,
+    "name": "La Colmena",
+    "stateId": 3225,
+    "latitude": "-25.88627000",
+    "longitude": "-56.84084000"
+  },
+  {
+    "id": 68777,
+    "name": "La Paloma",
+    "stateId": 695,
+    "latitude": "-24.12957000",
+    "longitude": "-54.61376000"
+  },
+  {
+    "id": 70072,
+    "name": "Lambaré",
+    "stateId": 766,
+    "latitude": "-25.34682000",
+    "longitude": "-57.60647000"
+  },
+  {
+    "id": 72899,
+    "name": "Lima",
+    "stateId": 3849,
+    "latitude": "-23.88327000",
+    "longitude": "-56.48217000"
+  },
+  {
+    "id": 73003,
+    "name": "Limpio",
+    "stateId": 766,
+    "latitude": "-25.16611000",
+    "longitude": "-57.48562000"
+  },
+  {
+    "id": 78587,
+    "name": "Mariano Roque Alonso",
+    "stateId": 766,
+    "latitude": "-25.20791000",
+    "longitude": "-57.53202000"
+  },
+  {
+    "id": 80239,
+    "name": "Mbocayaty",
+    "stateId": 1460,
+    "latitude": "-25.71938000",
+    "longitude": "-56.42179000"
+  },
+  {
+    "id": 80249,
+    "name": "Mbutuý",
+    "stateId": 664,
+    "latitude": "-24.97518000",
+    "longitude": "-56.30927000"
+  },
+  {
+    "id": 80250,
+    "name": "Mbuyapey",
+    "stateId": 3225,
+    "latitude": "-26.21921000",
+    "longitude": "-56.75777000"
+  },
+  {
+    "id": 87485,
+    "name": "Nanawua",
+    "stateId": 3383,
+    "latitude": "-25.27930000",
+    "longitude": "-57.70307000"
+  },
+  {
+    "id": 87657,
+    "name": "Naranjal",
+    "stateId": 141,
+    "latitude": "-25.96667000",
+    "longitude": "-55.18333000"
+  },
+  {
+    "id": 87850,
+    "name": "Natalicio Talavera",
+    "stateId": 1460,
+    "latitude": "-25.63333000",
+    "longitude": "-56.30000000"
+  },
+  {
+    "id": 87851,
+    "name": "Natalio",
+    "stateId": 1716,
+    "latitude": "-26.75702000",
+    "longitude": "-55.13777000"
+  },
+  {
+    "id": 88363,
+    "name": "Nemby",
+    "stateId": 766,
+    "latitude": "-25.39490000",
+    "longitude": "-57.53574000"
+  },
+  {
+    "id": 91344,
+    "name": "Nueva Esperanza",
+    "stateId": 695,
+    "latitude": "-24.50760000",
+    "longitude": "-54.85510000"
+  },
+  {
+    "id": 91356,
+    "name": "Nueva Italia",
+    "stateId": 766,
+    "latitude": "-25.61080000",
+    "longitude": "-57.46563000"
+  },
+  {
+    "id": 92206,
+    "name": "Obligado",
+    "stateId": 1716,
+    "latitude": "-27.03333000",
+    "longitude": "-55.63333000"
+  },
+  {
+    "id": 96579,
+    "name": "Paraguarí",
+    "stateId": 3225,
+    "latitude": "-25.62083000",
+    "longitude": "-57.14722000"
+  },
+  {
+    "id": 97731,
+    "name": "Pedro Juan Caballero",
+    "stateId": 146,
+    "latitude": "-22.54722000",
+    "longitude": "-55.73333000"
+  },
+  {
+    "id": 99354,
+    "name": "Pilar",
+    "stateId": 4879,
+    "latitude": "-26.85874000",
+    "longitude": "-58.30639000"
+  },
+  {
+    "id": 99775,
+    "name": "Pirapó",
+    "stateId": 1716,
+    "latitude": "-26.86012000",
+    "longitude": "-55.54357000"
+  },
+  {
+    "id": 99785,
+    "name": "Pirayú",
+    "stateId": 3225,
+    "latitude": "-25.48406000",
+    "longitude": "-57.23490000"
+  },
+  {
+    "id": 99799,
+    "name": "Piribebuy",
+    "stateId": 945,
+    "latitude": "-25.46498000",
+    "longitude": "-57.04183000"
+  },
+  {
+    "id": 102883,
+    "name": "Presidente Franco",
+    "stateId": 141,
+    "latitude": "-25.56384000",
+    "longitude": "-54.61097000"
+  },
+  {
+    "id": 104200,
+    "name": "Puerto Mayor Otaño",
+    "stateId": 1716,
+    "latitude": "-26.40000000",
+    "longitude": "-54.70000000"
+  },
+  {
+    "id": 104224,
+    "name": "Puerto Rosario",
+    "stateId": 3849,
+    "latitude": "-24.44127000",
+    "longitude": "-57.14272000"
+  },
+  {
+    "id": 105404,
+    "name": "Quiindy",
+    "stateId": 3225,
+    "latitude": "-25.97606000",
+    "longitude": "-57.23353000"
+  },
+  {
+    "id": 107204,
+    "name": "Repatriación",
+    "stateId": 664,
+    "latitude": "-25.53333000",
+    "longitude": "-55.95000000"
+  },
+  {
+    "id": 112658,
+    "name": "Salto del Guairá",
+    "stateId": 695,
+    "latitude": "-24.06250000",
+    "longitude": "-54.30694000"
+  },
+  {
+    "id": 112969,
+    "name": "San Alberto",
+    "stateId": 141,
+    "latitude": "-24.96667000",
+    "longitude": "-54.90000000"
+  },
+  {
+    "id": 113070,
+    "name": "San Antonio",
+    "stateId": 766,
+    "latitude": "-25.42126000",
+    "longitude": "-57.54725000"
+  },
+  {
+    "id": 113280,
+    "name": "San Bernardino",
+    "stateId": 945,
+    "latitude": "-25.31067000",
+    "longitude": "-57.29628000"
+  },
+  {
+    "id": 113422,
+    "name": "San Cosme y Damián",
+    "stateId": 1716,
+    "latitude": "-27.31741000",
+    "longitude": "-56.33087000"
+  },
+  {
+    "id": 113986,
+    "name": "San Isidro de Curuguaty",
+    "stateId": 695,
+    "latitude": "-24.47184000",
+    "longitude": "-55.69227000"
+  },
+  {
+    "id": 114065,
+    "name": "San Joaquín",
+    "stateId": 664,
+    "latitude": "-25.02853000",
+    "longitude": "-56.04280000"
+  },
+  {
+    "id": 114116,
+    "name": "San José",
+    "stateId": 664,
+    "latitude": "-25.53333000",
+    "longitude": "-56.73333000"
+  },
+  {
+    "id": 114319,
+    "name": "San Juan Bautista",
+    "stateId": 2666,
+    "latitude": "-26.66944000",
+    "longitude": "-57.14583000"
+  },
+  {
+    "id": 114377,
+    "name": "San Juan Nepomuceno",
+    "stateId": 665,
+    "latitude": "-26.11229000",
+    "longitude": "-55.93861000"
+  },
+  {
+    "id": 114473,
+    "name": "San Juan del Paraná",
+    "stateId": 1716,
+    "latitude": "-27.30168000",
+    "longitude": "-55.96509000"
+  },
+  {
+    "id": 114536,
+    "name": "San Lorenzo",
+    "stateId": 766,
+    "latitude": "-25.33968000",
+    "longitude": "-57.50879000"
+  },
+  {
+    "id": 114925,
+    "name": "San Miguel",
+    "stateId": 2666,
+    "latitude": "-26.50000000",
+    "longitude": "-57.05000000"
+  },
+  {
+    "id": 115224,
+    "name": "San Patricio",
+    "stateId": 2666,
+    "latitude": "-26.96667000",
+    "longitude": "-56.81667000"
+  },
+  {
+    "id": 115379,
+    "name": "San Pedro de Ycuamandiyú",
+    "stateId": 3849,
+    "latitude": "-24.08534000",
+    "longitude": "-57.08745000"
+  },
+  {
+    "id": 115391,
+    "name": "San Pedro del Paraná",
+    "stateId": 1716,
+    "latitude": "-26.83268000",
+    "longitude": "-56.20575000"
+  },
+  {
+    "id": 116767,
+    "name": "Santa Elena",
+    "stateId": 945,
+    "latitude": "-25.41327000",
+    "longitude": "-56.79708000"
+  },
+  {
+    "id": 117066,
+    "name": "Santa María",
+    "stateId": 2666,
+    "latitude": "-26.78333000",
+    "longitude": "-56.93333000"
+  },
+  {
+    "id": 117258,
+    "name": "Santa Rita",
+    "stateId": 141,
+    "latitude": "-25.78333000",
+    "longitude": "-55.06667000"
+  },
+  {
+    "id": 117312,
+    "name": "Santa Rosa Misiones",
+    "stateId": 2666,
+    "latitude": "-26.88730000",
+    "longitude": "-56.84905000"
+  },
+  {
+    "id": 117487,
+    "name": "Santiago",
+    "stateId": 2666,
+    "latitude": "-27.14310000",
+    "longitude": "-56.76803000"
+  },
+  {
+    "id": 117974,
+    "name": "Sapucaí",
+    "stateId": 3225,
+    "latitude": "-25.66652000",
+    "longitude": "-56.95215000"
+  },
+  {
+    "id": 128059,
+    "name": "Tacuatí",
+    "stateId": 3849,
+    "latitude": "-23.45000000",
+    "longitude": "-56.58333000"
+  },
+  {
+    "id": 131543,
+    "name": "Tobatí",
+    "stateId": 945,
+    "latitude": "-25.26111000",
+    "longitude": "-57.08329000"
+  },
+  {
+    "id": 133003,
+    "name": "Trinidad",
+    "stateId": 1716,
+    "latitude": "-27.11667000",
+    "longitude": "-55.78333000"
+  },
+  {
+    "id": 135027,
+    "name": "Unión",
+    "stateId": 3849,
+    "latitude": "-24.80790000",
+    "longitude": "-56.52148000"
+  },
+  {
+    "id": 138239,
+    "name": "Villa Elisa",
+    "stateId": 766,
+    "latitude": "-25.36760000",
+    "longitude": "-57.59274000"
+  },
+  {
+    "id": 138247,
+    "name": "Villa Florida",
+    "stateId": 2666,
+    "latitude": "-26.38333000",
+    "longitude": "-57.15000000"
+  },
+  {
+    "id": 138266,
+    "name": "Villa Hayes",
+    "stateId": 3383,
+    "latitude": "-25.09306000",
+    "longitude": "-57.52361000"
+  },
+  {
+    "id": 138890,
+    "name": "Villarrica",
+    "stateId": 1460,
+    "latitude": "-25.74946000",
+    "longitude": "-56.43518000"
+  },
+  {
+    "id": 144295,
+    "name": "Yaguarón",
+    "stateId": 3225,
+    "latitude": "-25.56139000",
+    "longitude": "-57.28343000"
+  },
+  {
+    "id": 144597,
+    "name": "Yataity del Norte",
+    "stateId": 3849,
+    "latitude": "-24.83333000",
+    "longitude": "-56.35000000"
+  },
+  {
+    "id": 144660,
+    "name": "Ybycuí",
+    "stateId": 3225,
+    "latitude": "-26.01667000",
+    "longitude": "-57.05000000"
+  },
+  {
+    "id": 144697,
+    "name": "Yegros",
+    "stateId": 665,
+    "latitude": "-26.45000000",
+    "longitude": "-56.40000000"
+  },
+  {
+    "id": 144877,
+    "name": "Ygatimi",
+    "stateId": 695,
+    "latitude": "-24.12371000",
+    "longitude": "-55.64418000"
+  },
+  {
+    "id": 144879,
+    "name": "Yguazú",
+    "stateId": 141,
+    "latitude": "-25.46187000",
+    "longitude": "-55.00007000"
+  },
+  {
+    "id": 144880,
+    "name": "Yhú",
+    "stateId": 664,
+    "latitude": "-25.05784000",
+    "longitude": "-55.92267000"
+  },
+  {
+    "id": 145053,
+    "name": "Ypacarai",
+    "stateId": 766,
+    "latitude": "-25.40777000",
+    "longitude": "-57.28889000"
+  },
+  {
+    "id": 145185,
+    "name": "Yuty",
+    "stateId": 665,
+    "latitude": "-26.61471000",
+    "longitude": "-56.24607000"
+  }
+]

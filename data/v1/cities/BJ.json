@@ -1,0 +1,254 @@
+[
+  {
+    "id": 264,
+    "name": "Abomey",
+    "stateId": 4861,
+    "latitude": "7.18286000",
+    "longitude": "1.99119000"
+  },
+  {
+    "id": 265,
+    "name": "Abomey-Calavi",
+    "stateId": 268,
+    "latitude": "6.44852000",
+    "longitude": "2.35566000"
+  },
+  {
+    "id": 3008,
+    "name": "Allada",
+    "stateId": 268,
+    "latitude": "6.66547000",
+    "longitude": "2.15138000"
+  },
+  {
+    "id": 10304,
+    "name": "Banikoara",
+    "stateId": 126,
+    "latitude": "11.29845000",
+    "longitude": "2.43856000"
+  },
+  {
+    "id": 11353,
+    "name": "Bassila",
+    "stateId": 1114,
+    "latitude": "9.00814000",
+    "longitude": "1.66540000"
+  },
+  {
+    "id": 12813,
+    "name": "Bembèrèkè",
+    "stateId": 533,
+    "latitude": "10.22827000",
+    "longitude": "2.66335000"
+  },
+  {
+    "id": 15568,
+    "name": "Bohicon",
+    "stateId": 4861,
+    "latitude": "7.17826000",
+    "longitude": "2.06670000"
+  },
+  {
+    "id": 19830,
+    "name": "Bétérou",
+    "stateId": 533,
+    "latitude": "9.19916000",
+    "longitude": "2.25855000"
+  },
+  {
+    "id": 29167,
+    "name": "Commune of Agbangnizoun",
+    "stateId": 4861,
+    "latitude": "7.07600000",
+    "longitude": "1.96100000"
+  },
+  {
+    "id": 29168,
+    "name": "Commune of Athieme",
+    "stateId": 2700,
+    "latitude": "6.56924000",
+    "longitude": "1.70259000"
+  },
+  {
+    "id": 29169,
+    "name": "Commune of Djougou",
+    "stateId": 1114,
+    "latitude": "9.64300000",
+    "longitude": "1.89600000"
+  },
+  {
+    "id": 31979,
+    "name": "Comé",
+    "stateId": 921,
+    "latitude": "6.40764000",
+    "longitude": "1.88198000"
+  },
+  {
+    "id": 33106,
+    "name": "Cotonou",
+    "stateId": 2299,
+    "latitude": "6.36536000",
+    "longitude": "2.41833000"
+  },
+  {
+    "id": 33312,
+    "name": "Cové",
+    "stateId": 4861,
+    "latitude": "7.22097000",
+    "longitude": "2.34017000"
+  },
+  {
+    "id": 35475,
+    "name": "Dassa-Zoumé",
+    "stateId": 921,
+    "latitude": "7.75000000",
+    "longitude": "2.18333000"
+  },
+  {
+    "id": 37388,
+    "name": "Djakotomey",
+    "stateId": 2067,
+    "latitude": "6.90000000",
+    "longitude": "1.71667000"
+  },
+  {
+    "id": 37400,
+    "name": "Djougou",
+    "stateId": 1114,
+    "latitude": "9.70853000",
+    "longitude": "1.66598000"
+  },
+  {
+    "id": 37601,
+    "name": "Dogbo",
+    "stateId": 2067,
+    "latitude": "6.79911000",
+    "longitude": "1.78073000"
+  },
+  {
+    "id": 51766,
+    "name": "Guilmaro",
+    "stateId": 267,
+    "latitude": "10.56583000",
+    "longitude": "1.72444000"
+  },
+  {
+    "id": 55110,
+    "name": "Hinvi",
+    "stateId": 268,
+    "latitude": "6.76667000",
+    "longitude": "2.16667000"
+  },
+  {
+    "id": 57274,
+    "name": "Hévié",
+    "stateId": 268,
+    "latitude": "6.41667000",
+    "longitude": "2.25000000"
+  },
+  {
+    "id": 62691,
+    "name": "Kandi",
+    "stateId": 126,
+    "latitude": "11.13417000",
+    "longitude": "2.93861000"
+  },
+  {
+    "id": 67711,
+    "name": "Kétou",
+    "stateId": 3317,
+    "latitude": "7.36332000",
+    "longitude": "2.59978000"
+  },
+  {
+    "id": 73984,
+    "name": "Lokossa",
+    "stateId": 2700,
+    "latitude": "6.63869000",
+    "longitude": "1.71674000"
+  },
+  {
+    "id": 77136,
+    "name": "Malanville",
+    "stateId": 126,
+    "latitude": "11.86819000",
+    "longitude": "3.38327000"
+  },
+  {
+    "id": 87869,
+    "name": "Natitingou",
+    "stateId": 267,
+    "latitude": "10.30416000",
+    "longitude": "1.37962000"
+  },
+  {
+    "id": 89590,
+    "name": "Nikki",
+    "stateId": 533,
+    "latitude": "9.94009000",
+    "longitude": "3.21075000"
+  },
+  {
+    "id": 95025,
+    "name": "Ouidah",
+    "stateId": 268,
+    "latitude": "6.36307000",
+    "longitude": "2.08506000"
+  },
+  {
+    "id": 96598,
+    "name": "Parakou",
+    "stateId": 533,
+    "latitude": "9.33716000",
+    "longitude": "2.63031000"
+  },
+  {
+    "id": 100543,
+    "name": "Pobé",
+    "stateId": 3317,
+    "latitude": "6.98008000",
+    "longitude": "2.66490000"
+  },
+  {
+    "id": 101878,
+    "name": "Porto-Novo",
+    "stateId": 3187,
+    "latitude": "6.49646000",
+    "longitude": "2.60359000"
+  },
+  {
+    "id": 112287,
+    "name": "Sakété",
+    "stateId": 3317,
+    "latitude": "6.73618000",
+    "longitude": "2.65866000"
+  },
+  {
+    "id": 118466,
+    "name": "Savalou",
+    "stateId": 921,
+    "latitude": "7.92807000",
+    "longitude": "1.97558000"
+  },
+  {
+    "id": 118542,
+    "name": "Savé",
+    "stateId": 921,
+    "latitude": "8.03424000",
+    "longitude": "2.48660000"
+  },
+  {
+    "id": 128802,
+    "name": "Tanguieta",
+    "stateId": 267,
+    "latitude": "11.03621000",
+    "longitude": "1.41757000"
+  },
+  {
+    "id": 129444,
+    "name": "Tchaourou",
+    "stateId": 533,
+    "latitude": "8.88649000",
+    "longitude": "2.59753000"
+  }
+]

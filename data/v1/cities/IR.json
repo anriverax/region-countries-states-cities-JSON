@@ -1,0 +1,7632 @@
+[
+  {
+    "id": 58,
+    "name": "Ab Meshkin",
+    "stateId": 1524,
+    "latitude": "35.61305556",
+    "longitude": "48.26916667"
+  },
+  {
+    "id": 65,
+    "name": "Abadan",
+    "stateId": 1973,
+    "latitude": "30.33920000",
+    "longitude": "48.30430000"
+  },
+  {
+    "id": 98,
+    "name": "Abarlaq-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.67138889",
+    "longitude": "48.22833333"
+  },
+  {
+    "id": 156,
+    "name": "Abdalan",
+    "stateId": 1524,
+    "latitude": "34.65277778",
+    "longitude": "48.24555556"
+  },
+  {
+    "id": 159,
+    "name": "Abdol Rahim",
+    "stateId": 1524,
+    "latitude": "34.62638889",
+    "longitude": "49.01750000"
+  },
+  {
+    "id": 228,
+    "name": "Abhar",
+    "stateId": 4830,
+    "latitude": "36.14680000",
+    "longitude": "49.21800000"
+  },
+  {
+    "id": 315,
+    "name": "Abrumand",
+    "stateId": 1524,
+    "latitude": "34.90277778",
+    "longitude": "48.32027778"
+  },
+  {
+    "id": 317,
+    "name": "Abrīsham",
+    "stateId": 1700,
+    "latitude": "32.55613000",
+    "longitude": "51.57325000"
+  },
+  {
+    "id": 325,
+    "name": "Abshineh",
+    "stateId": 1524,
+    "latitude": "34.78194400",
+    "longitude": "48.61472200"
+  },
+  {
+    "id": 350,
+    "name": "Abu ol Fathabad",
+    "stateId": 1524,
+    "latitude": "34.05666667",
+    "longitude": "48.50916667"
+  },
+  {
+    "id": 964,
+    "name": "Aghajari",
+    "stateId": 1973,
+    "latitude": "30.70060000",
+    "longitude": "49.83150000"
+  },
+  {
+    "id": 968,
+    "name": "Aghcheh Qayah",
+    "stateId": 1524,
+    "latitude": "35.35000000",
+    "longitude": "48.34250000"
+  },
+  {
+    "id": 1202,
+    "name": "Ahar",
+    "stateId": 1158,
+    "latitude": "38.47740000",
+    "longitude": "47.06990000"
+  },
+  {
+    "id": 1222,
+    "name": "Ahmadabad-e Tappeh",
+    "stateId": 1524,
+    "latitude": "34.61277778",
+    "longitude": "48.99277778"
+  },
+  {
+    "id": 1241,
+    "name": "Ahram",
+    "stateId": 631,
+    "latitude": "28.88260000",
+    "longitude": "51.27460000"
+  },
+  {
+    "id": 1249,
+    "name": "Ahu Tappeh",
+    "stateId": 1524,
+    "latitude": "34.93777778",
+    "longitude": "48.00111111"
+  },
+  {
+    "id": 1290,
+    "name": "Ahvaz",
+    "stateId": 1973,
+    "latitude": "31.31901000",
+    "longitude": "48.68420000"
+  },
+  {
+    "id": 1449,
+    "name": "Ajin",
+    "stateId": 1524,
+    "latitude": "34.73611111",
+    "longitude": "47.92416667"
+  },
+  {
+    "id": 1460,
+    "name": "Ajorlu",
+    "stateId": 1524,
+    "latitude": "35.13833333",
+    "longitude": "49.22944444"
+  },
+  {
+    "id": 1484,
+    "name": "Akanlu",
+    "stateId": 1524,
+    "latitude": "35.61416667",
+    "longitude": "48.18805556"
+  },
+  {
+    "id": 1491,
+    "name": "Akbarābād",
+    "stateId": 1268,
+    "latitude": "29.24640000",
+    "longitude": "52.77930000"
+  },
+  {
+    "id": 1549,
+    "name": "Akleh",
+    "stateId": 1524,
+    "latitude": "35.20277778",
+    "longitude": "49.08250000"
+  },
+  {
+    "id": 2144,
+    "name": "Alan-e Sofla",
+    "stateId": 1524,
+    "latitude": "35.28416667",
+    "longitude": "48.21583333"
+  },
+  {
+    "id": 2161,
+    "name": "Alanjeh",
+    "stateId": 1524,
+    "latitude": "34.75083333",
+    "longitude": "47.95972222"
+  },
+  {
+    "id": 2398,
+    "name": "Alborz",
+    "stateId": 3528,
+    "latitude": "36.18861000",
+    "longitude": "50.07829000"
+  },
+  {
+    "id": 2710,
+    "name": "Aleshtar",
+    "stateId": 2354,
+    "latitude": "33.86419000",
+    "longitude": "48.26258000"
+  },
+  {
+    "id": 2778,
+    "name": "Alfavut",
+    "stateId": 1524,
+    "latitude": "34.64000000",
+    "longitude": "48.74972222"
+  },
+  {
+    "id": 2911,
+    "name": "Aliabad-e Posht Shahr",
+    "stateId": 1524,
+    "latitude": "34.83777778",
+    "longitude": "48.51111111"
+  },
+  {
+    "id": 3632,
+    "name": "Alvand",
+    "stateId": 3528,
+    "latitude": "36.18930000",
+    "longitude": "50.06430000"
+  },
+  {
+    "id": 3633,
+    "name": "Alvand",
+    "stateId": 4830,
+    "latitude": "36.31885000",
+    "longitude": "49.16773000"
+  },
+  {
+    "id": 3699,
+    "name": "Alīgūdarz",
+    "stateId": 2354,
+    "latitude": "33.40400000",
+    "longitude": "49.69179000"
+  },
+  {
+    "id": 3956,
+    "name": "Amirabad-e Kord",
+    "stateId": 1524,
+    "latitude": "34.97611111",
+    "longitude": "49.09166667"
+  },
+  {
+    "id": 4937,
+    "name": "Amzajerd",
+    "stateId": 1524,
+    "latitude": "34.93666667",
+    "longitude": "48.53250000"
+  },
+  {
+    "id": 5303,
+    "name": "Angoshteh",
+    "stateId": 1524,
+    "latitude": "34.09138900",
+    "longitude": "48.54000000"
+  },
+  {
+    "id": 5372,
+    "name": "Anjir Baghi",
+    "stateId": 1524,
+    "latitude": "35.19250000",
+    "longitude": "48.53166667"
+  },
+  {
+    "id": 5489,
+    "name": "Ansar ol Emam",
+    "stateId": 1524,
+    "latitude": "34.85861111",
+    "longitude": "48.49083333"
+  },
+  {
+    "id": 5653,
+    "name": "Anuch",
+    "stateId": 1524,
+    "latitude": "34.10805600",
+    "longitude": "48.57333300"
+  },
+  {
+    "id": 5896,
+    "name": "Aq Bolagh-e Aqdaq",
+    "stateId": 1524,
+    "latitude": "35.61166667",
+    "longitude": "48.44138889"
+  },
+  {
+    "id": 5897,
+    "name": "Aq Bolagh-e Latgah",
+    "stateId": 1524,
+    "latitude": "34.98444400",
+    "longitude": "48.55527800"
+  },
+  {
+    "id": 5898,
+    "name": "Aq Bolagh-e Morshed",
+    "stateId": 1524,
+    "latitude": "35.61777778",
+    "longitude": "48.02972222"
+  },
+  {
+    "id": 5899,
+    "name": "Aq Chay",
+    "stateId": 1524,
+    "latitude": "35.47916667",
+    "longitude": "49.10388889"
+  },
+  {
+    "id": 5900,
+    "name": "Aqa Bolaghi",
+    "stateId": 1524,
+    "latitude": "35.36694444",
+    "longitude": "48.24361111"
+  },
+  {
+    "id": 5901,
+    "name": "Aqa Jan Bolaghi",
+    "stateId": 1524,
+    "latitude": "34.84583333",
+    "longitude": "48.05305556"
+  },
+  {
+    "id": 5904,
+    "name": "Aqaj",
+    "stateId": 1524,
+    "latitude": "34.95583333",
+    "longitude": "49.32416667"
+  },
+  {
+    "id": 5906,
+    "name": "Aqcheh Kharabeh",
+    "stateId": 1524,
+    "latitude": "35.71361111",
+    "longitude": "48.77638889"
+  },
+  {
+    "id": 5907,
+    "name": "Aqchelu",
+    "stateId": 1524,
+    "latitude": "35.13138889",
+    "longitude": "48.49166667"
+  },
+  {
+    "id": 6314,
+    "name": "Ardabīl",
+    "stateId": 222,
+    "latitude": "38.24980000",
+    "longitude": "48.29330000"
+  },
+  {
+    "id": 6317,
+    "name": "Ardakān",
+    "stateId": 4785,
+    "latitude": "32.31001000",
+    "longitude": "54.01747000"
+  },
+  {
+    "id": 6339,
+    "name": "Ardestān",
+    "stateId": 1700,
+    "latitude": "33.37610000",
+    "longitude": "52.36940000"
+  },
+  {
+    "id": 6487,
+    "name": "Arges-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.07388889",
+    "longitude": "48.86388889"
+  },
+  {
+    "id": 6547,
+    "name": "Arikan",
+    "stateId": 1524,
+    "latitude": "34.53222222",
+    "longitude": "48.36055556"
+  },
+  {
+    "id": 6785,
+    "name": "Arpa Darreh",
+    "stateId": 1524,
+    "latitude": "35.69138889",
+    "longitude": "48.80500000"
+  },
+  {
+    "id": 6946,
+    "name": "Arteh Bolagh",
+    "stateId": 1524,
+    "latitude": "34.32638889",
+    "longitude": "48.54916667"
+  },
+  {
+    "id": 6976,
+    "name": "Artiman",
+    "stateId": 1524,
+    "latitude": "34.57944400",
+    "longitude": "48.44777800"
+  },
+  {
+    "id": 7038,
+    "name": "Arzan Fud",
+    "stateId": 1524,
+    "latitude": "34.65527778",
+    "longitude": "48.65416667"
+  },
+  {
+    "id": 7058,
+    "name": "Arzuvaj",
+    "stateId": 1524,
+    "latitude": "34.65444444",
+    "longitude": "48.37305556"
+  },
+  {
+    "id": 7071,
+    "name": "Arāk",
+    "stateId": 2525,
+    "latitude": "34.09493000",
+    "longitude": "49.69809000"
+  },
+  {
+    "id": 7130,
+    "name": "Asadabad",
+    "stateId": 1524,
+    "latitude": "34.78222222",
+    "longitude": "48.11833333"
+  },
+  {
+    "id": 7318,
+    "name": "Ashmizan",
+    "stateId": 1524,
+    "latitude": "34.10361111",
+    "longitude": "48.88444444"
+  },
+  {
+    "id": 8154,
+    "name": "Avaj",
+    "stateId": 3528,
+    "latitude": "35.57685000",
+    "longitude": "49.22241000"
+  },
+  {
+    "id": 8167,
+    "name": "Avarzaman",
+    "stateId": 1524,
+    "latitude": "34.26638889",
+    "longitude": "48.51222222"
+  },
+  {
+    "id": 8492,
+    "name": "Azandarian",
+    "stateId": 1524,
+    "latitude": "34.50888889",
+    "longitude": "48.68666667"
+  },
+  {
+    "id": 8525,
+    "name": "Aznahri",
+    "stateId": 1524,
+    "latitude": "34.23750000",
+    "longitude": "48.14833333"
+  },
+  {
+    "id": 8529,
+    "name": "Aznā",
+    "stateId": 2354,
+    "latitude": "33.45643000",
+    "longitude": "49.45646000"
+  },
+  {
+    "id": 8655,
+    "name": "Baba Khanjar",
+    "stateId": 1524,
+    "latitude": "35.55166667",
+    "longitude": "48.54972222"
+  },
+  {
+    "id": 8656,
+    "name": "Baba Pir",
+    "stateId": 1524,
+    "latitude": "34.61416667",
+    "longitude": "48.40194444"
+  },
+  {
+    "id": 8657,
+    "name": "Baba Qasem",
+    "stateId": 1524,
+    "latitude": "34.08000000",
+    "longitude": "48.44805556"
+  },
+  {
+    "id": 8696,
+    "name": "Babolqani",
+    "stateId": 1524,
+    "latitude": "34.24277778",
+    "longitude": "49.05750000"
+  },
+  {
+    "id": 8889,
+    "name": "Bad Khvoreh",
+    "stateId": 1524,
+    "latitude": "34.74305556",
+    "longitude": "48.08027778"
+  },
+  {
+    "id": 9054,
+    "name": "Badreh",
+    "stateId": 1659,
+    "latitude": "33.00000000",
+    "longitude": "47.25000000"
+  },
+  {
+    "id": 9242,
+    "name": "Bahar",
+    "stateId": 1524,
+    "latitude": "34.90694444",
+    "longitude": "48.44138889"
+  },
+  {
+    "id": 10001,
+    "name": "Bam",
+    "stateId": 1945,
+    "latitude": "29.06667000",
+    "longitude": "58.23333000"
+  },
+  {
+    "id": 10140,
+    "name": "Band Aman",
+    "stateId": 1524,
+    "latitude": "34.22388889",
+    "longitude": "48.22861111"
+  },
+  {
+    "id": 10148,
+    "name": "Bandar Abbas",
+    "stateId": 1605,
+    "latitude": "27.18650000",
+    "longitude": "56.28080000"
+  },
+  {
+    "id": 10151,
+    "name": "Bandar Lengeh",
+    "stateId": 1605,
+    "latitude": "26.78333000",
+    "longitude": "54.65000000"
+  },
+  {
+    "id": 10153,
+    "name": "Bandar-e Anzalī",
+    "stateId": 1380,
+    "latitude": "37.47318000",
+    "longitude": "49.45785000"
+  },
+  {
+    "id": 10154,
+    "name": "Bandar-e Genāveh",
+    "stateId": 631,
+    "latitude": "29.57910000",
+    "longitude": "50.51700000"
+  },
+  {
+    "id": 10155,
+    "name": "Bandar-e Lengeh",
+    "stateId": 1605,
+    "latitude": "26.55792000",
+    "longitude": "54.88067000"
+  },
+  {
+    "id": 10192,
+    "name": "Banesareh",
+    "stateId": 1524,
+    "latitude": "34.23750000",
+    "longitude": "48.43333333"
+  },
+  {
+    "id": 10487,
+    "name": "Baraband",
+    "stateId": 1524,
+    "latitude": "34.75194444",
+    "longitude": "48.79861111"
+  },
+  {
+    "id": 10671,
+    "name": "Bardaskan",
+    "stateId": 3595,
+    "latitude": "35.26667000",
+    "longitude": "57.48333000"
+  },
+  {
+    "id": 10690,
+    "name": "Bardsīr",
+    "stateId": 1945,
+    "latitude": "29.92266000",
+    "longitude": "56.57433000"
+  },
+  {
+    "id": 10718,
+    "name": "Bargecheh",
+    "stateId": 1524,
+    "latitude": "34.45138900",
+    "longitude": "48.30111100"
+  },
+  {
+    "id": 10975,
+    "name": "Barreh Farakh",
+    "stateId": 1524,
+    "latitude": "34.38555556",
+    "longitude": "48.08638889"
+  },
+  {
+    "id": 11182,
+    "name": "Barzul",
+    "stateId": 1524,
+    "latitude": "34.21277778",
+    "longitude": "48.25888889"
+  },
+  {
+    "id": 11285,
+    "name": "Bashqurtaran",
+    "stateId": 1524,
+    "latitude": "35.63722222",
+    "longitude": "48.11694444"
+  },
+  {
+    "id": 11360,
+    "name": "Bastak",
+    "stateId": 1605,
+    "latitude": "27.20000000",
+    "longitude": "54.36667000"
+  },
+  {
+    "id": 11822,
+    "name": "Bazeran",
+    "stateId": 1524,
+    "latitude": "35.15611111",
+    "longitude": "49.42305556"
+  },
+  {
+    "id": 12227,
+    "name": "Behbahān",
+    "stateId": 1973,
+    "latitude": "30.59590000",
+    "longitude": "50.24170000"
+  },
+  {
+    "id": 12229,
+    "name": "Behkandan",
+    "stateId": 1524,
+    "latitude": "35.27222222",
+    "longitude": "49.09888889"
+  },
+  {
+    "id": 12234,
+    "name": "Behshahr",
+    "stateId": 2579,
+    "latitude": "36.69235000",
+    "longitude": "53.55262000"
+  },
+  {
+    "id": 12328,
+    "name": "Belartu",
+    "stateId": 1524,
+    "latitude": "34.33555556",
+    "longitude": "48.51583333"
+  },
+  {
+    "id": 12822,
+    "name": "Ben",
+    "stateId": 813,
+    "latitude": "32.53556000",
+    "longitude": "50.75201000"
+  },
+  {
+    "id": 13569,
+    "name": "Beshik Tappeh",
+    "stateId": 1524,
+    "latitude": "35.53611111",
+    "longitude": "48.41805556"
+  },
+  {
+    "id": 14005,
+    "name": "Biaj",
+    "stateId": 1524,
+    "latitude": "34.81500000",
+    "longitude": "48.09916667"
+  },
+  {
+    "id": 14036,
+    "name": "Biatan-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.02527778",
+    "longitude": "48.95805556"
+  },
+  {
+    "id": 14117,
+    "name": "Bid Korpeh-ye Sofla",
+    "stateId": 1524,
+    "latitude": "34.02111111",
+    "longitude": "48.89166667"
+  },
+  {
+    "id": 14118,
+    "name": "Bid Korpeh-ye Vosta",
+    "stateId": 1524,
+    "latitude": "34.01944444",
+    "longitude": "48.88722222"
+  },
+  {
+    "id": 14194,
+    "name": "Bifanaj",
+    "stateId": 1524,
+    "latitude": "34.61472222",
+    "longitude": "48.01694444"
+  },
+  {
+    "id": 14242,
+    "name": "Bighash",
+    "stateId": 1524,
+    "latitude": "34.09111111",
+    "longitude": "49.06833333"
+  },
+  {
+    "id": 14660,
+    "name": "Bish Aghaj",
+    "stateId": 1524,
+    "latitude": "34.46111111",
+    "longitude": "48.78583333"
+  },
+  {
+    "id": 14754,
+    "name": "Bitervan",
+    "stateId": 1524,
+    "latitude": "34.65444444",
+    "longitude": "47.91055556"
+  },
+  {
+    "id": 15653,
+    "name": "Bojnūrd",
+    "stateId": 2998,
+    "latitude": "37.47473000",
+    "longitude": "57.32903000"
+  },
+  {
+    "id": 16096,
+    "name": "Bonāb",
+    "stateId": 1158,
+    "latitude": "37.34040000",
+    "longitude": "46.05610000"
+  },
+  {
+    "id": 16330,
+    "name": "Borjaki",
+    "stateId": 1524,
+    "latitude": "34.32861111",
+    "longitude": "48.03305556"
+  },
+  {
+    "id": 16484,
+    "name": "Borāzjān",
+    "stateId": 631,
+    "latitude": "29.26990000",
+    "longitude": "51.21880000"
+  },
+  {
+    "id": 16491,
+    "name": "Borūjen",
+    "stateId": 813,
+    "latitude": "31.96523000",
+    "longitude": "51.28730000"
+  },
+  {
+    "id": 16492,
+    "name": "Borūjerd",
+    "stateId": 2354,
+    "latitude": "33.89730000",
+    "longitude": "48.75160000"
+  },
+  {
+    "id": 16526,
+    "name": "Boshrūyeh",
+    "stateId": 4122,
+    "latitude": "34.16667000",
+    "longitude": "57.41667000"
+  },
+  {
+    "id": 16923,
+    "name": "Boyukabad",
+    "stateId": 1524,
+    "latitude": "35.05972222",
+    "longitude": "48.84166667"
+  },
+  {
+    "id": 16931,
+    "name": "Bozchalu",
+    "stateId": 1524,
+    "latitude": "35.16888889",
+    "longitude": "49.22444444"
+  },
+  {
+    "id": 16943,
+    "name": "Bozineh Jerd",
+    "stateId": 1524,
+    "latitude": "35.02472222",
+    "longitude": "48.94388889"
+  },
+  {
+    "id": 18800,
+    "name": "Buin va Miandasht",
+    "stateId": 1700,
+    "latitude": "33.07241000",
+    "longitude": "50.14641000"
+  },
+  {
+    "id": 18818,
+    "name": "Bujin",
+    "stateId": 1524,
+    "latitude": "34.80722222",
+    "longitude": "48.05916667"
+  },
+  {
+    "id": 19407,
+    "name": "Bushehr",
+    "stateId": 631,
+    "latitude": "28.96887000",
+    "longitude": "50.83657000"
+  },
+  {
+    "id": 19453,
+    "name": "Bustandar",
+    "stateId": 1524,
+    "latitude": "34.44861111",
+    "longitude": "48.41944444"
+  },
+  {
+    "id": 19573,
+    "name": "Buyaqchi",
+    "stateId": 1524,
+    "latitude": "34.84750000",
+    "longitude": "49.08916667"
+  },
+  {
+    "id": 19931,
+    "name": "Bābol",
+    "stateId": 2579,
+    "latitude": "36.55132000",
+    "longitude": "52.67895000"
+  },
+  {
+    "id": 19932,
+    "name": "Bābolsar",
+    "stateId": 2579,
+    "latitude": "36.70251000",
+    "longitude": "52.65760000"
+  },
+  {
+    "id": 19933,
+    "name": "Bāfq",
+    "stateId": 4785,
+    "latitude": "31.60350000",
+    "longitude": "55.40249000"
+  },
+  {
+    "id": 19934,
+    "name": "Bāft",
+    "stateId": 1945,
+    "latitude": "29.23310000",
+    "longitude": "56.60220000"
+  },
+  {
+    "id": 19935,
+    "name": "Bāgh Shahrestān-e Malek",
+    "stateId": 1973,
+    "latitude": "31.50000000",
+    "longitude": "49.91667000"
+  },
+  {
+    "id": 19940,
+    "name": "Bāneh",
+    "stateId": 2117,
+    "latitude": "35.99750000",
+    "longitude": "45.88530000"
+  },
+  {
+    "id": 20051,
+    "name": "Bījār",
+    "stateId": 2117,
+    "latitude": "35.86680000",
+    "longitude": "47.60506000"
+  },
+  {
+    "id": 20052,
+    "name": "Bīleh Savār",
+    "stateId": 222,
+    "latitude": "39.37961000",
+    "longitude": "48.35463000"
+  },
+  {
+    "id": 20054,
+    "name": "Bīrjand",
+    "stateId": 4122,
+    "latitude": "32.86628000",
+    "longitude": "59.22114000"
+  },
+  {
+    "id": 20076,
+    "name": "Būkān",
+    "stateId": 4700,
+    "latitude": "36.52100000",
+    "longitude": "46.20890000"
+  },
+  {
+    "id": 24874,
+    "name": "Chabahar",
+    "stateId": 4039,
+    "latitude": "25.29190000",
+    "longitude": "60.64300000"
+  },
+  {
+    "id": 24928,
+    "name": "Chahar Bolagh",
+    "stateId": 1524,
+    "latitude": "35.58111111",
+    "longitude": "48.65000000"
+  },
+  {
+    "id": 24976,
+    "name": "Chal Boqa",
+    "stateId": 1524,
+    "latitude": "35.42055556",
+    "longitude": "48.92750000"
+  },
+  {
+    "id": 24998,
+    "name": "Chaleh Kand",
+    "stateId": 1524,
+    "latitude": "35.27500000",
+    "longitude": "48.29944444"
+  },
+  {
+    "id": 25377,
+    "name": "Chardavol County",
+    "stateId": 1659,
+    "latitude": "33.75910000",
+    "longitude": "46.56980000"
+  },
+  {
+    "id": 25482,
+    "name": "Charoq",
+    "stateId": 1524,
+    "latitude": "34.84416667",
+    "longitude": "48.06611111"
+  },
+  {
+    "id": 25517,
+    "name": "Chasht Khvoreh",
+    "stateId": 1524,
+    "latitude": "34.46444444",
+    "longitude": "48.26694444"
+  },
+  {
+    "id": 25709,
+    "name": "Chelgard",
+    "stateId": 813,
+    "latitude": "32.46720000",
+    "longitude": "50.12229000"
+  },
+  {
+    "id": 25752,
+    "name": "Chenari",
+    "stateId": 1524,
+    "latitude": "34.23194444",
+    "longitude": "48.17611111"
+  },
+  {
+    "id": 25784,
+    "name": "Chenārān",
+    "stateId": 3595,
+    "latitude": "36.64546000",
+    "longitude": "59.12123000"
+  },
+  {
+    "id": 25967,
+    "name": "Cheshmeh Malek",
+    "stateId": 1524,
+    "latitude": "34.75500000",
+    "longitude": "48.49305556"
+  },
+  {
+    "id": 25968,
+    "name": "Cheshmeh Pahn-e Nanaj",
+    "stateId": 1524,
+    "latitude": "34.45888889",
+    "longitude": "48.76750000"
+  },
+  {
+    "id": 25969,
+    "name": "Cheshmeh Qandab",
+    "stateId": 1524,
+    "latitude": "34.62694444",
+    "longitude": "48.09111111"
+  },
+  {
+    "id": 25970,
+    "name": "Cheshmeh Qareh",
+    "stateId": 1524,
+    "latitude": "34.90611111",
+    "longitude": "47.87111111"
+  },
+  {
+    "id": 25971,
+    "name": "Cheshmeh Qassaban",
+    "stateId": 1524,
+    "latitude": "34.85777778",
+    "longitude": "48.41888889"
+  },
+  {
+    "id": 25972,
+    "name": "Cheshmeh Valad",
+    "stateId": 1524,
+    "latitude": "34.87805556",
+    "longitude": "47.98388889"
+  },
+  {
+    "id": 25973,
+    "name": "Cheshmeh Zowraq",
+    "stateId": 1524,
+    "latitude": "34.06611111",
+    "longitude": "49.10083333"
+  },
+  {
+    "id": 26760,
+    "name": "Choqa Sarahi",
+    "stateId": 1524,
+    "latitude": "34.31527778",
+    "longitude": "48.04888889"
+  },
+  {
+    "id": 26816,
+    "name": "Chowtash",
+    "stateId": 1524,
+    "latitude": "34.83694444",
+    "longitude": "48.25194444"
+  },
+  {
+    "id": 26897,
+    "name": "Chulak Qapanuri",
+    "stateId": 1524,
+    "latitude": "34.23472222",
+    "longitude": "48.30000000"
+  },
+  {
+    "id": 27115,
+    "name": "Chādegān",
+    "stateId": 1700,
+    "latitude": "32.76825000",
+    "longitude": "50.62873000"
+  },
+  {
+    "id": 27117,
+    "name": "Chālūs",
+    "stateId": 2579,
+    "latitude": "36.65500000",
+    "longitude": "51.42040000"
+  },
+  {
+    "id": 27118,
+    "name": "Chāypāreh",
+    "stateId": 4700,
+    "latitude": "38.86667000",
+    "longitude": "45.00000000"
+  },
+  {
+    "id": 34944,
+    "name": "Dahnejerd",
+    "stateId": 1524,
+    "latitude": "34.96750000",
+    "longitude": "48.50055600"
+  },
+  {
+    "id": 35037,
+    "name": "Dali Chu",
+    "stateId": 1524,
+    "latitude": "35.52138889",
+    "longitude": "48.02027778"
+  },
+  {
+    "id": 35134,
+    "name": "Damaq",
+    "stateId": 1524,
+    "latitude": "35.44277778",
+    "longitude": "48.82305556"
+  },
+  {
+    "id": 35198,
+    "name": "Damāvand",
+    "stateId": 4343,
+    "latitude": "35.71842000",
+    "longitude": "52.06958000"
+  },
+  {
+    "id": 35317,
+    "name": "Daqdaqabad",
+    "stateId": 1524,
+    "latitude": "35.18277778",
+    "longitude": "48.78833333"
+  },
+  {
+    "id": 35322,
+    "name": "Dar Qeshlaq",
+    "stateId": 1524,
+    "latitude": "35.49222222",
+    "longitude": "48.05583333"
+  },
+  {
+    "id": 35339,
+    "name": "Darani-ye Sofla",
+    "stateId": 1524,
+    "latitude": "34.49888889",
+    "longitude": "48.41222222"
+  },
+  {
+    "id": 35348,
+    "name": "Darcham",
+    "stateId": 1524,
+    "latitude": "34.26027778",
+    "longitude": "48.82083333"
+  },
+  {
+    "id": 35366,
+    "name": "Dargaz",
+    "stateId": 3595,
+    "latitude": "37.33333000",
+    "longitude": "59.08333000"
+  },
+  {
+    "id": 35419,
+    "name": "Darreh Chenar",
+    "stateId": 1524,
+    "latitude": "34.09944444",
+    "longitude": "48.80305556"
+  },
+  {
+    "id": 35420,
+    "name": "Darreh Mianeh-ye Sofla",
+    "stateId": 1524,
+    "latitude": "34.07277778",
+    "longitude": "48.83527778"
+  },
+  {
+    "id": 35421,
+    "name": "Darreh Mirza",
+    "stateId": 1524,
+    "latitude": "34.37611111",
+    "longitude": "48.00750000"
+  },
+  {
+    "id": 35422,
+    "name": "Darreh Shahr",
+    "stateId": 1659,
+    "latitude": "33.14447000",
+    "longitude": "47.37990000"
+  },
+  {
+    "id": 35423,
+    "name": "Darreh-ye Ebrahim",
+    "stateId": 1524,
+    "latitude": "34.10166667",
+    "longitude": "48.39444444"
+  },
+  {
+    "id": 35424,
+    "name": "Darrehshahr",
+    "stateId": 1659,
+    "latitude": "33.13333000",
+    "longitude": "47.36667000"
+  },
+  {
+    "id": 35429,
+    "name": "Darsibeh",
+    "stateId": 1524,
+    "latitude": "34.26972222",
+    "longitude": "48.00694444"
+  },
+  {
+    "id": 35574,
+    "name": "Davijan",
+    "stateId": 1524,
+    "latitude": "34.22027778",
+    "longitude": "48.85833333"
+  },
+  {
+    "id": 35899,
+    "name": "Deh Chaneh",
+    "stateId": 1524,
+    "latitude": "34.10527778",
+    "longitude": "49.12027778"
+  },
+  {
+    "id": 35900,
+    "name": "Deh Dalian",
+    "stateId": 1524,
+    "latitude": "34.80472222",
+    "longitude": "48.71138889"
+  },
+  {
+    "id": 35901,
+    "name": "Deh Ful",
+    "stateId": 1524,
+    "latitude": "34.22694444",
+    "longitude": "48.31388889"
+  },
+  {
+    "id": 35902,
+    "name": "Deh Mianeh",
+    "stateId": 1524,
+    "latitude": "34.17305556",
+    "longitude": "49.04944444"
+  },
+  {
+    "id": 35903,
+    "name": "Deh Nush",
+    "stateId": 1524,
+    "latitude": "34.76111111",
+    "longitude": "48.00305556"
+  },
+  {
+    "id": 35904,
+    "name": "Deh Piaz",
+    "stateId": 1524,
+    "latitude": "34.88194444",
+    "longitude": "48.51472222"
+  },
+  {
+    "id": 35905,
+    "name": "Deh-e Shaker",
+    "stateId": 1524,
+    "latitude": "34.37888889",
+    "longitude": "48.54777778"
+  },
+  {
+    "id": 35907,
+    "name": "Dehdasht",
+    "stateId": 2033,
+    "latitude": "30.79490000",
+    "longitude": "50.56457000"
+  },
+  {
+    "id": 35913,
+    "name": "Dehlorān",
+    "stateId": 1659,
+    "latitude": "32.69410000",
+    "longitude": "47.26790000"
+  },
+  {
+    "id": 35914,
+    "name": "Dehnow-e Avarzaman",
+    "stateId": 1524,
+    "latitude": "34.30694444",
+    "longitude": "48.55694444"
+  },
+  {
+    "id": 35921,
+    "name": "Dehāqān",
+    "stateId": 1700,
+    "latitude": "31.94004000",
+    "longitude": "51.64786000"
+  },
+  {
+    "id": 36015,
+    "name": "Delfan",
+    "stateId": 2354,
+    "latitude": "34.05000000",
+    "longitude": "47.78333000"
+  },
+  {
+    "id": 36093,
+    "name": "Delījān",
+    "stateId": 2525,
+    "latitude": "33.99050000",
+    "longitude": "50.68380000"
+  },
+  {
+    "id": 36726,
+    "name": "Deylam",
+    "stateId": 631,
+    "latitude": "30.02286000",
+    "longitude": "50.35595000"
+  },
+  {
+    "id": 37146,
+    "name": "Dingeleh Kahriz",
+    "stateId": 1524,
+    "latitude": "34.81111111",
+    "longitude": "48.68472222"
+  },
+  {
+    "id": 37432,
+    "name": "Do Rudan",
+    "stateId": 1524,
+    "latitude": "34.55972222",
+    "longitude": "48.41472222"
+  },
+  {
+    "id": 37609,
+    "name": "Dogonbadan",
+    "stateId": 2033,
+    "latitude": "30.35860000",
+    "longitude": "50.79810000"
+  },
+  {
+    "id": 38061,
+    "name": "Doraneh",
+    "stateId": 1524,
+    "latitude": "34.23138889",
+    "longitude": "48.21944444"
+  },
+  {
+    "id": 38063,
+    "name": "Dorcheh Pīāz",
+    "stateId": 1700,
+    "latitude": "32.61528000",
+    "longitude": "51.55556000"
+  },
+  {
+    "id": 38154,
+    "name": "Dorudgaran",
+    "stateId": 1524,
+    "latitude": "34.02027800",
+    "longitude": "48.92472200"
+  },
+  {
+    "id": 38307,
+    "name": "Dow Baraleh",
+    "stateId": 1524,
+    "latitude": "34.90222222",
+    "longitude": "48.03361111"
+  },
+  {
+    "id": 38312,
+    "name": "Dowlatabad-e Hajjilu",
+    "stateId": 1524,
+    "latitude": "35.28111111",
+    "longitude": "48.88694444"
+  },
+  {
+    "id": 38314,
+    "name": "Dowlatābād",
+    "stateId": 1700,
+    "latitude": "32.79978000",
+    "longitude": "51.69553000"
+  },
+  {
+    "id": 38316,
+    "name": "Dowlujerdin-e Bala",
+    "stateId": 1524,
+    "latitude": "35.34777778",
+    "longitude": "49.10944444"
+  },
+  {
+    "id": 39085,
+    "name": "Durijan",
+    "stateId": 1524,
+    "latitude": "34.30555556",
+    "longitude": "48.48972222"
+  },
+  {
+    "id": 39089,
+    "name": "Durnian",
+    "stateId": 1524,
+    "latitude": "35.48194444",
+    "longitude": "49.04000000"
+  },
+  {
+    "id": 39424,
+    "name": "Dāmghān",
+    "stateId": 3945,
+    "latitude": "36.16790000",
+    "longitude": "54.34292000"
+  },
+  {
+    "id": 39428,
+    "name": "Dārāb",
+    "stateId": 1268,
+    "latitude": "28.75194000",
+    "longitude": "54.54444000"
+  },
+  {
+    "id": 39429,
+    "name": "Dārān",
+    "stateId": 1700,
+    "latitude": "32.98871000",
+    "longitude": "50.41267000"
+  },
+  {
+    "id": 39430,
+    "name": "Dāvarzan",
+    "stateId": 3595,
+    "latitude": "36.33333000",
+    "longitude": "56.83333000"
+  },
+  {
+    "id": 41799,
+    "name": "Emamzadeh Khatun",
+    "stateId": 1524,
+    "latitude": "34.04972222",
+    "longitude": "48.95222222"
+  },
+  {
+    "id": 41800,
+    "name": "Emamzadeh Pir Nahan",
+    "stateId": 1524,
+    "latitude": "35.01138889",
+    "longitude": "49.04111111"
+  },
+  {
+    "id": 42231,
+    "name": "Eqbālīyeh",
+    "stateId": 4343,
+    "latitude": "35.30220000",
+    "longitude": "51.53580000"
+  },
+  {
+    "id": 42543,
+    "name": "Esfarāyen",
+    "stateId": 2998,
+    "latitude": "37.07645000",
+    "longitude": "57.51009000"
+  },
+  {
+    "id": 42557,
+    "name": "Eskanan",
+    "stateId": 1524,
+    "latitude": "34.35805556",
+    "longitude": "48.59277778"
+  },
+  {
+    "id": 42574,
+    "name": "Eslāmshahr",
+    "stateId": 4343,
+    "latitude": "35.55222000",
+    "longitude": "51.23504000"
+  },
+  {
+    "id": 43214,
+    "name": "Fahrumand",
+    "stateId": 1524,
+    "latitude": "34.22416667",
+    "longitude": "48.31194444"
+  },
+  {
+    "id": 43443,
+    "name": "Falāvarjān",
+    "stateId": 1700,
+    "latitude": "32.55530000",
+    "longitude": "51.50973000"
+  },
+  {
+    "id": 43450,
+    "name": "Famast",
+    "stateId": 1524,
+    "latitude": "34.03897000",
+    "longitude": "48.46260000"
+  },
+  {
+    "id": 43453,
+    "name": "Famenin",
+    "stateId": 1524,
+    "latitude": "35.11388889",
+    "longitude": "48.97166667"
+  },
+  {
+    "id": 43476,
+    "name": "Fannūj",
+    "stateId": 4039,
+    "latitude": "26.57583000",
+    "longitude": "59.63972000"
+  },
+  {
+    "id": 43482,
+    "name": "Fanuj",
+    "stateId": 4039,
+    "latitude": "26.57468000",
+    "longitude": "59.63856000"
+  },
+  {
+    "id": 43511,
+    "name": "Farasfaj",
+    "stateId": 1524,
+    "latitude": "34.48611111",
+    "longitude": "48.28555556"
+  },
+  {
+    "id": 43517,
+    "name": "Fardis",
+    "stateId": 120,
+    "latitude": "35.72318000",
+    "longitude": "50.97865000"
+  },
+  {
+    "id": 43521,
+    "name": "Fareydūnshahr",
+    "stateId": 1700,
+    "latitude": "32.94098000",
+    "longitude": "50.12100000"
+  },
+  {
+    "id": 43608,
+    "name": "Farrokh Shahr",
+    "stateId": 813,
+    "latitude": "32.27174000",
+    "longitude": "50.98008000"
+  },
+  {
+    "id": 43613,
+    "name": "Farsban",
+    "stateId": 1524,
+    "latitude": "34.24416667",
+    "longitude": "48.11916667"
+  },
+  {
+    "id": 43622,
+    "name": "Farvaz",
+    "stateId": 1524,
+    "latitude": "34.22694444",
+    "longitude": "48.90111111"
+  },
+  {
+    "id": 43624,
+    "name": "Faryazan",
+    "stateId": 1524,
+    "latitude": "34.52305600",
+    "longitude": "48.33250000"
+  },
+  {
+    "id": 43629,
+    "name": "Fasijan",
+    "stateId": 1524,
+    "latitude": "34.83666667",
+    "longitude": "48.30472222"
+  },
+  {
+    "id": 43636,
+    "name": "Fasā",
+    "stateId": 1268,
+    "latitude": "28.93830000",
+    "longitude": "53.64820000"
+  },
+  {
+    "id": 43924,
+    "name": "Fereydan",
+    "stateId": 1700,
+    "latitude": "33.10000000",
+    "longitude": "50.26667000"
+  },
+  {
+    "id": 43925,
+    "name": "Fereydūnkenār",
+    "stateId": 2579,
+    "latitude": "36.68642000",
+    "longitude": "52.52255000"
+  },
+  {
+    "id": 44095,
+    "name": "Fiazaman",
+    "stateId": 1524,
+    "latitude": "34.13111111",
+    "longitude": "48.39638889"
+  },
+  {
+    "id": 44305,
+    "name": "Firuzabad-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.34694444",
+    "longitude": "48.09638889"
+  },
+  {
+    "id": 44306,
+    "name": "Firuzan",
+    "stateId": 1524,
+    "latitude": "34.27861111",
+    "longitude": "48.24000000"
+  },
+  {
+    "id": 46480,
+    "name": "Fārsān",
+    "stateId": 813,
+    "latitude": "32.25694000",
+    "longitude": "50.56095000"
+  },
+  {
+    "id": 46508,
+    "name": "Fīrūzābād",
+    "stateId": 1268,
+    "latitude": "28.84380000",
+    "longitude": "52.57070000"
+  },
+  {
+    "id": 46510,
+    "name": "Fūman",
+    "stateId": 1380,
+    "latitude": "37.22400000",
+    "longitude": "49.31250000"
+  },
+  {
+    "id": 46866,
+    "name": "Gamasa",
+    "stateId": 1524,
+    "latitude": "34.23027778",
+    "longitude": "49.08750000"
+  },
+  {
+    "id": 46867,
+    "name": "Gamasb",
+    "stateId": 1524,
+    "latitude": "34.04000000",
+    "longitude": "48.46500000"
+  },
+  {
+    "id": 47009,
+    "name": "Ganj Tappeh",
+    "stateId": 1524,
+    "latitude": "34.93333300",
+    "longitude": "48.46361100"
+  },
+  {
+    "id": 47011,
+    "name": "Ganjab",
+    "stateId": 1524,
+    "latitude": "34.45277778",
+    "longitude": "48.98722222"
+  },
+  {
+    "id": 47301,
+    "name": "Gashani",
+    "stateId": 1524,
+    "latitude": "34.66055556",
+    "longitude": "48.39138889"
+  },
+  {
+    "id": 47391,
+    "name": "Gav Zaban",
+    "stateId": 1524,
+    "latitude": "35.22916667",
+    "longitude": "48.30527778"
+  },
+  {
+    "id": 47412,
+    "name": "Gavkaran",
+    "stateId": 1524,
+    "latitude": "34.48694444",
+    "longitude": "48.12000000"
+  },
+  {
+    "id": 48269,
+    "name": "Gerāsh",
+    "stateId": 1268,
+    "latitude": "27.66966000",
+    "longitude": "54.13586000"
+  },
+  {
+    "id": 48350,
+    "name": "Ghazyatan",
+    "stateId": 1524,
+    "latitude": "35.33222222",
+    "longitude": "48.93166667"
+  },
+  {
+    "id": 48417,
+    "name": "Gholam Veys",
+    "stateId": 1524,
+    "latitude": "35.63000000",
+    "longitude": "48.52583333"
+  },
+  {
+    "id": 48756,
+    "name": "Givaki",
+    "stateId": 1524,
+    "latitude": "34.27250000",
+    "longitude": "48.08111111"
+  },
+  {
+    "id": 48766,
+    "name": "Giyan",
+    "stateId": 1524,
+    "latitude": "34.17805556",
+    "longitude": "48.24416667"
+  },
+  {
+    "id": 49243,
+    "name": "Gol Darreh-ye Anuch",
+    "stateId": 1524,
+    "latitude": "34.10222222",
+    "longitude": "48.59861111"
+  },
+  {
+    "id": 49245,
+    "name": "Gol Heydar",
+    "stateId": 1524,
+    "latitude": "34.06250000",
+    "longitude": "48.41666667"
+  },
+  {
+    "id": 49338,
+    "name": "Golparabad",
+    "stateId": 1524,
+    "latitude": "34.15500000",
+    "longitude": "49.05777778"
+  },
+  {
+    "id": 49340,
+    "name": "Golpāyegān",
+    "stateId": 1700,
+    "latitude": "33.45370000",
+    "longitude": "50.28836000"
+  },
+  {
+    "id": 49342,
+    "name": "Golshir",
+    "stateId": 1524,
+    "latitude": "34.40000000",
+    "longitude": "48.68333333"
+  },
+  {
+    "id": 49351,
+    "name": "Golushjerd",
+    "stateId": 1524,
+    "latitude": "34.36611111",
+    "longitude": "48.79000000"
+  },
+  {
+    "id": 49385,
+    "name": "Gomush Bolagh",
+    "stateId": 1524,
+    "latitude": "34.93194444",
+    "longitude": "48.28972222"
+  },
+  {
+    "id": 49388,
+    "name": "Gonbad Chay",
+    "stateId": 1524,
+    "latitude": "34.86833300",
+    "longitude": "48.83138900"
+  },
+  {
+    "id": 49389,
+    "name": "Gonbad-e Kabud",
+    "stateId": 1524,
+    "latitude": "34.21722222",
+    "longitude": "48.14777778"
+  },
+  {
+    "id": 49390,
+    "name": "Gonbad-e Kāvūs",
+    "stateId": 1403,
+    "latitude": "37.25004000",
+    "longitude": "55.16721000"
+  },
+  {
+    "id": 49452,
+    "name": "Gonābād",
+    "stateId": 3595,
+    "latitude": "34.35287000",
+    "longitude": "58.68365000"
+  },
+  {
+    "id": 49572,
+    "name": "Gorgān",
+    "stateId": 1403,
+    "latitude": "36.84270000",
+    "longitude": "54.44391000"
+  },
+  {
+    "id": 49771,
+    "name": "Gostar",
+    "stateId": 1524,
+    "latitude": "35.46388889",
+    "longitude": "48.87638889"
+  },
+  {
+    "id": 49805,
+    "name": "Gotvand",
+    "stateId": 1973,
+    "latitude": "32.21667000",
+    "longitude": "48.80000000"
+  },
+  {
+    "id": 49897,
+    "name": "Gozal Abdal",
+    "stateId": 1524,
+    "latitude": "35.32166667",
+    "longitude": "48.23861111"
+  },
+  {
+    "id": 51695,
+    "name": "Gug Qash",
+    "stateId": 1524,
+    "latitude": "35.68750000",
+    "longitude": "48.02530000"
+  },
+  {
+    "id": 51836,
+    "name": "Gujak",
+    "stateId": 1524,
+    "latitude": "34.54083333",
+    "longitude": "48.84027778"
+  },
+  {
+    "id": 51884,
+    "name": "Gulvand",
+    "stateId": 1524,
+    "latitude": "34.38083333",
+    "longitude": "48.97527778"
+  },
+  {
+    "id": 51930,
+    "name": "Gunestan",
+    "stateId": 1524,
+    "latitude": "34.03027778",
+    "longitude": "48.91833333"
+  },
+  {
+    "id": 51972,
+    "name": "Gur Gaz",
+    "stateId": 1524,
+    "latitude": "34.93333333",
+    "longitude": "48.79111111"
+  },
+  {
+    "id": 52015,
+    "name": "Gurjiu",
+    "stateId": 1524,
+    "latitude": "34.18583333",
+    "longitude": "48.40555556"
+  },
+  {
+    "id": 52044,
+    "name": "Gushalan",
+    "stateId": 1524,
+    "latitude": "34.83500000",
+    "longitude": "48.32250000"
+  },
+  {
+    "id": 52045,
+    "name": "Gusheh-ye Kasavand",
+    "stateId": 1524,
+    "latitude": "34.15527778",
+    "longitude": "48.95944444"
+  },
+  {
+    "id": 52770,
+    "name": "Hajji Kheder",
+    "stateId": 1524,
+    "latitude": "34.12722222",
+    "longitude": "48.74833333"
+  },
+  {
+    "id": 52771,
+    "name": "Hajji Maqsud",
+    "stateId": 1524,
+    "latitude": "34.96972222",
+    "longitude": "48.87972222"
+  },
+  {
+    "id": 52772,
+    "name": "Hajji Tu",
+    "stateId": 1524,
+    "latitude": "34.45083300",
+    "longitude": "48.35361100"
+  },
+  {
+    "id": 52943,
+    "name": "Hamadan",
+    "stateId": 1524,
+    "latitude": "34.80000000",
+    "longitude": "48.51666667"
+  },
+  {
+    "id": 52985,
+    "name": "Hamidiyeh",
+    "stateId": 1973,
+    "latitude": "31.48107000",
+    "longitude": "48.43303000"
+  },
+  {
+    "id": 52986,
+    "name": "Hamilabad",
+    "stateId": 1524,
+    "latitude": "34.40250000",
+    "longitude": "48.46083333"
+  },
+  {
+    "id": 53055,
+    "name": "Hamoon",
+    "stateId": 4039,
+    "latitude": "30.93686000",
+    "longitude": "61.33687000"
+  },
+  {
+    "id": 53103,
+    "name": "Hamzehlu-ye Sofla",
+    "stateId": 1524,
+    "latitude": "34.05777778",
+    "longitude": "49.07777778"
+  },
+  {
+    "id": 53262,
+    "name": "Haramabad",
+    "stateId": 1524,
+    "latitude": "34.28166667",
+    "longitude": "48.78250000"
+  },
+  {
+    "id": 53488,
+    "name": "Harsīn",
+    "stateId": 1946,
+    "latitude": "34.27210000",
+    "longitude": "47.58610000"
+  },
+  {
+    "id": 53572,
+    "name": "Hasan Kusej",
+    "stateId": 1524,
+    "latitude": "34.24833333",
+    "longitude": "48.57527778"
+  },
+  {
+    "id": 53573,
+    "name": "Hasan Teymur",
+    "stateId": 1524,
+    "latitude": "35.37583333",
+    "longitude": "48.36361111"
+  },
+  {
+    "id": 53574,
+    "name": "Hasanabad-e Emam",
+    "stateId": 1524,
+    "latitude": "34.95027778",
+    "longitude": "48.05083333"
+  },
+  {
+    "id": 53575,
+    "name": "Hasanabad-e Qush Bolagh",
+    "stateId": 1524,
+    "latitude": "34.42361111",
+    "longitude": "48.65444444"
+  },
+  {
+    "id": 53576,
+    "name": "Hasanabad-e Sheverin",
+    "stateId": 1524,
+    "latitude": "34.84250000",
+    "longitude": "48.54916667"
+  },
+  {
+    "id": 53596,
+    "name": "Hashtpar",
+    "stateId": 1380,
+    "latitude": "37.79658000",
+    "longitude": "48.90521000"
+  },
+  {
+    "id": 53597,
+    "name": "Hashtrūd",
+    "stateId": 1158,
+    "latitude": "37.47790000",
+    "longitude": "47.05080000"
+  },
+  {
+    "id": 54442,
+    "name": "Heriraz",
+    "stateId": 1524,
+    "latitude": "34.20527778",
+    "longitude": "48.74305556"
+  },
+  {
+    "id": 54618,
+    "name": "Hesar-e Qarah Baghi",
+    "stateId": 1524,
+    "latitude": "34.82250000",
+    "longitude": "48.26861111"
+  },
+  {
+    "id": 54619,
+    "name": "Hesar-e Qujeh Baghi",
+    "stateId": 1524,
+    "latitude": "35.23861111",
+    "longitude": "48.55972222"
+  },
+  {
+    "id": 54686,
+    "name": "Heydareh-ye Dar-e Emam",
+    "stateId": 1524,
+    "latitude": "34.82055556",
+    "longitude": "48.34694444"
+  },
+  {
+    "id": 54687,
+    "name": "Heydareh-ye Posht-e Shahr",
+    "stateId": 1524,
+    "latitude": "34.80250000",
+    "longitude": "48.45750000"
+  },
+  {
+    "id": 55206,
+    "name": "Hizaj",
+    "stateId": 1524,
+    "latitude": "34.93000000",
+    "longitude": "49.14333333"
+  },
+  {
+    "id": 55593,
+    "name": "Holvar-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.68000000",
+    "longitude": "48.13472222"
+  },
+  {
+    "id": 55619,
+    "name": "Hom-e Khosrow",
+    "stateId": 1524,
+    "latitude": "34.31472222",
+    "longitude": "48.01000000"
+  },
+  {
+    "id": 55863,
+    "name": "Horhoreh",
+    "stateId": 1524,
+    "latitude": "34.39111111",
+    "longitude": "48.36027778"
+  },
+  {
+    "id": 56025,
+    "name": "Hoseynabad-e Bahar",
+    "stateId": 1524,
+    "latitude": "34.86750000",
+    "longitude": "48.36833333"
+  },
+  {
+    "id": 56026,
+    "name": "Hoseynabad-e Nazem",
+    "stateId": 1524,
+    "latitude": "34.29527800",
+    "longitude": "48.60416700"
+  },
+  {
+    "id": 56027,
+    "name": "Hoseynabad-e Shamlu",
+    "stateId": 1524,
+    "latitude": "34.44611111",
+    "longitude": "48.62055556"
+  },
+  {
+    "id": 56380,
+    "name": "Hudaraj",
+    "stateId": 1524,
+    "latitude": "34.73361111",
+    "longitude": "48.16194444"
+  },
+  {
+    "id": 58611,
+    "name": "Iraneh",
+    "stateId": 1524,
+    "latitude": "34.24305556",
+    "longitude": "48.59750000"
+  },
+  {
+    "id": 58613,
+    "name": "Iranshahr",
+    "stateId": 4039,
+    "latitude": "27.20245000",
+    "longitude": "60.68476000"
+  },
+  {
+    "id": 58806,
+    "name": "Isfahan",
+    "stateId": 1700,
+    "latitude": "32.65246000",
+    "longitude": "51.67462000"
+  },
+  {
+    "id": 58978,
+    "name": "Isti Bolagh",
+    "stateId": 1524,
+    "latitude": "35.69500000",
+    "longitude": "48.26611111"
+  },
+  {
+    "id": 59928,
+    "name": "Jamishlu",
+    "stateId": 1524,
+    "latitude": "35.24583333",
+    "longitude": "48.97666667"
+  },
+  {
+    "id": 60090,
+    "name": "Jaria",
+    "stateId": 1524,
+    "latitude": "34.35166667",
+    "longitude": "48.46861111"
+  },
+  {
+    "id": 60236,
+    "name": "Javar Sajin",
+    "stateId": 1524,
+    "latitude": "35.28583333",
+    "longitude": "49.22138889"
+  },
+  {
+    "id": 60248,
+    "name": "Javānrūd",
+    "stateId": 1946,
+    "latitude": "34.79611000",
+    "longitude": "46.51722000"
+  },
+  {
+    "id": 60449,
+    "name": "Jerbanlu",
+    "stateId": 1524,
+    "latitude": "35.58638889",
+    "longitude": "48.92916667"
+  },
+  {
+    "id": 60667,
+    "name": "Jighi",
+    "stateId": 1524,
+    "latitude": "35.20027778",
+    "longitude": "48.49388889"
+  },
+  {
+    "id": 60671,
+    "name": "Jijan Kuh",
+    "stateId": 1524,
+    "latitude": "34.48111111",
+    "longitude": "48.50694444"
+  },
+  {
+    "id": 60673,
+    "name": "Jijian Rud",
+    "stateId": 1524,
+    "latitude": "34.35638889",
+    "longitude": "48.60861111"
+  },
+  {
+    "id": 60720,
+    "name": "Jin Taraqayah",
+    "stateId": 1524,
+    "latitude": "35.34555556",
+    "longitude": "48.43250000"
+  },
+  {
+    "id": 61005,
+    "name": "Jongīyeh",
+    "stateId": 1973,
+    "latitude": "31.25583000",
+    "longitude": "48.61667000"
+  },
+  {
+    "id": 61144,
+    "name": "Joveyn",
+    "stateId": 3595,
+    "latitude": "36.58333000",
+    "longitude": "57.51667000"
+  },
+  {
+    "id": 61373,
+    "name": "Juraqan",
+    "stateId": 1524,
+    "latitude": "34.88472222",
+    "longitude": "48.55444444"
+  },
+  {
+    "id": 61537,
+    "name": "Jūybār",
+    "stateId": 2579,
+    "latitude": "36.64115000",
+    "longitude": "52.91244000"
+  },
+  {
+    "id": 61587,
+    "name": "Kaboodrahang",
+    "stateId": 1524,
+    "latitude": "35.20833333",
+    "longitude": "48.72388889"
+  },
+  {
+    "id": 62099,
+    "name": "Kahard",
+    "stateId": 1524,
+    "latitude": "35.28555556",
+    "longitude": "49.00527778"
+  },
+  {
+    "id": 62104,
+    "name": "Kahkadan",
+    "stateId": 1524,
+    "latitude": "34.14388889",
+    "longitude": "48.65805556"
+  },
+  {
+    "id": 62112,
+    "name": "Kahriz-e Baba Hoseyn",
+    "stateId": 1524,
+    "latitude": "35.53388889",
+    "longitude": "47.94027778"
+  },
+  {
+    "id": 62113,
+    "name": "Kahriz-e Boqazi",
+    "stateId": 1524,
+    "latitude": "35.51138889",
+    "longitude": "48.81833333"
+  },
+  {
+    "id": 62114,
+    "name": "Kahriz-e Hoseynabad-e Nazem",
+    "stateId": 1524,
+    "latitude": "34.31888889",
+    "longitude": "48.62777778"
+  },
+  {
+    "id": 62115,
+    "name": "Kahriz-e Jamal",
+    "stateId": 1524,
+    "latitude": "34.33500000",
+    "longitude": "48.14611111"
+  },
+  {
+    "id": 62116,
+    "name": "Kahriz-e Salim",
+    "stateId": 1524,
+    "latitude": "34.32888889",
+    "longitude": "48.16222222"
+  },
+  {
+    "id": 62117,
+    "name": "Kahrīz",
+    "stateId": 1946,
+    "latitude": "34.38380000",
+    "longitude": "47.05530000"
+  },
+  {
+    "id": 62205,
+    "name": "Kal Kabud",
+    "stateId": 1524,
+    "latitude": "35.48083333",
+    "longitude": "48.85277778"
+  },
+  {
+    "id": 62260,
+    "name": "Kalb Hesari",
+    "stateId": 1524,
+    "latitude": "35.36694444",
+    "longitude": "48.39583333"
+  },
+  {
+    "id": 62304,
+    "name": "Kalilabad",
+    "stateId": 1524,
+    "latitude": "34.33916667",
+    "longitude": "48.54472222"
+  },
+  {
+    "id": 62438,
+    "name": "Kalāleh",
+    "stateId": 1403,
+    "latitude": "37.37899000",
+    "longitude": "55.49300000"
+  },
+  {
+    "id": 62446,
+    "name": "Kamak-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.88750000",
+    "longitude": "47.96861111"
+  },
+  {
+    "id": 62461,
+    "name": "Kamar Boneh",
+    "stateId": 1524,
+    "latitude": "34.17500000",
+    "longitude": "48.63500000"
+  },
+  {
+    "id": 62474,
+    "name": "Kamazan",
+    "stateId": 1524,
+    "latitude": "34.15083333",
+    "longitude": "48.95333333"
+  },
+  {
+    "id": 62673,
+    "name": "Kand Halan",
+    "stateId": 1524,
+    "latitude": "34.50111111",
+    "longitude": "48.78194444"
+  },
+  {
+    "id": 62674,
+    "name": "Kand Tappeh",
+    "stateId": 1524,
+    "latitude": "35.20138889",
+    "longitude": "48.30555556"
+  },
+  {
+    "id": 62675,
+    "name": "Kand-e Bolaghi",
+    "stateId": 1524,
+    "latitude": "35.43000000",
+    "longitude": "48.32277778"
+  },
+  {
+    "id": 62737,
+    "name": "Kangavar-e Kohneh",
+    "stateId": 1524,
+    "latitude": "34.34194444",
+    "longitude": "47.97611111"
+  },
+  {
+    "id": 62747,
+    "name": "Kangāvar",
+    "stateId": 1946,
+    "latitude": "34.50430000",
+    "longitude": "47.96530000"
+  },
+  {
+    "id": 62931,
+    "name": "Karafs",
+    "stateId": 1524,
+    "latitude": "35.36333333",
+    "longitude": "49.29888889"
+  },
+  {
+    "id": 62942,
+    "name": "Karaj",
+    "stateId": 120,
+    "latitude": "35.83266000",
+    "longitude": "50.99155000"
+  },
+  {
+    "id": 63077,
+    "name": "Kark-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.16944444",
+    "longitude": "48.29138889"
+  },
+  {
+    "id": 63165,
+    "name": "Kartilabad",
+    "stateId": 1524,
+    "latitude": "34.31361111",
+    "longitude": "48.64916667"
+  },
+  {
+    "id": 63174,
+    "name": "Karun",
+    "stateId": 1973,
+    "latitude": "31.27618000",
+    "longitude": "48.64174000"
+  },
+  {
+    "id": 63209,
+    "name": "Kasavand",
+    "stateId": 1524,
+    "latitude": "34.15222222",
+    "longitude": "48.96972222"
+  },
+  {
+    "id": 63253,
+    "name": "Kaslan Qayah",
+    "stateId": 1524,
+    "latitude": "35.19388889",
+    "longitude": "48.18611111"
+  },
+  {
+    "id": 63448,
+    "name": "Kavanaj",
+    "stateId": 1524,
+    "latitude": "34.66388889",
+    "longitude": "47.89694444"
+  },
+  {
+    "id": 63731,
+    "name": "Kelīshād va Sūdarjān",
+    "stateId": 1700,
+    "latitude": "32.55118000",
+    "longitude": "51.52758000"
+  },
+  {
+    "id": 63949,
+    "name": "Kerman",
+    "stateId": 1945,
+    "latitude": "30.28321000",
+    "longitude": "57.07879000"
+  },
+  {
+    "id": 63951,
+    "name": "Kermanshah",
+    "stateId": 1946,
+    "latitude": "34.31417000",
+    "longitude": "47.06500000"
+  },
+  {
+    "id": 63987,
+    "name": "Kesb",
+    "stateId": 1524,
+    "latitude": "34.41416667",
+    "longitude": "48.72250000"
+  },
+  {
+    "id": 64060,
+    "name": "Keykaleh",
+    "stateId": 1524,
+    "latitude": "34.11500000",
+    "longitude": "48.93916667"
+  },
+  {
+    "id": 64061,
+    "name": "Keyni Sayeh",
+    "stateId": 1524,
+    "latitude": "34.82583333",
+    "longitude": "47.88638889"
+  },
+  {
+    "id": 64081,
+    "name": "Khabar Arkhi",
+    "stateId": 1524,
+    "latitude": "35.36333333",
+    "longitude": "48.27666667"
+  },
+  {
+    "id": 64111,
+    "name": "Khaku",
+    "stateId": 1524,
+    "latitude": "34.72638889",
+    "longitude": "48.53638889"
+  },
+  {
+    "id": 64114,
+    "name": "Khaleq Verdi",
+    "stateId": 1524,
+    "latitude": "35.41083333",
+    "longitude": "48.18111111"
+  },
+  {
+    "id": 64117,
+    "name": "Khalil Kord",
+    "stateId": 1524,
+    "latitude": "34.97805556",
+    "longitude": "48.25305556"
+  },
+  {
+    "id": 64119,
+    "name": "Khalkhāl",
+    "stateId": 222,
+    "latitude": "37.61837000",
+    "longitude": "48.52928000"
+  },
+  {
+    "id": 64236,
+    "name": "Khavāş Kūh",
+    "stateId": 4785,
+    "latitude": "32.30611000",
+    "longitude": "53.67444000"
+  },
+  {
+    "id": 64258,
+    "name": "Kheradmand",
+    "stateId": 1524,
+    "latitude": "34.62583333",
+    "longitude": "48.93138889"
+  },
+  {
+    "id": 64267,
+    "name": "Kheyr Qoli",
+    "stateId": 1524,
+    "latitude": "34.20222222",
+    "longitude": "48.40138889"
+  },
+  {
+    "id": 64319,
+    "name": "Khomeygan",
+    "stateId": 1524,
+    "latitude": "35.36972222",
+    "longitude": "49.02333333"
+  },
+  {
+    "id": 64320,
+    "name": "Khomeyn",
+    "stateId": 2525,
+    "latitude": "33.63889000",
+    "longitude": "50.08003000"
+  },
+  {
+    "id": 64321,
+    "name": "Khomeynī Shahr",
+    "stateId": 1700,
+    "latitude": "32.68560000",
+    "longitude": "51.53609000"
+  },
+  {
+    "id": 64347,
+    "name": "Khorramabad",
+    "stateId": 2354,
+    "latitude": "33.48778000",
+    "longitude": "48.35583000"
+  },
+  {
+    "id": 64348,
+    "name": "Khorramdarreh",
+    "stateId": 4830,
+    "latitude": "36.23333000",
+    "longitude": "49.20000000"
+  },
+  {
+    "id": 64349,
+    "name": "Khorramshahr",
+    "stateId": 1973,
+    "latitude": "30.44079000",
+    "longitude": "48.18428000"
+  },
+  {
+    "id": 64363,
+    "name": "Khowy",
+    "stateId": 4700,
+    "latitude": "38.55030000",
+    "longitude": "44.95210000"
+  },
+  {
+    "id": 64403,
+    "name": "Khvajeh Hesar",
+    "stateId": 1524,
+    "latitude": "35.00000000",
+    "longitude": "49.33916667"
+  },
+  {
+    "id": 64404,
+    "name": "Khvajeh Hoseyni",
+    "stateId": 1524,
+    "latitude": "34.15500000",
+    "longitude": "48.37861111"
+  },
+  {
+    "id": 64405,
+    "name": "Khvajeh Kandi",
+    "stateId": 1524,
+    "latitude": "35.36194444",
+    "longitude": "48.38500000"
+  },
+  {
+    "id": 64413,
+    "name": "Khvoshab-e Sofla",
+    "stateId": 1524,
+    "latitude": "35.01777778",
+    "longitude": "48.35750000"
+  },
+  {
+    "id": 64416,
+    "name": "Khvānsār",
+    "stateId": 1700,
+    "latitude": "33.22052000",
+    "longitude": "50.31497000"
+  },
+  {
+    "id": 64423,
+    "name": "Khārk",
+    "stateId": 631,
+    "latitude": "29.26139000",
+    "longitude": "50.33056000"
+  },
+  {
+    "id": 64426,
+    "name": "Khāsh",
+    "stateId": 4039,
+    "latitude": "28.22107000",
+    "longitude": "61.21582000"
+  },
+  {
+    "id": 64428,
+    "name": "Khūr",
+    "stateId": 1700,
+    "latitude": "33.77512000",
+    "longitude": "55.08329000"
+  },
+  {
+    "id": 65211,
+    "name": "Kitu",
+    "stateId": 1524,
+    "latitude": "35.31972222",
+    "longitude": "48.15333333"
+  },
+  {
+    "id": 65641,
+    "name": "Kohnush",
+    "stateId": 1524,
+    "latitude": "34.72583333",
+    "longitude": "48.27777778"
+  },
+  {
+    "id": 65689,
+    "name": "Kolanjan",
+    "stateId": 1524,
+    "latitude": "34.59444444",
+    "longitude": "48.39250000"
+  },
+  {
+    "id": 65859,
+    "name": "Komījān",
+    "stateId": 2525,
+    "latitude": "34.72142000",
+    "longitude": "49.32653000"
+  },
+  {
+    "id": 65910,
+    "name": "Konjineh",
+    "stateId": 1524,
+    "latitude": "34.79222222",
+    "longitude": "48.62972222"
+  },
+  {
+    "id": 66026,
+    "name": "Kord Bolagh",
+    "stateId": 1524,
+    "latitude": "34.76722222",
+    "longitude": "48.65277778"
+  },
+  {
+    "id": 66117,
+    "name": "Korzan",
+    "stateId": 1524,
+    "latitude": "34.59444444",
+    "longitude": "48.35361111"
+  },
+  {
+    "id": 66444,
+    "name": "Kowzareh",
+    "stateId": 1524,
+    "latitude": "34.69861100",
+    "longitude": "49.01138900"
+  },
+  {
+    "id": 67116,
+    "name": "Kuhani",
+    "stateId": 1524,
+    "latitude": "34.15388900",
+    "longitude": "48.40500000"
+  },
+  {
+    "id": 67337,
+    "name": "Kur Kahriz",
+    "stateId": 1524,
+    "latitude": "34.71722222",
+    "longitude": "48.77333333"
+  },
+  {
+    "id": 67441,
+    "name": "Kusaj Khalil",
+    "stateId": 1524,
+    "latitude": "34.40416667",
+    "longitude": "48.58805556"
+  },
+  {
+    "id": 67478,
+    "name": "Kutah Darreh",
+    "stateId": 1524,
+    "latitude": "34.32055556",
+    "longitude": "47.95388889"
+  },
+  {
+    "id": 67836,
+    "name": "Kāmyārān",
+    "stateId": 2117,
+    "latitude": "34.79560000",
+    "longitude": "46.93550000"
+  },
+  {
+    "id": 67838,
+    "name": "Kāshmar",
+    "stateId": 3595,
+    "latitude": "35.23831000",
+    "longitude": "58.46558000"
+  },
+  {
+    "id": 67839,
+    "name": "Kāzerūn",
+    "stateId": 1268,
+    "latitude": "29.61919000",
+    "longitude": "51.65350000"
+  },
+  {
+    "id": 67854,
+    "name": "Kīsh",
+    "stateId": 1605,
+    "latitude": "26.55778000",
+    "longitude": "54.01944000"
+  },
+  {
+    "id": 67907,
+    "name": "Kūh Sefīd",
+    "stateId": 1945,
+    "latitude": "29.27620000",
+    "longitude": "56.80140000"
+  },
+  {
+    "id": 67908,
+    "name": "Kūhdasht",
+    "stateId": 2354,
+    "latitude": "33.53335000",
+    "longitude": "47.60999000"
+  },
+  {
+    "id": 69998,
+    "name": "Laleh Dan",
+    "stateId": 1524,
+    "latitude": "35.58111111",
+    "longitude": "48.95416667"
+  },
+  {
+    "id": 69999,
+    "name": "Lalejin",
+    "stateId": 1524,
+    "latitude": "34.97444444",
+    "longitude": "48.47555556"
+  },
+  {
+    "id": 70125,
+    "name": "Lamiyan",
+    "stateId": 1524,
+    "latitude": "34.46277778",
+    "longitude": "48.19277778"
+  },
+  {
+    "id": 70233,
+    "name": "Landeh",
+    "stateId": 2033,
+    "latitude": "30.97994000",
+    "longitude": "50.42469000"
+  },
+  {
+    "id": 70309,
+    "name": "Langarūd",
+    "stateId": 1380,
+    "latitude": "37.19548000",
+    "longitude": "50.15263000"
+  },
+  {
+    "id": 70970,
+    "name": "Latgah",
+    "stateId": 1524,
+    "latitude": "34.98944400",
+    "longitude": "48.54638900"
+  },
+  {
+    "id": 71166,
+    "name": "Lavashan",
+    "stateId": 1524,
+    "latitude": "34.25055556",
+    "longitude": "48.27416667"
+  },
+  {
+    "id": 72504,
+    "name": "Leyli Yadegar",
+    "stateId": 1524,
+    "latitude": "34.28583333",
+    "longitude": "48.21027778"
+  },
+  {
+    "id": 75235,
+    "name": "Luluhar",
+    "stateId": 1524,
+    "latitude": "34.31611111",
+    "longitude": "48.45416667"
+  },
+  {
+    "id": 76713,
+    "name": "Mahanabad",
+    "stateId": 1524,
+    "latitude": "34.18083333",
+    "longitude": "48.20972222"
+  },
+  {
+    "id": 76743,
+    "name": "Mahbar",
+    "stateId": 1524,
+    "latitude": "34.87611111",
+    "longitude": "48.80777778"
+  },
+  {
+    "id": 76747,
+    "name": "Mahdaviyeh",
+    "stateId": 1524,
+    "latitude": "34.08333333",
+    "longitude": "48.88333333"
+  },
+  {
+    "id": 76750,
+    "name": "Mahdishahr",
+    "stateId": 3945,
+    "latitude": "35.70806000",
+    "longitude": "53.35083000"
+  },
+  {
+    "id": 76777,
+    "name": "Mahnian",
+    "stateId": 1524,
+    "latitude": "35.50250000",
+    "longitude": "49.06583333"
+  },
+  {
+    "id": 76790,
+    "name": "Mahrīz",
+    "stateId": 4785,
+    "latitude": "31.58428000",
+    "longitude": "54.44280000"
+  },
+  {
+    "id": 76803,
+    "name": "Mahābād",
+    "stateId": 4700,
+    "latitude": "36.76310000",
+    "longitude": "45.72220000"
+  },
+  {
+    "id": 77176,
+    "name": "Malayer",
+    "stateId": 1524,
+    "latitude": "34.29416667",
+    "longitude": "48.82000000"
+  },
+  {
+    "id": 77212,
+    "name": "Malek-e Ashtar",
+    "stateId": 1524,
+    "latitude": "34.95222222",
+    "longitude": "48.31500000"
+  },
+  {
+    "id": 77441,
+    "name": "Malusan",
+    "stateId": 1524,
+    "latitude": "34.32333333",
+    "longitude": "48.33000000"
+  },
+  {
+    "id": 77486,
+    "name": "Malārd",
+    "stateId": 4343,
+    "latitude": "35.66590000",
+    "longitude": "50.97670000"
+  },
+  {
+    "id": 77501,
+    "name": "Mamasanī",
+    "stateId": 1268,
+    "latitude": "30.03333000",
+    "longitude": "51.38333000"
+  },
+  {
+    "id": 77794,
+    "name": "Mangavi",
+    "stateId": 1524,
+    "latitude": "34.65750000",
+    "longitude": "48.70861111"
+  },
+  {
+    "id": 78259,
+    "name": "Marand",
+    "stateId": 1158,
+    "latitude": "38.43290000",
+    "longitude": "45.77490000"
+  },
+  {
+    "id": 79270,
+    "name": "Marvdasht",
+    "stateId": 1268,
+    "latitude": "30.08333000",
+    "longitude": "52.66667000"
+  },
+  {
+    "id": 79274,
+    "name": "Marvil",
+    "stateId": 1524,
+    "latitude": "34.16805556",
+    "longitude": "48.88694444"
+  },
+  {
+    "id": 79283,
+    "name": "Maryanaj",
+    "stateId": 1524,
+    "latitude": "34.83083333",
+    "longitude": "48.45916667"
+  },
+  {
+    "id": 79337,
+    "name": "Marīvān",
+    "stateId": 2117,
+    "latitude": "35.51829000",
+    "longitude": "46.18298000"
+  },
+  {
+    "id": 79411,
+    "name": "Mashhad",
+    "stateId": 3595,
+    "latitude": "36.31559000",
+    "longitude": "59.56796000"
+  },
+  {
+    "id": 79438,
+    "name": "Masjed Soleymān",
+    "stateId": 1973,
+    "latitude": "31.93640000",
+    "longitude": "49.30390000"
+  },
+  {
+    "id": 79439,
+    "name": "Masjedin",
+    "stateId": 1524,
+    "latitude": "35.54277778",
+    "longitude": "48.26333333"
+  },
+  {
+    "id": 80647,
+    "name": "Mehrān",
+    "stateId": 1659,
+    "latitude": "33.12220000",
+    "longitude": "46.16460000"
+  },
+  {
+    "id": 80970,
+    "name": "Menjan",
+    "stateId": 1524,
+    "latitude": "34.44805556",
+    "longitude": "48.23555556"
+  },
+  {
+    "id": 81289,
+    "name": "Mesinak",
+    "stateId": 1524,
+    "latitude": "35.27222222",
+    "longitude": "49.15111111"
+  },
+  {
+    "id": 81458,
+    "name": "Meybod",
+    "stateId": 4785,
+    "latitude": "32.18333000",
+    "longitude": "53.93333000"
+  },
+  {
+    "id": 81475,
+    "name": "Meyvaleh",
+    "stateId": 1524,
+    "latitude": "34.83194444",
+    "longitude": "47.85527778"
+  },
+  {
+    "id": 81608,
+    "name": "Mianzulan",
+    "stateId": 1524,
+    "latitude": "34.31222222",
+    "longitude": "48.51555556"
+  },
+  {
+    "id": 81905,
+    "name": "Mihamleh-ye Sofla",
+    "stateId": 1524,
+    "latitude": "35.10000000",
+    "longitude": "48.30805556"
+  },
+  {
+    "id": 81983,
+    "name": "Milab",
+    "stateId": 1524,
+    "latitude": "34.05277778",
+    "longitude": "48.47972222"
+  },
+  {
+    "id": 82584,
+    "name": "Mirjaveh",
+    "stateId": 4039,
+    "latitude": "29.01752000",
+    "longitude": "61.45046000"
+  },
+  {
+    "id": 82633,
+    "name": "Mirza Hesari",
+    "stateId": 1524,
+    "latitude": "35.12750000",
+    "longitude": "48.45944400"
+  },
+  {
+    "id": 82655,
+    "name": "Mishen",
+    "stateId": 1524,
+    "latitude": "34.15750000",
+    "longitude": "48.92722222"
+  },
+  {
+    "id": 82953,
+    "name": "Mobarakin",
+    "stateId": 1524,
+    "latitude": "35.09805556",
+    "longitude": "49.42416667"
+  },
+  {
+    "id": 82961,
+    "name": "Mobārakeh",
+    "stateId": 1700,
+    "latitude": "32.34651000",
+    "longitude": "51.50449000"
+  },
+  {
+    "id": 83103,
+    "name": "Mohajeran",
+    "stateId": 1524,
+    "latitude": "35.07388889",
+    "longitude": "48.61666667"
+  },
+  {
+    "id": 83107,
+    "name": "Mohammadabad-e Chulak",
+    "stateId": 1524,
+    "latitude": "34.24666667",
+    "longitude": "48.30444444"
+  },
+  {
+    "id": 83108,
+    "name": "Mohammadiyeh-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.14611111",
+    "longitude": "48.33861111"
+  },
+  {
+    "id": 83114,
+    "name": "Mohara",
+    "stateId": 1524,
+    "latitude": "34.55527778",
+    "longitude": "48.86861111"
+  },
+  {
+    "id": 83131,
+    "name": "Mohr",
+    "stateId": 1268,
+    "latitude": "27.55520000",
+    "longitude": "52.88360000"
+  },
+  {
+    "id": 83193,
+    "name": "Mokarrabi",
+    "stateId": 1524,
+    "latitude": "34.62500000",
+    "longitude": "48.69777778"
+  },
+  {
+    "id": 83252,
+    "name": "Molham Darreh",
+    "stateId": 1524,
+    "latitude": "34.83138889",
+    "longitude": "48.14527778"
+  },
+  {
+    "id": 83289,
+    "name": "Molla Bodagh",
+    "stateId": 1524,
+    "latitude": "35.63138889",
+    "longitude": "48.73888889"
+  },
+  {
+    "id": 83406,
+    "name": "Monavvar Tappeh",
+    "stateId": 1524,
+    "latitude": "34.72027778",
+    "longitude": "47.91111111"
+  },
+  {
+    "id": 84765,
+    "name": "Morghabad",
+    "stateId": 1524,
+    "latitude": "35.18833333",
+    "longitude": "49.28277778"
+  },
+  {
+    "id": 85484,
+    "name": "Mowdaran",
+    "stateId": 1524,
+    "latitude": "34.33250000",
+    "longitude": "48.47138889"
+  },
+  {
+    "id": 86391,
+    "name": "Musa Bolaghi",
+    "stateId": 1524,
+    "latitude": "34.59888889",
+    "longitude": "48.94111111"
+  },
+  {
+    "id": 87029,
+    "name": "Mīnāb",
+    "stateId": 1605,
+    "latitude": "27.13104000",
+    "longitude": "57.08716000"
+  },
+  {
+    "id": 87033,
+    "name": "Mīāndoāb",
+    "stateId": 4700,
+    "latitude": "36.96667000",
+    "longitude": "46.10961000"
+  },
+  {
+    "id": 87270,
+    "name": "Nahandar",
+    "stateId": 1524,
+    "latitude": "34.14944444",
+    "longitude": "48.96833333"
+  },
+  {
+    "id": 87275,
+    "name": "Nahavand",
+    "stateId": 1524,
+    "latitude": "34.18833333",
+    "longitude": "48.37694444"
+  },
+  {
+    "id": 87318,
+    "name": "Najafiyeh",
+    "stateId": 1524,
+    "latitude": "34.55500000",
+    "longitude": "48.38638889"
+  },
+  {
+    "id": 87319,
+    "name": "Najafābād",
+    "stateId": 1700,
+    "latitude": "32.63440000",
+    "longitude": "51.36680000"
+  },
+  {
+    "id": 87361,
+    "name": "Nakilabad",
+    "stateId": 1524,
+    "latitude": "34.36777778",
+    "longitude": "48.65694444"
+  },
+  {
+    "id": 87362,
+    "name": "Nakin",
+    "stateId": 1524,
+    "latitude": "35.38805556",
+    "longitude": "49.26527778"
+  },
+  {
+    "id": 87443,
+    "name": "Namileh",
+    "stateId": 1524,
+    "latitude": "34.27111111",
+    "longitude": "48.82000000"
+  },
+  {
+    "id": 87479,
+    "name": "Nanaj",
+    "stateId": 1524,
+    "latitude": "34.42000000",
+    "longitude": "48.75388889"
+  },
+  {
+    "id": 87640,
+    "name": "Naqadeh",
+    "stateId": 4700,
+    "latitude": "36.95530000",
+    "longitude": "45.38800000"
+  },
+  {
+    "id": 87802,
+    "name": "Nashtārūd",
+    "stateId": 2579,
+    "latitude": "36.75090000",
+    "longitude": "51.02362000"
+  },
+  {
+    "id": 88118,
+    "name": "Nazul",
+    "stateId": 1524,
+    "latitude": "34.22833333",
+    "longitude": "48.71805556"
+  },
+  {
+    "id": 88124,
+    "name": "Naz̧arābād",
+    "stateId": 120,
+    "latitude": "35.95411000",
+    "longitude": "50.60607000"
+  },
+  {
+    "id": 88129,
+    "name": "Naţanz",
+    "stateId": 1700,
+    "latitude": "33.51118000",
+    "longitude": "51.91808000"
+  },
+  {
+    "id": 88247,
+    "name": "Negar Khatun",
+    "stateId": 1524,
+    "latitude": "35.11861111",
+    "longitude": "48.92555556"
+  },
+  {
+    "id": 88249,
+    "name": "Negarabad",
+    "stateId": 1524,
+    "latitude": "35.47583333",
+    "longitude": "48.53277778"
+  },
+  {
+    "id": 88288,
+    "name": "Nehenjeh",
+    "stateId": 1524,
+    "latitude": "34.54111111",
+    "longitude": "48.71722222"
+  },
+  {
+    "id": 88327,
+    "name": "Nekā",
+    "stateId": 2579,
+    "latitude": "36.65079000",
+    "longitude": "53.29905000"
+  },
+  {
+    "id": 88463,
+    "name": "Nesar",
+    "stateId": 1524,
+    "latitude": "34.07694444",
+    "longitude": "48.46861111"
+  },
+  {
+    "id": 88469,
+    "name": "Neshar",
+    "stateId": 1524,
+    "latitude": "34.67722222",
+    "longitude": "48.86694444"
+  },
+  {
+    "id": 89218,
+    "name": "Neyrīz",
+    "stateId": 1268,
+    "latitude": "29.19880000",
+    "longitude": "54.32780000"
+  },
+  {
+    "id": 89219,
+    "name": "Neyshābūr",
+    "stateId": 3595,
+    "latitude": "36.21329000",
+    "longitude": "58.79575000"
+  },
+  {
+    "id": 89656,
+    "name": "Nimruz",
+    "stateId": 4039,
+    "latitude": "31.10333000",
+    "longitude": "61.41601000"
+  },
+  {
+    "id": 89780,
+    "name": "Niyanj",
+    "stateId": 1524,
+    "latitude": "35.34861111",
+    "longitude": "48.91722222"
+  },
+  {
+    "id": 90641,
+    "name": "Nosratabad-e Behraz",
+    "stateId": 1524,
+    "latitude": "34.69222222",
+    "longitude": "48.08555556"
+  },
+  {
+    "id": 90642,
+    "name": "Nosratabad-e Laklak",
+    "stateId": 1524,
+    "latitude": "34.66472222",
+    "longitude": "47.96277778"
+  },
+  {
+    "id": 91243,
+    "name": "Nowshahr",
+    "stateId": 2579,
+    "latitude": "36.64852000",
+    "longitude": "51.49621000"
+  },
+  {
+    "id": 91282,
+    "name": "Noşratābād",
+    "stateId": 4039,
+    "latitude": "29.90000000",
+    "longitude": "59.98333000"
+  },
+  {
+    "id": 91509,
+    "name": "Nurabad-e Simineh",
+    "stateId": 1524,
+    "latitude": "34.82194444",
+    "longitude": "48.29277778"
+  },
+  {
+    "id": 91799,
+    "name": "Nā’īn",
+    "stateId": 1700,
+    "latitude": "32.86006000",
+    "longitude": "53.08749000"
+  },
+  {
+    "id": 91816,
+    "name": "Nīkshahr",
+    "stateId": 4039,
+    "latitude": "26.22580000",
+    "longitude": "60.21430000"
+  },
+  {
+    "id": 91821,
+    "name": "Nūrābād",
+    "stateId": 1268,
+    "latitude": "30.11405000",
+    "longitude": "51.52174000"
+  },
+  {
+    "id": 91822,
+    "name": "Nūrābād",
+    "stateId": 2354,
+    "latitude": "34.07340000",
+    "longitude": "47.97250000"
+  },
+  {
+    "id": 92868,
+    "name": "Ojaq",
+    "stateId": 1524,
+    "latitude": "35.64000000",
+    "longitude": "48.84583333"
+  },
+  {
+    "id": 93534,
+    "name": "Ommatlar",
+    "stateId": 1524,
+    "latitude": "35.43611111",
+    "longitude": "48.96861111"
+  },
+  {
+    "id": 93553,
+    "name": "Omīdcheh",
+    "stateId": 222,
+    "latitude": "38.28667000",
+    "longitude": "48.14139000"
+  },
+  {
+    "id": 93554,
+    "name": "Omīdīyeh",
+    "stateId": 1973,
+    "latitude": "30.76277000",
+    "longitude": "49.70226000"
+  },
+  {
+    "id": 94497,
+    "name": "Orūmīyeh",
+    "stateId": 4700,
+    "latitude": "37.55274000",
+    "longitude": "45.07605000"
+  },
+  {
+    "id": 94568,
+    "name": "Oshnavīyeh",
+    "stateId": 4700,
+    "latitude": "37.03970000",
+    "longitude": "45.09830000"
+  },
+  {
+    "id": 94569,
+    "name": "Oshtoran",
+    "stateId": 1524,
+    "latitude": "34.63805556",
+    "longitude": "48.29555556"
+  },
+  {
+    "id": 94570,
+    "name": "Oshtorjin",
+    "stateId": 1524,
+    "latitude": "34.77583333",
+    "longitude": "48.17222222"
+  },
+  {
+    "id": 95155,
+    "name": "Ovraqin",
+    "stateId": 1524,
+    "latitude": "35.28222222",
+    "longitude": "48.69111111"
+  },
+  {
+    "id": 95189,
+    "name": "Owrteh Qamish",
+    "stateId": 1524,
+    "latitude": "35.57083333",
+    "longitude": "48.62916667"
+  },
+  {
+    "id": 95190,
+    "name": "Owryad",
+    "stateId": 1524,
+    "latitude": "35.26277778",
+    "longitude": "48.37250000"
+  },
+  {
+    "id": 95573,
+    "name": "Pahnabad",
+    "stateId": 1524,
+    "latitude": "34.84166667",
+    "longitude": "48.61472222"
+  },
+  {
+    "id": 96238,
+    "name": "Panbeh Dar",
+    "stateId": 1524,
+    "latitude": "34.06527778",
+    "longitude": "48.44555556"
+  },
+  {
+    "id": 96713,
+    "name": "Pardis",
+    "stateId": 4343,
+    "latitude": "35.74169000",
+    "longitude": "51.77705000"
+  },
+  {
+    "id": 96880,
+    "name": "Parluk",
+    "stateId": 1524,
+    "latitude": "35.06555556",
+    "longitude": "48.24611111"
+  },
+  {
+    "id": 96984,
+    "name": "Parvaraq",
+    "stateId": 1524,
+    "latitude": "35.15583333",
+    "longitude": "48.76777778"
+  },
+  {
+    "id": 97510,
+    "name": "Payandeh",
+    "stateId": 1524,
+    "latitude": "35.44194444",
+    "longitude": "48.85305556"
+  },
+  {
+    "id": 98671,
+    "name": "Peyhan",
+    "stateId": 1524,
+    "latitude": "34.12972222",
+    "longitude": "48.86750000"
+  },
+  {
+    "id": 99377,
+    "name": "Pileh Jin",
+    "stateId": 1524,
+    "latitude": "35.38388889",
+    "longitude": "48.85583333"
+  },
+  {
+    "id": 99737,
+    "name": "Pir Anbar",
+    "stateId": 1524,
+    "latitude": "35.24250000",
+    "longitude": "48.51361111"
+  },
+  {
+    "id": 99738,
+    "name": "Pir Badam",
+    "stateId": 1524,
+    "latitude": "35.56722222",
+    "longitude": "48.13888889"
+  },
+  {
+    "id": 99740,
+    "name": "Pir Khodaverdi",
+    "stateId": 1524,
+    "latitude": "34.32500000",
+    "longitude": "48.92861111"
+  },
+  {
+    "id": 99742,
+    "name": "Pir Malu",
+    "stateId": 1524,
+    "latitude": "34.91222222",
+    "longitude": "48.06611111"
+  },
+  {
+    "id": 99743,
+    "name": "Pir Mishan",
+    "stateId": 1524,
+    "latitude": "34.39166667",
+    "longitude": "48.66611111"
+  },
+  {
+    "id": 99744,
+    "name": "Pir Savaran",
+    "stateId": 1524,
+    "latitude": "34.11805556",
+    "longitude": "48.77861111"
+  },
+  {
+    "id": 99745,
+    "name": "Pir Yusof",
+    "stateId": 1524,
+    "latitude": "34.68888889",
+    "longitude": "47.89277778"
+  },
+  {
+    "id": 99767,
+    "name": "Piranshahr",
+    "stateId": 4700,
+    "latitude": "36.70100000",
+    "longitude": "45.14130000"
+  },
+  {
+    "id": 99824,
+    "name": "Piruz",
+    "stateId": 1524,
+    "latitude": "34.13500000",
+    "longitude": "49.04527778"
+  },
+  {
+    "id": 100848,
+    "name": "Pol-e Dokhtar",
+    "stateId": 2354,
+    "latitude": "33.16667000",
+    "longitude": "48.00000000"
+  },
+  {
+    "id": 100876,
+    "name": "Poldasht",
+    "stateId": 4700,
+    "latitude": "39.34800000",
+    "longitude": "45.07100000"
+  },
+  {
+    "id": 101957,
+    "name": "Poshtjin",
+    "stateId": 1524,
+    "latitude": "35.31416667",
+    "longitude": "49.07166667"
+  },
+  {
+    "id": 104922,
+    "name": "Pādegān-e Manjīl",
+    "stateId": 1380,
+    "latitude": "36.74150000",
+    "longitude": "49.41610000"
+  },
+  {
+    "id": 104927,
+    "name": "Pārsābād",
+    "stateId": 222,
+    "latitude": "39.64820000",
+    "longitude": "47.91740000"
+  },
+  {
+    "id": 104929,
+    "name": "Pāsārgād",
+    "stateId": 1268,
+    "latitude": "30.20194000",
+    "longitude": "53.18000000"
+  },
+  {
+    "id": 104931,
+    "name": "Pāveh",
+    "stateId": 1946,
+    "latitude": "35.04340000",
+    "longitude": "46.35650000"
+  },
+  {
+    "id": 104979,
+    "name": "Pīshvā",
+    "stateId": 4343,
+    "latitude": "35.30800000",
+    "longitude": "51.72670000"
+  },
+  {
+    "id": 105015,
+    "name": "Qabanqoli",
+    "stateId": 1524,
+    "latitude": "35.19833333",
+    "longitude": "49.17833333"
+  },
+  {
+    "id": 105018,
+    "name": "Qader Khalaj",
+    "stateId": 1524,
+    "latitude": "35.40111111",
+    "longitude": "48.73000000"
+  },
+  {
+    "id": 105020,
+    "name": "Qadimi",
+    "stateId": 1524,
+    "latitude": "34.65194444",
+    "longitude": "48.73666667"
+  },
+  {
+    "id": 105025,
+    "name": "Qahavand",
+    "stateId": 1524,
+    "latitude": "34.86027778",
+    "longitude": "49.00472222"
+  },
+  {
+    "id": 105026,
+    "name": "Qahderījān",
+    "stateId": 1700,
+    "latitude": "32.57670000",
+    "longitude": "51.45500000"
+  },
+  {
+    "id": 105028,
+    "name": "Qajar Ab-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.43527778",
+    "longitude": "48.97527778"
+  },
+  {
+    "id": 105045,
+    "name": "Qarah Day",
+    "stateId": 1524,
+    "latitude": "35.12527778",
+    "longitude": "49.28222222"
+  },
+  {
+    "id": 105046,
+    "name": "Qarah Tegini",
+    "stateId": 1524,
+    "latitude": "34.44027778",
+    "longitude": "48.93555556"
+  },
+  {
+    "id": 105047,
+    "name": "Qarah Ẕīā’ od Dīn",
+    "stateId": 4700,
+    "latitude": "38.89150000",
+    "longitude": "45.02550000"
+  },
+  {
+    "id": 105049,
+    "name": "Qaranqu Darreh",
+    "stateId": 1524,
+    "latitude": "35.51305556",
+    "longitude": "48.17750000"
+  },
+  {
+    "id": 105057,
+    "name": "Qarchak",
+    "stateId": 4343,
+    "latitude": "35.42867000",
+    "longitude": "51.57544000"
+  },
+  {
+    "id": 105060,
+    "name": "Qarnābād",
+    "stateId": 1403,
+    "latitude": "36.82203000",
+    "longitude": "54.59222000"
+  },
+  {
+    "id": 105066,
+    "name": "Qasabestan",
+    "stateId": 1524,
+    "latitude": "34.42000000",
+    "longitude": "48.18777778"
+  },
+  {
+    "id": 105067,
+    "name": "Qasemabad-e Laklak",
+    "stateId": 1524,
+    "latitude": "34.67527778",
+    "longitude": "47.97222222"
+  },
+  {
+    "id": 105068,
+    "name": "Qaser-e Qand",
+    "stateId": 4039,
+    "latitude": "26.22693000",
+    "longitude": "60.74553000"
+  },
+  {
+    "id": 105074,
+    "name": "Qater Owlan",
+    "stateId": 1524,
+    "latitude": "35.37527778",
+    "longitude": "48.93166667"
+  },
+  {
+    "id": 105078,
+    "name": "Qayesh",
+    "stateId": 1524,
+    "latitude": "35.49611111",
+    "longitude": "48.86694444"
+  },
+  {
+    "id": 105080,
+    "name": "Qazan Qarah",
+    "stateId": 1524,
+    "latitude": "35.66190000",
+    "longitude": "48.08220000"
+  },
+  {
+    "id": 105082,
+    "name": "Qazi Mardan",
+    "stateId": 1524,
+    "latitude": "34.77694444",
+    "longitude": "48.01416667"
+  },
+  {
+    "id": 105084,
+    "name": "Qazvin",
+    "stateId": 3528,
+    "latitude": "36.26877000",
+    "longitude": "50.00410000"
+  },
+  {
+    "id": 105086,
+    "name": "Qaşr-e Qand",
+    "stateId": 4039,
+    "latitude": "26.24833000",
+    "longitude": "60.75250000"
+  },
+  {
+    "id": 105089,
+    "name": "Qeshlaq Baba Rostam",
+    "stateId": 1524,
+    "latitude": "34.14194444",
+    "longitude": "48.36250000"
+  },
+  {
+    "id": 105090,
+    "name": "Qeshlaq-e Anuch",
+    "stateId": 1524,
+    "latitude": "34.11611111",
+    "longitude": "48.57777778"
+  },
+  {
+    "id": 105091,
+    "name": "Qeshlaq-e Deh Ful",
+    "stateId": 1524,
+    "latitude": "34.24388889",
+    "longitude": "48.33750000"
+  },
+  {
+    "id": 105092,
+    "name": "Qeshlaq-e Dehnow",
+    "stateId": 1524,
+    "latitude": "34.50000000",
+    "longitude": "48.56666667"
+  },
+  {
+    "id": 105093,
+    "name": "Qeshlaq-e Mohammadi",
+    "stateId": 1524,
+    "latitude": "34.06666667",
+    "longitude": "48.91666667"
+  },
+  {
+    "id": 105094,
+    "name": "Qeshlaq-e Najaf",
+    "stateId": 1524,
+    "latitude": "34.37222222",
+    "longitude": "48.24500000"
+  },
+  {
+    "id": 105095,
+    "name": "Qeshlaq-e Pust Shuran",
+    "stateId": 1524,
+    "latitude": "34.40305556",
+    "longitude": "48.21638889"
+  },
+  {
+    "id": 105096,
+    "name": "Qeshlaq-e Qobad",
+    "stateId": 1524,
+    "latitude": "34.58777778",
+    "longitude": "48.89583333"
+  },
+  {
+    "id": 105097,
+    "name": "Qeshlaq-e Shirazi",
+    "stateId": 1524,
+    "latitude": "34.38388889",
+    "longitude": "48.93916667"
+  },
+  {
+    "id": 105098,
+    "name": "Qeshlaq-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.70083333",
+    "longitude": "49.06972222"
+  },
+  {
+    "id": 105099,
+    "name": "Qeshlaq-e Valiollah",
+    "stateId": 1524,
+    "latitude": "34.35222222",
+    "longitude": "48.22416667"
+  },
+  {
+    "id": 105100,
+    "name": "Qeshm",
+    "stateId": 1605,
+    "latitude": "26.78333000",
+    "longitude": "55.86667000"
+  },
+  {
+    "id": 105101,
+    "name": "Qeydli Bolagh",
+    "stateId": 1524,
+    "latitude": "35.01500000",
+    "longitude": "48.28750000"
+  },
+  {
+    "id": 105115,
+    "name": "Qilab",
+    "stateId": 1524,
+    "latitude": "34.30444444",
+    "longitude": "48.06083333"
+  },
+  {
+    "id": 105154,
+    "name": "Qods",
+    "stateId": 4343,
+    "latitude": "35.71667000",
+    "longitude": "51.06667000"
+  },
+  {
+    "id": 105156,
+    "name": "Qohurd-e Sofla",
+    "stateId": 1524,
+    "latitude": "35.47111100",
+    "longitude": "48.05944400"
+  },
+  {
+    "id": 105157,
+    "name": "Qoli Laleh-ye Sofla",
+    "stateId": 1524,
+    "latitude": "34.52805556",
+    "longitude": "48.25972222"
+  },
+  {
+    "id": 105158,
+    "name": "Qolqolabad",
+    "stateId": 1524,
+    "latitude": "35.13083333",
+    "longitude": "49.29083333"
+  },
+  {
+    "id": 105159,
+    "name": "Qom",
+    "stateId": 3531,
+    "latitude": "34.64010000",
+    "longitude": "50.87640000"
+  },
+  {
+    "id": 105163,
+    "name": "Qorveh",
+    "stateId": 2117,
+    "latitude": "35.16640000",
+    "longitude": "47.80564000"
+  },
+  {
+    "id": 105247,
+    "name": "Quch Tappeh",
+    "stateId": 1524,
+    "latitude": "34.92722222",
+    "longitude": "48.02611111"
+  },
+  {
+    "id": 105585,
+    "name": "Qushjeh",
+    "stateId": 1524,
+    "latitude": "35.66416667",
+    "longitude": "48.30555556"
+  },
+  {
+    "id": 105613,
+    "name": "Qā’en",
+    "stateId": 4122,
+    "latitude": "33.72654000",
+    "longitude": "59.18439000"
+  },
+  {
+    "id": 105619,
+    "name": "Qūchān",
+    "stateId": 3595,
+    "latitude": "37.10600000",
+    "longitude": "58.50955000"
+  },
+  {
+    "id": 105865,
+    "name": "Rafsanjān",
+    "stateId": 1945,
+    "latitude": "30.40670000",
+    "longitude": "55.99390000"
+  },
+  {
+    "id": 105902,
+    "name": "Rahmanabad, Malayer",
+    "stateId": 1524,
+    "latitude": "34.08861111",
+    "longitude": "48.58555556"
+  },
+  {
+    "id": 106092,
+    "name": "Ramishan",
+    "stateId": 1524,
+    "latitude": "35.15972222",
+    "longitude": "48.80500000"
+  },
+  {
+    "id": 106377,
+    "name": "Rasht",
+    "stateId": 1380,
+    "latitude": "37.27611000",
+    "longitude": "49.58862000"
+  },
+  {
+    "id": 106404,
+    "name": "Rastguyan",
+    "stateId": 1524,
+    "latitude": "34.91666667",
+    "longitude": "48.21666667"
+  },
+  {
+    "id": 106410,
+    "name": "Rasulabad-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.87888889",
+    "longitude": "48.21861111"
+  },
+  {
+    "id": 106498,
+    "name": "Ravand-e Vosta",
+    "stateId": 1524,
+    "latitude": "34.13333333",
+    "longitude": "48.34916667"
+  },
+  {
+    "id": 106574,
+    "name": "Rayegan-e Sofla",
+    "stateId": 1524,
+    "latitude": "35.07111100",
+    "longitude": "48.66333300"
+  },
+  {
+    "id": 106602,
+    "name": "Raz and Jargalan",
+    "stateId": 2998,
+    "latitude": "37.93060000",
+    "longitude": "57.11940000"
+  },
+  {
+    "id": 106604,
+    "name": "Razaj",
+    "stateId": 1524,
+    "latitude": "34.89527778",
+    "longitude": "49.14666667"
+  },
+  {
+    "id": 106607,
+    "name": "Razan",
+    "stateId": 1524,
+    "latitude": "35.38638889",
+    "longitude": "49.03361111"
+  },
+  {
+    "id": 106613,
+    "name": "Razini",
+    "stateId": 1524,
+    "latitude": "34.26777778",
+    "longitude": "48.12611111"
+  },
+  {
+    "id": 106966,
+    "name": "Rehnān",
+    "stateId": 1700,
+    "latitude": "32.68325000",
+    "longitude": "51.60158000"
+  },
+  {
+    "id": 107367,
+    "name": "Rey",
+    "stateId": 4343,
+    "latitude": "35.37448000",
+    "longitude": "51.27743000"
+  },
+  {
+    "id": 107389,
+    "name": "Reza Baghi",
+    "stateId": 1524,
+    "latitude": "35.18277778",
+    "longitude": "49.31444444"
+  },
+  {
+    "id": 107395,
+    "name": "Rezvankadeh",
+    "stateId": 1524,
+    "latitude": "34.25000000",
+    "longitude": "48.83333333"
+  },
+  {
+    "id": 107408,
+    "name": "Reẕvānshahr",
+    "stateId": 1380,
+    "latitude": "37.54976000",
+    "longitude": "49.13703000"
+  },
+  {
+    "id": 108173,
+    "name": "Rivasijan",
+    "stateId": 1524,
+    "latitude": "34.57722222",
+    "longitude": "48.43194444"
+  },
+  {
+    "id": 108334,
+    "name": "Robat-e Sheverin",
+    "stateId": 1524,
+    "latitude": "34.86111111",
+    "longitude": "48.60027778"
+  },
+  {
+    "id": 108408,
+    "name": "Robāţ Karīm",
+    "stateId": 4343,
+    "latitude": "35.48460000",
+    "longitude": "51.08290000"
+  },
+  {
+    "id": 109344,
+    "name": "Rostam",
+    "stateId": 1268,
+    "latitude": "30.40000000",
+    "longitude": "51.41667000"
+  },
+  {
+    "id": 109732,
+    "name": "Rud Avar",
+    "stateId": 1524,
+    "latitude": "34.55055556",
+    "longitude": "48.41055556"
+  },
+  {
+    "id": 109733,
+    "name": "Rud-e Hasan-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.12444444",
+    "longitude": "48.37166667"
+  },
+  {
+    "id": 109866,
+    "name": "Rumeshkhan County",
+    "stateId": 2354,
+    "latitude": "33.27960000",
+    "longitude": "47.48995000"
+  },
+  {
+    "id": 110434,
+    "name": "Rāmhormoz",
+    "stateId": 1973,
+    "latitude": "31.27997000",
+    "longitude": "49.60351000"
+  },
+  {
+    "id": 110435,
+    "name": "Rāmshīr",
+    "stateId": 1973,
+    "latitude": "30.89315000",
+    "longitude": "49.40787000"
+  },
+  {
+    "id": 110436,
+    "name": "Rāvar",
+    "stateId": 1945,
+    "latitude": "31.26562000",
+    "longitude": "56.80545000"
+  },
+  {
+    "id": 110485,
+    "name": "Rīgān",
+    "stateId": 1945,
+    "latitude": "28.43333000",
+    "longitude": "59.15000000"
+  },
+  {
+    "id": 110490,
+    "name": "Rūdsar",
+    "stateId": 1380,
+    "latitude": "37.13696000",
+    "longitude": "50.29174000"
+  },
+  {
+    "id": 110633,
+    "name": "Sabzevar",
+    "stateId": 3595,
+    "latitude": "36.21260000",
+    "longitude": "57.68191000"
+  },
+  {
+    "id": 110739,
+    "name": "Safa Riz",
+    "stateId": 1524,
+    "latitude": "35.40694444",
+    "longitude": "48.30611111"
+  },
+  {
+    "id": 110841,
+    "name": "Sahamabad",
+    "stateId": 1524,
+    "latitude": "34.55388889",
+    "longitude": "48.30472222"
+  },
+  {
+    "id": 112409,
+    "name": "Salehabad",
+    "stateId": 1524,
+    "latitude": "34.92361111",
+    "longitude": "48.34250000"
+  },
+  {
+    "id": 112483,
+    "name": "Salilak",
+    "stateId": 1524,
+    "latitude": "35.25277778",
+    "longitude": "49.11888889"
+  },
+  {
+    "id": 112596,
+    "name": "Salmās",
+    "stateId": 4700,
+    "latitude": "38.19730000",
+    "longitude": "44.76530000"
+  },
+  {
+    "id": 112675,
+    "name": "Saluk",
+    "stateId": 1524,
+    "latitude": "34.34138889",
+    "longitude": "48.99305556"
+  },
+  {
+    "id": 112767,
+    "name": "Saman",
+    "stateId": 813,
+    "latitude": "32.44980000",
+    "longitude": "50.91379000"
+  },
+  {
+    "id": 112826,
+    "name": "Samen",
+    "stateId": 1524,
+    "latitude": "34.20916667",
+    "longitude": "48.70583333"
+  },
+  {
+    "id": 115795,
+    "name": "Sanaj",
+    "stateId": 1524,
+    "latitude": "35.12222222",
+    "longitude": "49.02555556"
+  },
+  {
+    "id": 115798,
+    "name": "Sanandaj",
+    "stateId": 2117,
+    "latitude": "35.31495000",
+    "longitude": "46.99883000"
+  },
+  {
+    "id": 116016,
+    "name": "Sanjuzan",
+    "stateId": 1524,
+    "latitude": "34.65611111",
+    "longitude": "48.39333333"
+  },
+  {
+    "id": 117982,
+    "name": "Saqqez",
+    "stateId": 2117,
+    "latitude": "36.24992000",
+    "longitude": "46.27350000"
+  },
+  {
+    "id": 117985,
+    "name": "Sar Duran",
+    "stateId": 1524,
+    "latitude": "34.20305556",
+    "longitude": "48.26388889"
+  },
+  {
+    "id": 117989,
+    "name": "Sarab-e Tajar",
+    "stateId": 1524,
+    "latitude": "34.23222222",
+    "longitude": "48.60638889"
+  },
+  {
+    "id": 118011,
+    "name": "Sarakhs",
+    "stateId": 3595,
+    "latitude": "36.54490000",
+    "longitude": "61.15770000"
+  },
+  {
+    "id": 118058,
+    "name": "Saravak",
+    "stateId": 1524,
+    "latitude": "35.17916667",
+    "longitude": "48.94638889"
+  },
+  {
+    "id": 118067,
+    "name": "Sarayjuq",
+    "stateId": 1524,
+    "latitude": "35.42888889",
+    "longitude": "47.96194444"
+  },
+  {
+    "id": 118081,
+    "name": "Sardasht",
+    "stateId": 4700,
+    "latitude": "36.21670000",
+    "longitude": "45.48320000"
+  },
+  {
+    "id": 118114,
+    "name": "Sari",
+    "stateId": 2579,
+    "latitude": "36.56332000",
+    "longitude": "53.06009000"
+  },
+  {
+    "id": 118121,
+    "name": "Sarijlu",
+    "stateId": 1524,
+    "latitude": "35.61250000",
+    "longitude": "48.89222222"
+  },
+  {
+    "id": 118134,
+    "name": "Sarkan",
+    "stateId": 1524,
+    "latitude": "34.60166667",
+    "longitude": "48.45055556"
+  },
+  {
+    "id": 118167,
+    "name": "Sarpol-e Z̄ahāb",
+    "stateId": 1946,
+    "latitude": "34.46109000",
+    "longitude": "45.86264000"
+  },
+  {
+    "id": 118228,
+    "name": "Sarāb",
+    "stateId": 1158,
+    "latitude": "37.94080000",
+    "longitude": "47.53670000"
+  },
+  {
+    "id": 118463,
+    "name": "Savadkuh-e Shomali",
+    "stateId": 2579,
+    "latitude": "35.97765000",
+    "longitude": "52.68246000"
+  },
+  {
+    "id": 118613,
+    "name": "Saziyan",
+    "stateId": 1524,
+    "latitude": "34.57361111",
+    "longitude": "48.15361111"
+  },
+  {
+    "id": 119498,
+    "name": "Sefid Khaneh",
+    "stateId": 1524,
+    "latitude": "34.06972222",
+    "longitude": "48.50805556"
+  },
+  {
+    "id": 119515,
+    "name": "Segavi",
+    "stateId": 1524,
+    "latitude": "34.58527778",
+    "longitude": "48.10083333"
+  },
+  {
+    "id": 119684,
+    "name": "Selseleh",
+    "stateId": 2354,
+    "latitude": "33.83333000",
+    "longitude": "48.16667000"
+  },
+  {
+    "id": 119763,
+    "name": "Semnan",
+    "stateId": 3945,
+    "latitude": "35.57691000",
+    "longitude": "53.39205000"
+  },
+  {
+    "id": 119778,
+    "name": "Semīrom",
+    "stateId": 1700,
+    "latitude": "31.41667000",
+    "longitude": "51.56667000"
+  },
+  {
+    "id": 120206,
+    "name": "Setaq",
+    "stateId": 1524,
+    "latitude": "35.04583300",
+    "longitude": "49.29638900"
+  },
+  {
+    "id": 120418,
+    "name": "Shademaneh",
+    "stateId": 1524,
+    "latitude": "34.36166667",
+    "longitude": "48.28055556"
+  },
+  {
+    "id": 120470,
+    "name": "Shahr-e Bābak",
+    "stateId": 1945,
+    "latitude": "30.11650000",
+    "longitude": "55.11860000"
+  },
+  {
+    "id": 120471,
+    "name": "Shahr-e Kord",
+    "stateId": 813,
+    "latitude": "32.32612000",
+    "longitude": "50.85720000"
+  },
+  {
+    "id": 120472,
+    "name": "Shahr-e Qadīm-e Lār",
+    "stateId": 1268,
+    "latitude": "27.68336000",
+    "longitude": "54.34172000"
+  },
+  {
+    "id": 120474,
+    "name": "Shahrak-e Emām Ḩasan",
+    "stateId": 4343,
+    "latitude": "35.48846000",
+    "longitude": "51.34567000"
+  },
+  {
+    "id": 120475,
+    "name": "Shahrak-e Kūlūrī",
+    "stateId": 1973,
+    "latitude": "32.35276000",
+    "longitude": "48.47059000"
+  },
+  {
+    "id": 120476,
+    "name": "Shahrak-e Pābedānā",
+    "stateId": 1945,
+    "latitude": "31.13444000",
+    "longitude": "56.39806000"
+  },
+  {
+    "id": 120477,
+    "name": "Shahre Jadide Andisheh",
+    "stateId": 4343,
+    "latitude": "35.68030000",
+    "longitude": "51.01930000"
+  },
+  {
+    "id": 120478,
+    "name": "Shahrekord",
+    "stateId": 813,
+    "latitude": "32.31667000",
+    "longitude": "50.80000000"
+  },
+  {
+    "id": 120479,
+    "name": "Shahrestan-e Kalār Dasht",
+    "stateId": 2579,
+    "latitude": "36.45000000",
+    "longitude": "51.11667000"
+  },
+  {
+    "id": 120480,
+    "name": "Shahrestān-e Abarkūh",
+    "stateId": 4785,
+    "latitude": "31.00000000",
+    "longitude": "53.41667000"
+  },
+  {
+    "id": 120481,
+    "name": "Shahrestān-e Abū Mūsá",
+    "stateId": 1605,
+    "latitude": "26.05474000",
+    "longitude": "55.16243000"
+  },
+  {
+    "id": 120482,
+    "name": "Shahrestān-e Ahvāz",
+    "stateId": 1973,
+    "latitude": "31.25000000",
+    "longitude": "48.65000000"
+  },
+  {
+    "id": 120483,
+    "name": "Shahrestān-e Alīgūdarz",
+    "stateId": 2354,
+    "latitude": "33.08333000",
+    "longitude": "49.48333000"
+  },
+  {
+    "id": 120484,
+    "name": "Shahrestān-e Andīkā",
+    "stateId": 1973,
+    "latitude": "32.16667000",
+    "longitude": "49.53333000"
+  },
+  {
+    "id": 120485,
+    "name": "Shahrestān-e Andīmeshk",
+    "stateId": 1973,
+    "latitude": "32.70000000",
+    "longitude": "48.30000000"
+  },
+  {
+    "id": 120486,
+    "name": "Shahrestān-e Anār",
+    "stateId": 1945,
+    "latitude": "30.85000000",
+    "longitude": "55.35000000"
+  },
+  {
+    "id": 120487,
+    "name": "Shahrestān-e Ardabīl",
+    "stateId": 222,
+    "latitude": "38.25000000",
+    "longitude": "48.30000000"
+  },
+  {
+    "id": 120488,
+    "name": "Shahrestān-e Ardakān",
+    "stateId": 4785,
+    "latitude": "32.65000000",
+    "longitude": "54.65000000"
+  },
+  {
+    "id": 120489,
+    "name": "Shahrestān-e Ardestān",
+    "stateId": 1700,
+    "latitude": "33.45000000",
+    "longitude": "52.43333000"
+  },
+  {
+    "id": 120490,
+    "name": "Shahrestān-e Arsanjān",
+    "stateId": 1268,
+    "latitude": "29.80000000",
+    "longitude": "53.41667000"
+  },
+  {
+    "id": 120491,
+    "name": "Shahrestān-e Arāk",
+    "stateId": 2525,
+    "latitude": "34.13333000",
+    "longitude": "49.80000000"
+  },
+  {
+    "id": 120492,
+    "name": "Shahrestān-e Ashkez̄ar",
+    "stateId": 4785,
+    "latitude": "32.00000000",
+    "longitude": "53.66667000"
+  },
+  {
+    "id": 120493,
+    "name": "Shahrestān-e Aznā",
+    "stateId": 2354,
+    "latitude": "33.46667000",
+    "longitude": "49.41667000"
+  },
+  {
+    "id": 120494,
+    "name": "Shahrestān-e Bahma’ī",
+    "stateId": 2033,
+    "latitude": "31.05000000",
+    "longitude": "50.08333000"
+  },
+  {
+    "id": 120495,
+    "name": "Shahrestān-e Bahārestān",
+    "stateId": 4343,
+    "latitude": "35.53333000",
+    "longitude": "51.15000000"
+  },
+  {
+    "id": 120496,
+    "name": "Shahrestān-e Bajestān",
+    "stateId": 3595,
+    "latitude": "34.58333000",
+    "longitude": "58.13333000"
+  },
+  {
+    "id": 120497,
+    "name": "Shahrestān-e Bandar ‘Abbās",
+    "stateId": 1605,
+    "latitude": "27.55000000",
+    "longitude": "56.28333000"
+  },
+  {
+    "id": 120498,
+    "name": "Shahrestān-e Bandar-e Anzalī",
+    "stateId": 1380,
+    "latitude": "37.45000000",
+    "longitude": "49.36667000"
+  },
+  {
+    "id": 120499,
+    "name": "Shahrestān-e Bandar-e Māhshahr",
+    "stateId": 1973,
+    "latitude": "30.63333000",
+    "longitude": "49.11667000"
+  },
+  {
+    "id": 120500,
+    "name": "Shahrestān-e Bardsīr",
+    "stateId": 1945,
+    "latitude": "29.83333000",
+    "longitude": "56.58333000"
+  },
+  {
+    "id": 120501,
+    "name": "Shahrestān-e Bashāgard",
+    "stateId": 1605,
+    "latitude": "26.45000000",
+    "longitude": "58.08333000"
+  },
+  {
+    "id": 120502,
+    "name": "Shahrestān-e Bavānāt",
+    "stateId": 1268,
+    "latitude": "30.33333000",
+    "longitude": "53.66667000"
+  },
+  {
+    "id": 120503,
+    "name": "Shahrestān-e Behbahān",
+    "stateId": 1973,
+    "latitude": "30.56667000",
+    "longitude": "50.20000000"
+  },
+  {
+    "id": 120504,
+    "name": "Shahrestān-e Behābād",
+    "stateId": 4785,
+    "latitude": "32.01667000",
+    "longitude": "56.15000000"
+  },
+  {
+    "id": 120505,
+    "name": "Shahrestān-e Bojnūrd",
+    "stateId": 2998,
+    "latitude": "37.83333000",
+    "longitude": "57.33333000"
+  },
+  {
+    "id": 120506,
+    "name": "Shahrestān-e Bonāb",
+    "stateId": 1158,
+    "latitude": "37.33338000",
+    "longitude": "46.00009000"
+  },
+  {
+    "id": 120507,
+    "name": "Shahrestān-e Borkhvār",
+    "stateId": 1700,
+    "latitude": "32.98333000",
+    "longitude": "51.76667000"
+  },
+  {
+    "id": 120508,
+    "name": "Shahrestān-e Borūjen",
+    "stateId": 813,
+    "latitude": "31.90000000",
+    "longitude": "51.20000000"
+  },
+  {
+    "id": 120509,
+    "name": "Shahrestān-e Borūjerd",
+    "stateId": 2354,
+    "latitude": "33.88333000",
+    "longitude": "48.71667000"
+  },
+  {
+    "id": 120510,
+    "name": "Shahrestān-e Bostānābād",
+    "stateId": 1158,
+    "latitude": "37.83333000",
+    "longitude": "46.83333000"
+  },
+  {
+    "id": 120511,
+    "name": "Shahrestān-e Bowyer Aḩmad",
+    "stateId": 2033,
+    "latitude": "30.78333000",
+    "longitude": "51.11667000"
+  },
+  {
+    "id": 120512,
+    "name": "Shahrestān-e Bābol",
+    "stateId": 2579,
+    "latitude": "36.31667000",
+    "longitude": "52.65000000"
+  },
+  {
+    "id": 120513,
+    "name": "Shahrestān-e Bābolsar",
+    "stateId": 2579,
+    "latitude": "36.66667000",
+    "longitude": "52.73333000"
+  },
+  {
+    "id": 120514,
+    "name": "Shahrestān-e Bāfq",
+    "stateId": 4785,
+    "latitude": "31.66667000",
+    "longitude": "55.41667000"
+  },
+  {
+    "id": 120515,
+    "name": "Shahrestān-e Bāft",
+    "stateId": 1945,
+    "latitude": "29.10000000",
+    "longitude": "56.51667000"
+  },
+  {
+    "id": 120516,
+    "name": "Shahrestān-e Bākharz",
+    "stateId": 3595,
+    "latitude": "35.01667000",
+    "longitude": "60.28333000"
+  },
+  {
+    "id": 120517,
+    "name": "Shahrestān-e Bāneh",
+    "stateId": 2117,
+    "latitude": "35.98333000",
+    "longitude": "45.81667000"
+  },
+  {
+    "id": 120518,
+    "name": "Shahrestān-e Bāsht",
+    "stateId": 2033,
+    "latitude": "30.45000000",
+    "longitude": "51.11667000"
+  },
+  {
+    "id": 120519,
+    "name": "Shahrestān-e Bāvī",
+    "stateId": 1973,
+    "latitude": "31.50000000",
+    "longitude": "48.95000000"
+  },
+  {
+    "id": 120520,
+    "name": "Shahrestān-e Bījār",
+    "stateId": 2117,
+    "latitude": "35.86667000",
+    "longitude": "47.60000000"
+  },
+  {
+    "id": 120521,
+    "name": "Shahrestān-e Bīleh Savār",
+    "stateId": 222,
+    "latitude": "39.36667000",
+    "longitude": "47.96667000"
+  },
+  {
+    "id": 120522,
+    "name": "Shahrestān-e Bīnālūd",
+    "stateId": 3595,
+    "latitude": "36.26667000",
+    "longitude": "59.33333000"
+  },
+  {
+    "id": 120523,
+    "name": "Shahrestān-e Bīrjand",
+    "stateId": 4122,
+    "latitude": "33.00669000",
+    "longitude": "59.07223000"
+  },
+  {
+    "id": 120524,
+    "name": "Shahrestān-e Būkān",
+    "stateId": 4700,
+    "latitude": "36.60002000",
+    "longitude": "46.16664000"
+  },
+  {
+    "id": 120525,
+    "name": "Shahrestān-e Būshehr",
+    "stateId": 631,
+    "latitude": "29.14186000",
+    "longitude": "50.98160000"
+  },
+  {
+    "id": 120526,
+    "name": "Shahrestān-e Bū’īn Zahrā",
+    "stateId": 3528,
+    "latitude": "35.61667000",
+    "longitude": "49.70000000"
+  },
+  {
+    "id": 120527,
+    "name": "Shahrestān-e Charām",
+    "stateId": 2033,
+    "latitude": "30.76667000",
+    "longitude": "50.85000000"
+  },
+  {
+    "id": 120528,
+    "name": "Shahrestān-e Chenārān",
+    "stateId": 3595,
+    "latitude": "36.66667000",
+    "longitude": "59.15000000"
+  },
+  {
+    "id": 120529,
+    "name": "Shahrestān-e Chābahār",
+    "stateId": 4039,
+    "latitude": "25.56832000",
+    "longitude": "61.21075000"
+  },
+  {
+    "id": 120530,
+    "name": "Shahrestān-e Chādegān",
+    "stateId": 1700,
+    "latitude": "32.75000000",
+    "longitude": "50.50000000"
+  },
+  {
+    "id": 120531,
+    "name": "Shahrestān-e Chāldorān",
+    "stateId": 4700,
+    "latitude": "39.06667000",
+    "longitude": "44.33333000"
+  },
+  {
+    "id": 120532,
+    "name": "Shahrestān-e Chālūs",
+    "stateId": 2579,
+    "latitude": "36.45000000",
+    "longitude": "51.16667000"
+  },
+  {
+    "id": 120533,
+    "name": "Shahrestān-e Chārāvīmāq",
+    "stateId": 1158,
+    "latitude": "37.10012000",
+    "longitude": "47.06680000"
+  },
+  {
+    "id": 120534,
+    "name": "Shahrestān-e Dalgān",
+    "stateId": 4039,
+    "latitude": "27.31667000",
+    "longitude": "59.30000000"
+  },
+  {
+    "id": 120535,
+    "name": "Shahrestān-e Damāvand",
+    "stateId": 4343,
+    "latitude": "35.63005000",
+    "longitude": "52.13750000"
+  },
+  {
+    "id": 120536,
+    "name": "Shahrestān-e Danā",
+    "stateId": 2033,
+    "latitude": "30.95000000",
+    "longitude": "51.28333000"
+  },
+  {
+    "id": 120537,
+    "name": "Shahrestān-e Darmīān",
+    "stateId": 4122,
+    "latitude": "32.95000000",
+    "longitude": "60.16667000"
+  },
+  {
+    "id": 120538,
+    "name": "Shahrestān-e Dasht-e Āzādegān",
+    "stateId": 1973,
+    "latitude": "31.70000000",
+    "longitude": "48.06667000"
+  },
+  {
+    "id": 120539,
+    "name": "Shahrestān-e Dashtestān",
+    "stateId": 631,
+    "latitude": "29.28333000",
+    "longitude": "51.25000000"
+  },
+  {
+    "id": 120540,
+    "name": "Shahrestān-e Dashtī",
+    "stateId": 631,
+    "latitude": "28.48685000",
+    "longitude": "51.56182000"
+  },
+  {
+    "id": 120541,
+    "name": "Shahrestān-e Dehgolān",
+    "stateId": 2117,
+    "latitude": "35.35000000",
+    "longitude": "47.35000000"
+  },
+  {
+    "id": 120542,
+    "name": "Shahrestān-e Dehlorān",
+    "stateId": 1659,
+    "latitude": "32.68333000",
+    "longitude": "47.26667000"
+  },
+  {
+    "id": 120543,
+    "name": "Shahrestān-e Dehāqān",
+    "stateId": 1700,
+    "latitude": "31.98333000",
+    "longitude": "51.60000000"
+  },
+  {
+    "id": 120544,
+    "name": "Shahrestān-e Delījān",
+    "stateId": 2525,
+    "latitude": "34.03333000",
+    "longitude": "50.76667000"
+  },
+  {
+    "id": 120545,
+    "name": "Shahrestān-e Dezfūl",
+    "stateId": 1973,
+    "latitude": "32.56667000",
+    "longitude": "48.78333000"
+  },
+  {
+    "id": 120546,
+    "name": "Shahrestān-e Dālāhū",
+    "stateId": 1946,
+    "latitude": "34.41667000",
+    "longitude": "46.25000000"
+  },
+  {
+    "id": 120547,
+    "name": "Shahrestān-e Dāmghān",
+    "stateId": 3945,
+    "latitude": "35.50000000",
+    "longitude": "54.33333000"
+  },
+  {
+    "id": 120548,
+    "name": "Shahrestān-e Dārāb",
+    "stateId": 1268,
+    "latitude": "28.56667000",
+    "longitude": "54.95000000"
+  },
+  {
+    "id": 120549,
+    "name": "Shahrestān-e Dīvāndarreh",
+    "stateId": 2117,
+    "latitude": "35.91667000",
+    "longitude": "47.00000000"
+  },
+  {
+    "id": 120550,
+    "name": "Shahrestān-e Dūreh",
+    "stateId": 2354,
+    "latitude": "33.61667000",
+    "longitude": "47.91667000"
+  },
+  {
+    "id": 120551,
+    "name": "Shahrestān-e Eqlīd",
+    "stateId": 1268,
+    "latitude": "30.70000000",
+    "longitude": "52.40000000"
+  },
+  {
+    "id": 120552,
+    "name": "Shahrestān-e Esfarāyen",
+    "stateId": 2998,
+    "latitude": "37.00000000",
+    "longitude": "57.55000000"
+  },
+  {
+    "id": 120553,
+    "name": "Shahrestān-e Eshtehārd",
+    "stateId": 120,
+    "latitude": "35.72813000",
+    "longitude": "50.41422000"
+  },
+  {
+    "id": 120554,
+    "name": "Shahrestān-e Eslāmshahr",
+    "stateId": 4343,
+    "latitude": "35.58333000",
+    "longitude": "51.25000000"
+  },
+  {
+    "id": 120555,
+    "name": "Shahrestān-e Eslāmābād-e Gharb",
+    "stateId": 1946,
+    "latitude": "34.05000000",
+    "longitude": "46.66667000"
+  },
+  {
+    "id": 120556,
+    "name": "Shahrestān-e Estahbān",
+    "stateId": 1268,
+    "latitude": "29.11667000",
+    "longitude": "54.00000000"
+  },
+  {
+    "id": 120557,
+    "name": "Shahrestān-e Eyvān",
+    "stateId": 1659,
+    "latitude": "33.90000000",
+    "longitude": "46.16667000"
+  },
+  {
+    "id": 120558,
+    "name": "Shahrestān-e Eşfahān",
+    "stateId": 1700,
+    "latitude": "32.26667000",
+    "longitude": "52.45000000"
+  },
+  {
+    "id": 120559,
+    "name": "Shahrestān-e Falāvarjān",
+    "stateId": 1700,
+    "latitude": "32.50000000",
+    "longitude": "51.50000000"
+  },
+  {
+    "id": 120560,
+    "name": "Shahrestān-e Farahān",
+    "stateId": 2525,
+    "latitude": "34.60000000",
+    "longitude": "49.63333000"
+  },
+  {
+    "id": 120561,
+    "name": "Shahrestān-e Fareydūnkenār",
+    "stateId": 2579,
+    "latitude": "36.63333000",
+    "longitude": "52.56667000"
+  },
+  {
+    "id": 120562,
+    "name": "Shahrestān-e Fareydūnshahr",
+    "stateId": 1700,
+    "latitude": "32.86667000",
+    "longitude": "49.98333000"
+  },
+  {
+    "id": 120563,
+    "name": "Shahrestān-e Farāshband",
+    "stateId": 1268,
+    "latitude": "28.75000000",
+    "longitude": "52.25000000"
+  },
+  {
+    "id": 120564,
+    "name": "Shahrestān-e Farīmān",
+    "stateId": 3595,
+    "latitude": "35.70000000",
+    "longitude": "59.83333000"
+  },
+  {
+    "id": 120565,
+    "name": "Shahrestān-e Fasā",
+    "stateId": 1268,
+    "latitude": "28.96667000",
+    "longitude": "53.76667000"
+  },
+  {
+    "id": 120566,
+    "name": "Shahrestān-e Fārsān",
+    "stateId": 813,
+    "latitude": "32.25779000",
+    "longitude": "50.56235000"
+  },
+  {
+    "id": 120567,
+    "name": "Shahrestān-e Fāryāb",
+    "stateId": 1945,
+    "latitude": "28.20000000",
+    "longitude": "57.21667000"
+  },
+  {
+    "id": 120568,
+    "name": "Shahrestān-e Fārūj",
+    "stateId": 2998,
+    "latitude": "37.21667000",
+    "longitude": "58.21667000"
+  },
+  {
+    "id": 120569,
+    "name": "Shahrestān-e Fīrūzeh",
+    "stateId": 3595,
+    "latitude": "36.30000000",
+    "longitude": "58.41667000"
+  },
+  {
+    "id": 120570,
+    "name": "Shahrestān-e Fīrūzkūh",
+    "stateId": 4343,
+    "latitude": "35.72852000",
+    "longitude": "52.74164000"
+  },
+  {
+    "id": 120571,
+    "name": "Shahrestān-e Fīrūzābād",
+    "stateId": 1268,
+    "latitude": "28.91667000",
+    "longitude": "52.56667000"
+  },
+  {
+    "id": 120572,
+    "name": "Shahrestān-e Fūman",
+    "stateId": 1380,
+    "latitude": "37.16667000",
+    "longitude": "49.18333000"
+  },
+  {
+    "id": 120573,
+    "name": "Shahrestān-e Gachsārān",
+    "stateId": 2033,
+    "latitude": "30.33333000",
+    "longitude": "50.75000000"
+  },
+  {
+    "id": 120574,
+    "name": "Shahrestān-e Galūgāh",
+    "stateId": 2579,
+    "latitude": "36.71667000",
+    "longitude": "53.86667000"
+  },
+  {
+    "id": 120575,
+    "name": "Shahrestān-e Garmsār",
+    "stateId": 3945,
+    "latitude": "34.96362000",
+    "longitude": "52.21270000"
+  },
+  {
+    "id": 120576,
+    "name": "Shahrestān-e Genāveh",
+    "stateId": 631,
+    "latitude": "29.64574000",
+    "longitude": "50.64699000"
+  },
+  {
+    "id": 120577,
+    "name": "Shahrestān-e Germī",
+    "stateId": 222,
+    "latitude": "39.00000000",
+    "longitude": "47.95000000"
+  },
+  {
+    "id": 120578,
+    "name": "Shahrestān-e Gerāsh",
+    "stateId": 1268,
+    "latitude": "27.65000000",
+    "longitude": "53.65000000"
+  },
+  {
+    "id": 120579,
+    "name": "Shahrestān-e Golpāyegān",
+    "stateId": 1700,
+    "latitude": "33.50000000",
+    "longitude": "50.33333000"
+  },
+  {
+    "id": 120580,
+    "name": "Shahrestān-e Gomīshān",
+    "stateId": 1403,
+    "latitude": "37.15000000",
+    "longitude": "54.15000000"
+  },
+  {
+    "id": 120581,
+    "name": "Shahrestān-e Gonbad-e Kāvūs",
+    "stateId": 1403,
+    "latitude": "37.50000000",
+    "longitude": "55.00000000"
+  },
+  {
+    "id": 120582,
+    "name": "Shahrestān-e Gonābād",
+    "stateId": 3595,
+    "latitude": "34.38333000",
+    "longitude": "58.95000000"
+  },
+  {
+    "id": 120583,
+    "name": "Shahrestān-e Gorgān",
+    "stateId": 1403,
+    "latitude": "36.73333000",
+    "longitude": "54.51667000"
+  },
+  {
+    "id": 120584,
+    "name": "Shahrestān-e Gālīkesh",
+    "stateId": 1403,
+    "latitude": "37.30000000",
+    "longitude": "55.65000000"
+  },
+  {
+    "id": 120585,
+    "name": "Shahrestān-e Gīlān-e Gharb",
+    "stateId": 1946,
+    "latitude": "34.13333000",
+    "longitude": "46.00000000"
+  },
+  {
+    "id": 120586,
+    "name": "Shahrestān-e Harsīn",
+    "stateId": 1946,
+    "latitude": "34.35000000",
+    "longitude": "47.48333000"
+  },
+  {
+    "id": 120587,
+    "name": "Shahrestān-e Hashtrūd",
+    "stateId": 1158,
+    "latitude": "37.46670000",
+    "longitude": "46.91680000"
+  },
+  {
+    "id": 120588,
+    "name": "Shahrestān-e Hendījān",
+    "stateId": 1973,
+    "latitude": "30.33333000",
+    "longitude": "49.60000000"
+  },
+  {
+    "id": 120589,
+    "name": "Shahrestān-e Herīs",
+    "stateId": 1158,
+    "latitude": "38.23058000",
+    "longitude": "46.84011000"
+  },
+  {
+    "id": 120590,
+    "name": "Shahrestān-e Hīrmand",
+    "stateId": 4039,
+    "latitude": "31.25000000",
+    "longitude": "61.61667000"
+  },
+  {
+    "id": 120591,
+    "name": "Shahrestān-e Javānrūd",
+    "stateId": 1946,
+    "latitude": "34.86667000",
+    "longitude": "46.30000000"
+  },
+  {
+    "id": 120592,
+    "name": "Shahrestān-e Joghatāy",
+    "stateId": 3595,
+    "latitude": "36.66667000",
+    "longitude": "57.03333000"
+  },
+  {
+    "id": 120593,
+    "name": "Shahrestān-e Jolfā",
+    "stateId": 1158,
+    "latitude": "38.83343000",
+    "longitude": "45.91680000"
+  },
+  {
+    "id": 120594,
+    "name": "Shahrestān-e Jājarm",
+    "stateId": 2998,
+    "latitude": "37.01667000",
+    "longitude": "56.68333000"
+  },
+  {
+    "id": 120595,
+    "name": "Shahrestān-e Jāsk",
+    "stateId": 1605,
+    "latitude": "25.88333000",
+    "longitude": "58.20000000"
+  },
+  {
+    "id": 120596,
+    "name": "Shahrestān-e Jīroft",
+    "stateId": 1945,
+    "latitude": "28.83333000",
+    "longitude": "57.58333000"
+  },
+  {
+    "id": 120597,
+    "name": "Shahrestān-e Jūybār",
+    "stateId": 2579,
+    "latitude": "36.66667000",
+    "longitude": "52.95000000"
+  },
+  {
+    "id": 120598,
+    "name": "Shahrestān-e Kahnūj",
+    "stateId": 1945,
+    "latitude": "27.90000000",
+    "longitude": "57.61667000"
+  },
+  {
+    "id": 120599,
+    "name": "Shahrestān-e Kalāleh",
+    "stateId": 1403,
+    "latitude": "37.53333000",
+    "longitude": "55.53333000"
+  },
+  {
+    "id": 120600,
+    "name": "Shahrestān-e Kalāt",
+    "stateId": 3595,
+    "latitude": "36.90000000",
+    "longitude": "59.90000000"
+  },
+  {
+    "id": 120601,
+    "name": "Shahrestān-e Kangān",
+    "stateId": 631,
+    "latitude": "27.71330000",
+    "longitude": "52.26862000"
+  },
+  {
+    "id": 120602,
+    "name": "Shahrestān-e Kangāvar",
+    "stateId": 1946,
+    "latitude": "34.48333000",
+    "longitude": "47.93333000"
+  },
+  {
+    "id": 120603,
+    "name": "Shahrestān-e Kavār",
+    "stateId": 1268,
+    "latitude": "29.21667000",
+    "longitude": "52.73333000"
+  },
+  {
+    "id": 120604,
+    "name": "Shahrestān-e Kermān",
+    "stateId": 1945,
+    "latitude": "30.33333000",
+    "longitude": "58.00000000"
+  },
+  {
+    "id": 120605,
+    "name": "Shahrestān-e Kermānshāh",
+    "stateId": 1946,
+    "latitude": "34.33333000",
+    "longitude": "47.00000000"
+  },
+  {
+    "id": 120606,
+    "name": "Shahrestān-e Khalkhāl",
+    "stateId": 222,
+    "latitude": "37.40604000",
+    "longitude": "48.54466000"
+  },
+  {
+    "id": 120607,
+    "name": "Shahrestān-e Khalīlābād",
+    "stateId": 3595,
+    "latitude": "35.11667000",
+    "longitude": "58.20000000"
+  },
+  {
+    "id": 120608,
+    "name": "Shahrestān-e Khamīr",
+    "stateId": 1605,
+    "latitude": "27.26667000",
+    "longitude": "55.55000000"
+  },
+  {
+    "id": 120609,
+    "name": "Shahrestān-e Kherāmeh",
+    "stateId": 1268,
+    "latitude": "29.50000000",
+    "longitude": "53.25000000"
+  },
+  {
+    "id": 120610,
+    "name": "Shahrestān-e Khodā Āfarīn",
+    "stateId": 1158,
+    "latitude": "39.06667000",
+    "longitude": "46.95000000"
+  },
+  {
+    "id": 120611,
+    "name": "Shahrestān-e Khodābandeh",
+    "stateId": 4830,
+    "latitude": "36.00000000",
+    "longitude": "48.50000000"
+  },
+  {
+    "id": 120612,
+    "name": "Shahrestān-e Khomeynī Shahr",
+    "stateId": 1700,
+    "latitude": "32.65000000",
+    "longitude": "51.50000000"
+  },
+  {
+    "id": 120613,
+    "name": "Shahrestān-e Khondāb",
+    "stateId": 2525,
+    "latitude": "34.36667000",
+    "longitude": "49.18333000"
+  },
+  {
+    "id": 120614,
+    "name": "Shahrestān-e Khorrambīd",
+    "stateId": 1268,
+    "latitude": "30.50000000",
+    "longitude": "53.08333000"
+  },
+  {
+    "id": 120615,
+    "name": "Shahrestān-e Khorramābād",
+    "stateId": 2354,
+    "latitude": "33.38333000",
+    "longitude": "48.58333000"
+  },
+  {
+    "id": 120616,
+    "name": "Shahrestān-e Khowshāb",
+    "stateId": 3595,
+    "latitude": "36.43333000",
+    "longitude": "58.06667000"
+  },
+  {
+    "id": 120617,
+    "name": "Shahrestān-e Khvāf",
+    "stateId": 3595,
+    "latitude": "34.50000000",
+    "longitude": "60.00000000"
+  },
+  {
+    "id": 120618,
+    "name": "Shahrestān-e Khvānsār",
+    "stateId": 1700,
+    "latitude": "33.25000000",
+    "longitude": "50.33333000"
+  },
+  {
+    "id": 120619,
+    "name": "Shahrestān-e Khāsh",
+    "stateId": 4039,
+    "latitude": "28.21667000",
+    "longitude": "61.20000000"
+  },
+  {
+    "id": 120620,
+    "name": "Shahrestān-e Khātam",
+    "stateId": 4785,
+    "latitude": "30.38333000",
+    "longitude": "54.20000000"
+  },
+  {
+    "id": 120621,
+    "name": "Shahrestān-e Khūr va Bīābānak",
+    "stateId": 1700,
+    "latitude": "33.76667000",
+    "longitude": "54.88333000"
+  },
+  {
+    "id": 120622,
+    "name": "Shahrestān-e Khūsf",
+    "stateId": 4122,
+    "latitude": "32.18333000",
+    "longitude": "58.76667000"
+  },
+  {
+    "id": 120623,
+    "name": "Shahrestān-e Kohgīlūyeh",
+    "stateId": 2033,
+    "latitude": "31.03333000",
+    "longitude": "50.45000000"
+  },
+  {
+    "id": 120624,
+    "name": "Shahrestān-e Komījān",
+    "stateId": 2525,
+    "latitude": "34.76667000",
+    "longitude": "49.33333000"
+  },
+  {
+    "id": 120625,
+    "name": "Shahrestān-e Konārak",
+    "stateId": 4039,
+    "latitude": "25.55000000",
+    "longitude": "59.85000000"
+  },
+  {
+    "id": 120626,
+    "name": "Shahrestān-e Kordkūy",
+    "stateId": 1403,
+    "latitude": "36.68333000",
+    "longitude": "54.20000000"
+  },
+  {
+    "id": 120627,
+    "name": "Shahrestān-e Kows̄ar",
+    "stateId": 222,
+    "latitude": "37.72142000",
+    "longitude": "48.26985000"
+  },
+  {
+    "id": 120628,
+    "name": "Shahrestān-e Kāmyārān",
+    "stateId": 2117,
+    "latitude": "34.91667000",
+    "longitude": "46.91667000"
+  },
+  {
+    "id": 120629,
+    "name": "Shahrestān-e Kāshmar",
+    "stateId": 3595,
+    "latitude": "35.43333000",
+    "longitude": "58.48333000"
+  },
+  {
+    "id": 120630,
+    "name": "Shahrestān-e Kāshān",
+    "stateId": 1700,
+    "latitude": "33.88333000",
+    "longitude": "51.28333000"
+  },
+  {
+    "id": 120631,
+    "name": "Shahrestān-e Kāzerūn",
+    "stateId": 1268,
+    "latitude": "29.50000000",
+    "longitude": "51.78333000"
+  },
+  {
+    "id": 120632,
+    "name": "Shahrestān-e Kīār",
+    "stateId": 813,
+    "latitude": "32.00000000",
+    "longitude": "50.76667000"
+  },
+  {
+    "id": 120633,
+    "name": "Shahrestān-e Kūhbanān",
+    "stateId": 1945,
+    "latitude": "31.38333000",
+    "longitude": "56.33333000"
+  },
+  {
+    "id": 120634,
+    "name": "Shahrestān-e Kūhdasht",
+    "stateId": 2354,
+    "latitude": "33.51667000",
+    "longitude": "47.40000000"
+  },
+  {
+    "id": 120635,
+    "name": "Shahrestān-e Kūhrang",
+    "stateId": 813,
+    "latitude": "32.41667000",
+    "longitude": "50.00000000"
+  },
+  {
+    "id": 120636,
+    "name": "Shahrestān-e Langarūd",
+    "stateId": 1380,
+    "latitude": "37.15000000",
+    "longitude": "50.11667000"
+  },
+  {
+    "id": 120637,
+    "name": "Shahrestān-e Lenjān",
+    "stateId": 1700,
+    "latitude": "32.36667000",
+    "longitude": "51.20000000"
+  },
+  {
+    "id": 120638,
+    "name": "Shahrestān-e Lordegān",
+    "stateId": 813,
+    "latitude": "31.43333000",
+    "longitude": "50.83333000"
+  },
+  {
+    "id": 120639,
+    "name": "Shahrestān-e Lāhījān",
+    "stateId": 1380,
+    "latitude": "37.21667000",
+    "longitude": "50.01667000"
+  },
+  {
+    "id": 120640,
+    "name": "Shahrestān-e Lālī",
+    "stateId": 1973,
+    "latitude": "32.41667000",
+    "longitude": "49.16667000"
+  },
+  {
+    "id": 120641,
+    "name": "Shahrestān-e Lāmerd",
+    "stateId": 1268,
+    "latitude": "27.36667000",
+    "longitude": "53.38333000"
+  },
+  {
+    "id": 120642,
+    "name": "Shahrestān-e Lārestān",
+    "stateId": 1268,
+    "latitude": "27.75000000",
+    "longitude": "54.45000000"
+  },
+  {
+    "id": 120643,
+    "name": "Shahrestān-e Mah Velāt",
+    "stateId": 3595,
+    "latitude": "34.98333000",
+    "longitude": "58.78333000"
+  },
+  {
+    "id": 120644,
+    "name": "Shahrestān-e Mahābād",
+    "stateId": 4700,
+    "latitude": "36.76667000",
+    "longitude": "45.73333000"
+  },
+  {
+    "id": 120645,
+    "name": "Shahrestān-e Malekshāhī",
+    "stateId": 1659,
+    "latitude": "33.30000000",
+    "longitude": "46.55000000"
+  },
+  {
+    "id": 120646,
+    "name": "Shahrestān-e Malekān",
+    "stateId": 1158,
+    "latitude": "37.13338000",
+    "longitude": "46.21667000"
+  },
+  {
+    "id": 120647,
+    "name": "Shahrestān-e Malārd",
+    "stateId": 4343,
+    "latitude": "35.63333000",
+    "longitude": "50.65000000"
+  },
+  {
+    "id": 120648,
+    "name": "Shahrestān-e Manūjān",
+    "stateId": 1945,
+    "latitude": "27.35000000",
+    "longitude": "57.61667000"
+  },
+  {
+    "id": 120649,
+    "name": "Shahrestān-e Marāgheh",
+    "stateId": 1158,
+    "latitude": "37.38061000",
+    "longitude": "46.39372000"
+  },
+  {
+    "id": 120650,
+    "name": "Shahrestān-e Marāveh Tappeh",
+    "stateId": 1403,
+    "latitude": "37.85000000",
+    "longitude": "55.91667000"
+  },
+  {
+    "id": 120651,
+    "name": "Shahrestān-e Marīvān",
+    "stateId": 2117,
+    "latitude": "35.56667000",
+    "longitude": "46.35000000"
+  },
+  {
+    "id": 120652,
+    "name": "Shahrestān-e Masjed Soleymān",
+    "stateId": 1973,
+    "latitude": "31.98333000",
+    "longitude": "49.26667000"
+  },
+  {
+    "id": 120653,
+    "name": "Shahrestān-e Mayāmey",
+    "stateId": 3945,
+    "latitude": "36.63333000",
+    "longitude": "55.95000000"
+  },
+  {
+    "id": 120654,
+    "name": "Shahrestān-e Maḩallāt",
+    "stateId": 2525,
+    "latitude": "33.91667000",
+    "longitude": "50.41667000"
+  },
+  {
+    "id": 120655,
+    "name": "Shahrestān-e Maḩmūdābād",
+    "stateId": 2579,
+    "latitude": "36.60000000",
+    "longitude": "52.36667000"
+  },
+  {
+    "id": 120656,
+    "name": "Shahrestān-e Mehrestān",
+    "stateId": 4039,
+    "latitude": "27.05000000",
+    "longitude": "61.53333000"
+  },
+  {
+    "id": 120657,
+    "name": "Shahrestān-e Mehrān",
+    "stateId": 1659,
+    "latitude": "33.28333000",
+    "longitude": "46.16667000"
+  },
+  {
+    "id": 120658,
+    "name": "Shahrestān-e Mehrīz",
+    "stateId": 4785,
+    "latitude": "31.41667000",
+    "longitude": "54.61667000"
+  },
+  {
+    "id": 120659,
+    "name": "Shahrestān-e Meshgīn Shahr",
+    "stateId": 222,
+    "latitude": "38.43333000",
+    "longitude": "47.75000000"
+  },
+  {
+    "id": 120660,
+    "name": "Shahrestān-e Mobārakeh",
+    "stateId": 1700,
+    "latitude": "32.26667000",
+    "longitude": "51.48333000"
+  },
+  {
+    "id": 120661,
+    "name": "Shahrestān-e Māhneshān",
+    "stateId": 4830,
+    "latitude": "36.66667000",
+    "longitude": "47.56667000"
+  },
+  {
+    "id": 120662,
+    "name": "Shahrestān-e Mākū",
+    "stateId": 4700,
+    "latitude": "39.41669000",
+    "longitude": "44.58336000"
+  },
+  {
+    "id": 120663,
+    "name": "Shahrestān-e Māneh va Samalqān",
+    "stateId": 2998,
+    "latitude": "37.70000000",
+    "longitude": "56.60000000"
+  },
+  {
+    "id": 120664,
+    "name": "Shahrestān-e Māsāl",
+    "stateId": 1380,
+    "latitude": "37.35000000",
+    "longitude": "48.98333000"
+  },
+  {
+    "id": 120665,
+    "name": "Shahrestān-e Mīnāb",
+    "stateId": 1605,
+    "latitude": "26.93333000",
+    "longitude": "57.28333000"
+  },
+  {
+    "id": 120666,
+    "name": "Shahrestān-e Mīnūdasht",
+    "stateId": 1403,
+    "latitude": "37.11667000",
+    "longitude": "55.45000000"
+  },
+  {
+    "id": 120667,
+    "name": "Shahrestān-e Mīāndorūd",
+    "stateId": 2579,
+    "latitude": "36.58333000",
+    "longitude": "53.30000000"
+  },
+  {
+    "id": 120668,
+    "name": "Shahrestān-e Mīāndoāb",
+    "stateId": 4700,
+    "latitude": "36.89999000",
+    "longitude": "46.20002000"
+  },
+  {
+    "id": 120669,
+    "name": "Shahrestān-e Mīāneh",
+    "stateId": 1158,
+    "latitude": "37.41667000",
+    "longitude": "47.70000000"
+  },
+  {
+    "id": 120670,
+    "name": "Shahrestān-e Najafābād",
+    "stateId": 1700,
+    "latitude": "32.93333000",
+    "longitude": "51.11667000"
+  },
+  {
+    "id": 120671,
+    "name": "Shahrestān-e Namīn",
+    "stateId": 222,
+    "latitude": "38.38333000",
+    "longitude": "48.51667000"
+  },
+  {
+    "id": 120672,
+    "name": "Shahrestān-e Narmāshīr",
+    "stateId": 1945,
+    "latitude": "29.26667000",
+    "longitude": "58.73333000"
+  },
+  {
+    "id": 120673,
+    "name": "Shahrestān-e Naz̧arābād",
+    "stateId": 120,
+    "latitude": "35.91366000",
+    "longitude": "50.51685000"
+  },
+  {
+    "id": 120674,
+    "name": "Shahrestān-e Naţanz",
+    "stateId": 1700,
+    "latitude": "33.55000000",
+    "longitude": "51.86667000"
+  },
+  {
+    "id": 120675,
+    "name": "Shahrestān-e Nehbandān",
+    "stateId": 4122,
+    "latitude": "31.56667000",
+    "longitude": "59.81667000"
+  },
+  {
+    "id": 120676,
+    "name": "Shahrestān-e Nekā",
+    "stateId": 2579,
+    "latitude": "36.51667000",
+    "longitude": "53.60000000"
+  },
+  {
+    "id": 120677,
+    "name": "Shahrestān-e Neyrīz",
+    "stateId": 1268,
+    "latitude": "29.33333000",
+    "longitude": "54.33333000"
+  },
+  {
+    "id": 120678,
+    "name": "Shahrestān-e Neyshābūr",
+    "stateId": 3595,
+    "latitude": "36.21667000",
+    "longitude": "58.88333000"
+  },
+  {
+    "id": 120679,
+    "name": "Shahrestān-e Nā’īn",
+    "stateId": 1700,
+    "latitude": "33.46664000",
+    "longitude": "53.71674000"
+  },
+  {
+    "id": 120680,
+    "name": "Shahrestān-e Nīkshahr",
+    "stateId": 4039,
+    "latitude": "26.25000000",
+    "longitude": "60.00000000"
+  },
+  {
+    "id": 120681,
+    "name": "Shahrestān-e Nīr",
+    "stateId": 222,
+    "latitude": "38.00000000",
+    "longitude": "48.08333000"
+  },
+  {
+    "id": 120682,
+    "name": "Shahrestān-e Nūr",
+    "stateId": 2579,
+    "latitude": "36.31667000",
+    "longitude": "51.98333000"
+  },
+  {
+    "id": 120683,
+    "name": "Shahrestān-e Omīdīyeh",
+    "stateId": 1973,
+    "latitude": "30.75000000",
+    "longitude": "49.70000000"
+  },
+  {
+    "id": 120684,
+    "name": "Shahrestān-e Orzū‘īyeh",
+    "stateId": 1945,
+    "latitude": "28.46667000",
+    "longitude": "56.53333000"
+  },
+  {
+    "id": 120685,
+    "name": "Shahrestān-e Orūmīyeh",
+    "stateId": 4700,
+    "latitude": "37.55000000",
+    "longitude": "45.00000000"
+  },
+  {
+    "id": 120686,
+    "name": "Shahrestān-e Oshnavīyeh",
+    "stateId": 4700,
+    "latitude": "37.05000000",
+    "longitude": "45.08333000"
+  },
+  {
+    "id": 120687,
+    "name": "Shahrestān-e Oskū",
+    "stateId": 1158,
+    "latitude": "37.95005000",
+    "longitude": "45.88340000"
+  },
+  {
+    "id": 120688,
+    "name": "Shahrestān-e Pākdasht",
+    "stateId": 4343,
+    "latitude": "35.49448000",
+    "longitude": "51.75302000"
+  },
+  {
+    "id": 120689,
+    "name": "Shahrestān-e Pārsābād",
+    "stateId": 222,
+    "latitude": "39.58333000",
+    "longitude": "47.91667000"
+  },
+  {
+    "id": 120690,
+    "name": "Shahrestān-e Pārsīān",
+    "stateId": 1605,
+    "latitude": "27.16667000",
+    "longitude": "53.26667000"
+  },
+  {
+    "id": 120691,
+    "name": "Shahrestān-e Pāsārgād",
+    "stateId": 1268,
+    "latitude": "30.13333000",
+    "longitude": "53.15000000"
+  },
+  {
+    "id": 120692,
+    "name": "Shahrestān-e Pāveh",
+    "stateId": 1946,
+    "latitude": "35.05000000",
+    "longitude": "46.26667000"
+  },
+  {
+    "id": 120693,
+    "name": "Shahrestān-e Pīrānshahr",
+    "stateId": 4700,
+    "latitude": "36.70000000",
+    "longitude": "45.16667000"
+  },
+  {
+    "id": 120694,
+    "name": "Shahrestān-e Pīshvā",
+    "stateId": 4343,
+    "latitude": "35.35000000",
+    "longitude": "51.71667000"
+  },
+  {
+    "id": 120695,
+    "name": "Shahrestān-e Qal‘eh Ganj",
+    "stateId": 1945,
+    "latitude": "27.20000000",
+    "longitude": "58.33333000"
+  },
+  {
+    "id": 120696,
+    "name": "Shahrestān-e Qazvīn",
+    "stateId": 3528,
+    "latitude": "36.43333000",
+    "longitude": "49.81667000"
+  },
+  {
+    "id": 120697,
+    "name": "Shahrestān-e Qaşr-e Shīrīn",
+    "stateId": 1946,
+    "latitude": "34.20000000",
+    "longitude": "45.63333000"
+  },
+  {
+    "id": 120698,
+    "name": "Shahrestān-e Qā’em Shahr",
+    "stateId": 2579,
+    "latitude": "36.48333000",
+    "longitude": "52.90000000"
+  },
+  {
+    "id": 120699,
+    "name": "Shahrestān-e Qā’en",
+    "stateId": 4122,
+    "latitude": "33.74197000",
+    "longitude": "59.35020000"
+  },
+  {
+    "id": 120700,
+    "name": "Shahrestān-e Qīr va Kārzīn",
+    "stateId": 1268,
+    "latitude": "28.31667000",
+    "longitude": "52.90000000"
+  },
+  {
+    "id": 120701,
+    "name": "Shahrestān-e Qūchān",
+    "stateId": 3595,
+    "latitude": "37.06667000",
+    "longitude": "58.65000000"
+  },
+  {
+    "id": 120702,
+    "name": "Shahrestān-e Rafsanjān",
+    "stateId": 1945,
+    "latitude": "30.53333000",
+    "longitude": "55.95000000"
+  },
+  {
+    "id": 120703,
+    "name": "Shahrestān-e Ravānsar",
+    "stateId": 1946,
+    "latitude": "34.75000000",
+    "longitude": "46.65000000"
+  },
+  {
+    "id": 120704,
+    "name": "Shahrestān-e Reẕvānshahr",
+    "stateId": 1380,
+    "latitude": "37.53333000",
+    "longitude": "48.95000000"
+  },
+  {
+    "id": 120705,
+    "name": "Shahrestān-e Robāţ Karīm",
+    "stateId": 4343,
+    "latitude": "35.52115000",
+    "longitude": "51.03074000"
+  },
+  {
+    "id": 120706,
+    "name": "Shahrestān-e Roshtkhvār",
+    "stateId": 3595,
+    "latitude": "34.91667000",
+    "longitude": "59.36667000"
+  },
+  {
+    "id": 120707,
+    "name": "Shahrestān-e Rābor",
+    "stateId": 1945,
+    "latitude": "29.25000000",
+    "longitude": "56.98333000"
+  },
+  {
+    "id": 120708,
+    "name": "Shahrestān-e Rāmhormoz",
+    "stateId": 1973,
+    "latitude": "31.21667000",
+    "longitude": "49.65000000"
+  },
+  {
+    "id": 120709,
+    "name": "Shahrestān-e Rāmsar",
+    "stateId": 2579,
+    "latitude": "36.76667000",
+    "longitude": "50.53333000"
+  },
+  {
+    "id": 120710,
+    "name": "Shahrestān-e Rāmshīr",
+    "stateId": 1973,
+    "latitude": "30.96667000",
+    "longitude": "49.38333000"
+  },
+  {
+    "id": 120711,
+    "name": "Shahrestān-e Rāmīān",
+    "stateId": 1403,
+    "latitude": "36.93333000",
+    "longitude": "55.08333000"
+  },
+  {
+    "id": 120712,
+    "name": "Shahrestān-e Rūdbār",
+    "stateId": 1380,
+    "latitude": "36.80000000",
+    "longitude": "49.60000000"
+  },
+  {
+    "id": 120713,
+    "name": "Shahrestān-e Rūdbār-e Jonūbī",
+    "stateId": 1945,
+    "latitude": "27.90000000",
+    "longitude": "58.46667000"
+  },
+  {
+    "id": 120714,
+    "name": "Shahrestān-e Rūdsar",
+    "stateId": 1380,
+    "latitude": "36.86667000",
+    "longitude": "50.30000000"
+  },
+  {
+    "id": 120715,
+    "name": "Shahrestān-e Rūdān",
+    "stateId": 1605,
+    "latitude": "27.53333000",
+    "longitude": "57.11667000"
+  },
+  {
+    "id": 120716,
+    "name": "Shahrestān-e Sabzevār",
+    "stateId": 3595,
+    "latitude": "36.01667000",
+    "longitude": "57.41667000"
+  },
+  {
+    "id": 120717,
+    "name": "Shahrestān-e Salmās",
+    "stateId": 4700,
+    "latitude": "38.18333000",
+    "longitude": "44.73333000"
+  },
+  {
+    "id": 120718,
+    "name": "Shahrestān-e Sarbāz",
+    "stateId": 4039,
+    "latitude": "26.43393000",
+    "longitude": "61.48176000"
+  },
+  {
+    "id": 120719,
+    "name": "Shahrestān-e Sarbīsheh",
+    "stateId": 4122,
+    "latitude": "32.40000000",
+    "longitude": "60.08333000"
+  },
+  {
+    "id": 120720,
+    "name": "Shahrestān-e Sarpol-e Z̄ahāb",
+    "stateId": 1946,
+    "latitude": "34.50000000",
+    "longitude": "45.85000000"
+  },
+  {
+    "id": 120721,
+    "name": "Shahrestān-e Sarvestān",
+    "stateId": 1268,
+    "latitude": "29.21667000",
+    "longitude": "53.13333000"
+  },
+  {
+    "id": 120722,
+    "name": "Shahrestān-e Sarvābād",
+    "stateId": 2117,
+    "latitude": "35.25000000",
+    "longitude": "46.33333000"
+  },
+  {
+    "id": 120723,
+    "name": "Shahrestān-e Sarāb",
+    "stateId": 1158,
+    "latitude": "37.98340000",
+    "longitude": "47.46679000"
+  },
+  {
+    "id": 120724,
+    "name": "Shahrestān-e Sarāvān",
+    "stateId": 4039,
+    "latitude": "27.32351000",
+    "longitude": "62.56796000"
+  },
+  {
+    "id": 120725,
+    "name": "Shahrestān-e Sarāyān",
+    "stateId": 4122,
+    "latitude": "33.41667000",
+    "longitude": "58.31667000"
+  },
+  {
+    "id": 120726,
+    "name": "Shahrestān-e Sar‘eyn",
+    "stateId": 222,
+    "latitude": "38.18333000",
+    "longitude": "47.98333000"
+  },
+  {
+    "id": 120727,
+    "name": "Shahrestān-e Savādkūh",
+    "stateId": 2579,
+    "latitude": "36.08333000",
+    "longitude": "52.91667000"
+  },
+  {
+    "id": 120728,
+    "name": "Shahrestān-e Semnān",
+    "stateId": 3945,
+    "latitude": "35.11667000",
+    "longitude": "53.78333000"
+  },
+  {
+    "id": 120729,
+    "name": "Shahrestān-e Semīrom",
+    "stateId": 1700,
+    "latitude": "31.30000000",
+    "longitude": "51.53333000"
+  },
+  {
+    "id": 120730,
+    "name": "Shahrestān-e Sepīdān",
+    "stateId": 1268,
+    "latitude": "30.15000000",
+    "longitude": "52.10000000"
+  },
+  {
+    "id": 120731,
+    "name": "Shahrestān-e Shahr-e Bābak",
+    "stateId": 1945,
+    "latitude": "30.23333000",
+    "longitude": "55.05000000"
+  },
+  {
+    "id": 120732,
+    "name": "Shahrestān-e Shahreẕā",
+    "stateId": 1700,
+    "latitude": "31.90000000",
+    "longitude": "51.83333000"
+  },
+  {
+    "id": 120733,
+    "name": "Shahrestān-e Shahrīār",
+    "stateId": 4343,
+    "latitude": "35.62828000",
+    "longitude": "51.06632000"
+  },
+  {
+    "id": 120734,
+    "name": "Shahrestān-e Shemīrānāt",
+    "stateId": 4343,
+    "latitude": "35.93141000",
+    "longitude": "51.58997000"
+  },
+  {
+    "id": 120735,
+    "name": "Shahrestān-e Shādegān",
+    "stateId": 1973,
+    "latitude": "30.66667000",
+    "longitude": "48.66667000"
+  },
+  {
+    "id": 120736,
+    "name": "Shahrestān-e Shāhrūd",
+    "stateId": 3945,
+    "latitude": "35.50000000",
+    "longitude": "55.50000000"
+  },
+  {
+    "id": 120737,
+    "name": "Shahrestān-e Shāhīn Dezh",
+    "stateId": 4700,
+    "latitude": "36.68337000",
+    "longitude": "46.66676000"
+  },
+  {
+    "id": 120738,
+    "name": "Shahrestān-e Shāhīn Shahr va Meymeh",
+    "stateId": 1700,
+    "latitude": "33.28333000",
+    "longitude": "51.20000000"
+  },
+  {
+    "id": 120739,
+    "name": "Shahrestān-e Shāzand",
+    "stateId": 2525,
+    "latitude": "33.90000000",
+    "longitude": "49.30000000"
+  },
+  {
+    "id": 120740,
+    "name": "Shahrestān-e Shīrvān",
+    "stateId": 2998,
+    "latitude": "37.53333000",
+    "longitude": "57.90000000"
+  },
+  {
+    "id": 120741,
+    "name": "Shahrestān-e Shīrāz",
+    "stateId": 1268,
+    "latitude": "29.58333000",
+    "longitude": "52.50000000"
+  },
+  {
+    "id": 120742,
+    "name": "Shahrestān-e Shūsh",
+    "stateId": 1973,
+    "latitude": "32.03333000",
+    "longitude": "48.21667000"
+  },
+  {
+    "id": 120743,
+    "name": "Shahrestān-e Shūshtar",
+    "stateId": 1973,
+    "latitude": "31.90000000",
+    "longitude": "48.85000000"
+  },
+  {
+    "id": 120744,
+    "name": "Shahrestān-e Sārī",
+    "stateId": 2579,
+    "latitude": "36.33333000",
+    "longitude": "53.28333000"
+  },
+  {
+    "id": 120745,
+    "name": "Shahrestān-e Sāveh",
+    "stateId": 2525,
+    "latitude": "35.10000000",
+    "longitude": "49.98333000"
+  },
+  {
+    "id": 120746,
+    "name": "Shahrestān-e Sāvojbolāgh",
+    "stateId": 120,
+    "latitude": "36.00000000",
+    "longitude": "50.83333000"
+  },
+  {
+    "id": 120747,
+    "name": "Shahrestān-e Sīb va Sūrān",
+    "stateId": 4039,
+    "latitude": "27.33333000",
+    "longitude": "61.91667000"
+  },
+  {
+    "id": 120748,
+    "name": "Shahrestān-e Sīrjān",
+    "stateId": 1945,
+    "latitude": "29.36667000",
+    "longitude": "55.65000000"
+  },
+  {
+    "id": 120749,
+    "name": "Shahrestān-e Sīrīk",
+    "stateId": 1605,
+    "latitude": "26.50000000",
+    "longitude": "57.18333000"
+  },
+  {
+    "id": 120750,
+    "name": "Shahrestān-e Sīāhkal",
+    "stateId": 1380,
+    "latitude": "36.93333000",
+    "longitude": "49.90000000"
+  },
+  {
+    "id": 120751,
+    "name": "Shahrestān-e S̄alās̄-e Bābā Jānī",
+    "stateId": 1946,
+    "latitude": "34.81667000",
+    "longitude": "45.98333000"
+  },
+  {
+    "id": 120752,
+    "name": "Shahrestān-e Tabrīz",
+    "stateId": 1158,
+    "latitude": "38.08333000",
+    "longitude": "46.28333000"
+  },
+  {
+    "id": 120753,
+    "name": "Shahrestān-e Takāb",
+    "stateId": 4700,
+    "latitude": "36.53345000",
+    "longitude": "47.16669000"
+  },
+  {
+    "id": 120754,
+    "name": "Shahrestān-e Tangestān",
+    "stateId": 631,
+    "latitude": "28.88333000",
+    "longitude": "51.26667000"
+  },
+  {
+    "id": 120755,
+    "name": "Shahrestān-e Tehrān",
+    "stateId": 4343,
+    "latitude": "35.71006000",
+    "longitude": "51.41744000"
+  },
+  {
+    "id": 120756,
+    "name": "Shahrestān-e Tonekābon",
+    "stateId": 2579,
+    "latitude": "36.63333000",
+    "longitude": "50.80000000"
+  },
+  {
+    "id": 120757,
+    "name": "Shahrestān-e Torbat-e Jām",
+    "stateId": 3595,
+    "latitude": "35.46667000",
+    "longitude": "60.78333000"
+  },
+  {
+    "id": 120758,
+    "name": "Shahrestān-e Torbat-e Ḩeydarīyeh",
+    "stateId": 3595,
+    "latitude": "35.46667000",
+    "longitude": "59.10000000"
+  },
+  {
+    "id": 120759,
+    "name": "Shahrestān-e Tākestān",
+    "stateId": 3528,
+    "latitude": "36.00000000",
+    "longitude": "49.55000000"
+  },
+  {
+    "id": 120760,
+    "name": "Shahrestān-e Tālesh",
+    "stateId": 1380,
+    "latitude": "37.90000000",
+    "longitude": "48.78333000"
+  },
+  {
+    "id": 120761,
+    "name": "Shahrestān-e Tāybād",
+    "stateId": 3595,
+    "latitude": "34.73333000",
+    "longitude": "60.73333000"
+  },
+  {
+    "id": 120762,
+    "name": "Shahrestān-e Tīrān va Karvan",
+    "stateId": 1700,
+    "latitude": "32.83333000",
+    "longitude": "50.91667000"
+  },
+  {
+    "id": 120763,
+    "name": "Shahrestān-e Varzaqān",
+    "stateId": 1158,
+    "latitude": "38.59492000",
+    "longitude": "46.46397000"
+  },
+  {
+    "id": 120764,
+    "name": "Shahrestān-e Varāmīn",
+    "stateId": 4343,
+    "latitude": "35.33081000",
+    "longitude": "51.64124000"
+  },
+  {
+    "id": 120765,
+    "name": "Shahrestān-e Yazd",
+    "stateId": 4785,
+    "latitude": "31.88980000",
+    "longitude": "54.36069000"
+  },
+  {
+    "id": 120766,
+    "name": "Shahrestān-e Zanjān",
+    "stateId": 4830,
+    "latitude": "36.58333000",
+    "longitude": "48.25000000"
+  },
+  {
+    "id": 120767,
+    "name": "Shahrestān-e Zarandīyeh",
+    "stateId": 2525,
+    "latitude": "35.36667000",
+    "longitude": "50.33333000"
+  },
+  {
+    "id": 120768,
+    "name": "Shahrestān-e Zarrīn Dasht",
+    "stateId": 1268,
+    "latitude": "28.30000000",
+    "longitude": "54.46667000"
+  },
+  {
+    "id": 120769,
+    "name": "Shahrestān-e Zābol",
+    "stateId": 4039,
+    "latitude": "30.85431000",
+    "longitude": "60.85359000"
+  },
+  {
+    "id": 120770,
+    "name": "Shahrestān-e Zāhedān",
+    "stateId": 4039,
+    "latitude": "29.48002000",
+    "longitude": "60.24812000"
+  },
+  {
+    "id": 120771,
+    "name": "Shahrestān-e Zāveh",
+    "stateId": 3595,
+    "latitude": "35.28333000",
+    "longitude": "59.73333000"
+  },
+  {
+    "id": 120772,
+    "name": "Shahrestān-e Zīrkūh",
+    "stateId": 4122,
+    "latitude": "33.58333000",
+    "longitude": "60.30000000"
+  },
+  {
+    "id": 120773,
+    "name": "Shahrestān-e Ābdānān",
+    "stateId": 1659,
+    "latitude": "32.88333000",
+    "longitude": "47.50000000"
+  },
+  {
+    "id": 120774,
+    "name": "Shahrestān-e Ābādeh",
+    "stateId": 1268,
+    "latitude": "31.25000000",
+    "longitude": "52.50000000"
+  },
+  {
+    "id": 120775,
+    "name": "Shahrestān-e Ābādān",
+    "stateId": 1973,
+    "latitude": "30.21667000",
+    "longitude": "48.53333000"
+  },
+  {
+    "id": 120776,
+    "name": "Shahrestān-e Āmol",
+    "stateId": 2579,
+    "latitude": "36.20000000",
+    "longitude": "52.38333000"
+  },
+  {
+    "id": 120777,
+    "name": "Shahrestān-e Āq Qalā",
+    "stateId": 1403,
+    "latitude": "37.16667000",
+    "longitude": "54.58333000"
+  },
+  {
+    "id": 120778,
+    "name": "Shahrestān-e Ārādān",
+    "stateId": 3945,
+    "latitude": "34.90000000",
+    "longitude": "52.61667000"
+  },
+  {
+    "id": 120779,
+    "name": "Shahrestān-e Ārān va Bīdgol",
+    "stateId": 1700,
+    "latitude": "34.10000000",
+    "longitude": "51.90000000"
+  },
+  {
+    "id": 120780,
+    "name": "Shahrestān-e Āshtīān",
+    "stateId": 2525,
+    "latitude": "34.45000000",
+    "longitude": "50.05000000"
+  },
+  {
+    "id": 120781,
+    "name": "Shahrestān-e Āstāneh-ye Ashrafīyeh",
+    "stateId": 1380,
+    "latitude": "37.31667000",
+    "longitude": "49.96667000"
+  },
+  {
+    "id": 120782,
+    "name": "Shahrestān-e Āstārā",
+    "stateId": 1380,
+    "latitude": "38.33333000",
+    "longitude": "48.76667000"
+  },
+  {
+    "id": 120783,
+    "name": "Shahrestān-e Āzādshahr",
+    "stateId": 1403,
+    "latitude": "36.96667000",
+    "longitude": "55.31667000"
+  },
+  {
+    "id": 120784,
+    "name": "Shahrestān-e Āz̄arshahr",
+    "stateId": 1158,
+    "latitude": "37.75001000",
+    "longitude": "45.83334000"
+  },
+  {
+    "id": 120785,
+    "name": "Shahrestān-e Ījrūd",
+    "stateId": 4830,
+    "latitude": "36.33333000",
+    "longitude": "48.25000000"
+  },
+  {
+    "id": 120786,
+    "name": "Shahrestān-e Īlām",
+    "stateId": 1659,
+    "latitude": "33.68333000",
+    "longitude": "46.25000000"
+  },
+  {
+    "id": 120787,
+    "name": "Shahrestān-e Īrānshahr",
+    "stateId": 4039,
+    "latitude": "27.61945000",
+    "longitude": "60.21070000"
+  },
+  {
+    "id": 120788,
+    "name": "Shahrestān-e Īz̄eh",
+    "stateId": 1973,
+    "latitude": "31.91667000",
+    "longitude": "49.98333000"
+  },
+  {
+    "id": 120789,
+    "name": "Shahrestān-e Şaḩneh",
+    "stateId": 1946,
+    "latitude": "34.58333000",
+    "longitude": "47.51667000"
+  },
+  {
+    "id": 120790,
+    "name": "Shahrestān-e Şowme‘eh Sarā",
+    "stateId": 1380,
+    "latitude": "37.33333000",
+    "longitude": "49.30000000"
+  },
+  {
+    "id": 120791,
+    "name": "Shahrestān-e Ţāleqān",
+    "stateId": 120,
+    "latitude": "36.20528000",
+    "longitude": "50.77610000"
+  },
+  {
+    "id": 120792,
+    "name": "Shahrestān-e Ţārom",
+    "stateId": 4830,
+    "latitude": "36.95000000",
+    "longitude": "48.90000000"
+  },
+  {
+    "id": 120793,
+    "name": "Shahrestān-e Ḩājjīābād",
+    "stateId": 1605,
+    "latitude": "28.33333000",
+    "longitude": "55.83333000"
+  },
+  {
+    "id": 120794,
+    "name": "Shahrestān-e ‘Abbāsābād",
+    "stateId": 2579,
+    "latitude": "36.63333000",
+    "longitude": "51.15000000"
+  },
+  {
+    "id": 120795,
+    "name": "Shahrestān-e ‘Ajab Shīr",
+    "stateId": 1158,
+    "latitude": "37.50002000",
+    "longitude": "45.83342000"
+  },
+  {
+    "id": 120796,
+    "name": "Shahrestān-e ‘Alīābād",
+    "stateId": 1403,
+    "latitude": "36.83333000",
+    "longitude": "54.88333000"
+  },
+  {
+    "id": 120797,
+    "name": "Shahrestān-e ‘Anbarābād",
+    "stateId": 1945,
+    "latitude": "28.43333000",
+    "longitude": "58.16667000"
+  },
+  {
+    "id": 120798,
+    "name": "Shahrestān-e ‘Asalūyeh",
+    "stateId": 631,
+    "latitude": "27.45000000",
+    "longitude": "52.73333000"
+  },
+  {
+    "id": 120799,
+    "name": "Shahreẕā",
+    "stateId": 1700,
+    "latitude": "32.00890000",
+    "longitude": "51.86680000"
+  },
+  {
+    "id": 120805,
+    "name": "Shahrud",
+    "stateId": 3945,
+    "latitude": "36.41819000",
+    "longitude": "54.97628000"
+  },
+  {
+    "id": 120806,
+    "name": "Shahrīār",
+    "stateId": 4343,
+    "latitude": "35.65884000",
+    "longitude": "51.05775000"
+  },
+  {
+    "id": 120864,
+    "name": "Shanabad",
+    "stateId": 1524,
+    "latitude": "34.60888889",
+    "longitude": "48.10416667"
+  },
+  {
+    "id": 120882,
+    "name": "Shanjur",
+    "stateId": 1524,
+    "latitude": "35.29722222",
+    "longitude": "49.17638889"
+  },
+  {
+    "id": 120920,
+    "name": "Sharifabad-e Quzan",
+    "stateId": 1524,
+    "latitude": "34.41222222",
+    "longitude": "48.82583333"
+  },
+  {
+    "id": 120921,
+    "name": "Sharifabad-e Tajar",
+    "stateId": 1524,
+    "latitude": "34.26472222",
+    "longitude": "48.63833333"
+  },
+  {
+    "id": 120952,
+    "name": "Sharīfābād",
+    "stateId": 4343,
+    "latitude": "35.42750000",
+    "longitude": "51.78528000"
+  },
+  {
+    "id": 120972,
+    "name": "Shatzal",
+    "stateId": 1524,
+    "latitude": "34.30305556",
+    "longitude": "47.97388889"
+  },
+  {
+    "id": 120974,
+    "name": "Shavand",
+    "stateId": 1524,
+    "latitude": "35.37527778",
+    "longitude": "49.20972222"
+  },
+  {
+    "id": 121213,
+    "name": "Sheverin",
+    "stateId": 1524,
+    "latitude": "34.80750000",
+    "longitude": "48.57027778"
+  },
+  {
+    "id": 121217,
+    "name": "Sheykh Jarrah",
+    "stateId": 1524,
+    "latitude": "35.50222222",
+    "longitude": "48.22250000"
+  },
+  {
+    "id": 121266,
+    "name": "Shilandar-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.66750000",
+    "longitude": "48.16861111"
+  },
+  {
+    "id": 121358,
+    "name": "Shir Barat",
+    "stateId": 1524,
+    "latitude": "35.63333333",
+    "longitude": "48.38250000"
+  },
+  {
+    "id": 121371,
+    "name": "Shiraz",
+    "stateId": 1268,
+    "latitude": "29.61031000",
+    "longitude": "52.53113000"
+  },
+  {
+    "id": 121379,
+    "name": "Shirin Su",
+    "stateId": 1524,
+    "latitude": "35.49277778",
+    "longitude": "48.45055556"
+  },
+  {
+    "id": 121544,
+    "name": "Shush Ab",
+    "stateId": 1524,
+    "latitude": "34.35361111",
+    "longitude": "48.63222222"
+  },
+  {
+    "id": 121567,
+    "name": "Shādegān",
+    "stateId": 1973,
+    "latitude": "30.64924000",
+    "longitude": "48.66497000"
+  },
+  {
+    "id": 121569,
+    "name": "Shāhīn Dezh",
+    "stateId": 4700,
+    "latitude": "36.67930000",
+    "longitude": "46.56690000"
+  },
+  {
+    "id": 121570,
+    "name": "Shāhīn Shahr",
+    "stateId": 1700,
+    "latitude": "32.85788000",
+    "longitude": "51.55290000"
+  },
+  {
+    "id": 121573,
+    "name": "Shīrvān",
+    "stateId": 2998,
+    "latitude": "37.39669000",
+    "longitude": "57.92952000"
+  },
+  {
+    "id": 121579,
+    "name": "Shūsh",
+    "stateId": 1973,
+    "latitude": "32.19420000",
+    "longitude": "48.24360000"
+  },
+  {
+    "id": 121580,
+    "name": "Shūshtar",
+    "stateId": 1973,
+    "latitude": "32.04972000",
+    "longitude": "48.84843000"
+  },
+  {
+    "id": 121589,
+    "name": "Siah Goleh",
+    "stateId": 1524,
+    "latitude": "34.94583333",
+    "longitude": "47.96833333"
+  },
+  {
+    "id": 121606,
+    "name": "Sib Dar",
+    "stateId": 1524,
+    "latitude": "34.21694444",
+    "longitude": "48.78472222"
+  },
+  {
+    "id": 122002,
+    "name": "Silvar",
+    "stateId": 1524,
+    "latitude": "34.74583333",
+    "longitude": "48.50666667"
+  },
+  {
+    "id": 122093,
+    "name": "Simin-e Abaru",
+    "stateId": 1524,
+    "latitude": "34.68250000",
+    "longitude": "48.58583300"
+  },
+  {
+    "id": 122094,
+    "name": "Simin-e Zagheh",
+    "stateId": 1524,
+    "latitude": "34.87666667",
+    "longitude": "48.32166667"
+  },
+  {
+    "id": 122122,
+    "name": "Simorgh County",
+    "stateId": 2579,
+    "latitude": "36.57914000",
+    "longitude": "52.82364000"
+  },
+  {
+    "id": 122362,
+    "name": "Siravand",
+    "stateId": 1524,
+    "latitude": "34.79527778",
+    "longitude": "47.99638889"
+  },
+  {
+    "id": 122379,
+    "name": "Sirjan",
+    "stateId": 1945,
+    "latitude": "29.45137000",
+    "longitude": "55.68090000"
+  },
+  {
+    "id": 122410,
+    "name": "Sirvan",
+    "stateId": 1659,
+    "latitude": "33.75460000",
+    "longitude": "46.56651000"
+  },
+  {
+    "id": 122440,
+    "name": "Sistaneh",
+    "stateId": 1524,
+    "latitude": "34.66333333",
+    "longitude": "48.32055556"
+  },
+  {
+    "id": 123244,
+    "name": "Soleh Bon",
+    "stateId": 4343,
+    "latitude": "35.76841000",
+    "longitude": "52.56091000"
+  },
+  {
+    "id": 123348,
+    "name": "Soltaniyeh",
+    "stateId": 4830,
+    "latitude": "36.43235000",
+    "longitude": "48.79393000"
+  },
+  {
+    "id": 123356,
+    "name": "Solulan",
+    "stateId": 1524,
+    "latitude": "34.82611111",
+    "longitude": "48.42944444"
+  },
+  {
+    "id": 123526,
+    "name": "Sonqor",
+    "stateId": 1946,
+    "latitude": "34.78187000",
+    "longitude": "47.59945000"
+  },
+  {
+    "id": 123615,
+    "name": "Sorkh Kand",
+    "stateId": 1524,
+    "latitude": "34.08750000",
+    "longitude": "48.42916667"
+  },
+  {
+    "id": 126191,
+    "name": "Sulijeh",
+    "stateId": 1524,
+    "latitude": "35.26860000",
+    "longitude": "48.33440000"
+  },
+  {
+    "id": 126600,
+    "name": "Surtajin",
+    "stateId": 1524,
+    "latitude": "35.53560000",
+    "longitude": "49.01390000"
+  },
+  {
+    "id": 126671,
+    "name": "Sutlaq",
+    "stateId": 1524,
+    "latitude": "34.57640000",
+    "longitude": "48.27750000"
+  },
+  {
+    "id": 127790,
+    "name": "Sāveh",
+    "stateId": 2525,
+    "latitude": "35.02130000",
+    "longitude": "50.35660000"
+  },
+  {
+    "id": 127908,
+    "name": "Sūsangerd",
+    "stateId": 1973,
+    "latitude": "31.56350000",
+    "longitude": "48.18958000"
+  },
+  {
+    "id": 127945,
+    "name": "Tabas",
+    "stateId": 4122,
+    "latitude": "32.80304000",
+    "longitude": "60.22146000"
+  },
+  {
+    "id": 127946,
+    "name": "Tabas",
+    "stateId": 4785,
+    "latitude": "33.59586000",
+    "longitude": "56.92437000"
+  },
+  {
+    "id": 128001,
+    "name": "Tabriz",
+    "stateId": 1158,
+    "latitude": "38.08000000",
+    "longitude": "46.29190000"
+  },
+  {
+    "id": 128098,
+    "name": "Tafresh",
+    "stateId": 2525,
+    "latitude": "34.69307000",
+    "longitude": "50.01601000"
+  },
+  {
+    "id": 128099,
+    "name": "Tafrijan",
+    "stateId": 1524,
+    "latitude": "34.76330000",
+    "longitude": "48.58190000"
+  },
+  {
+    "id": 128100,
+    "name": "Taft",
+    "stateId": 4785,
+    "latitude": "31.74384000",
+    "longitude": "54.20278000"
+  },
+  {
+    "id": 128197,
+    "name": "Tahunabad",
+    "stateId": 1524,
+    "latitude": "34.83860000",
+    "longitude": "48.86640000"
+  },
+  {
+    "id": 128256,
+    "name": "Tajar-e Samen",
+    "stateId": 1524,
+    "latitude": "34.22560000",
+    "longitude": "48.66500000"
+  },
+  {
+    "id": 128315,
+    "name": "Takhtiabad",
+    "stateId": 1524,
+    "latitude": "34.81220000",
+    "longitude": "47.83780000"
+  },
+  {
+    "id": 128332,
+    "name": "Takāb",
+    "stateId": 4700,
+    "latitude": "36.40090000",
+    "longitude": "47.11330000"
+  },
+  {
+    "id": 128411,
+    "name": "Taleh Jerd-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.04580000",
+    "longitude": "48.87780000"
+  },
+  {
+    "id": 128692,
+    "name": "Tamuzan",
+    "stateId": 1524,
+    "latitude": "35.27970000",
+    "longitude": "49.13280000"
+  },
+  {
+    "id": 128947,
+    "name": "Tappeh Yazdan",
+    "stateId": 1524,
+    "latitude": "34.33670000",
+    "longitude": "48.02250000"
+  },
+  {
+    "id": 128948,
+    "name": "Tappeh-ye Dibi",
+    "stateId": 1524,
+    "latitude": "35.42920000",
+    "longitude": "48.69420000"
+  },
+  {
+    "id": 129003,
+    "name": "Taraqayah",
+    "stateId": 1524,
+    "latitude": "35.31890000",
+    "longitude": "48.37110000"
+  },
+  {
+    "id": 129062,
+    "name": "Tarik Darreh-ye Bala",
+    "stateId": 1524,
+    "latitude": "34.27330000",
+    "longitude": "47.93920000"
+  },
+  {
+    "id": 129070,
+    "name": "Tarkhinabad",
+    "stateId": 1524,
+    "latitude": "34.81530000",
+    "longitude": "48.12250000"
+  },
+  {
+    "id": 129167,
+    "name": "Tas Tappeh",
+    "stateId": 1524,
+    "latitude": "35.16390000",
+    "longitude": "48.48330000"
+  },
+  {
+    "id": 129168,
+    "name": "Tasbandi",
+    "stateId": 1524,
+    "latitude": "34.56140000",
+    "longitude": "48.79060000"
+  },
+  {
+    "id": 129190,
+    "name": "Tasran",
+    "stateId": 1524,
+    "latitude": "35.33830000",
+    "longitude": "48.63390000"
+  },
+  {
+    "id": 129286,
+    "name": "Tavaleh",
+    "stateId": 1524,
+    "latitude": "35.15440000",
+    "longitude": "49.04390000"
+  },
+  {
+    "id": 129287,
+    "name": "Tavaneh",
+    "stateId": 1524,
+    "latitude": "34.21138900",
+    "longitude": "48.18583300"
+  },
+  {
+    "id": 129299,
+    "name": "Taveh",
+    "stateId": 1524,
+    "latitude": "35.11670000",
+    "longitude": "49.02720000"
+  },
+  {
+    "id": 129321,
+    "name": "Tavilan-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.79940000",
+    "longitude": "47.86940000"
+  },
+  {
+    "id": 129418,
+    "name": "Tazehnab-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.09780000",
+    "longitude": "48.31530000"
+  },
+  {
+    "id": 129574,
+    "name": "Tehran",
+    "stateId": 4343,
+    "latitude": "35.69439000",
+    "longitude": "51.42151000"
+  },
+  {
+    "id": 130074,
+    "name": "Termianak",
+    "stateId": 1524,
+    "latitude": "34.63190000",
+    "longitude": "48.17360000"
+  },
+  {
+    "id": 131075,
+    "name": "Timi Jan",
+    "stateId": 1524,
+    "latitude": "34.69030000",
+    "longitude": "48.34140000"
+  },
+  {
+    "id": 131880,
+    "name": "Tonekābon",
+    "stateId": 2579,
+    "latitude": "36.81626000",
+    "longitude": "50.87376000"
+  },
+  {
+    "id": 132016,
+    "name": "Torbat-e Jām",
+    "stateId": 3595,
+    "latitude": "35.24400000",
+    "longitude": "60.62250000"
+  },
+  {
+    "id": 132017,
+    "name": "Torbat-e Ḩeydarīyeh",
+    "stateId": 3595,
+    "latitude": "35.27401000",
+    "longitude": "59.21949000"
+  },
+  {
+    "id": 132073,
+    "name": "Torkaman",
+    "stateId": 1403,
+    "latitude": "36.90000000",
+    "longitude": "54.16667000"
+  },
+  {
+    "id": 133508,
+    "name": "Tuchaqaz",
+    "stateId": 1524,
+    "latitude": "34.29970000",
+    "longitude": "48.71500000"
+  },
+  {
+    "id": 133648,
+    "name": "Tulki Tappeh",
+    "stateId": 1524,
+    "latitude": "35.49530000",
+    "longitude": "48.95780000"
+  },
+  {
+    "id": 133940,
+    "name": "Tusk-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.25000000",
+    "longitude": "48.99000000"
+  },
+  {
+    "id": 133950,
+    "name": "Tutal",
+    "stateId": 1524,
+    "latitude": "34.51500000",
+    "longitude": "49.02140000"
+  },
+  {
+    "id": 133996,
+    "name": "Tuyserkan",
+    "stateId": 1524,
+    "latitude": "34.54805556",
+    "longitude": "48.44666667"
+  },
+  {
+    "id": 134320,
+    "name": "Tākestān",
+    "stateId": 3528,
+    "latitude": "36.07057000",
+    "longitude": "49.69571000"
+  },
+  {
+    "id": 134323,
+    "name": "Tāybād",
+    "stateId": 3595,
+    "latitude": "34.74000000",
+    "longitude": "60.77560000"
+  },
+  {
+    "id": 134367,
+    "name": "Tīrān",
+    "stateId": 1700,
+    "latitude": "32.70260000",
+    "longitude": "51.15370000"
+  },
+  {
+    "id": 135772,
+    "name": "Vafr-e Jin",
+    "stateId": 1524,
+    "latitude": "34.81030000",
+    "longitude": "48.38420000"
+  },
+  {
+    "id": 135792,
+    "name": "Vahandeh",
+    "stateId": 1524,
+    "latitude": "35.50940000",
+    "longitude": "49.04750000"
+  },
+  {
+    "id": 135795,
+    "name": "Vahman",
+    "stateId": 1524,
+    "latitude": "34.26080000",
+    "longitude": "48.27080000"
+  },
+  {
+    "id": 135796,
+    "name": "Vahnan",
+    "stateId": 1524,
+    "latitude": "34.79000000",
+    "longitude": "48.28860000"
+  },
+  {
+    "id": 136200,
+    "name": "Vali Mohammad",
+    "stateId": 1524,
+    "latitude": "35.15190000",
+    "longitude": "48.38060000"
+  },
+  {
+    "id": 136201,
+    "name": "Vali Sir Ab",
+    "stateId": 1524,
+    "latitude": "34.23280000",
+    "longitude": "48.18940000"
+  },
+  {
+    "id": 136546,
+    "name": "Vandarabad",
+    "stateId": 1524,
+    "latitude": "34.66970000",
+    "longitude": "48.07890000"
+  },
+  {
+    "id": 136608,
+    "name": "Varayeneh",
+    "stateId": 1524,
+    "latitude": "34.07920000",
+    "longitude": "48.40560000"
+  },
+  {
+    "id": 136609,
+    "name": "Varazaneh",
+    "stateId": 1524,
+    "latitude": "34.18640000",
+    "longitude": "48.18610000"
+  },
+  {
+    "id": 136614,
+    "name": "Varchaq",
+    "stateId": 1524,
+    "latitude": "34.37170000",
+    "longitude": "48.89780000"
+  },
+  {
+    "id": 136620,
+    "name": "Vardavard-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.70030000",
+    "longitude": "48.29390000"
+  },
+  {
+    "id": 136621,
+    "name": "Vardavard-e Vosta",
+    "stateId": 1524,
+    "latitude": "34.70440000",
+    "longitude": "48.30170000"
+  },
+  {
+    "id": 136674,
+    "name": "Varkaneh",
+    "stateId": 1524,
+    "latitude": "34.67690000",
+    "longitude": "48.61920000"
+  },
+  {
+    "id": 136695,
+    "name": "Varqestan",
+    "stateId": 1524,
+    "latitude": "35.39640000",
+    "longitude": "49.00920000"
+  },
+  {
+    "id": 136710,
+    "name": "Varvazin",
+    "stateId": 1524,
+    "latitude": "35.36580000",
+    "longitude": "48.96060000"
+  },
+  {
+    "id": 136721,
+    "name": "Varāmīn",
+    "stateId": 4343,
+    "latitude": "35.32420000",
+    "longitude": "51.64570000"
+  },
+  {
+    "id": 136725,
+    "name": "Vasaj",
+    "stateId": 1524,
+    "latitude": "34.32060000",
+    "longitude": "48.22580000"
+  },
+  {
+    "id": 136734,
+    "name": "Vashur",
+    "stateId": 1524,
+    "latitude": "35.23170000",
+    "longitude": "48.35170000"
+  },
+  {
+    "id": 136751,
+    "name": "Vasleh",
+    "stateId": 1524,
+    "latitude": "35.21280000",
+    "longitude": "48.34640000"
+  },
+  {
+    "id": 136774,
+    "name": "Vasīān",
+    "stateId": 2354,
+    "latitude": "33.49083000",
+    "longitude": "48.04917000"
+  },
+  {
+    "id": 137564,
+    "name": "Vesht",
+    "stateId": 1524,
+    "latitude": "34.13860000",
+    "longitude": "48.46830000"
+  },
+  {
+    "id": 137640,
+    "name": "Vezendan",
+    "stateId": 1524,
+    "latitude": "34.95810000",
+    "longitude": "49.31250000"
+  },
+  {
+    "id": 144348,
+    "name": "Yalfan",
+    "stateId": 1524,
+    "latitude": "34.73640000",
+    "longitude": "48.61110000"
+  },
+  {
+    "id": 144529,
+    "name": "Yarom Qayah",
+    "stateId": 1524,
+    "latitude": "35.06890000",
+    "longitude": "49.38170000"
+  },
+  {
+    "id": 144530,
+    "name": "Yaromjeh Bagh",
+    "stateId": 1524,
+    "latitude": "35.51750000",
+    "longitude": "48.67640000"
+  },
+  {
+    "id": 144592,
+    "name": "Yasuj",
+    "stateId": 2033,
+    "latitude": "30.66824000",
+    "longitude": "51.58796000"
+  },
+  {
+    "id": 144649,
+    "name": "Yazd",
+    "stateId": 4785,
+    "latitude": "31.89722000",
+    "longitude": "54.36750000"
+  },
+  {
+    "id": 144687,
+    "name": "Yeganeh",
+    "stateId": 1524,
+    "latitude": "34.80720000",
+    "longitude": "48.63780000"
+  },
+  {
+    "id": 144701,
+    "name": "Yekanabad",
+    "stateId": 1524,
+    "latitude": "34.87360000",
+    "longitude": "48.45420000"
+  },
+  {
+    "id": 144707,
+    "name": "Yekleh",
+    "stateId": 1524,
+    "latitude": "34.87777800",
+    "longitude": "49.00666700"
+  },
+  {
+    "id": 144854,
+    "name": "Yeserlu",
+    "stateId": 1524,
+    "latitude": "35.06110000",
+    "longitude": "48.78360000"
+  },
+  {
+    "id": 145127,
+    "name": "Yunes",
+    "stateId": 1524,
+    "latitude": "34.15860000",
+    "longitude": "48.67330000"
+  },
+  {
+    "id": 145134,
+    "name": "Yunji",
+    "stateId": 1524,
+    "latitude": "34.35860000",
+    "longitude": "48.78170000"
+  },
+  {
+    "id": 145344,
+    "name": "Zagheh-ye Anuch",
+    "stateId": 1524,
+    "latitude": "34.14780000",
+    "longitude": "48.55420000"
+  },
+  {
+    "id": 145345,
+    "name": "Zagheh-ye Tasbandi",
+    "stateId": 1524,
+    "latitude": "34.60360000",
+    "longitude": "48.81110000"
+  },
+  {
+    "id": 145346,
+    "name": "Zaghlijeh",
+    "stateId": 1524,
+    "latitude": "35.15280000",
+    "longitude": "49.37580000"
+  },
+  {
+    "id": 145371,
+    "name": "Zahedan",
+    "stateId": 4039,
+    "latitude": "29.49630000",
+    "longitude": "60.86290000"
+  },
+  {
+    "id": 145454,
+    "name": "Zamanabad-e Mohammadabad",
+    "stateId": 1524,
+    "latitude": "34.41250000",
+    "longitude": "48.64220000"
+  },
+  {
+    "id": 145495,
+    "name": "Zangeneh-ye Sofla",
+    "stateId": 1524,
+    "latitude": "34.14670000",
+    "longitude": "49.01670000"
+  },
+  {
+    "id": 145500,
+    "name": "Zanjān",
+    "stateId": 4830,
+    "latitude": "36.67642000",
+    "longitude": "48.49628000"
+  },
+  {
+    "id": 145529,
+    "name": "Zapon",
+    "stateId": 1524,
+    "latitude": "34.38390000",
+    "longitude": "48.18940000"
+  },
+  {
+    "id": 145577,
+    "name": "Zaramin-e Sofla",
+    "stateId": 1524,
+    "latitude": "34.19360000",
+    "longitude": "48.30000000"
+  },
+  {
+    "id": 145578,
+    "name": "Zarand",
+    "stateId": 1945,
+    "latitude": "30.81271000",
+    "longitude": "56.56399000"
+  },
+  {
+    "id": 145612,
+    "name": "Zarrin Bagh",
+    "stateId": 1524,
+    "latitude": "34.29470000",
+    "longitude": "48.05190000"
+  },
+  {
+    "id": 145614,
+    "name": "Zarrīn Shahr",
+    "stateId": 1700,
+    "latitude": "32.38970000",
+    "longitude": "51.37660000"
+  },
+  {
+    "id": 145764,
+    "name": "Zehak",
+    "stateId": 4039,
+    "latitude": "30.86667000",
+    "longitude": "61.56667000"
+  },
+  {
+    "id": 145867,
+    "name": "Zeraq",
+    "stateId": 1524,
+    "latitude": "35.07140000",
+    "longitude": "49.16940000"
+  },
+  {
+    "id": 146080,
+    "name": "Ziabar (Gaskar)",
+    "stateId": 1380,
+    "latitude": "37.42610000",
+    "longitude": "49.24590000"
+  },
+  {
+    "id": 146164,
+    "name": "Zirabiyeh",
+    "stateId": 1524,
+    "latitude": "34.41330000",
+    "longitude": "48.61690000"
+  },
+  {
+    "id": 146585,
+    "name": "Zābol",
+    "stateId": 4039,
+    "latitude": "31.03060000",
+    "longitude": "61.49490000"
+  },
+  {
+    "id": 146697,
+    "name": "sedeyen-e Yek",
+    "stateId": 1973,
+    "latitude": "31.36205000",
+    "longitude": "48.81833000"
+  },
+  {
+    "id": 147225,
+    "name": "Ābdānān",
+    "stateId": 1659,
+    "latitude": "32.99260000",
+    "longitude": "47.41980000"
+  },
+  {
+    "id": 147226,
+    "name": "Ābyek",
+    "stateId": 2525,
+    "latitude": "36.06667000",
+    "longitude": "50.55000000"
+  },
+  {
+    "id": 147227,
+    "name": "Ābādeh",
+    "stateId": 1268,
+    "latitude": "31.16080000",
+    "longitude": "52.65060000"
+  },
+  {
+    "id": 147233,
+    "name": "Āmol",
+    "stateId": 2579,
+    "latitude": "36.46961000",
+    "longitude": "52.35072000"
+  },
+  {
+    "id": 147234,
+    "name": "Āq Qāyeh",
+    "stateId": 1403,
+    "latitude": "37.27472000",
+    "longitude": "55.15889000"
+  },
+  {
+    "id": 147241,
+    "name": "Āstāneh-ye Ashrafīyeh",
+    "stateId": 1380,
+    "latitude": "37.26318000",
+    "longitude": "49.94325000"
+  },
+  {
+    "id": 147242,
+    "name": "Āstārā",
+    "stateId": 1380,
+    "latitude": "38.42910000",
+    "longitude": "48.87200000"
+  },
+  {
+    "id": 147244,
+    "name": "Āzādshahr",
+    "stateId": 1403,
+    "latitude": "37.08641000",
+    "longitude": "55.17222000"
+  },
+  {
+    "id": 147334,
+    "name": "Īlām",
+    "stateId": 1659,
+    "latitude": "33.63740000",
+    "longitude": "46.42270000"
+  },
+  {
+    "id": 147335,
+    "name": "Īstgāh-e Rāh Āhan-e Garmsār",
+    "stateId": 3945,
+    "latitude": "35.23455000",
+    "longitude": "52.30942000"
+  },
+  {
+    "id": 147797,
+    "name": "Ţāleb ābād",
+    "stateId": 4343,
+    "latitude": "35.50130000",
+    "longitude": "51.53147000"
+  },
+  {
+    "id": 147991,
+    "name": "‘Ajab Shīr",
+    "stateId": 1158,
+    "latitude": "37.47760000",
+    "longitude": "45.89430000"
+  }
+]

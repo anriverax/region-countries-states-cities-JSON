@@ -1,0 +1,37 @@
+[
+  {
+    "id": 21851,
+    "name": "Cantagalo District",
+    "stateId": 4249,
+    "latitude": "0.21667000",
+    "longitude": "6.70000000"
+  },
+  {
+    "id": 23950,
+    "name": "Caué District",
+    "stateId": 4249,
+    "latitude": "0.13415000",
+    "longitude": "6.63825000"
+  },
+  {
+    "id": 117690,
+    "name": "Santo António",
+    "stateId": 3486,
+    "latitude": "1.63943000",
+    "longitude": "7.41951000"
+  },
+  {
+    "id": 127621,
+    "name": "São Tomé",
+    "stateId": 4249,
+    "latitude": "0.33654000",
+    "longitude": "6.72732000"
+  },
+  {
+    "id": 132996,
+    "name": "Trindade",
+    "stateId": 4249,
+    "latitude": "0.29667000",
+    "longitude": "6.68139000"
+  }
+]
