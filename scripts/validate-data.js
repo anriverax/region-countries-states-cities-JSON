@@ -140,7 +140,6 @@ if (!fs.existsSync(CITIES_DIR)) {
 
 	function getCityStateId(city) {
 		if (city.stateId !== undefined && city.stateId !== null) return city.stateId;
-		if (city.state_id !== undefined && city.state_id !== null) return city.state_id;
 		return undefined;
 	}
 
