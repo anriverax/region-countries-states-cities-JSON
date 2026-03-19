@@ -40,7 +40,33 @@ export interface Country {
   maps?: Record<string, string>;
   coatOfArms?: ImageAsset;
   /** ISO 4217 currency code, e.g. "USD", "EUR" */
-  currency?: string;
+  currency: string;
+  /** Full name of the currency, e.g. "United States dollar" */
+  currency_name: string;
+  /** Currency symbol, e.g. "$", "€" */
+  currency_symbol: string;
+  /** Native name of the country in its own language */
+  native: string | null;
+  /** Country population */
+  population: number;
+  /** GDP in millions USD */
+  gdp: number | null;
+  /** Region name, e.g. "Asia", "Europe" */
+  region: string;
+  /** Region numeric ID */
+  region_id: number;
+  /** Sub-region name, e.g. "Southern Asia" */
+  subregion: string;
+  /** Demonym / nationality adjective, e.g. "Afghan", "American" */
+  nationality: string;
+  /** Area in square kilometres */
+  area_sq_km: number | null;
+  /** Postal code format pattern (# = digit), e.g. "#####" */
+  postal_code_format: string | null;
+  /** Postal code validation regex */
+  postal_code_regex: string | null;
   /** Country name translated into other languages */
-  translations?: Translations;
+  translations: Translations;
+  /** Wikidata entity ID, e.g. "Q889" */
+  wikiDataId: string | null;
 }
