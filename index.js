@@ -244,26 +244,26 @@ function getCountryByIso3(iso3) {
 
 /**
  * Returns the state that matches the given combined country-state code.
- * The code must follow the format "<countryIso2>-<stateCode>" (e.g. "US-CA", "MX-JAL").
+ * The code must follow the format "<countryIso2>-<stateIso2>" (e.g. "US-CA", "MX-JAL").
  *
  * @param {string} code - Combined code in the format "COUNTRY-STATE" (e.g. "US-CA").
  * @returns {object|null} The state object, or null if not found.
  *
  * @example
  * const state = getStateByCode("US-CA");
- * // { id, name, countryId, stateCode, latitude, longitude }
+ * // { id, name, countryId, iso2, latitude, longitude, timezone, translations }
  */
 function getStateByCode(code) {
   if (!code || typeof code !== 'string') return null;
   const dashIndex = code.indexOf('-');
   if (dashIndex === -1) return null;
   const countryIso2 = code.slice(0, dashIndex).toUpperCase();
-  const stateCode = code.slice(dashIndex + 1).toUpperCase();
-  if (!countryIso2 || !stateCode) return null;
+  const stateIso2 = code.slice(dashIndex + 1).toUpperCase();
+  if (!countryIso2 || !stateIso2) return null;
   const country = getCountryByIso2(countryIso2);
   if (!country) return null;
   const states = getStates();
-  return states.find((s) => s.countryId === country.id && s.stateCode === stateCode) || null;
+  return states.find((s) => s.countryId === country.id && s.iso2 === stateIso2) || null;
 }
 
 /**
@@ -294,7 +294,7 @@ function getStatesOfCountry(iso2) {
  *
  * @example
  * const states = getStatesOfCountryById(101);
- * // [{ id, name, countryId, stateCode, latitude, longitude }, …]
+ * // [{ id, name, countryId, iso2, latitude, longitude, timezone, translations }, …]
  */
 function getStatesOfCountryById(countryId) {
   if (countryId == null || typeof countryId !== 'number') return [];

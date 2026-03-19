@@ -121,7 +121,7 @@ Returns the full list of states / provinces / territories.
 
 ```js
 const states = getStates();
-// [{ id, name, countryId, stateCode, latitude, longitude }, …]
+// [{ id, name, countryId, iso2, latitude, longitude, timezone, translations }, …]
 console.log(states.length); // ~5000
 ```
 
@@ -234,15 +234,15 @@ const frenchCountries = getCountriesByLanguage('French');
 
 #### `getStateByCode(code)`
 
-Returns the state matching the given combined `"<countryIso2>-<stateCode>"` code, or `null` if not found.
+Returns the state matching the given combined `"<countryIso2>-<stateIso2>"` code, or `null` if not found.
 
 ```js
 const state = getStateByCode('US-CA');
-// { id: 1416, name: "California", countryId: 235, stateCode: "CA",
-//   latitude: "36.77826100", longitude: "-119.41793200" }
+// { id: 681, name: "California", countryId: 235, iso2: "CA",
+//   latitude: "36.77826100", longitude: "-119.41793240", timezone: "America/Los_Angeles", translations: { … } }
 
 const jalisco = getStateByCode('MX-JAL');
-// { id, name: "Jalisco", countryId, stateCode: "JAL", latitude, longitude }
+// { id, name: "Jalisco", countryId, iso2: "JAL", latitude, longitude, timezone, translations }
 ```
 
 #### `getStatesOfCountry(iso2)`
@@ -251,7 +251,7 @@ Returns all states/provinces for a given country ISO2 code.
 
 ```js
 const states = getStatesOfCountry('US');
-// [{ id, name, countryId, stateCode, latitude, longitude }, …]  (~50 entries)
+// [{ id, name, countryId, iso2, latitude, longitude, timezone, translations }, …]  (~50 entries)
 
 const svStates = getStatesOfCountry('SV');
 // All departments of El Salvador
@@ -263,7 +263,7 @@ Returns all states/provinces for a given numeric country ID.
 
 ```js
 const states = getStatesOfCountryById(101);
-// [{ id, name, countryId, stateCode, latitude, longitude }, …]
+// [{ id, name, countryId, iso2, latitude, longitude, timezone, translations }, …]
 ```
 
 #### `getCitiesOfCountry(iso2)`
@@ -437,9 +437,11 @@ Country names can optionally include translations keyed by ISO 639-1 language co
 | `id` | `number` | `1416` |
 | `name` | `string` | `"California"` |
 | `countryId` | `number` | `235` |
-| `stateCode` | `string` | `"CA"` |
+| `iso2` | `string` | `"CA"` |
 | `latitude` | `string` | `"36.77826100"` |
-| `longitude` | `string` | `"-119.41793200"` |
+| `longitude` | `string` | `"-119.41793240"` |
+| `timezone` | `string \| null` | `"America/Los_Angeles"` |
+| `translations` | `object` | `{ "es": "California", "fr": "Californie", … }` |
 
 ### City properties
 
